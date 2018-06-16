@@ -1,0 +1,3 @@
+>:FOREACH list:<
+import >:[0]:<  = configs.>:[0]:< ;
+>:ENDFOREACH:<

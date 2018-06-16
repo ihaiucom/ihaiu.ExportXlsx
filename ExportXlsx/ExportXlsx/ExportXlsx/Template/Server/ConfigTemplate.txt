@@ -1,0 +1,9 @@
+namespace configs
+{
+	export class >:classNameConfig:<
+	{
+		>:FOREACH fields:<
+		>:[0]:< : >:[1]:<;
+		>:ENDFOREACH:<
+	}
+}

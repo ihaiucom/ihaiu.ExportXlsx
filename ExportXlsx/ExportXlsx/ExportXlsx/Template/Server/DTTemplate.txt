@@ -1,0 +1,7 @@
+interface >:classNameConfig:<
+{
+
+	>:FOREACH fields:<
+	>:[0]:< : >:[1]:<;
+	>:ENDFOREACH:<
+}

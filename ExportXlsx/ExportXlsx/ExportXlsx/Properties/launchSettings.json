@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExportXlsx": {
+      "commandName": "Project",
+      "commandLineArgs": "--xlsxDir=../../../Example/Config/Common;../../../Example/Config/Client --outDir=../../../Example/ConfigOut --settingXlsx=../../../Example/Config/ExportSetting.xlsx --settingStructSheet=StructSheet --templateDir=../../../Template"
+    }
+  }
+}

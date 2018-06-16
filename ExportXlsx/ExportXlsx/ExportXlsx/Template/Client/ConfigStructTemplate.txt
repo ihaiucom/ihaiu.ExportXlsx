@@ -1,0 +1,18 @@
+namespace configs
+{
+	export class >:classNameConfigStruct:< extends BaseConfig
+	{
+
+		>:FOREACH fields:<
+		>:[0]:< : >:[1]:<;
+		>:ENDFOREACH:<
+
+
+		>:parse:< 
+
+
+		>:parseArray:< 
+	}
+
+
+}
