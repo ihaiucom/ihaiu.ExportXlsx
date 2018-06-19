@@ -1,0 +1,11 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com
+/////////////////////////////////////
+
+interface DTVector2
+{
+
+	x : number;
+	y : number;
+}

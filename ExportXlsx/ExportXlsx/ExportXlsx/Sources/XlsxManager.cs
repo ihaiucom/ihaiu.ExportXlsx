@@ -10,6 +10,8 @@ namespace ExportXlsx.Sources
         public Dictionary<string, TableReader> tables = new Dictionary<string, TableReader>();
         public Dictionary<string, DataStruct> dataStructs = new Dictionary<string, DataStruct>();
 
+        public TableReader ignaoreTable = new TableReader();
+        public List<string> ignaoreTableList = new List<string>();
         public TableReader structTable = new TableReader();
 
         public DataStruct GetDataStruct(string name)
@@ -19,6 +21,39 @@ namespace ExportXlsx.Sources
                 return dataStructs[name];
             }
             return null;
+        }
+
+        public void LoadIgnore()
+        {
+            ignaoreTable.path = Setting.Options.exportSettingXlsx;
+            ignaoreTable.sheetName = Setting.Options.settingIgnoreSheet;
+            ignaoreTable.Load();
+
+            foreach (Dictionary<string, string> rowData in ignaoreTable.dataList)
+            {
+                string tableName = rowData["tableName"].ToLower().Replace("\\", "/");
+                if (!tableName.EndsWith(".xlsx"))
+                {
+                    tableName += ".xlsx";
+                }
+
+                ignaoreTableList.Add(tableName);
+            }
+        }
+
+        public bool IsIgnore(string path)
+        {
+            path = path.Replace("\\", "/").ToLower();
+            bool result = false;
+            foreach(string name in ignaoreTableList)
+            {
+                if(path.EndsWith(name))
+                {
+                    result = true;
+                    break;
+                }
+            }
+            return result;
         }
 
         public void LoadDTStructs()
@@ -81,6 +116,9 @@ namespace ExportXlsx.Sources
             for(int i = 0; i < fileList.Count; i ++)
             {
                 string path = fileList[i].Trim();
+                if (IsIgnore(path))
+                    continue;
+
                 TableReader tableReader = new TableReader();
                 tableReader.path = path;
                 tableReader.Load();

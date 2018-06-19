@@ -1,0 +1,11 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com
+/////////////////////////////////////
+
+interface DTStoryNum
+{
+
+	star : number;
+	num : number;
+}

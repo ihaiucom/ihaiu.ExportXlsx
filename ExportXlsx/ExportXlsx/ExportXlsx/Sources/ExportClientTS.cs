@@ -230,7 +230,6 @@ namespace ExportXlsx.Sources
                     return $"csvGetBoolean(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
             }
 
-            typeName = dataField.GetTsTypeName();
             
 
 
@@ -246,7 +245,8 @@ namespace ExportXlsx.Sources
                     return $" toBooleanArray(       csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )   )";
             }
 
-            if(typeName.EndsWith("[]"))
+            typeName = dataField.GetTsTypeName();
+            if (typeName.EndsWith("[]"))
             {
                 typeName = typeName.Replace("[]", "");
                 return $" {typeName}.parseArray(       csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )   )";

@@ -18,6 +18,7 @@ namespace ExportXlsx.Sources
 
             XlsxManager xlsxManager = new XlsxManager();
             xlsxManager.LoadDTStructs();
+            xlsxManager.LoadIgnore();
             xlsxManager.LoadAllTable();
             xlsxManager.ExportTsAll();
             xlsxManager.ExportCsvs();

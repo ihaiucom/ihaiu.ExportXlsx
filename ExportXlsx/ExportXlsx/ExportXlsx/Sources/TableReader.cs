@@ -80,7 +80,7 @@ namespace ExportXlsx.Sources
 
                     if (ws.GetValue(2, i) == null)
                     {
-                        Log.Error($" path:{path}, sheetName:{sheetName}， 是空单元格 cn行{i}列  ");
+                        Log.Error($" path:{path}, sheetName:{sheetName}， 是空单元格 2行{i}列  ");
                         continue;
                     }
 
@@ -91,9 +91,9 @@ namespace ExportXlsx.Sources
                     }
 
 
-                    string type = ws.GetValue(1, i).ToString().Trim();
-                    string cn = ws.GetValue(2, i).ToString().Trim();
-                    string en = ws.GetValue(3, i).ToString().Trim();
+                    string type = ws.GetValue(Setting.Options.xlsxHeadTypeLine, i).ToString().Trim();
+                    string cn = ws.GetValue(Setting.Options.xlsxHeadCnLine, i).ToString().Trim();
+                    string en = ws.GetValue(Setting.Options.xlsxHeadFieldLine, i).ToString().Trim();
 
                     if (string.IsNullOrEmpty(type))
                     {

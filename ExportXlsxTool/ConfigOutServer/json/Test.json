@@ -1,0 +1,90 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "赵钱",
+    "age": 30,
+    "intArray": [
+      1,
+      2,
+      3
+    ],
+    "coin": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "items": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1003,
+        "itemNum": 23
+      },
+      {
+        "itemId": 1009,
+        "itemNum": 29
+      }
+    ],
+    "position": {
+      "x": 100.0,
+      "y": 105.0
+    },
+    "story": {
+      "star": 1,
+      "num": 3
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "孙李",
+    "age": 20,
+    "intArray": [
+      4,
+      5,
+      6
+    ],
+    "coin": {
+      "itemId": 1002,
+      "itemNum": 324
+    },
+    "items": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      }
+    ],
+    "position": {
+      "x": 200.0,
+      "y": 105.0
+    },
+    "story": {
+      "star": 4,
+      "num": 2
+    }
+  },
+  "3": {
+    "id": 3,
+    "name": "周吴,\"Abc\",Def,Hello 'World'",
+    "age": 50,
+    "intArray": [
+      101,
+      2,
+      33,
+      99
+    ],
+    "coin": {
+      "itemId": 1003,
+      "itemNum": 999
+    },
+    "items": [],
+    "position": {
+      "x": 200.0,
+      "y": 106.0
+    },
+    "story": {
+      "star": 100,
+      "num": 5
+    }
+  }
+}

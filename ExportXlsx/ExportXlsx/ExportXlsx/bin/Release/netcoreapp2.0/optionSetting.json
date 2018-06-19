@@ -5,8 +5,12 @@
   "outDir": "../../../Example/ConfigOut",
   "exportSettingXlsx": "../../../Example/Config/ExportSetting.xlsx",
   "settingStructSheet": "StructSheet",
+  "settingIgnoreSheet": "IgnoreSheet",
   "templateDir": "../../../Template",
   "csvSeparator": "\t",
   "csvSeparatorReplace": "",
-  "csvLineSeparatorReplace": "|n|"
+  "csvLineSeparatorReplace": "|n|",
+  "xlsxHeadTypeLine": 1,
+  "xlsxHeadCnLine": 2,
+  "xlsxHeadFieldLine": 3
 }

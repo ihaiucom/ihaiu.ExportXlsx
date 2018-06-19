@@ -1,0 +1,20 @@
+﻿{
+  "1000": {
+    "id": 1000,
+    "name": "测试",
+    "city_num": 40,
+    "icon": "ImageSprites/Icon/country_101",
+    "reward": "1000:22;1003:10",
+    "pre_id": 0,
+    "next_country": 102
+  },
+  "101": {
+    "id": 101,
+    "name": "America",
+    "city_num": 40,
+    "icon": "ImageSprites/Icon/country_101",
+    "reward": "1000:22;1003:10",
+    "pre_id": 0,
+    "next_country": 102
+  }
+}
