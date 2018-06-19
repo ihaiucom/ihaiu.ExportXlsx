@@ -11,3 +11,4 @@ E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\n
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\netcoreapp2.0\ExportXlsx.csproj.CopyComplete
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\netcoreapp2.0\ExportXlsx.dll
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\netcoreapp2.0\ExportXlsx.pdb
+E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\netcoreapp2.0\ExportXlsx.csprojResolveAssemblyReference.cache

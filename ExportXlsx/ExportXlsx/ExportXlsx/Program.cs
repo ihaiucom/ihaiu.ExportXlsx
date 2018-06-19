@@ -11,16 +11,22 @@ namespace ExportXlsx.Sources
             //注册EncodeProvider
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
+
             Setting.Init(args);
+
+
 
             XlsxManager xlsxManager = new XlsxManager();
             xlsxManager.LoadDTStructs();
             xlsxManager.LoadAllTable();
             xlsxManager.ExportTsAll();
+            xlsxManager.ExportCsvs();
+            xlsxManager.ExportJsons();
 
             Console.WriteLine("完成!");
 
-            Console.Read();
+            if(!Setting.Options.autoEnd)
+                Console.Read();
         }
     }
 }

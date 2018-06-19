@@ -1,0 +1,34 @@
+{
+  "enableoverwrites": [
+  	{
+  		"src":"../ConfigOut/csv", 
+  		"dst":"../ConfigOutClient/csv"
+  	},
+  	{
+  		"src":"../ConfigOut/Client/Config/ConfigIncludes.ts", 
+  		"dst":"../ConfigOutClient/Client/Config/ConfigIncludes.ts"
+  	},
+  	{
+  		"src":"../ConfigOut/Client/Config/ConfigManagerList.ts", 
+  		"dst":"../ConfigOutClient/Client/Config/ConfigManagerList.ts"
+  	},
+  	{
+  		"src":"../ConfigOut/Client/Config/ConfigStructs", 
+  		"dst":"../ConfigOutClient/Client/Config/ConfigStructs"
+  	},
+  	{
+  		"src":"../ConfigOut/Client/Config/ReaderStructs", 
+  		"dst":"../ConfigOutClient/Client/Config/ReaderStructs"
+  	}
+  ],
+  "disableoverwrites": [
+  	{
+  		"src":"../ConfigOut/Client/Config/ConfigExtends", 
+  		"dst":"../ConfigOutClient/Client/Config/ConfigExtends"
+  	},
+  	{
+  		"src":"../ConfigOut/Client/Config/ReaderExtends", 
+  		"dst":"../ConfigOutClient/Client/Config/ReaderExtends"
+  	}
+  ]
+}

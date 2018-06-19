@@ -1,0 +1,12 @@
+{
+  "autoEnd": true,
+  "optionSetting": "./optionSetting.json",
+  "xlsxDir": "../../../Example/Config/Common;../../../Example/Config/Client",
+  "outDir": "../../../Example/ConfigOut",
+  "exportSettingXlsx": "../../../Example/Config/ExportSetting.xlsx",
+  "settingStructSheet": "StructSheet",
+  "templateDir": "../../../Template",
+  "csvSeparator": "\t",
+  "csvSeparatorReplace": "",
+  "csvLineSeparatorReplace": "|n|"
+}

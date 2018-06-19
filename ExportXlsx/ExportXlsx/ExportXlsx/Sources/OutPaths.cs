@@ -44,7 +44,7 @@ namespace ExportXlsx.Sources
             {
                 get
                 {
-                    return Setting.Options.outDir + "/Client/Config/ConfigIncludes.ts";
+                    return Setting.Options.outDir + "/Client/Config/ConfigManagerList.ts";
                 }
             }
 
@@ -52,7 +52,7 @@ namespace ExportXlsx.Sources
             {
                 get
                 {
-                    return Setting.Options.outDir + "/Client/Config/ConfigManagerList.ts";
+                    return Setting.Options.outDir + "/Client/Config/ConfigIncludes.ts";
                 }
             }
         }

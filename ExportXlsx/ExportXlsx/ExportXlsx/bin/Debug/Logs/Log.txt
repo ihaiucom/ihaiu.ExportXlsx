@@ -2,3 +2,6 @@
 2018-06-15 23:29:21.1977   (TableReader.cs:64) 没有找到sheet path:../../../../Example/Config/ExportSetting.xlsx, sheetName:StructSheet
 2018-06-15 23:44:53.5510   (TableReader.cs:65) 没有找到sheet path:./abc.xlsx, sheetName:StructSheet
 2018-06-15 23:44:53.6590   (TableReader.cs:65) 没有找到sheet path:./abc.xlsx, sheetName:
+2018-06-19 15:08:59.0787   (Program.cs:15) 5
+2018-06-19 15:16:38.0910   (TableReader.cs:64) 没有找到sheet path:../Configs/ExportSetting.xlsx, sheetName:StructSheet
+2018-06-19 15:43:15.7453   (TableReader.cs:89)  path:../../../Example/Config/Common\BuildProperty.xlsx, sheetName:， 是空单元格 3行2列  

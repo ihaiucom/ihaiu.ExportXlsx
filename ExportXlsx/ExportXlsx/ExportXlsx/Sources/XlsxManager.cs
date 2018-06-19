@@ -12,9 +12,18 @@ namespace ExportXlsx.Sources
 
         public TableReader structTable = new TableReader();
 
+        public DataStruct GetDataStruct(string name)
+        {
+            if(dataStructs.ContainsKey(name))
+            {
+                return dataStructs[name];
+            }
+            return null;
+        }
+
         public void LoadDTStructs()
         {
-            structTable.path = Setting.Options.settingXlsx;
+            structTable.path = Setting.Options.exportSettingXlsx;
             structTable.sheetName = Setting.Options.settingStructSheet;
             structTable.Load();
 
@@ -114,6 +123,22 @@ namespace ExportXlsx.Sources
                 list.Add(item);
             }
 
+        }
+
+        public void ExportCsvs()
+        {
+            foreach(var kvp in tables)
+            {
+                ExportCsv.Export(kvp.Value);
+            }
+        }
+
+        public void ExportJsons()
+        {
+            foreach (var kvp in tables)
+            {
+                ExportJson.Export(kvp.Value, this);
+            }
         }
     }
 }

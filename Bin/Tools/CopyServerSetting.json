@@ -1,0 +1,15 @@
+{
+  "enableoverwrites": [
+  	{
+  		"src":"../ConfigOut/json", 
+  		"dst":"../ConfigOutServer/json"
+  	},
+  	{
+  		"src":"../ConfigOut/Server/Config", 
+  		"dst":"../ConfigOutServer/Config"
+  	}
+  ],
+  "disableoverwrites": [
+  	
+  ]
+}

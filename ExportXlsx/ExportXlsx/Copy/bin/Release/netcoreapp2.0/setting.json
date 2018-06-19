@@ -1,0 +1,38 @@
+{
+  "enableoverwrites": [
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/csv", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/csv"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/json", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/json"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ConfigIncludes.ts", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ConfigIncludes.ts"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ConfigManagerList.ts", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ConfigManagerList.ts"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ConfigStructs", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ConfigStructs"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ReaderStructs", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ReaderStructs"
+  	}
+  ],
+  "disableoverwrites": [
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ConfigExtends", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ConfigExtends"
+  	},
+  	{
+  		"src":"../../../../ExportXlsx/Example/ConfigOut/Client/Config/ReaderExtends", 
+  		"dst":"../../../../ExportXlsx/Example/ConfigOut2/Client/Config/ReaderExtends"
+  	}
+  ]
+}

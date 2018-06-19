@@ -19,7 +19,7 @@ namespace ExportXlsx.Sources
         public void Export()
         {
             tableName = dataStruct.name;
-            fieldName = dataStruct.name.FirstCharToLower();
+            fieldName = dataStruct.name.FirstLower();
 
             isDT = dataStruct.name.StartsWith("DT");
             if (isDT)

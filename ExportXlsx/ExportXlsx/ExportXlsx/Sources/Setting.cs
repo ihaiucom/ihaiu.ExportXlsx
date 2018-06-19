@@ -1,5 +1,6 @@
 ﻿using CommandLine;
 using System;
+using System.IO;
 
 namespace ExportXlsx.Sources
 {
@@ -9,11 +10,56 @@ namespace ExportXlsx.Sources
 
         public static void Init(string[] args)
         {
+            bool useSetting = args.Length == 0;
+            foreach (string op in args)
+            {
+                if (op.StartsWith("--optionSetting"))
+                {
+                    useSetting = true;
+                    break;
+                }
+            }
+
+            Parse(args);
+
+            if(!File.Exists(Options.optionSetting))
+            {
+                Options.Save(Options.optionSetting);
+            }
+
+            if(useSetting)
+            {
+                Options = Options.Load(Options.optionSetting);
+            }
+        }
+
+
+        public static void Parse(string[] args)
+        {
             Parser.Default.ParseArguments<Options>(args)
                 .WithNotParsed(error => throw new Exception($"命令行格式错误!"))
-                .WithParsed(options => {
+                .WithParsed(options =>
+                {
                     Options = options;
                 });
         }
+
+
+        public static string CsvRoot
+        {
+            get
+            {
+                return Options.outDir + "/csv";
+            }
+        }
+
+        public static string JsonRoot
+        {
+            get
+            {
+                return Options.outDir + "/json";
+            }
+        }
+
     }
 }

@@ -31,7 +31,7 @@ namespace ExportXlsx.Sources
         {
             if(string.IsNullOrEmpty(tableName))
             {
-                tableName = Path.GetFileNameWithoutExtension(path).FirstCharToUpper();
+                tableName = Path.GetFileNameWithoutExtension(path).FirstUpper();
             }
             dataStruct.name = tableName;
 
@@ -70,12 +70,26 @@ namespace ExportXlsx.Sources
                     Log.Error($" path:{path}, sheetName:{sheetName}， rows:{ws.Cells.Rows}, 行数小于3行， 必须要有(type, cn, field)");
                     return;
                 }
-                
+
+                int columnNum = 0;
                 for(int i = 1; i < ws.Cells.Columns; i ++ )
                 {
 
                     if (ws.Cells[1, i].Value == null)
                         break;
+
+                    if (ws.GetValue(2, i) == null)
+                    {
+                        Log.Error($" path:{path}, sheetName:{sheetName}， 是空单元格 cn行{i}列  ");
+                        continue;
+                    }
+
+                    if (ws.GetValue(3, i) == null)
+                    {
+                        Log.Error($" path:{path}, sheetName:{sheetName}， 是空单元格 3行{i}列  ");
+                        continue;
+                    }
+
 
                     string type = ws.GetValue(1, i).ToString().Trim();
                     string cn = ws.GetValue(2, i).ToString().Trim();
@@ -100,6 +114,7 @@ namespace ExportXlsx.Sources
                     field.index = i;
                     dataStruct.fields.Add(field);
                     fieldDictByIndex.Add(i, field);
+                    columnNum = i;
                 }
 
                 for(int r = 4; r < ws.Cells.Rows; r ++)
@@ -109,15 +124,17 @@ namespace ExportXlsx.Sources
                         break;
 
                     Dictionary<string, string> rowData = new Dictionary<string, string>();
-                    for (int c = 1; c < ws.Cells.Columns; c ++)
+                    for (int c = 1; c <= columnNum; c ++)
                     {
+                        string value = string.Empty;
 
-                        if (ws.Cells[r, c].Value == null)
-                            break;
+                        if (ws.Cells[r, c].Value != null)
+                        {
+                            value = ws.GetValue(r, c).ToString().Trim();
+                        }
 
                         if (fieldDictByIndex.ContainsKey(c))
                         {
-                            string value = ws.GetValue(r, c).ToString().Trim();
                             rowData.Add(fieldDictByIndex[c].field, value);
                         }
                     }
