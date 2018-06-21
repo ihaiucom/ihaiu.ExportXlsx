@@ -5,7 +5,9 @@
 
 namespace configs
 {
-	export class DTStoryNum extends DTStoryNumStruct
+	export class DTBlockWords
 	{
+		id : number;
+		text : string;
 	}
 }

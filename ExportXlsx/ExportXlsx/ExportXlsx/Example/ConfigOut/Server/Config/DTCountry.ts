@@ -5,16 +5,14 @@
 
 namespace configs
 {
-	export class BlockWordsConfigStruct extends BaseConfig
+	export class DTCountry
 	{
-
 		id : number;
-		text : string;
-
-
-
-
+		name : string;
+		city_num : number;
+		icon : string;
+		reward : array;
+		pre_id : number;
+		next_country : number;
 	}
-
-
 }

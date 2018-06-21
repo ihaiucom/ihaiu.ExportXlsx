@@ -36,7 +36,7 @@ namespace ExportXlsx.Sources
             string jsonData = JsonMapper.ToJson(jd).ConvertJsonString();
 
 
-            string path = Setting.JsonRoot + "/" + table.tableName + ".json";
+            string path = Setting.JsonRoot + "/" + string.Format(Setting.Options.jsonNameFormat, table.tableName);
             PathHelper.CheckPath(path);
             File.WriteAllText(path, jsonData, Encoding.UTF8);
         }

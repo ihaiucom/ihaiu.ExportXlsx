@@ -11,6 +11,7 @@ namespace ExportXlsx.Sources
         public string name;
         public string cn;
         public List<DataField> fields = new List<DataField>();
+        public bool isExtend = false;
 
 
 

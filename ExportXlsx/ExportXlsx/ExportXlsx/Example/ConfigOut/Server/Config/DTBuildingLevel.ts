@@ -5,7 +5,7 @@
 
 namespace configs
 {
-	export class BuildingLevelConfig
+	export class DTBuildingLevel
 	{
 		id : number;
 		name : string;

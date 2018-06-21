@@ -12,5 +12,7 @@
   "csvLineSeparatorReplace": "|n|",
   "xlsxHeadTypeLine": 1,
   "xlsxHeadCnLine": 2,
-  "xlsxHeadFieldLine": 3
+  "xlsxHeadFieldLine": 3,
+  "jsonNameFormat": "DT{0}.json",
+  "serverTsClassNameFormat": "DT{0}",
 }

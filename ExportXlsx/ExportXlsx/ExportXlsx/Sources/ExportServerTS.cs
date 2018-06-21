@@ -11,7 +11,7 @@ namespace ExportXlsx.Sources
 
         public DataStruct dataStruct;
 
-        public bool isDT = false;
+        public bool isExtend = false;
         public string fieldName;
         public string tableName;
         public string classNameConfig;
@@ -21,17 +21,17 @@ namespace ExportXlsx.Sources
             tableName = dataStruct.name;
             fieldName = dataStruct.name.FirstLower();
 
-            isDT = dataStruct.name.StartsWith("DT");
-            if (isDT)
+            isExtend = dataStruct.isExtend;
+            if (isExtend)
             {
                 classNameConfig = dataStruct.name;
             }
             else
             {
-                classNameConfig = dataStruct.name + "Config";
+                classNameConfig = string.Format(Setting.Options.serverTsClassNameFormat, dataStruct.name);
             }
 
-            if(isDT)
+            if(isExtend)
             {
                 ExportDT();
             }

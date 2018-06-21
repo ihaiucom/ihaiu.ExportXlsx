@@ -10,7 +10,7 @@ namespace ExportXlsx.Sources
     {
         public DataStruct dataStruct;
 
-        public bool isDT = false;
+        public bool isExtend = false;
         public string fieldName;
         public string tableName;
         public string classNameConfig;
@@ -24,8 +24,8 @@ namespace ExportXlsx.Sources
             tableName = dataStruct.name;
             fieldName = dataStruct.name.FirstLower();
 
-            isDT = dataStruct.name.StartsWith("DT");
-            if (isDT)
+            isExtend = dataStruct.isExtend;
+            if (isExtend)
             {
                 classNameConfig = dataStruct.name;
                 classNameConfigStruct = dataStruct.name + "Struct";
@@ -42,7 +42,7 @@ namespace ExportXlsx.Sources
             ExportConfigStruct();
             ExportConfig();
 
-            if(!isDT)
+            if(!isExtend)
             {
                 ExportConfigReaderStruct();
                 ExportConfigReader();
@@ -65,7 +65,7 @@ namespace ExportXlsx.Sources
             string parse = "";
             string parseArray = "";
 
-            if(isDT)
+            if(isExtend)
             {
                 StringWriter sw = new StringWriter() ;
                 sw.WriteLine($"  static parse(txt: string): {classNameConfig} ");
@@ -200,7 +200,7 @@ namespace ExportXlsx.Sources
             List<object[]> lines = new List<object[]>();
             foreach (ExportClientTS item in list)
             {
-                if (item.isDT)
+                if (item.isExtend)
                     continue;
 
                 lines.Add(new object[] { item.fieldName, item.classNameConfigReader });

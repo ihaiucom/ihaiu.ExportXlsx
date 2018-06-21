@@ -64,6 +64,14 @@ namespace ExportXlsx.Sources
         [Option("xlsxHeadFieldLine", Required = false, Default = 3)]
         public int xlsxHeadFieldLine { get; set; }
 
+        // josn文件命名格式
+        [Option("jsonNameFormat", Required = false, Default = "DT{0}.json")]
+        public string jsonNameFormat { get; set; }
+
+        // 服务器TS类命名格式
+        [Option("serverTsClassNameFormat", Required = false, Default = "DT{0}")]
+        public string serverTsClassNameFormat { get; set; }
+
 
         public void Save(string path = null)
         {

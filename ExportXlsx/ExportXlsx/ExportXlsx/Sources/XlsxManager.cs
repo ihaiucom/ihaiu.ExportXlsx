@@ -67,10 +67,11 @@ namespace ExportXlsx.Sources
                 DataStruct dataStruct = new DataStruct();
                 dataStruct.name = rowData["struct"];
                 dataStruct.cn = rowData["structCN"];
+                dataStruct.isExtend = true;
 
-                string[] fields = rowData["field"].Split(";");
-                string[] types = rowData["type"].Split(";");
-                string[] cns = rowData["cn"].Split(";");
+                string[] fields = rowData["field"].toStringArray();
+                string[] types = rowData["type"].toStringArray();
+                string[] cns = rowData["cn"].toStringArray();
 
                 if (fields.Length != types.Length)
                 {

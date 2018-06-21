@@ -5,14 +5,15 @@
 
 namespace configs
 {
-	export class CountryConfig
+	export class DTTest
 	{
 		id : number;
 		name : string;
-		city_num : number;
-		icon : string;
-		reward : array;
-		pre_id : number;
-		next_country : number;
+		age : number;
+		intArray : number[];
+		coin : DTItemNum;
+		items : DTItemNum[];
+		position : DTVector2;
+		story : DTStoryNum;
 	}
 }
