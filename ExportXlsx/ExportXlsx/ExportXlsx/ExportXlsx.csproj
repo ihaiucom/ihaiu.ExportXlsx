@@ -4,18 +4,32 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
-  
+
   <ItemGroup>
-    <PackageReference Include="CommandLineParser" Version="2.2.1" />
-    <PackageReference Include="LitJson" Version="0.13.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
-    <PackageReference Include="NLog" Version="4.5.0-rc04" />
-    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.0">
+      <IncludeAssets></IncludeAssets>
+    </PackageReference>
   </ItemGroup>
   
   <ItemGroup>
+    <Reference Include="commandline">
+      <HintPath>..\libs\CommandLine.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
     <Reference Include="EPPlus">
       <HintPath>..\libs\EPPlus.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="LitJSON">
+      <HintPath>..\libs\LitJSON.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\libs\Newtonsoft.Json.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\libs\NLog.dll</HintPath>
       <Private>true</Private>
     </Reference>
     <Reference Include="System.Drawing">

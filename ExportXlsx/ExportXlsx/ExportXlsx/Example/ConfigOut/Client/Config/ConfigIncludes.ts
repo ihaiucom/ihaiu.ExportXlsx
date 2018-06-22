@@ -1,6 +1,6 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
 import DTItemNum  = configs.DTItemNum ;

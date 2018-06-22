@@ -1,4 +1,5 @@
 {
+  "autoEnd": true,
   "optionSetting": "./optionSetting.json",
   "xlsxDir": "../../../Example/Config/Common;../../../Example/Config/Client",
   "outDir": "../../../Example/ConfigOut",
@@ -11,5 +12,7 @@
   "csvLineSeparatorReplace": "|n|",
   "xlsxHeadTypeLine": 1,
   "xlsxHeadCnLine": 2,
-  "xlsxHeadFieldLine": 3
+  "xlsxHeadFieldLine": 3,
+  "jsonNameFormat": "DT{0}.json",
+  "serverTsClassNameFormat": "DT{0}",
 }
