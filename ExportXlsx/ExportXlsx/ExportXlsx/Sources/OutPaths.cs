@@ -12,7 +12,7 @@ namespace ExportXlsx.Sources
             {
                 get
                 {
-                    return Setting.Options.outDir + "/Client/Config/ConfigStructs/{0}Struct.ts";
+                    return Setting.Options.outDir + "/Client/Config/ConfigStructs/{0}.ts";
                 }
             }
 
@@ -28,7 +28,7 @@ namespace ExportXlsx.Sources
             {
                 get
                 {
-                    return Setting.Options.outDir + "/Client/Config/ReaderStructs/{0}ConfigRenderStruct.ts";
+                    return Setting.Options.outDir + "/Client/Config/ReaderStructs/{0}.ts";
                 }
             }
 
@@ -36,7 +36,7 @@ namespace ExportXlsx.Sources
             {
                 get
                 {
-                    return Setting.Options.outDir + "/Client/Config/ReaderExtends/{0}ConfigRender.ts";
+                    return Setting.Options.outDir + "/Client/Config/ReaderExtends/{0}.ts";
                 }
             }
 

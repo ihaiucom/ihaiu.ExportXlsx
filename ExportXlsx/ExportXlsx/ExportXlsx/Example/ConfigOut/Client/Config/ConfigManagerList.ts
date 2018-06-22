@@ -22,10 +22,10 @@ namespace configs
         initList()
         {
 
-            this.renders.push(this.blockWords:);
-            this.renders.push(this.buildingLevel:);
-            this.renders.push(this.country:);
-            this.renders.push(this.test:);
+            this.renders.push(this.blockWords);
+            this.renders.push(this.buildingLevel);
+            this.renders.push(this.country);
+            this.renders.push(this.test);
         }
         
     }

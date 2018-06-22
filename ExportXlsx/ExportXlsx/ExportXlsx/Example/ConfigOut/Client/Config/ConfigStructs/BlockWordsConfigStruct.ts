@@ -1,11 +1,20 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com/tool-ExportXlsx
+// http://blog.ihaiu.com
 /////////////////////////////////////
 
 namespace configs
 {
-	export class >:classNameConfig:< extends >:classNameConfigStruct:<
+	export class BlockWordsConfigStruct extends BaseConfig
 	{
+
+		id : number;
+		text : string;
+
+
+
+
 	}
+
+
 }

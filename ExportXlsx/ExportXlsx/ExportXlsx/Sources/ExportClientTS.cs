@@ -271,13 +271,13 @@ namespace ExportXlsx.Sources
             switch (typeName)
             {
                 case "string":
-                    return $"csvGetString(csv,  i   )";
+                    return $"csvGetString(csv,  {i}   )";
                 case "int":
-                    return $"csvGetInt(csv,  i )";
+                    return $"csvGetInt(csv,  {i} )";
                 case "float":
-                    return $"csvGetInt(csv,  i  )";
+                    return $"csvGetInt(csv,  {i}  )";
                 case "boolean":
-                    return $"csvGetBoolean(csv, i   )";
+                    return $"csvGetBoolean(csv, {i}   )";
             }
 
             typeName = dataField.GetTsTypeName();
@@ -287,30 +287,30 @@ namespace ExportXlsx.Sources
             switch (typeName)
             {
                 case "string[]":
-                    return $" toStringArray(       csvGetString(csv, i   )   )";
+                    return $" toStringArray(       csvGetString(csv, {i}   )   )";
                 case "int[]":
-                    return $" toIntArray(       csvGetString(csv,  i   )   )";
+                    return $" toIntArray(       csvGetString(csv,  {i}   )   )";
                 case "float[]":
-                    return $" toFloatArray(       csvGetString(csv,  i   )   )";
+                    return $" toFloatArray(       csvGetString(csv,  {i}   )   )";
                 case "boolean[]":
-                    return $" toBooleanArray(       csvGetString(csv,  i   )   )";
+                    return $" toBooleanArray(       csvGetString(csv,  {i}   )   )";
             }
 
             if (typeName.EndsWith("[]"))
             {
                 typeName = typeName.Replace("[]", "");
-                return $" {typeName}.parseArray(       csvGetString(csv,  i   )   )";
+                return $" {typeName}.parseArray(       csvGetString(csv,  {i}   )   )";
 
             }
             else
             {
-                return $" {typeName}.parse(       csvGetString(csv,  i   )   )";
+                return $" {typeName}.parse(       csvGetString(csv,  {i}   )   )";
             }
 
 
 
 
-            return $"csvGetString(csv,  i   )";
+            return $"csvGetString(csv,  {i}   )";
         }
     }
 }
