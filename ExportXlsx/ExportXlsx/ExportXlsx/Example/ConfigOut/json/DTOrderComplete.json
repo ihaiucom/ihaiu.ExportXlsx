@@ -1,0 +1,67 @@
+﻿{
+  "5": {
+    "completion": 5,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 3
+      }
+    ]
+  },
+  "10": {
+    "completion": 10,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 4
+      }
+    ]
+  },
+  "20": {
+    "completion": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 5
+      }
+    ]
+  },
+  "35": {
+    "completion": 35,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 6
+      }
+    ]
+  },
+  "50": {
+    "completion": 50,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 2,
+        "itemNum": 7
+      }
+    ]
+  }
+}

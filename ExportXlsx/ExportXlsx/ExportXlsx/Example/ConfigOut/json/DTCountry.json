@@ -1,20 +1,59 @@
 ﻿{
-  "1000": {
-    "id": 1000,
-    "name": "测试",
+  "101": {
+    "id": 101,
+    "number": 1,
+    "zh_cn_name": "America",
     "city_num": 40,
-    "icon": "ImageSprites/Icon/country_101",
-    "reward": "1000:22;1003:10",
+    "icon": 1001,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 22
+      },
+      {
+        "itemId": 2,
+        "itemNum": 10
+      }
+    ],
     "pre_id": 0,
     "next_country": 102
   },
-  "101": {
-    "id": 101,
-    "name": "America",
+  "102": {
+    "id": 102,
+    "number": 2,
+    "zh_cn_name": "China",
     "city_num": 40,
-    "icon": "ImageSprites/Icon/country_101",
-    "reward": "1000:22;1003:10",
-    "pre_id": 0,
-    "next_country": 102
+    "icon": 1001,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 22
+      },
+      {
+        "itemId": 2,
+        "itemNum": 11
+      }
+    ],
+    "pre_id": 101,
+    "next_country": 103
+  },
+  "103": {
+    "id": 103,
+    "number": 3,
+    "zh_cn_name": "Japan",
+    "city_num": 40,
+    "icon": 1001,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 22
+      },
+      {
+        "itemId": 2,
+        "itemNum": 12
+      }
+    ],
+    "pre_id": 102,
+    "next_country": 0
   }
 }

@@ -1,0 +1,18 @@
+﻿{
+  "1000": {
+    "id": 1000,
+    "zh_cn_name": "测试",
+    "stall": 1,
+    "icon": 1000,
+    "pre_id": 0,
+    "next_level": 102
+  },
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "Street 1",
+    "stall": 1,
+    "icon": 1001,
+    "pre_id": 0,
+    "next_level": 1002
+  }
+}

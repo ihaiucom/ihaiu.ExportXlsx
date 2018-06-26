@@ -1,0 +1,237 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "en_name": "Superman",
+    "cn_name": "男性5星演员",
+    "star": 1305,
+    "sex": 1102,
+    "country": 1201,
+    "show_type": 1402,
+    "age_type": 1501,
+    "avatar": 1001,
+    "spectacle": 5,
+    "perform": 5,
+    "plot": 5,
+    "ary": 5,
+    "entertainment": 0,
+    "skill": "1001:30;1002:101;1003:201",
+    "story_type": "1701:3:1601;1706:4:1602;1710:2:1603",
+    "story_feature": "1803:3:1601;1805:2:1602;1810:3:1603",
+    "character": "1905:3:1603;1910:2:1604;1923:1:1601;1926:3:1602;1930:2:1601;1935:1:1602",
+    "surprise": 1901,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 200000
+    },
+    "recruit_reward": [
+      {
+        "itemId": 1010,
+        "itemNum": 20
+      },
+      {
+        "itemId": 1010,
+        "itemNum": 10
+      }
+    ],
+    "enable_cost": {
+      "itemId": 1001,
+      "itemNum": 150
+    },
+    "random_value": 100,
+    "exp": 0,
+    "paycheck": 100,
+    "stamina": 100,
+    "culture": 30,
+    "assets": 100,
+    "en_tips": "Superman",
+    "cn_tips": "5星演员"
+  },
+  "1002": {
+    "id": 1002,
+    "en_name": "Superman",
+    "cn_name": "男性4星演员",
+    "star": 1304,
+    "sex": 1001,
+    "country": 1202,
+    "show_type": 1401,
+    "age_type": 1502,
+    "avatar": 1001,
+    "spectacle": 5,
+    "perform": 5,
+    "plot": 5,
+    "ary": 5,
+    "entertainment": 0,
+    "skill": "1001:30;1002:101;1003:201",
+    "story_type": "1701:3:1601;1706:4:1602;1710:2:1603",
+    "story_feature": "1803:3:1601;1805:2:1602;1810:3:1603",
+    "character": "1905:3:1603;1910:2:1604;1923:1:1601;1926:3:1602;1930:2:1601;1935:1:1602",
+    "surprise": 1901,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 200000
+    },
+    "recruit_reward": [
+      {
+        "itemId": 1010,
+        "itemNum": 20
+      },
+      {
+        "itemId": 1010,
+        "itemNum": 10
+      }
+    ],
+    "enable_cost": {
+      "itemId": 1001,
+      "itemNum": 150
+    },
+    "random_value": 100,
+    "exp": 0,
+    "paycheck": 100,
+    "stamina": 100,
+    "culture": 30,
+    "assets": 100,
+    "en_tips": "Superman",
+    "cn_tips": "4星演员"
+  },
+  "1003": {
+    "id": 1003,
+    "en_name": "Superman",
+    "cn_name": "男性3星演员",
+    "star": 1303,
+    "sex": 1102,
+    "country": 1203,
+    "show_type": 1402,
+    "age_type": 1501,
+    "avatar": 1001,
+    "spectacle": 5,
+    "perform": 5,
+    "plot": 5,
+    "ary": 5,
+    "entertainment": 0,
+    "skill": "1001:30;1002:101;1003:201",
+    "story_type": "1701:3:1601;1706:4:1602;1710:2:1603",
+    "story_feature": "1803:3:1601;1805:2:1602;1810:3:1603",
+    "character": "1905:3:1603;1910:2:1604;1923:1:1601;1926:3:1602;1930:2:1601;1935:1:1602",
+    "surprise": 1901,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 200000
+    },
+    "recruit_reward": [
+      {
+        "itemId": 1010,
+        "itemNum": 20
+      },
+      {
+        "itemId": 1010,
+        "itemNum": 10
+      }
+    ],
+    "enable_cost": {
+      "itemId": 1001,
+      "itemNum": 150
+    },
+    "random_value": 100,
+    "exp": 0,
+    "paycheck": 100,
+    "stamina": 100,
+    "culture": 30,
+    "assets": 100,
+    "en_tips": "Superman",
+    "cn_tips": "3星演员"
+  },
+  "1004": {
+    "id": 1004,
+    "en_name": "Superman",
+    "cn_name": "男性2星演员",
+    "star": 1302,
+    "sex": 1001,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 1502,
+    "avatar": 1001,
+    "spectacle": 5,
+    "perform": 5,
+    "plot": 5,
+    "ary": 5,
+    "entertainment": 0,
+    "skill": "1001:30;1002:101;1003:201",
+    "story_type": "1701:3:1601;1706:4:1602;1710:2:1603",
+    "story_feature": "1803:3:1601;1805:2:1602;1810:3:1603",
+    "character": "1905:3:1603;1910:2:1604;1923:1:1601;1926:3:1602;1930:2:1601;1935:1:1602",
+    "surprise": 1901,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 200000
+    },
+    "recruit_reward": [
+      {
+        "itemId": 1010,
+        "itemNum": 20
+      },
+      {
+        "itemId": 1010,
+        "itemNum": 10
+      }
+    ],
+    "enable_cost": {
+      "itemId": 1001,
+      "itemNum": 150
+    },
+    "random_value": 100,
+    "exp": 0,
+    "paycheck": 100,
+    "stamina": 100,
+    "culture": 30,
+    "assets": 100,
+    "en_tips": "Superman",
+    "cn_tips": "2星演员"
+  },
+  "1005": {
+    "id": 1005,
+    "en_name": "Superman",
+    "cn_name": "男性1星演员",
+    "star": 1301,
+    "sex": 1102,
+    "country": 1202,
+    "show_type": 1402,
+    "age_type": 1501,
+    "avatar": 1001,
+    "spectacle": 5,
+    "perform": 5,
+    "plot": 5,
+    "ary": 5,
+    "entertainment": 0,
+    "skill": "1001:30;1002:101;1003:201",
+    "story_type": "1701:3:1601;1706:4:1602;1710:2:1603",
+    "story_feature": "1803:3:1601;1805:2:1602;1810:3:1603",
+    "character": "1905:3:1603;1910:2:1604;1923:1:1601;1926:3:1602;1930:2:1601;1935:1:1602",
+    "surprise": 1901,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 200000
+    },
+    "recruit_reward": [
+      {
+        "itemId": 1010,
+        "itemNum": 20
+      },
+      {
+        "itemId": 1010,
+        "itemNum": 10
+      }
+    ],
+    "enable_cost": {
+      "itemId": 1001,
+      "itemNum": 150
+    },
+    "random_value": 100,
+    "exp": 0,
+    "paycheck": 100,
+    "stamina": 100,
+    "culture": 30,
+    "assets": 100,
+    "en_tips": "Superman",
+    "cn_tips": "1星演员"
+  }
+}

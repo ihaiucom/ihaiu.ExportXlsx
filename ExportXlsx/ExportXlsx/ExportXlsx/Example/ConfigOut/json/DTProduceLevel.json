@@ -1,0 +1,402 @@
+﻿{
+  "1": {
+    "level": 1,
+    "line": 1,
+    "save": 10,
+    "time": 300,
+    "output_initial": 2,
+    "cost": 1000
+  },
+  "2": {
+    "level": 2,
+    "line": 2,
+    "save": 20,
+    "time": 540,
+    "output_initial": 4,
+    "cost": 1500
+  },
+  "3": {
+    "level": 3,
+    "line": 3,
+    "save": 30,
+    "time": 780,
+    "output_initial": 6,
+    "cost": 2500
+  },
+  "4": {
+    "level": 4,
+    "line": 4,
+    "save": 40,
+    "time": 1000,
+    "output_initial": 8,
+    "cost": 5000
+  },
+  "5": {
+    "level": 5,
+    "line": 5,
+    "save": 50,
+    "time": 1000,
+    "output_initial": 10,
+    "cost": 17000
+  },
+  "6": {
+    "level": 6,
+    "line": 6,
+    "save": 60,
+    "time": 1000,
+    "output_initial": 12,
+    "cost": 25000
+  },
+  "7": {
+    "level": 7,
+    "line": 7,
+    "save": 70,
+    "time": 1000,
+    "output_initial": 14,
+    "cost": 34000
+  },
+  "8": {
+    "level": 8,
+    "line": 8,
+    "save": 80,
+    "time": 1000,
+    "output_initial": 16,
+    "cost": 42000
+  },
+  "9": {
+    "level": 9,
+    "line": 9,
+    "save": 90,
+    "time": 1000,
+    "output_initial": 18,
+    "cost": 120000
+  },
+  "10": {
+    "level": 10,
+    "line": 10,
+    "save": 100,
+    "time": 1000,
+    "output_initial": 20,
+    "cost": 140000
+  },
+  "11": {
+    "level": 11,
+    "line": 11,
+    "save": 110,
+    "time": 1000,
+    "output_initial": 22,
+    "cost": 160000
+  },
+  "12": {
+    "level": 12,
+    "line": 12,
+    "save": 120,
+    "time": 1000,
+    "output_initial": 24,
+    "cost": 180000
+  },
+  "13": {
+    "level": 13,
+    "line": 13,
+    "save": 130,
+    "time": 1000,
+    "output_initial": 26,
+    "cost": 300000
+  },
+  "14": {
+    "level": 14,
+    "line": 14,
+    "save": 140,
+    "time": 1000,
+    "output_initial": 28,
+    "cost": 330000
+  },
+  "15": {
+    "level": 15,
+    "line": 15,
+    "save": 150,
+    "time": 1000,
+    "output_initial": 30,
+    "cost": 360000
+  },
+  "16": {
+    "level": 16,
+    "line": 16,
+    "save": 160,
+    "time": 1000,
+    "output_initial": 32,
+    "cost": 390000
+  },
+  "17": {
+    "level": 17,
+    "line": 17,
+    "save": 170,
+    "time": 1000,
+    "output_initial": 34,
+    "cost": 500000
+  },
+  "18": {
+    "level": 18,
+    "line": 18,
+    "save": 180,
+    "time": 1000,
+    "output_initial": 36,
+    "cost": 540000
+  },
+  "19": {
+    "level": 19,
+    "line": 19,
+    "save": 190,
+    "time": 1000,
+    "output_initial": 38,
+    "cost": 580000
+  },
+  "20": {
+    "level": 20,
+    "line": 20,
+    "save": 200,
+    "time": 1000,
+    "output_initial": 40,
+    "cost": 620000
+  },
+  "21": {
+    "level": 21,
+    "line": 21,
+    "save": 210,
+    "time": 1000,
+    "output_initial": 42,
+    "cost": 700000
+  },
+  "22": {
+    "level": 22,
+    "line": 22,
+    "save": 220,
+    "time": 1000,
+    "output_initial": 44,
+    "cost": 750000
+  },
+  "23": {
+    "level": 23,
+    "line": 23,
+    "save": 230,
+    "time": 1000,
+    "output_initial": 46,
+    "cost": 800000
+  },
+  "24": {
+    "level": 24,
+    "line": 24,
+    "save": 240,
+    "time": 1000,
+    "output_initial": 48,
+    "cost": 850000
+  },
+  "25": {
+    "level": 25,
+    "line": 25,
+    "save": 250,
+    "time": 1000,
+    "output_initial": 50,
+    "cost": 900000
+  },
+  "26": {
+    "level": 26,
+    "line": 26,
+    "save": 260,
+    "time": 1000,
+    "output_initial": 52,
+    "cost": 960000
+  },
+  "27": {
+    "level": 27,
+    "line": 27,
+    "save": 270,
+    "time": 1000,
+    "output_initial": 54,
+    "cost": 1020000
+  },
+  "28": {
+    "level": 28,
+    "line": 28,
+    "save": 280,
+    "time": 1000,
+    "output_initial": 56,
+    "cost": 1080000
+  },
+  "29": {
+    "level": 29,
+    "line": 29,
+    "save": 290,
+    "time": 1000,
+    "output_initial": 58,
+    "cost": 1200000
+  },
+  "30": {
+    "level": 30,
+    "line": 30,
+    "save": 300,
+    "time": 1000,
+    "output_initial": 60,
+    "cost": 1270000
+  },
+  "31": {
+    "level": 31,
+    "line": 31,
+    "save": 310,
+    "time": 1000,
+    "output_initial": 62,
+    "cost": 1340000
+  },
+  "32": {
+    "level": 32,
+    "line": 32,
+    "save": 320,
+    "time": 1000,
+    "output_initial": 64,
+    "cost": 1410000
+  },
+  "33": {
+    "level": 33,
+    "line": 33,
+    "save": 330,
+    "time": 1000,
+    "output_initial": 66,
+    "cost": 1500000
+  },
+  "34": {
+    "level": 34,
+    "line": 34,
+    "save": 340,
+    "time": 1000,
+    "output_initial": 68,
+    "cost": 1580000
+  },
+  "35": {
+    "level": 35,
+    "line": 35,
+    "save": 350,
+    "time": 1000,
+    "output_initial": 70,
+    "cost": 1660000
+  },
+  "36": {
+    "level": 36,
+    "line": 36,
+    "save": 360,
+    "time": 1000,
+    "output_initial": 72,
+    "cost": 1740000
+  },
+  "37": {
+    "level": 37,
+    "line": 37,
+    "save": 370,
+    "time": 1000,
+    "output_initial": 74,
+    "cost": 1800000
+  },
+  "38": {
+    "level": 38,
+    "line": 38,
+    "save": 380,
+    "time": 1000,
+    "output_initial": 76,
+    "cost": 1890000
+  },
+  "39": {
+    "level": 39,
+    "line": 39,
+    "save": 390,
+    "time": 1000,
+    "output_initial": 78,
+    "cost": 1980000
+  },
+  "40": {
+    "level": 40,
+    "line": 40,
+    "save": 400,
+    "time": 1000,
+    "output_initial": 80,
+    "cost": 2070000
+  },
+  "41": {
+    "level": 41,
+    "line": 41,
+    "save": 410,
+    "time": 1000,
+    "output_initial": 82,
+    "cost": 2200000
+  },
+  "42": {
+    "level": 42,
+    "line": 42,
+    "save": 420,
+    "time": 1000,
+    "output_initial": 84,
+    "cost": 2300000
+  },
+  "43": {
+    "level": 43,
+    "line": 43,
+    "save": 430,
+    "time": 1000,
+    "output_initial": 86,
+    "cost": 2400000
+  },
+  "44": {
+    "level": 44,
+    "line": 44,
+    "save": 440,
+    "time": 1000,
+    "output_initial": 88,
+    "cost": 2500000
+  },
+  "45": {
+    "level": 45,
+    "line": 45,
+    "save": 450,
+    "time": 1000,
+    "output_initial": 90,
+    "cost": 2600000
+  },
+  "46": {
+    "level": 46,
+    "line": 46,
+    "save": 460,
+    "time": 1000,
+    "output_initial": 92,
+    "cost": 2650000
+  },
+  "47": {
+    "level": 47,
+    "line": 47,
+    "save": 470,
+    "time": 1000,
+    "output_initial": 94,
+    "cost": 27000000
+  },
+  "48": {
+    "level": 48,
+    "line": 48,
+    "save": 480,
+    "time": 1000,
+    "output_initial": 96,
+    "cost": 27500000
+  },
+  "49": {
+    "level": 49,
+    "line": 49,
+    "save": 490,
+    "time": 1000,
+    "output_initial": 98,
+    "cost": 29000000
+  },
+  "50": {
+    "level": 50,
+    "line": 50,
+    "save": 500,
+    "time": 1000,
+    "output_initial": 100,
+    "cost": 30000000
+  }
+}

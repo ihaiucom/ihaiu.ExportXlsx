@@ -1,0 +1,4 @@
+﻿int	string	string	string	string	string	string	string
+ID	英文名称	中文名称	半身像	小图标	碎片图标	模型_皮肤	模型_骨骼
+id	en_name	cn_name	icon	mini_icon	piece_icon	model_skin	model_bones
+1001	Superman	超人	abc/001	abc/001	abc/001	abc/001	abc/001

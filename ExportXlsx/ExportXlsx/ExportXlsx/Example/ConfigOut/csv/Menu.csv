@@ -1,0 +1,21 @@
+﻿int	string	string	string	int	int	boolean	int	int
+id	功能名称	图标	模块名称	层级	关闭其他面板	是否关闭主界面	缓存时间	加载面板类型
+id	name	icon	moduleName	layer	closeOtherType	closeHomeWindow	cacheTime	loaderId
+1	放映							
+2	拍摄							
+3	艺人							
+4	星探							
+5	生产							
+6	市场							
+7	日程							
+8	每日目标							
+9	仓库							
+10	订单							
+11	合作							
+12	公务							
+13	粉丝							
+14	会议							
+15	财务兑换							
+16	训练							
+17	宝物							
+101	登录		Login	3	3	1	0	0

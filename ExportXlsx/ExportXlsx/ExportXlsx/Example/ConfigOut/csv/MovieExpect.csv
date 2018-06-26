@@ -1,0 +1,8 @@
+﻿int	string	string	int	int	string	float
+id	名称	策划备注	需求期待	上映图片	图片文字	票房加成
+id	name	tips	expect_req	pic	pic_word	gain_up
+1	无人关注	1级期待	50	1	无人关注	0.1
+2	有所耳闻	2级期待	150	2	有所耳闻	0.2
+3	翘首以待	3级期待	250	3	翘首以待	0.3
+4	万众瞩目	4级期待	500	4	万众瞩目	0.4
+5	一票难求	5级期待	800	5	一票难求	0.5

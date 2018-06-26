@@ -250,7 +250,15 @@ public static class StringUtils
 
     public static int ToInt32(this string src)
     {
-        return string.IsNullOrEmpty(src) ? 0 : Convert.ToInt32(src);
+        try
+        {
+            return string.IsNullOrEmpty(src) ? 0 : Convert.ToInt32(src);
+        }
+        catch(Exception e)
+        {
+            Log.Error($"转换int32是非法字符 {src}");
+            return 0;
+        }
     }
 
     public static long ToInt64(this string src)

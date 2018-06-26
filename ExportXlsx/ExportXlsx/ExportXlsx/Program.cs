@@ -26,7 +26,7 @@ namespace ExportXlsx.Sources
 
             Console.WriteLine("完成!");
 
-            if(!Setting.Options.autoEnd)
+            if (!Setting.Options.autoEnd)
                 Console.Read();
         }
     }

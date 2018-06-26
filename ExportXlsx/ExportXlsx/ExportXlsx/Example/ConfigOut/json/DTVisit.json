@@ -1,0 +1,192 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到偶像了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1002": {
+    "id": 1002,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "偶像，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1003": {
+    "id": 1003,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到偶像了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1004": {
+    "id": 1004,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "偶像，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1005": {
+    "id": 1005,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到偶像了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1006": {
+    "id": 1006,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "偶像，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1007": {
+    "id": 1007,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到偶像了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1008": {
+    "id": 1008,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "偶像，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1009": {
+    "id": 1009,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 0,
+    "zh_cn_fans_speak0": "就要看到偶像了，真激动！",
+    "zh_cn_actor_speak0": "听说有粉丝来了",
+    "zh_cn_fans_speak1": "呀，终于看到你了！",
+    "zh_cn_actor_speak1": "咦，是你！上次首演我看到你了。",
+    "zh_cn_fans_speak2": "对对对，是我是我，你竟然记得我！",
+    "zh_cn_actor_speak2": "我记得我的每一个粉丝",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  },
+  "1010": {
+    "id": 1010,
+    "actor": 1001,
+    "fans": 1001,
+    "flower": 1,
+    "zh_cn_fans_speak0": "为了今天我特地穿了最喜欢的衣服！",
+    "zh_cn_actor_speak0": "我的粉丝是最棒的！",
+    "zh_cn_fans_speak1": "偶像，请接受我的鲜花！",
+    "zh_cn_actor_speak1": "来就来嘛，怎么不多带点鲜花",
+    "zh_cn_fans_speak2": "今天花店没打折，下次打折我多买点过来",
+    "zh_cn_actor_speak2": "竟然要买打折货？！",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "expect": 20
+  }
+}

@@ -1,0 +1,134 @@
+﻿{
+  "100101001": {
+    "id": 100101001,
+    "type": 1,
+    "lv": 1,
+    "item": 1001,
+    "number": 10,
+    "max_num": 890,
+    "actor_property": 1601,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100101002": {
+    "id": 100101002,
+    "type": 1,
+    "lv": 2,
+    "item": 1011,
+    "number": 10,
+    "max_num": 1510,
+    "actor_property": 1601,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100101003": {
+    "id": 100101003,
+    "type": 1,
+    "lv": 3,
+    "item": 1021,
+    "number": 10,
+    "max_num": 3000,
+    "actor_property": 1601,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100102001": {
+    "id": 100102001,
+    "type": 2,
+    "lv": 1,
+    "item": 1002,
+    "number": 10,
+    "max_num": 890,
+    "actor_property": 1602,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100102002": {
+    "id": 100102002,
+    "type": 2,
+    "lv": 2,
+    "item": 1002,
+    "number": 10,
+    "max_num": 1510,
+    "actor_property": 1602,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100102003": {
+    "id": 100102003,
+    "type": 2,
+    "lv": 3,
+    "item": 1002,
+    "number": 10,
+    "max_num": 3000,
+    "actor_property": 1602,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100103001": {
+    "id": 100103001,
+    "type": 3,
+    "lv": 1,
+    "item": 1003,
+    "number": 10,
+    "max_num": 890,
+    "actor_property": 1603,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100103002": {
+    "id": 100103002,
+    "type": 3,
+    "lv": 2,
+    "item": 1003,
+    "number": 10,
+    "max_num": 1510,
+    "actor_property": 1603,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100103003": {
+    "id": 100103003,
+    "type": 3,
+    "lv": 3,
+    "item": 1003,
+    "number": 10,
+    "max_num": 3000,
+    "actor_property": 1603,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100104001": {
+    "id": 100104001,
+    "type": 4,
+    "lv": 1,
+    "item": 1004,
+    "number": 10,
+    "max_num": 890,
+    "actor_property": 1604,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100104002": {
+    "id": 100104002,
+    "type": 4,
+    "lv": 2,
+    "item": 1004,
+    "number": 10,
+    "max_num": 1510,
+    "actor_property": 1604,
+    "value": 10,
+    "cn_tips": ""
+  },
+  "100104003": {
+    "id": 100104003,
+    "type": 4,
+    "lv": 3,
+    "item": 1004,
+    "number": 10,
+    "max_num": 3000,
+    "actor_property": 1604,
+    "value": 10,
+    "cn_tips": ""
+  }
+}

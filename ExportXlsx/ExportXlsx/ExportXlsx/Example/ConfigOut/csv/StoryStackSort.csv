@@ -1,0 +1,6 @@
+﻿int	string	int[]	int	int	int	int	int
+类别id	类别名称	剧本序列	场面加成	剧情加成	表演加成	艺术加成	娱乐加成
+id	zh_cn_name	scripts	addition_scene	addition_plot	addition_performance	addition_art	addition_entertainment
+1	喜剧组	1001;1002	10	0	0	0	0
+2	悲剧租	1003;1004	0	10	0	0	0
+3	歌舞组	1005;1006	0	0	10	0	0

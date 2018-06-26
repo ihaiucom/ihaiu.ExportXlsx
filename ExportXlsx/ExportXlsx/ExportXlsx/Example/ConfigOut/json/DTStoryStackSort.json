@@ -1,0 +1,41 @@
+﻿{
+  "1": {
+    "id": 1,
+    "zh_cn_name": "喜剧组",
+    "scripts": [
+      1001,
+      1002
+    ],
+    "addition_scene": 10,
+    "addition_plot": 0,
+    "addition_performance": 0,
+    "addition_art": 0,
+    "addition_entertainment": 0
+  },
+  "2": {
+    "id": 2,
+    "zh_cn_name": "悲剧租",
+    "scripts": [
+      1003,
+      1004
+    ],
+    "addition_scene": 0,
+    "addition_plot": 10,
+    "addition_performance": 0,
+    "addition_art": 0,
+    "addition_entertainment": 0
+  },
+  "3": {
+    "id": 3,
+    "zh_cn_name": "歌舞组",
+    "scripts": [
+      1005,
+      1006
+    ],
+    "addition_scene": 0,
+    "addition_plot": 0,
+    "addition_performance": 10,
+    "addition_art": 0,
+    "addition_entertainment": 0
+  }
+}

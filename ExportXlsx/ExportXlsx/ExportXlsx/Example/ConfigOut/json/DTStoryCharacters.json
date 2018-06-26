@@ -1,0 +1,162 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "story_id": 1001,
+    "character_num": 1,
+    "zh_cn_name": "小李",
+    "type": 2101,
+    "gender": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1002": {
+    "id": 1002,
+    "story_id": 1001,
+    "character_num": 2,
+    "zh_cn_name": "小张",
+    "type": 2101,
+    "gender": 1101,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1003": {
+    "id": 1003,
+    "story_id": 1002,
+    "character_num": 1,
+    "zh_cn_name": "小王",
+    "type": 2101,
+    "gender": 1101,
+    "country": 1201,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1004": {
+    "id": 1004,
+    "story_id": 1002,
+    "character_num": 2,
+    "zh_cn_name": "小孙",
+    "type": 2101,
+    "gender": 1101,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1005": {
+    "id": 1005,
+    "story_id": 1003,
+    "character_num": 1,
+    "zh_cn_name": "小汪",
+    "type": 2101,
+    "gender": 0,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1006": {
+    "id": 1006,
+    "story_id": 1003,
+    "character_num": 2,
+    "zh_cn_name": "小包",
+    "type": 2101,
+    "gender": 1101,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1007": {
+    "id": 1007,
+    "story_id": 1004,
+    "character_num": 1,
+    "zh_cn_name": "小蔡",
+    "type": 2101,
+    "gender": 1101,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  },
+  "1008": {
+    "id": 1008,
+    "story_id": 1005,
+    "character_num": 2,
+    "zh_cn_name": "小朱",
+    "type": 2101,
+    "gender": 1101,
+    "country": 1201,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1904,
+      1905
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "角色介绍"
+  }
+}

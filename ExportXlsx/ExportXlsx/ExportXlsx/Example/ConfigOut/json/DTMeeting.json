@@ -1,0 +1,65 @@
+﻿{
+  "1": {
+    "id": 1,
+    "level": 1,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "2": {
+    "id": 2,
+    "level": 2,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "3": {
+    "id": 3,
+    "level": 3,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "4": {
+    "id": 4,
+    "level": 4,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "5": {
+    "id": 5,
+    "level": 5,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "6": {
+    "id": 6,
+    "level": 6,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  },
+  "7": {
+    "id": 7,
+    "level": 7,
+    "meeting_cd": 1200,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    }
+  }
+}

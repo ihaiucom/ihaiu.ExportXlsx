@@ -5,15 +5,10 @@ E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\ExportXlsx.dll
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\ExportXlsx.pdb
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\EPPlus.dll
+E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.csprojResolveAssemblyReference.cache
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.csproj.CoreCompileInputs.cache
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.AssemblyInfoInputs.cache
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.AssemblyInfo.cs
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.csproj.CopyComplete
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.dll
 E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.pdb
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Release\netcoreapp2.0\ExportXlsx.csprojResolveAssemblyReference.cache
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\CommandLine.dll
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\LitJSON.dll
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\Newtonsoft.Json.dll
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\NLog.dll
-E:\zengfeng\github\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\bin\Release\netcoreapp2.0\System.Text.Encoding.CodePages.dll

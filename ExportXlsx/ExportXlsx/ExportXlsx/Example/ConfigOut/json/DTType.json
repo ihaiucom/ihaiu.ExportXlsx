@@ -1,0 +1,114 @@
+﻿{
+  "1": {
+    "id": 1,
+    "field": "sex",
+    "enName": "Sex",
+    "cnName": "性别",
+    "tip": ""
+  },
+  "2": {
+    "id": 2,
+    "field": "country",
+    "enName": "Country",
+    "cnName": "国籍",
+    "tip": ""
+  },
+  "3": {
+    "id": 3,
+    "field": "star",
+    "enName": "Star",
+    "cnName": "星级",
+    "tip": ""
+  },
+  "4": {
+    "id": 4,
+    "field": "show_type",
+    "enName": "Show_type",
+    "cnName": "表演类型",
+    "tip": "演技派，偶像派"
+  },
+  "5": {
+    "id": 5,
+    "field": "age_type",
+    "enName": "Age_type",
+    "cnName": "年龄类型",
+    "tip": "成熟型，青春型"
+  },
+  "6": {
+    "id": 6,
+    "field": "property",
+    "enName": "Property",
+    "cnName": "演员属性",
+    "tip": "5种属性"
+  },
+  "7": {
+    "id": 7,
+    "field": "script_type",
+    "enName": "Script_type",
+    "cnName": "剧本类型",
+    "tip": "谍战片---"
+  },
+  "8": {
+    "id": 8,
+    "field": "script_feature",
+    "enName": "Script_feature",
+    "cnName": "剧本属性",
+    "tip": "枪战---"
+  },
+  "9": {
+    "id": 9,
+    "field": "role",
+    "enName": "Role",
+    "cnName": "角色类型",
+    "tip": "记者---"
+  },
+  "10": {
+    "id": 10,
+    "field": "audience_type",
+    "enName": "Audience_type",
+    "cnName": "观众类型",
+    "tip": "男性，女性，儿童"
+  },
+  "11": {
+    "id": 11,
+    "field": "character",
+    "enName": "Character",
+    "cnName": "角色名称",
+    "tip": "主角，男主角---"
+  },
+  "12": {
+    "id": 12,
+    "field": "shoot_type",
+    "enName": "Shoot_type",
+    "cnName": "拍摄类型",
+    "tip": "歌舞，爱情，喜剧----"
+  },
+  "13": {
+    "id": 13,
+    "field": "grades",
+    "enName": "Grades",
+    "cnName": "属性品阶",
+    "tip": "次要属性，主要属性"
+  },
+  "14": {
+    "id": 14,
+    "field": "up_sequence",
+    "enName": "Up_sequence",
+    "cnName": "升级顺序",
+    "tip": "奇数升级，偶数升级"
+  },
+  "15": {
+    "id": 15,
+    "field": "rank",
+    "enName": "Rank",
+    "cnName": "集团档次",
+    "tip": "街区1档，街区2档----"
+  },
+  "16": {
+    "id": 16,
+    "field": "shoot_exp",
+    "enName": "Shoot_exp",
+    "cnName": "类型经验",
+    "tip": ""
+  }
+}

@@ -1,0 +1,6 @@
+﻿int	int	int	string	int	DTItemNum[]
+成就id	成就类	成就数值	成就描述	前置ID	奖励
+id	task	value	zh_cn_description	pre_id	reward
+1001	1	10	收集剧本	0	1:10
+1002	1	20	收集剧本	1001	1:20
+1002	1	20	收集剧本	1002	1:30

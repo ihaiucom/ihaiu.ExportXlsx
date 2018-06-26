@@ -1,0 +1,3042 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "group_id": 1001,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1002": {
+    "id": 1002,
+    "group_id": 1001,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 1.0,
+    "stamina": 0
+  },
+  "1003": {
+    "id": 1003,
+    "group_id": 1001,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 1.5,
+    "stamina": 0
+  },
+  "1004": {
+    "id": 1004,
+    "group_id": 1001,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 2.0,
+    "stamina": 0
+  },
+  "1005": {
+    "id": 1005,
+    "group_id": 1001,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 2.5,
+    "stamina": 0
+  },
+  "1006": {
+    "id": 1006,
+    "group_id": 1001,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 3.0,
+    "stamina": 0
+  },
+  "1007": {
+    "id": 1007,
+    "group_id": 1001,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 3.5,
+    "stamina": 0
+  },
+  "1008": {
+    "id": 1008,
+    "group_id": 1001,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 4.0,
+    "stamina": 0
+  },
+  "1009": {
+    "id": 1009,
+    "group_id": 1001,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 4.5,
+    "stamina": 0
+  },
+  "1010": {
+    "id": 1010,
+    "group_id": 1001,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 5.0,
+    "stamina": 0
+  },
+  "1011": {
+    "id": 1011,
+    "group_id": 1001,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 5.5,
+    "stamina": 0
+  },
+  "1012": {
+    "id": 1012,
+    "group_id": 1001,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 6.0,
+    "stamina": 0
+  },
+  "1013": {
+    "id": 1013,
+    "group_id": 1001,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 6.5,
+    "stamina": 0
+  },
+  "1014": {
+    "id": 1014,
+    "group_id": 1001,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 7.0,
+    "stamina": 0
+  },
+  "1015": {
+    "id": 1015,
+    "group_id": 1001,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 7.5,
+    "stamina": 0
+  },
+  "1016": {
+    "id": 1016,
+    "group_id": 1001,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 8.0,
+    "stamina": 0
+  },
+  "1017": {
+    "id": 1017,
+    "group_id": 1001,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 8.5,
+    "stamina": 0
+  },
+  "1018": {
+    "id": 1018,
+    "group_id": 1001,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 9.0,
+    "stamina": 0
+  },
+  "1019": {
+    "id": 1019,
+    "group_id": 1001,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 9.5,
+    "stamina": 0
+  },
+  "1020": {
+    "id": 1020,
+    "group_id": 1001,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "吸金达人",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,赚取金币速度+N%",
+    "icon": "1001",
+    "trigger": [
+      1001
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 10.0,
+    "stamina": 0
+  },
+  "1021": {
+    "id": 1021,
+    "group_id": 1002,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1022": {
+    "id": 1022,
+    "group_id": 1002,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1023": {
+    "id": 1023,
+    "group_id": 1002,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1024": {
+    "id": 1024,
+    "group_id": 1002,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1025": {
+    "id": 1025,
+    "group_id": 1002,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1026": {
+    "id": 1026,
+    "group_id": 1002,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1027": {
+    "id": 1027,
+    "group_id": 1002,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1028": {
+    "id": 1028,
+    "group_id": 1002,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1029": {
+    "id": 1029,
+    "group_id": 1002,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1030": {
+    "id": 1030,
+    "group_id": 1002,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1031": {
+    "id": 1031,
+    "group_id": 1002,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1032": {
+    "id": 1032,
+    "group_id": 1002,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1033": {
+    "id": 1033,
+    "group_id": 1002,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1034": {
+    "id": 1034,
+    "group_id": 1002,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1035": {
+    "id": 1035,
+    "group_id": 1002,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1036": {
+    "id": 1036,
+    "group_id": 1002,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1037": {
+    "id": 1037,
+    "group_id": 1002,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1038": {
+    "id": 1038,
+    "group_id": 1002,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1039": {
+    "id": 1039,
+    "group_id": 1002,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1040": {
+    "id": 1040,
+    "group_id": 1002,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "能力超群",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去执行生产时,该生产线的收益+N%",
+    "icon": "1001",
+    "trigger": [
+      1002
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1041": {
+    "id": 1041,
+    "group_id": 1003,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1042": {
+    "id": 1042,
+    "group_id": 1003,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1043": {
+    "id": 1043,
+    "group_id": 1003,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1044": {
+    "id": 1044,
+    "group_id": 1003,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1045": {
+    "id": 1045,
+    "group_id": 1003,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1046": {
+    "id": 1046,
+    "group_id": 1003,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1047": {
+    "id": 1047,
+    "group_id": 1003,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1048": {
+    "id": 1048,
+    "group_id": 1003,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1049": {
+    "id": 1049,
+    "group_id": 1003,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1050": {
+    "id": 1050,
+    "group_id": 1003,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1051": {
+    "id": 1051,
+    "group_id": 1003,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1052": {
+    "id": 1052,
+    "group_id": 1003,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1053": {
+    "id": 1053,
+    "group_id": 1003,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1054": {
+    "id": 1054,
+    "group_id": 1003,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1055": {
+    "id": 1055,
+    "group_id": 1003,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1056": {
+    "id": 1056,
+    "group_id": 1003,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1057": {
+    "id": 1057,
+    "group_id": 1003,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1058": {
+    "id": 1058,
+    "group_id": 1003,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1059": {
+    "id": 1059,
+    "group_id": 1003,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1060": {
+    "id": 1060,
+    "group_id": 1003,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不计报酬",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄所收取的费用-N%",
+    "icon": "1001",
+    "trigger": [
+      1003
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1061": {
+    "id": 1061,
+    "group_id": 1004,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1062": {
+    "id": 1062,
+    "group_id": 1004,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1063": {
+    "id": 1063,
+    "group_id": 1004,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1064": {
+    "id": 1064,
+    "group_id": 1004,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1065": {
+    "id": 1065,
+    "group_id": 1004,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1066": {
+    "id": 1066,
+    "group_id": 1004,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1067": {
+    "id": 1067,
+    "group_id": 1004,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1068": {
+    "id": 1068,
+    "group_id": 1004,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1069": {
+    "id": 1069,
+    "group_id": 1004,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1070": {
+    "id": 1070,
+    "group_id": 1004,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1071": {
+    "id": 1071,
+    "group_id": 1004,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1072": {
+    "id": 1072,
+    "group_id": 1004,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1073": {
+    "id": 1073,
+    "group_id": 1004,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1074": {
+    "id": 1074,
+    "group_id": 1004,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1075": {
+    "id": 1075,
+    "group_id": 1004,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1076": {
+    "id": 1076,
+    "group_id": 1004,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1077": {
+    "id": 1077,
+    "group_id": 1004,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1078": {
+    "id": 1078,
+    "group_id": 1004,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1079": {
+    "id": 1079,
+    "group_id": 1004,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1080": {
+    "id": 1080,
+    "group_id": 1004,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "媒体宠儿",
+    "en_tips": "Superman",
+    "cn_tips": "该演员参与拍摄的电影,媒体评价带来的首映票房+N%",
+    "icon": "1001",
+    "trigger": [
+      1004
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1081": {
+    "id": 1081,
+    "group_id": 1005,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1082": {
+    "id": 1082,
+    "group_id": 1005,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1083": {
+    "id": 1083,
+    "group_id": 1005,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1084": {
+    "id": 1084,
+    "group_id": 1005,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1085": {
+    "id": 1085,
+    "group_id": 1005,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1086": {
+    "id": 1086,
+    "group_id": 1005,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1087": {
+    "id": 1087,
+    "group_id": 1005,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1088": {
+    "id": 1088,
+    "group_id": 1005,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1089": {
+    "id": 1089,
+    "group_id": 1005,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1090": {
+    "id": 1090,
+    "group_id": 1005,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1091": {
+    "id": 1091,
+    "group_id": 1005,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1092": {
+    "id": 1092,
+    "group_id": 1005,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1093": {
+    "id": 1093,
+    "group_id": 1005,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1094": {
+    "id": 1094,
+    "group_id": 1005,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1095": {
+    "id": 1095,
+    "group_id": 1005,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1096": {
+    "id": 1096,
+    "group_id": 1005,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1097": {
+    "id": 1097,
+    "group_id": 1005,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1098": {
+    "id": 1098,
+    "group_id": 1005,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1099": {
+    "id": 1099,
+    "group_id": 1005,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1100": {
+    "id": 1100,
+    "group_id": 1005,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "自备金库",
+    "en_tips": "Superman",
+    "cn_tips": "当派遣演员去城市时,可积攒的金币上限+N%",
+    "icon": "1001",
+    "trigger": [
+      1005
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1101": {
+    "id": 1101,
+    "group_id": 1006,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1102": {
+    "id": 1102,
+    "group_id": 1006,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1103": {
+    "id": 1103,
+    "group_id": 1006,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1104": {
+    "id": 1104,
+    "group_id": 1006,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1105": {
+    "id": 1105,
+    "group_id": 1006,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1106": {
+    "id": 1106,
+    "group_id": 1006,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1107": {
+    "id": 1107,
+    "group_id": 1006,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1108": {
+    "id": 1108,
+    "group_id": 1006,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1109": {
+    "id": 1109,
+    "group_id": 1006,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1110": {
+    "id": 1110,
+    "group_id": 1006,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1111": {
+    "id": 1111,
+    "group_id": 1006,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1112": {
+    "id": 1112,
+    "group_id": 1006,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1113": {
+    "id": 1113,
+    "group_id": 1006,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1114": {
+    "id": 1114,
+    "group_id": 1006,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1115": {
+    "id": 1115,
+    "group_id": 1006,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1116": {
+    "id": 1116,
+    "group_id": 1006,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1117": {
+    "id": 1117,
+    "group_id": 1006,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1118": {
+    "id": 1118,
+    "group_id": 1006,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1119": {
+    "id": 1119,
+    "group_id": 1006,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1120": {
+    "id": 1120,
+    "group_id": 1006,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "砍价能手",
+    "en_tips": "Superman",
+    "cn_tips": "当培养该演员时,金币消耗-N%",
+    "icon": "1001",
+    "trigger": [
+      1006
+    ],
+    "effect": [
+      1001
+    ],
+    "value": -0.5,
+    "stamina": 0
+  },
+  "1121": {
+    "id": 1121,
+    "group_id": 1007,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1122": {
+    "id": 1122,
+    "group_id": 1007,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1123": {
+    "id": 1123,
+    "group_id": 1007,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1124": {
+    "id": 1124,
+    "group_id": 1007,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1125": {
+    "id": 1125,
+    "group_id": 1007,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1126": {
+    "id": 1126,
+    "group_id": 1007,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1127": {
+    "id": 1127,
+    "group_id": 1007,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1128": {
+    "id": 1128,
+    "group_id": 1007,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1129": {
+    "id": 1129,
+    "group_id": 1007,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1130": {
+    "id": 1130,
+    "group_id": 1007,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1131": {
+    "id": 1131,
+    "group_id": 1007,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1132": {
+    "id": 1132,
+    "group_id": 1007,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1133": {
+    "id": 1133,
+    "group_id": 1007,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1134": {
+    "id": 1134,
+    "group_id": 1007,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1135": {
+    "id": 1135,
+    "group_id": 1007,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1136": {
+    "id": 1136,
+    "group_id": 1007,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1137": {
+    "id": 1137,
+    "group_id": 1007,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1138": {
+    "id": 1138,
+    "group_id": 1007,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1139": {
+    "id": 1139,
+    "group_id": 1007,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1140": {
+    "id": 1140,
+    "group_id": 1007,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "德高望重",
+    "en_tips": "Superman",
+    "cn_tips": "与擅长长者角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1007
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1141": {
+    "id": 1141,
+    "group_id": 1008,
+    "lv": 1,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1142": {
+    "id": 1142,
+    "group_id": 1008,
+    "lv": 2,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1143": {
+    "id": 1143,
+    "group_id": 1008,
+    "lv": 3,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1144": {
+    "id": 1144,
+    "group_id": 1008,
+    "lv": 4,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1145": {
+    "id": 1145,
+    "group_id": 1008,
+    "lv": 5,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1146": {
+    "id": 1146,
+    "group_id": 1008,
+    "lv": 6,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1147": {
+    "id": 1147,
+    "group_id": 1008,
+    "lv": 7,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1148": {
+    "id": 1148,
+    "group_id": 1008,
+    "lv": 8,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1149": {
+    "id": 1149,
+    "group_id": 1008,
+    "lv": 9,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1150": {
+    "id": 1150,
+    "group_id": 1008,
+    "lv": 10,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1151": {
+    "id": 1151,
+    "group_id": 1008,
+    "lv": 11,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1152": {
+    "id": 1152,
+    "group_id": 1008,
+    "lv": 12,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1153": {
+    "id": 1153,
+    "group_id": 1008,
+    "lv": 13,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1154": {
+    "id": 1154,
+    "group_id": 1008,
+    "lv": 14,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1155": {
+    "id": 1155,
+    "group_id": 1008,
+    "lv": 15,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1156": {
+    "id": 1156,
+    "group_id": 1008,
+    "lv": 16,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1157": {
+    "id": 1157,
+    "group_id": 1008,
+    "lv": 17,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1158": {
+    "id": 1158,
+    "group_id": 1008,
+    "lv": 18,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1159": {
+    "id": 1159,
+    "group_id": 1008,
+    "lv": 19,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  },
+  "1160": {
+    "id": 1160,
+    "group_id": 1008,
+    "lv": 20,
+    "exp": 10,
+    "en_name": "Superman",
+    "cn_name": "不动如山",
+    "en_tips": "Superman",
+    "cn_tips": "与成熟型角色的演员一起参与拍摄时属性增加+N%",
+    "icon": "1001",
+    "trigger": [
+      1008
+    ],
+    "effect": [
+      1001
+    ],
+    "value": 0.5,
+    "stamina": 0
+  }
+}

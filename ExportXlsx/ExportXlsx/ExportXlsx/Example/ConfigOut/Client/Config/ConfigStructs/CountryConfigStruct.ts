@@ -9,10 +9,11 @@ namespace configs
 	{
 
 		id : number;
-		name : string;
+		number : number;
+		zh_cn_name : string;
 		city_num : number;
-		icon : string;
-		reward : array;
+		icon : number;
+		reward : DTItemNum[];
 		pre_id : number;
 		next_country : number;
 

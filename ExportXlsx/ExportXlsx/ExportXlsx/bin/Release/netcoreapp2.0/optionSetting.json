@@ -1,7 +1,7 @@
 {
-  "autoEnd": true,
+  "autoEnd": false,
   "optionSetting": "./optionSetting.json",
-  "xlsxDir": "../../../Example/Config/Common;../../../Example/Config/Client",
+  "xlsxDir": "E:/zengfeng/GamePF/gamepf_doc/Config/Common",
   "outDir": "../../../Example/ConfigOut",
   "exportSettingXlsx": "../../../Example/Config/ExportSetting.xlsx",
   "settingStructSheet": "StructSheet",

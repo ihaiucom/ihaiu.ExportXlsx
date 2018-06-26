@@ -1,0 +1,48 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+
+namespace configs
+{
+
+	export class StoryConfigReaderStruct extends CsvConfigRender<    StoryConfig      >
+	{
+		path = "Story";
+
+
+        ParseCsv(csv: string[] )
+        {
+			let config = new StoryConfig();
+
+
+			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
+			config.story_num = csvGetInt(csv,  this.GetHeadIndex(  "story_num"  )   );
+			config.zh_cn_story_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_story_name"  )   );
+			config.name_tips = csvGetString(csv,  this.GetHeadIndex(  "name_tips"  )   );
+			config.poster_name = csvGetString(csv,  this.GetHeadIndex(  "poster_name"  )   );
+			config.zh_cn_introduction = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_introduction"  )   );
+			config.introduction_tips = csvGetString(csv,  this.GetHeadIndex(  "introduction_tips"  )   );
+			config.length = csvGetInt(csv,  this.GetHeadIndex(  "length"  )   );
+			config.cost = csvGetInt(csv,  this.GetHeadIndex(  "cost"  )   );
+			config.stars = csvGetInt(csv,  this.GetHeadIndex(  "stars"  )   );
+			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
+			config.tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "tags"  )   )   );
+			config.hidden_tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "hidden_tags"  )   )   );
+			config.shoot_type =  DTShootType.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "shoot_type"  )   )   );
+			config.property =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "property"  )   )   );
+			config.target_mark = csvGetBoolean(csv,  this.GetHeadIndex(  "target_mark"  )   );
+			config.target = csvGetInt(csv,  this.GetHeadIndex(  "target"  )   );
+			config.male_percent = csvGetInt(csv,  this.GetHeadIndex(  "male_percent"  )   );
+			config.female_percent = csvGetInt(csv,  this.GetHeadIndex(  "female_percent"  )   );
+			config.child_percent = csvGetInt(csv,  this.GetHeadIndex(  "child_percent"  )   );
+			config.reward =  DTStoryEffect.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.sequel_mark = csvGetBoolean(csv,  this.GetHeadIndex(  "sequel_mark"  )   );
+			config.interviews_bottom = csvGetInt(csv,  this.GetHeadIndex(  "interviews_bottom"  )   );
+			config.interviews_top = csvGetInt(csv,  this.GetHeadIndex(  "interviews_top"  )   );
+
+
+			this.addConfig(config);
+        }
+	}
+}

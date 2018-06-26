@@ -1,0 +1,254 @@
+﻿{
+  "1001001": {
+    "id": 1001001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1000
+    },
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "ary": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001002": {
+    "id": 1001002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1001
+    },
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001003": {
+    "id": 1001003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1002
+    },
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "ary": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001004": {
+    "id": 1001004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1003
+    },
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001005": {
+    "id": 1001005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1004
+    },
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "ary": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001006": {
+    "id": 1001006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1005
+    },
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001007": {
+    "id": 1001007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1006
+    },
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "ary": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001008": {
+    "id": 1001008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1007
+    },
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001009": {
+    "id": 1001009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1008
+    },
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "ary": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001010": {
+    "id": 1001010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1009
+    },
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001011": {
+    "id": 1001011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1010
+    },
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "ary": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1001012": {
+    "id": 1001012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": {
+      "itemId": 1002,
+      "itemNum": 1011
+    },
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "ary": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  }
+}

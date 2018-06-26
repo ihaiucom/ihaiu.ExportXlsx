@@ -1,0 +1,52 @@
+﻿{
+  "1": {
+    "id": 1,
+    "rewards": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "expect": 4,
+    "rate": 20,
+    "cn": "会议酬劳"
+  },
+  "2": {
+    "id": 2,
+    "rewards": {
+      "itemId": 1,
+      "itemNum": 101
+    },
+    "expect": 4,
+    "rate": 20,
+    "cn": "会议酬劳"
+  },
+  "3": {
+    "id": 3,
+    "rewards": {
+      "itemId": 1,
+      "itemNum": 102
+    },
+    "expect": 4,
+    "rate": 20,
+    "cn": "会议酬劳"
+  },
+  "4": {
+    "id": 4,
+    "rewards": {
+      "itemId": 1,
+      "itemNum": 103
+    },
+    "expect": 4,
+    "rate": 20,
+    "cn": "会议酬劳"
+  },
+  "5": {
+    "id": 5,
+    "rewards": {
+      "itemId": 1,
+      "itemNum": 104
+    },
+    "expect": 4,
+    "rate": 20,
+    "cn": "会议酬劳"
+  }
+}

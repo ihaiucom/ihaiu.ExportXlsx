@@ -1,0 +1,200 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "放映",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "2": {
+    "id": 2,
+    "name": "拍摄",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "3": {
+    "id": 3,
+    "name": "艺人",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "4": {
+    "id": 4,
+    "name": "星探",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "5": {
+    "id": 5,
+    "name": "生产",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "6": {
+    "id": 6,
+    "name": "市场",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "7": {
+    "id": 7,
+    "name": "日程",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "8": {
+    "id": 8,
+    "name": "每日目标",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "9": {
+    "id": 9,
+    "name": "仓库",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "10": {
+    "id": 10,
+    "name": "订单",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "11": {
+    "id": 11,
+    "name": "合作",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "12": {
+    "id": 12,
+    "name": "公务",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "13": {
+    "id": 13,
+    "name": "粉丝",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "14": {
+    "id": 14,
+    "name": "会议",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "15": {
+    "id": 15,
+    "name": "财务兑换",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "16": {
+    "id": 16,
+    "name": "训练",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "17": {
+    "id": 17,
+    "name": "宝物",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0
+  },
+  "101": {
+    "id": 101,
+    "name": "登录",
+    "icon": "",
+    "moduleName": "Login",
+    "layer": 3,
+    "closeOtherType": 3,
+    "closeHomeWindow": true,
+    "cacheTime": 0,
+    "loaderId": 0
+  }
+}

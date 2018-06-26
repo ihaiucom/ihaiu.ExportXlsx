@@ -17,10 +17,11 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
+			config.number = csvGetInt(csv,  this.GetHeadIndex(  "number"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.city_num = csvGetInt(csv,  this.GetHeadIndex(  "city_num"  )   );
-			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
-			config.reward =  array.parse(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );
+			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.pre_id = csvGetInt(csv,  this.GetHeadIndex(  "pre_id"  )   );
 			config.next_country = csvGetInt(csv,  this.GetHeadIndex(  "next_country"  )   );
 

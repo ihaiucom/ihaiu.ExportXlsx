@@ -1,0 +1,32 @@
+﻿{
+  "1": {
+    "id": 1,
+    "key": "music_switch",
+    "name": "背景音乐开关",
+    "default": true
+  },
+  "2": {
+    "id": 2,
+    "key": "soundeffect_switch",
+    "name": "背景音效开关",
+    "default": true
+  },
+  "3": {
+    "id": 3,
+    "key": "energy_switch",
+    "name": "省电模式开关",
+    "default": false
+  },
+  "4": {
+    "id": 4,
+    "key": "push_switch",
+    "name": "通知开关",
+    "default": false
+  },
+  "5": {
+    "id": 5,
+    "key": "title_switch",
+    "name": "称号开关",
+    "default": false
+  }
+}

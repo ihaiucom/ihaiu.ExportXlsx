@@ -1,0 +1,28 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "task": 1,
+    "value": 10,
+    "zh_cn_description": "收集剧本",
+    "pre_id": 0,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ]
+  },
+  "1002": {
+    "id": 1002,
+    "task": 1,
+    "value": 20,
+    "zh_cn_description": "收集剧本",
+    "pre_id": 1002,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ]
+  }
+}

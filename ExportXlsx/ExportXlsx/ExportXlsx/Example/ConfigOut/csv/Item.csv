@@ -1,0 +1,6 @@
+﻿int	string	string	int	int	string	int	int	int[]	bool	DTItemNum[]	bool	int	int	int	int
+id	名称	道具描述	图标	星级	策划备注	类型	最大堆叠数量	获取途径	是否可使用	使用奖励	是否可出售	出售价格	资产合成id	艺人id	艺人合成数量需求
+id	name	item_des	icon	star	name_tips	type	max_num	get_way	can_use	reward	can_sell	price	syn_id	actor_id	actor_num
+1	金币	金币		0		1	0	6;10	0	0	0	0	0	0	0
+2	美元	美元		0		2	0	2;5;15	0	0	0	0	0	0	0
+3	钻石	钻石		0		3	0	0	0	0	0	0	0	0	0

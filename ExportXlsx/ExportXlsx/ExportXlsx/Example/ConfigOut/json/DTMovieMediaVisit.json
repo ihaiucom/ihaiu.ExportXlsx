@@ -1,0 +1,28 @@
+﻿{
+  "1": {
+    "id": 1,
+    "level": 20,
+    "name": "脱口秀",
+    "name_tips": "脱口秀",
+    "levelup_req": 20,
+    "cost_id": 9,
+    "cost_num": 10,
+    "min_expection": 9,
+    "max_expection": 10,
+    "pic": 0,
+    "big_pic": 0
+  },
+  "2": {
+    "id": 2,
+    "level": 20,
+    "name": "访谈录",
+    "name_tips": "访谈录",
+    "levelup_req": 20,
+    "cost_id": 9,
+    "cost_num": 10,
+    "min_expection": 9,
+    "max_expection": 10,
+    "pic": 0,
+    "big_pic": 0
+  }
+}

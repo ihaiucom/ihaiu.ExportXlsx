@@ -29,10 +29,12 @@ namespace ExportXlsx.Sources
 
         public void Load()
         {
-            if(string.IsNullOrEmpty(tableName))
+
+            if (string.IsNullOrEmpty(tableName))
             {
                 tableName = Path.GetFileNameWithoutExtension(path).FirstUpper();
             }
+            Log.Info($"读取配置表 {tableName}");
             dataStruct.name = tableName;
 
             var xlsx = new FileInfo(path);
@@ -135,7 +137,15 @@ namespace ExportXlsx.Sources
 
                         if (fieldDictByIndex.ContainsKey(c))
                         {
-                            rowData.Add(fieldDictByIndex[c].field, value);
+                            if(rowData.ContainsKey(fieldDictByIndex[c].field))
+                            {
+                                Log.Error($" path:{path}, sheetName:{sheetName}， 存在相同的 field={fieldDictByIndex[c].field} {c}列");
+
+                            }
+                            else
+                            {
+                                rowData.Add(fieldDictByIndex[c].field, value);
+                            }
                         }
                     }
 

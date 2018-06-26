@@ -5,12 +5,12 @@ using System.Text.RegularExpressions;
 
 public static class CsvHelper
 {
-    public static string[] toStringArray(this string txt , string separator = @"[;,:]")
+    public static string[] toStringArray(this string txt , string separator = @"[;,:,；,：]")
     {
         return Regex.Split(txt, separator);
     }
 
-    public static int[] toIntArray(this string txt, string separator = @"[;,:]")
+    public static int[] toIntArray(this string txt, string separator = @"[;,:,；,：]")
     {
         List<int> list = new List<int>();
         string[] arr = txt.toStringArray(separator);
@@ -23,7 +23,7 @@ public static class CsvHelper
 
 
 
-    public static float[] toFloatArray(this string txt, string separator = @"[;,:]")
+    public static float[] toFloatArray(this string txt, string separator = @"[;,:,；,：]")
     {
         List<float> list = new List<float>();
         string[] arr = txt.toStringArray(separator);
@@ -37,7 +37,7 @@ public static class CsvHelper
 
 
 
-    public static bool[] toBooleanArray(this string txt, string separator = @"[;,:]")
+    public static bool[] toBooleanArray(this string txt, string separator = @"[;,:,；,：]")
     {
         List<bool> list = new List<bool>();
         string[] arr = txt.toStringArray(separator);

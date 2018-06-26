@@ -1,0 +1,56 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "key": "meeting_wait",
+    "zh_cn_text": "公司的谈判代表已经等候多时了",
+    "cn": "公司的谈判代表已经等候多时了"
+  },
+  "2001": {
+    "id": 2001,
+    "key": "meeting_goal1",
+    "zh_cn_text": "交易",
+    "cn": "交易"
+  },
+  "2002": {
+    "id": 2002,
+    "key": "meeting_goal2",
+    "zh_cn_text": "交易",
+    "cn": "交易"
+  },
+  "2003": {
+    "id": 2003,
+    "key": "meeting_goal3",
+    "zh_cn_text": "交易",
+    "cn": "交易"
+  },
+  "2004": {
+    "id": 2004,
+    "key": "meeting_goal4",
+    "zh_cn_text": "交易",
+    "cn": "交易"
+  },
+  "3001": {
+    "id": 3001,
+    "key": "meeting_fair",
+    "zh_cn_text": "平局",
+    "cn": "平局"
+  },
+  "3002": {
+    "id": 3002,
+    "key": "meeting_win",
+    "zh_cn_text": "输了",
+    "cn": "输了"
+  },
+  "3003": {
+    "id": 3003,
+    "key": "meeting_lose1",
+    "zh_cn_text": "不玩了",
+    "cn": "不玩了"
+  },
+  "3004": {
+    "id": 3004,
+    "key": "meeting_lose2",
+    "zh_cn_text": "你要付出代价",
+    "cn": "你要付出代价"
+  }
+}

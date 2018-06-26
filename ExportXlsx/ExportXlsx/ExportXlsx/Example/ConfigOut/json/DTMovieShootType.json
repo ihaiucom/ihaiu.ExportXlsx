@@ -1,0 +1,74 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "动作",
+    "name_tips": "动作",
+    "type_des": "男观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "2": {
+    "id": 2,
+    "name": "爱情",
+    "name_tips": "爱情",
+    "type_des": "女观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "3": {
+    "id": 3,
+    "name": "动画",
+    "name_tips": "动画",
+    "type_des": "儿童观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "4": {
+    "id": 4,
+    "name": "叙事",
+    "name_tips": "叙事",
+    "type_des": "男观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "5": {
+    "id": 5,
+    "name": "悬疑",
+    "name_tips": "悬疑",
+    "type_des": "男观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "6": {
+    "id": 6,
+    "name": "恐怖",
+    "name_tips": "恐怖",
+    "type_des": "女观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "7": {
+    "id": 7,
+    "name": "喜剧",
+    "name_tips": "喜剧",
+    "type_des": "女观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  },
+  "8": {
+    "id": 8,
+    "name": "歌舞",
+    "name_tips": "歌舞",
+    "type_des": "儿童观众更喜爱",
+    "item_id": 1,
+    "item_num": 100,
+    "pic": 1
+  }
+}

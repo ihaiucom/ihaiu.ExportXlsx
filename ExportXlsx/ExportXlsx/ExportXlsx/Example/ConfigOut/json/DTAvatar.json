@@ -1,0 +1,12 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "en_name": "Superman",
+    "cn_name": "超人",
+    "icon": "abc/001",
+    "mini_icon": "abc/001",
+    "piece_icon": "abc/001",
+    "model_skin": "abc/001",
+    "model_bones": "abc/001"
+  }
+}

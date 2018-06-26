@@ -1,0 +1,177 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "name": "总票房第1名",
+    "type": 1,
+    "rank": 1,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "1002": {
+    "id": 1002,
+    "name": "总票房第2名",
+    "type": 1,
+    "rank": 2,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "1003": {
+    "id": 1003,
+    "name": "总票房第3名",
+    "type": 1,
+    "rank": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "1004": {
+    "id": 1004,
+    "name": "总票房第4名",
+    "type": 1,
+    "rank": 4,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": false,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "2001": {
+    "id": 2001,
+    "name": "单次票房第1名",
+    "type": 2,
+    "rank": 1,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "2002": {
+    "id": 2002,
+    "name": "单次票房第2名",
+    "type": 2,
+    "rank": 2,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  },
+  "2003": {
+    "id": 2003,
+    "name": "单次票房第3名",
+    "type": 2,
+    "rank": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "extra_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "congratulate_switch": true,
+    "congratulate_reward": {
+      "itemId": 0,
+      "itemNum": 50
+    }
+  }
+}

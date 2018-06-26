@@ -9,14 +9,15 @@ namespace configs
 	{
 		id : number;
 		name : string;
-		function_open : array;
+		type : number;
+		function_open : number[];
 		tips : string;
 		level : number;
-		cost : array;
+		cost : DTItemNum[];
 		level_req : number;
-		building_req : array;
+		type_level : DTBuildingReq[];
 		block_req : number;
 		UI : boolean;
-		effect_id : array;
+		effect_id : number[];
 	}
 }

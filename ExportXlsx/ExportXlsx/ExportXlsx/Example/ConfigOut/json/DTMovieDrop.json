@@ -1,0 +1,2486 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "一般",
+    "pic": 1,
+    "order_num": 2,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 5,
+    "drop_num": 2,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "良好",
+    "pic": 2,
+    "order_num": 3,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 10,
+    "drop_num": 3,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "大卖",
+    "pic": 3,
+    "order_num": 4,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 15,
+    "drop_num": 4,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "超卖",
+    "pic": 4,
+    "order_num": 5,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 20,
+    "drop_num": 5,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "传奇",
+    "pic": 5,
+    "order_num": 6,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 25,
+    "drop_num": 6,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "神话",
+    "pic": 6,
+    "order_num": 7,
+    "order_qua": [
+      100,
+      50,
+      25,
+      12
+    ],
+    "expect": 30,
+    "drop_num": 7,
+    "block1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block1_num": [
+      1,
+      5
+    ],
+    "block2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block2_num": [
+      1,
+      5
+    ],
+    "block3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block3_num": [
+      1,
+      5
+    ],
+    "block4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block4_num": [
+      1,
+      5
+    ],
+    "block5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block5_num": [
+      1,
+      5
+    ],
+    "block6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block6_num": [
+      1,
+      5
+    ],
+    "block7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block7_num": [
+      1,
+      5
+    ],
+    "block8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block8_num": [
+      1,
+      5
+    ],
+    "block9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block9_num": [
+      1,
+      5
+    ],
+    "block10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "block10_num": [
+      1,
+      5
+    ],
+    "city1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city1_num": [
+      1,
+      5
+    ],
+    "city2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city2_num": [
+      1,
+      5
+    ],
+    "city3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city3_num": [
+      1,
+      5
+    ],
+    "city4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city4_num": [
+      1,
+      5
+    ],
+    "city5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city5_num": [
+      1,
+      5
+    ],
+    "city6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city6_num": [
+      1,
+      5
+    ],
+    "city7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city7_num": [
+      1,
+      5
+    ],
+    "city8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city8_num": [
+      1,
+      5
+    ],
+    "city9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city9_num": [
+      1,
+      5
+    ],
+    "city10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "city10_num": [
+      1,
+      5
+    ],
+    "county1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county1_num": [
+      1,
+      5
+    ],
+    "county2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county2_num": [
+      1,
+      5
+    ],
+    "county3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county3_num": [
+      1,
+      5
+    ],
+    "county4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county4_num": [
+      1,
+      5
+    ],
+    "county5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county5_num": [
+      1,
+      5
+    ],
+    "county6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county6_num": [
+      1,
+      5
+    ],
+    "county7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county7_num": [
+      1,
+      5
+    ],
+    "county8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county8_num": [
+      1,
+      5
+    ],
+    "county9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county9_num": [
+      1,
+      5
+    ],
+    "county10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "county10_num": [
+      1,
+      5
+    ],
+    "world1_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world1_num": [
+      1,
+      5
+    ],
+    "world2_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world2_num": [
+      1,
+      5
+    ],
+    "world3_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world3_num": [
+      1,
+      5
+    ],
+    "world4_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world4_num": [
+      1,
+      5
+    ],
+    "world5_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world5_num": [
+      1,
+      5
+    ],
+    "world6_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world6_num": [
+      1,
+      5
+    ],
+    "world7_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world7_num": [
+      1,
+      5
+    ],
+    "world8_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world8_num": [
+      1,
+      5
+    ],
+    "world9_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world9_num": [
+      1,
+      5
+    ],
+    "world10_drop": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "world10_num": [
+      1,
+      5
+    ]
+  }
+}

@@ -10,6 +10,7 @@ namespace ExportXlsx.Sources
     {
         public static void Export(TableReader table, XlsxManager xlsxManager)
         {
+            Log.Info("ExportJson:" + table.path);
             string uidKey = table.fieldDictByIndex[1].field;
 
 
@@ -157,9 +158,12 @@ namespace ExportXlsx.Sources
 
             if(!string.IsNullOrEmpty(txt))
             {
-                string[] csv = txt.toStringArray(@"[;,:]");
+                string[] csv = txt.toStringArray(@"[;,:,；,：]");
                 for (int i = 0; i < dataStruct.fields.Count; i++)
                 {
+                    if (i >= csv.Length)
+                        continue;
+
                     DataField dataField = dataStruct.fields[i];
                     Parse(dataField, csv[i], jd, xlsxManager);
                 }
@@ -175,7 +179,7 @@ namespace ExportXlsx.Sources
 
             if (!string.IsNullOrEmpty(txt))
             {
-                string[] csv = txt.toStringArray(@"[;]");
+                string[] csv = txt.toStringArray(@"[;,；]");
                 for (int i = 0; i < csv.Length; i++)
                 {
                     jd.Add(ParseStruct(csv[i], dataStruct, xlsxManager));

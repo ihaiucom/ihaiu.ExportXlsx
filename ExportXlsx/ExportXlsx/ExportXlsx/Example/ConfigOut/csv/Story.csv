@@ -1,0 +1,10 @@
+﻿int	int	string	string	string	string	string	int	int	int	int	int[]	int[]	DTShootType[]	int[]	bool	int	int	int	int	DTStoryEffect[]	bool	int	int
+剧本id	剧本编号	剧本名称	策划备注	电影海报名	简介	策划备注2	剧本时长（分钟）	拍摄消耗	星级	剧本风格	剧本元素	隐性剧本元素	拍摄类型	角色属性id	是否有剧本目标	剧本目标id	男性观众需求	女性观众需求	儿童观众需求	性别奖励	是否可以拍续作	媒体访问数下限	媒体访问数上限
+id	story_num	zh_cn_story_name	name_tips	poster_name	zh_cn_introduction	introduction_tips	length	cost	stars	type	tags	hidden_tags	shoot_type	property	target_mark	target	male_percent	female_percent	child_percent	reward	sequel_mark	interviews_bottom	interviews_top
+1001	1	钢达尼号	策划备注	movie1	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1001;1002	1	1001	10	10	10	1:10	0	0	5
+1002	2	钢达尼号	策划备注	movie2	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1003;1004	1	1001	10	10	10	1:11	0	0	5
+1003	3	钢达尼号	策划备注	movie3	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1005;1006	1	1001	10	10	10	1:12	0	0	5
+1004	4	钢达尼号	策划备注	movie4	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1007;1008	1	1001	10	10	10	1:13	0	0	5
+1005	5	钢达尼号	策划备注	movie5	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1009;1010	1	1001	10	10	10	1:14	0	0	5
+1006	6	钢达尼号	策划备注	movie6	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1011;1012	1	1001	10	10	10	1:15	0	0	5
+1007	7	钢达尼号	策划备注	movie7	电影简介	策划备注2	150	900	2	1701	1801;1802	1803;1804	2201:100;2202:50	1012;1004	1	1001	10	10	10	1:16	0	0	5

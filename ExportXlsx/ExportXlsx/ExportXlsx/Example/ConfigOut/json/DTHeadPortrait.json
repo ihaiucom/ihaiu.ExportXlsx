@@ -1,0 +1,33 @@
+﻿{
+  "1000": {
+    "id": 1000,
+    "zh_cn_name": "测试",
+    "sex": 2,
+    "unlock": [
+      {
+        "itemId": 1,
+        "itemNum": 1
+      }
+    ],
+    "icon": 1001
+  },
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "女学生",
+    "sex": 2,
+    "unlock": [],
+    "icon": 1001
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_name": "女职员",
+    "sex": 2,
+    "unlock": [
+      {
+        "itemId": 1,
+        "itemNum": 500
+      }
+    ],
+    "icon": 1001
+  }
+}

@@ -1,0 +1,77 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "金币",
+    "item_des": "金币",
+    "icon": 0,
+    "star": 0,
+    "name_tips": "",
+    "type": 1,
+    "max_num": 0,
+    "get_way": [
+      6,
+      10
+    ],
+    "can_use": false,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "2": {
+    "id": 2,
+    "name": "美元",
+    "item_des": "美元",
+    "icon": 0,
+    "star": 0,
+    "name_tips": "",
+    "type": 2,
+    "max_num": 0,
+    "get_way": [
+      2,
+      5,
+      15
+    ],
+    "can_use": false,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "3": {
+    "id": 3,
+    "name": "钻石",
+    "item_des": "钻石",
+    "icon": 0,
+    "star": 0,
+    "name_tips": "",
+    "type": 3,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  }
+}

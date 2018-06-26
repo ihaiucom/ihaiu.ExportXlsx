@@ -1,0 +1,305 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "服务器第1",
+    "rank": [
+      1
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "服务器第2",
+    "rank": [
+      2
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "服务器第3",
+    "rank": [
+      3
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "服务器第4",
+    "rank": [
+      4
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "服务器第5",
+    "rank": [
+      5
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "服务器第6至10",
+    "rank": [
+      6,
+      10
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "服务器第11至20",
+    "rank": [
+      11,
+      20
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "服务器第21至50",
+    "rank": [
+      21,
+      50
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "服务器第51至100",
+    "rank": [
+      51,
+      100
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "服务器第101至200",
+    "rank": [
+      101,
+      200
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "服务器201至500",
+    "rank": [
+      201,
+      500
+    ],
+    "normal_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "spec_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,1082 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众1",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      11
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众2",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      21
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "20分观众3",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      31
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "20分观众4",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      41
+    ]
+  },
+  "5": {
+    "id": 5,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众5",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      51
+    ]
+  },
+  "6": {
+    "id": 6,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众6",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      61
+    ]
+  },
+  "7": {
+    "id": 7,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "20分观众7",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      71
+    ]
+  },
+  "8": {
+    "id": 8,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众8",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      81
+    ]
+  },
+  "9": {
+    "id": 9,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "20分观众9",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      91
+    ]
+  },
+  "10": {
+    "id": 10,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "20分观众10",
+    "min_score": 0.0,
+    "max_score": 20.0,
+    "content": [
+      101
+    ]
+  },
+  "11": {
+    "id": 11,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众1",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      111
+    ]
+  },
+  "12": {
+    "id": 12,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众2",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      121
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "30分观众3",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      131
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "30分观众4",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      141
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众5",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      151
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众6",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      161
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "30分观众7",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      171
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众8",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      181
+    ]
+  },
+  "19": {
+    "id": 19,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "30分观众9",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      191
+    ]
+  },
+  "20": {
+    "id": 20,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "30分观众10",
+    "min_score": 21.0,
+    "max_score": 30.0,
+    "content": [
+      201
+    ]
+  },
+  "21": {
+    "id": 21,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众1",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      211
+    ]
+  },
+  "22": {
+    "id": 22,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众2",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      221
+    ]
+  },
+  "23": {
+    "id": 23,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "40分观众3",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      231
+    ]
+  },
+  "24": {
+    "id": 24,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "40分观众4",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      241
+    ]
+  },
+  "25": {
+    "id": 25,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众5",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      251
+    ]
+  },
+  "26": {
+    "id": 26,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众6",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      261
+    ]
+  },
+  "27": {
+    "id": 27,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "40分观众7",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      271
+    ]
+  },
+  "28": {
+    "id": 28,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众8",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      281
+    ]
+  },
+  "29": {
+    "id": 29,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "40分观众9",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      291
+    ]
+  },
+  "30": {
+    "id": 30,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "40分观众10",
+    "min_score": 31.0,
+    "max_score": 40.0,
+    "content": [
+      301
+    ]
+  },
+  "31": {
+    "id": 31,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众1",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      311
+    ]
+  },
+  "32": {
+    "id": 32,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众2",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      321
+    ]
+  },
+  "33": {
+    "id": 33,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "50分观众3",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      331
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "50分观众4",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      341
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众5",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      351
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众6",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      361
+    ]
+  },
+  "37": {
+    "id": 37,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "50分观众7",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      371
+    ]
+  },
+  "38": {
+    "id": 38,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众8",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      381
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "50分观众9",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      391
+    ]
+  },
+  "40": {
+    "id": 40,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "50分观众10",
+    "min_score": 41.0,
+    "max_score": 50.0,
+    "content": [
+      401
+    ]
+  },
+  "41": {
+    "id": 41,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众1",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      411
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众2",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      421
+    ]
+  },
+  "43": {
+    "id": 43,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "60分观众3",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      431
+    ]
+  },
+  "44": {
+    "id": 44,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "60分观众4",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      441
+    ]
+  },
+  "45": {
+    "id": 45,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众5",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      451
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众6",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      461
+    ]
+  },
+  "47": {
+    "id": 47,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "60分观众7",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      471
+    ]
+  },
+  "48": {
+    "id": 48,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众8",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      481
+    ]
+  },
+  "49": {
+    "id": 49,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "60分观众9",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      491
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "60分观众10",
+    "min_score": 51.0,
+    "max_score": 60.0,
+    "content": [
+      501
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众1",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      511
+    ]
+  },
+  "52": {
+    "id": 52,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众2",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      521
+    ]
+  },
+  "53": {
+    "id": 53,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "70分观众3",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      531
+    ]
+  },
+  "54": {
+    "id": 54,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "70分观众4",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      541
+    ]
+  },
+  "55": {
+    "id": 55,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众5",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      551
+    ]
+  },
+  "56": {
+    "id": 56,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众6",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      561
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "70分观众7",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      571
+    ]
+  },
+  "58": {
+    "id": 58,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众8",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      581
+    ]
+  },
+  "59": {
+    "id": 59,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "70分观众9",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      591
+    ]
+  },
+  "60": {
+    "id": 60,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "70分观众10",
+    "min_score": 61.0,
+    "max_score": 70.0,
+    "content": [
+      601
+    ]
+  },
+  "61": {
+    "id": 61,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众1",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      611
+    ]
+  },
+  "62": {
+    "id": 62,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众2",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      621
+    ]
+  },
+  "63": {
+    "id": 63,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "80分观众3",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      631
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "80分观众4",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      641
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众5",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      651
+    ]
+  },
+  "66": {
+    "id": 66,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众6",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      661
+    ]
+  },
+  "67": {
+    "id": 67,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "80分观众7",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      671
+    ]
+  },
+  "68": {
+    "id": 68,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众8",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      681
+    ]
+  },
+  "69": {
+    "id": 69,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "80分观众9",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      691
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "80分观众10",
+    "min_score": 71.0,
+    "max_score": 80.0,
+    "content": [
+      701
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众1",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      711
+    ]
+  },
+  "72": {
+    "id": 72,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众2",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      721
+    ]
+  },
+  "73": {
+    "id": 73,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "90分观众3",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      731
+    ]
+  },
+  "74": {
+    "id": 74,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "90分观众4",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      741
+    ]
+  },
+  "75": {
+    "id": 75,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众5",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      751
+    ]
+  },
+  "76": {
+    "id": 76,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众6",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      761
+    ]
+  },
+  "77": {
+    "id": 77,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "90分观众7",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      771
+    ]
+  },
+  "78": {
+    "id": 78,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众8",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      781
+    ]
+  },
+  "79": {
+    "id": 79,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "90分观众9",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      791
+    ]
+  },
+  "80": {
+    "id": 80,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "90分观众10",
+    "min_score": 81.0,
+    "max_score": 90.0,
+    "content": [
+      801
+    ]
+  },
+  "81": {
+    "id": 81,
+    "name": "Tom",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众1",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      811
+    ]
+  },
+  "82": {
+    "id": 82,
+    "name": "Jack",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众2",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      821
+    ]
+  },
+  "83": {
+    "id": 83,
+    "name": "Mary",
+    "sex": 2,
+    "pic": "",
+    "tips": "100分观众3",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      831
+    ]
+  },
+  "84": {
+    "id": 84,
+    "name": "Rose",
+    "sex": 2,
+    "pic": "",
+    "tips": "100分观众4",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      841
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "Mike",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众5",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      851
+    ]
+  },
+  "86": {
+    "id": 86,
+    "name": "John",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众6",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      861
+    ]
+  },
+  "87": {
+    "id": 87,
+    "name": "Judy",
+    "sex": 2,
+    "pic": "",
+    "tips": "100分观众7",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      871
+    ]
+  },
+  "88": {
+    "id": 88,
+    "name": "Sam",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众8",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      881
+    ]
+  },
+  "89": {
+    "id": 89,
+    "name": "Linda",
+    "sex": 2,
+    "pic": "",
+    "tips": "100分观众9",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      891
+    ]
+  },
+  "90": {
+    "id": 90,
+    "name": "Tony",
+    "sex": 1,
+    "pic": "",
+    "tips": "100分观众10",
+    "min_score": 91.0,
+    "max_score": 100.0,
+    "content": [
+      901
+    ]
+  }
+}

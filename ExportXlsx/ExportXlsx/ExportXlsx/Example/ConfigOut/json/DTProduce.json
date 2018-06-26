@@ -1,0 +1,233 @@
+﻿{
+  "100": {
+    "id": 100,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 1,
+    "unlock_building": 1001,
+    "unlock_gold": 0,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 10,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 0,
+    "next_line": 101
+  },
+  "101": {
+    "id": 101,
+    "zh_cn_name": "科幻激光枪",
+    "zh_cn_tip": "这是一把枪",
+    "grade": 1,
+    "unlock_level": 5,
+    "unlock_building": 1001,
+    "unlock_gold": 1500,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 1,
+    "cheer_continents": 1,
+    "cheer_type": 0,
+    "cheer_age": 1,
+    "pre_id": 100,
+    "next_line": 102
+  },
+  "102": {
+    "id": 102,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 9,
+    "unlock_building": 1001,
+    "unlock_gold": 3000,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 1,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 101,
+    "next_line": 103
+  },
+  "103": {
+    "id": 103,
+    "zh_cn_name": "科幻激光枪",
+    "zh_cn_tip": "这是一把枪",
+    "grade": 1,
+    "unlock_level": 13,
+    "unlock_building": 1001,
+    "unlock_gold": 4500,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 1,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1,
+    "pre_id": 102,
+    "next_line": 104
+  },
+  "104": {
+    "id": 104,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 17,
+    "unlock_building": 1001,
+    "unlock_gold": 6000,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 1,
+    "cheer_type": 0,
+    "cheer_age": 2,
+    "pre_id": 103,
+    "next_line": 105
+  },
+  "105": {
+    "id": 105,
+    "zh_cn_name": "科幻激光枪",
+    "zh_cn_tip": "这是一把枪",
+    "grade": 1,
+    "unlock_level": 21,
+    "unlock_building": 1001,
+    "unlock_gold": 7500,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 1,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 104,
+    "next_line": 106
+  },
+  "106": {
+    "id": 106,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 25,
+    "unlock_building": 1001,
+    "unlock_gold": 9000,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1,
+    "pre_id": 105,
+    "next_line": 107
+  },
+  "107": {
+    "id": 107,
+    "zh_cn_name": "科幻激光枪",
+    "zh_cn_tip": "这是一把枪",
+    "grade": 1,
+    "unlock_level": 29,
+    "unlock_building": 1001,
+    "unlock_gold": 10500,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 1,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 2,
+    "pre_id": 106,
+    "next_line": 108
+  },
+  "108": {
+    "id": 108,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 33,
+    "unlock_building": 1001,
+    "unlock_gold": 12000,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 107,
+    "next_line": 109
+  },
+  "109": {
+    "id": 109,
+    "zh_cn_name": "生产纪念品",
+    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "grade": 1,
+    "unlock_level": 37,
+    "unlock_building": 1001,
+    "unlock_gold": 13500,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1,
+    "pre_id": 108,
+    "next_line": 110
+  },
+  "110": {
+    "id": 110,
+    "zh_cn_name": "科幻激光枪",
+    "zh_cn_tip": "这是一把枪",
+    "grade": 1,
+    "unlock_level": 41,
+    "unlock_building": 1001,
+    "unlock_gold": 15000,
+    "unlock_reward": {
+      "itemId": 2,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 1001,
+    "cheer_sex": 1,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 2,
+    "pre_id": 109,
+    "next_line": 0
+  }
+}

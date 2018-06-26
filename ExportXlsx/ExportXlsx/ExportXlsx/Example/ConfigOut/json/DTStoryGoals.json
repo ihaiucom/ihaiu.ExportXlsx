@@ -1,0 +1,72 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "rank": 1,
+    "property1": 1,
+    "value1": 20,
+    "property2": 2,
+    "value2": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ]
+  },
+  "1002": {
+    "id": 1002,
+    "rank": 1,
+    "property1": 1,
+    "value1": 20,
+    "property2": 2,
+    "value2": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ]
+  },
+  "1003": {
+    "id": 1003,
+    "rank": 1,
+    "property1": 1,
+    "value1": 20,
+    "property2": 2,
+    "value2": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ]
+  },
+  "1004": {
+    "id": 1004,
+    "rank": 1,
+    "property1": 1,
+    "value1": 20,
+    "property2": 2,
+    "value2": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ]
+  },
+  "1005": {
+    "id": 1005,
+    "rank": 1,
+    "property1": 1,
+    "value1": 20,
+    "property2": 2,
+    "value2": 20,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ]
+  }
+}

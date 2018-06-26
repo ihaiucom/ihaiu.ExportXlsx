@@ -1,0 +1,54 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+
+namespace configs
+{
+
+	export class ActorConfigReaderStruct extends CsvConfigRender<    ActorConfig      >
+	{
+		path = "Actor";
+
+
+        ParseCsv(csv: string[] )
+        {
+			let config = new ActorConfig();
+
+
+			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
+			config.en_name = csvGetString(csv,  this.GetHeadIndex(  "en_name"  )   );
+			config.cn_name = csvGetString(csv,  this.GetHeadIndex(  "cn_name"  )   );
+			config.star = csvGetInt(csv,  this.GetHeadIndex(  "star"  )   );
+			config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
+			config.country = csvGetInt(csv,  this.GetHeadIndex(  "country"  )   );
+			config.show_type = csvGetInt(csv,  this.GetHeadIndex(  "show_type"  )   );
+			config.age_type = csvGetInt(csv,  this.GetHeadIndex(  "age_type"  )   );
+			config.avatar = csvGetInt(csv,  this.GetHeadIndex(  "avatar"  )   );
+			config.spectacle = csvGetInt(csv,  this.GetHeadIndex(  "spectacle"  )   );
+			config.perform = csvGetInt(csv,  this.GetHeadIndex(  "perform"  )   );
+			config.plot = csvGetInt(csv,  this.GetHeadIndex(  "plot"  )   );
+			config.ary = csvGetInt(csv,  this.GetHeadIndex(  "ary"  )   );
+			config.entertainment = csvGetInt(csv,  this.GetHeadIndex(  "entertainment"  )   );
+			config.skill =  DTActorSkill.parse(       csvGetString(csv,  this.GetHeadIndex(  "skill"  )   )   );
+			config.story_type =  DTActorStory.parse(       csvGetString(csv,  this.GetHeadIndex(  "story_type"  )   )   );
+			config.story_feature =  DTActorFeature.parse(       csvGetString(csv,  this.GetHeadIndex(  "story_feature"  )   )   );
+			config.character =  DTActorCharacter.parse(       csvGetString(csv,  this.GetHeadIndex(  "character"  )   )   );
+			config.surprise = csvGetInt(csv,  this.GetHeadIndex(  "surprise"  )   );
+			config.cost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "cost"  )   )   );
+			config.recruit_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "recruit_reward"  )   )   );
+			config.enable_cost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "enable_cost"  )   )   );
+			config.random_value = csvGetInt(csv,  this.GetHeadIndex(  "random_value"  )   );
+			config.exp = csvGetInt(csv,  this.GetHeadIndex(  "exp"  )   );
+			config.paycheck = csvGetInt(csv,  this.GetHeadIndex(  "paycheck"  )   );
+			config.stamina = csvGetInt(csv,  this.GetHeadIndex(  "stamina"  )   );
+			config.culture = csvGetInt(csv,  this.GetHeadIndex(  "culture"  )   );
+			config.assets = csvGetInt(csv,  this.GetHeadIndex(  "assets"  )   );
+			config.en_tips = csvGetString(csv,  this.GetHeadIndex(  "en_tips"  )   );
+			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
+
+
+			this.addConfig(config);
+        }
+	}
+}
