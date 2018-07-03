@@ -7,16 +7,17 @@ namespace configs
 {
 	export class DialogueConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		type : number;
 		name : string;
 		content : string;
-		tips : string;
 
 
 
 
+
+		
 	}
 
 

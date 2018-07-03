@@ -7,6 +7,7 @@ namespace configs
 {
 	export class GameLevelConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		zh_cn_name : string;
@@ -18,6 +19,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

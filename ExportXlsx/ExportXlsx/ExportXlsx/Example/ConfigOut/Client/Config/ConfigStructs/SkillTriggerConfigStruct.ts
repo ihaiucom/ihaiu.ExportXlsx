@@ -7,15 +7,22 @@ namespace configs
 {
 	export class SkillTriggerConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		trigger : string;
+		trigger : number;
 		value : number;
 		cn_tips : string;
 
 
 
 
+
+		
+		get tips()
+		{
+			return this.cn_tips
+		}
 	}
 
 

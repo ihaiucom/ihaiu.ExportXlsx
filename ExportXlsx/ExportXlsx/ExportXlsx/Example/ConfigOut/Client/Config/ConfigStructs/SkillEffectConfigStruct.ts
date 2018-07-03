@@ -7,14 +7,21 @@ namespace configs
 {
 	export class SkillEffectConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		effect : string;
+		effect : number;
 		cn_tips : string;
 
 
 
 
+
+		
+		get tips()
+		{
+			return this.cn_tips
+		}
 	}
 
 

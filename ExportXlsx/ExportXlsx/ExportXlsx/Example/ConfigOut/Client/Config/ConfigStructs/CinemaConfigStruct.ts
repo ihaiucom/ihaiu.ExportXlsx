@@ -7,9 +7,10 @@ namespace configs
 {
 	export class CinemaConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		sign_level : number;
 		pic : number;
 		num : number;
@@ -20,6 +21,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

@@ -17,13 +17,15 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
 			config.pic = csvGetString(csv,  this.GetHeadIndex(  "pic"  )   );
 			config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
-			config.min_score = csvGetInt(csv,  this.GetHeadIndex(  "min_score"  )   );
-			config.max_score = csvGetInt(csv,  this.GetHeadIndex(  "max_score"  )   );
-			config.content =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "content"  )   )   );
+			config.min_score = csvGetFloat(csv,  this.GetHeadIndex(  "min_score"  )   );
+			config.max_score = csvGetFloat(csv,  this.GetHeadIndex(  "max_score"  )   );
+			config.zh_cn_content = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_content"  )   );
+
+			
 
 
 			this.addConfig(config);

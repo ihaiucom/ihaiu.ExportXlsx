@@ -20,9 +20,11 @@ namespace configs
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 			config.field = csvGetString(csv,  this.GetHeadIndex(  "field"  )   );
 			config.enName = csvGetString(csv,  this.GetHeadIndex(  "enName"  )   );
-			config.cnName = csvGetString(csv,  this.GetHeadIndex(  "cnName"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.tip = csvGetString(csv,  this.GetHeadIndex(  "tip"  )   );
+
+			
 
 
 			this.addConfig(config);

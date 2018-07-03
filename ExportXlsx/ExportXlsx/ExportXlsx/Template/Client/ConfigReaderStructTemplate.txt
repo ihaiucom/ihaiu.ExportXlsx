@@ -20,6 +20,11 @@ namespace configs
 			config.>:[0]:< = >:[1]:<;
 			>:ENDFOREACH:<
 
+			
+			>:FOREACH dicts:<
+			config[">:[0]:<"] = >:[1]:<;
+			>:ENDFOREACH:<
+
 
 			this.addConfig(config);
         }

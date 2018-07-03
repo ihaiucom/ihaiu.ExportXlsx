@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ActorAssetsConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		type : number;
@@ -21,6 +22,12 @@ namespace configs
 
 
 
+
+		
+		get tips()
+		{
+			return this.cn_tips
+		}
 	}
 
 

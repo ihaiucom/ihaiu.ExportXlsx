@@ -7,5 +7,6 @@ namespace configs
 {
 	export class RandomNameConfig extends RandomNameConfigStruct
 	{
+		
 	}
 }

@@ -3,7 +3,7 @@
     "level": 1,
     "fans": 1000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -15,13 +15,15 @@
       12
     ],
     "order_num": 5,
-    "actor_max": 0
+    "train_max": 0,
+    "actor_max": 0,
+    "hide_max": 0
   },
   "2": {
     "level": 2,
     "fans": 2000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -33,13 +35,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "3": {
     "level": 3,
     "fans": 3000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -51,13 +55,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "4": {
     "level": 4,
     "fans": 4000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -69,13 +75,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "5": {
     "level": 5,
     "fans": 5000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -87,13 +95,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "6": {
     "level": 6,
     "fans": 6000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -105,13 +115,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "7": {
     "level": 7,
     "fans": 7000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -123,13 +135,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "8": {
     "level": 8,
     "fans": 8000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -141,13 +155,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "9": {
     "level": 9,
     "fans": 9000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -159,13 +175,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "10": {
     "level": 10,
     "fans": 10000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -177,13 +195,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "11": {
     "level": 11,
     "fans": 11000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -195,13 +215,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "12": {
     "level": 12,
     "fans": 12000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -213,13 +235,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "13": {
     "level": 13,
     "fans": 13000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -231,13 +255,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "14": {
     "level": 14,
     "fans": 14000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -249,13 +275,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "15": {
     "level": 15,
     "fans": 15000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -267,13 +295,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "16": {
     "level": 16,
     "fans": 16000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -285,13 +315,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "17": {
     "level": 17,
     "fans": 17000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -303,13 +335,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "18": {
     "level": 18,
     "fans": 18000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -321,13 +355,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "19": {
     "level": 19,
     "fans": 19000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -339,13 +375,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "20": {
     "level": 20,
     "fans": 20000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -357,13 +395,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "21": {
     "level": 21,
     "fans": 21000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -375,13 +415,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "22": {
     "level": 22,
     "fans": 22000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -393,13 +435,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "23": {
     "level": 23,
     "fans": 23000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -411,13 +455,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "24": {
     "level": 24,
     "fans": 24000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -429,13 +475,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "25": {
     "level": 25,
     "fans": 25000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -447,13 +495,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "26": {
     "level": 26,
     "fans": 26000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -465,13 +515,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "27": {
     "level": 27,
     "fans": 27000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -483,13 +535,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "28": {
     "level": 28,
     "fans": 28000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -501,13 +555,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "29": {
     "level": 29,
     "fans": 29000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -519,13 +575,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "30": {
     "level": 30,
     "fans": 30000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -537,13 +595,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "31": {
     "level": 31,
     "fans": 31000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -555,13 +615,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "32": {
     "level": 32,
     "fans": 32000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -573,13 +635,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "33": {
     "level": 33,
     "fans": 33000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -591,13 +655,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "34": {
     "level": 34,
     "fans": 34000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -609,13 +675,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "35": {
     "level": 35,
     "fans": 35000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -627,13 +695,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "36": {
     "level": 36,
     "fans": 36000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -645,13 +715,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "37": {
     "level": 37,
     "fans": 37000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -663,13 +735,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "38": {
     "level": 38,
     "fans": 38000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -681,13 +755,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "39": {
     "level": 39,
     "fans": 39000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -699,13 +775,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "40": {
     "level": 40,
     "fans": 40000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -717,13 +795,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "41": {
     "level": 41,
     "fans": 41000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -735,13 +815,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "42": {
     "level": 42,
     "fans": 42000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -753,13 +835,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "43": {
     "level": 43,
     "fans": 43000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -771,13 +855,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "44": {
     "level": 44,
     "fans": 44000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -789,13 +875,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "45": {
     "level": 45,
     "fans": 45000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -807,13 +895,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "46": {
     "level": 46,
     "fans": 46000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -825,13 +915,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "47": {
     "level": 47,
     "fans": 47000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -843,13 +935,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "48": {
     "level": 48,
     "fans": 48000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -861,13 +955,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "49": {
     "level": 49,
     "fans": 49000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -879,13 +975,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "50": {
     "level": 50,
     "fans": 50000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -897,13 +995,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "51": {
     "level": 51,
     "fans": 51000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -915,13 +1015,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "52": {
     "level": 52,
     "fans": 52000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -933,13 +1035,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "53": {
     "level": 53,
     "fans": 53000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -951,13 +1055,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "54": {
     "level": 54,
     "fans": 54000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -969,13 +1075,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "55": {
     "level": 55,
     "fans": 55000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -987,13 +1095,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "56": {
     "level": 56,
     "fans": 56000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1005,13 +1115,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "57": {
     "level": 57,
     "fans": 57000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1023,13 +1135,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "58": {
     "level": 58,
     "fans": 58000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1041,13 +1155,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "59": {
     "level": 59,
     "fans": 59000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1059,13 +1175,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "60": {
     "level": 60,
     "fans": 60000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1077,13 +1195,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "61": {
     "level": 61,
     "fans": 61000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1095,13 +1215,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "62": {
     "level": 62,
     "fans": 62000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1113,13 +1235,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "63": {
     "level": 63,
     "fans": 63000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1131,13 +1255,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "64": {
     "level": 64,
     "fans": 64000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1149,13 +1275,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "65": {
     "level": 65,
     "fans": 65000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1167,13 +1295,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "66": {
     "level": 66,
     "fans": 66000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1185,13 +1315,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "67": {
     "level": 67,
     "fans": 67000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1203,13 +1335,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "68": {
     "level": 68,
     "fans": 68000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1221,13 +1355,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "69": {
     "level": 69,
     "fans": 69000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1239,13 +1375,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "70": {
     "level": 70,
     "fans": 70000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1257,13 +1395,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "71": {
     "level": 71,
     "fans": 71000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1275,13 +1415,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "72": {
     "level": 72,
     "fans": 72000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1293,13 +1435,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "73": {
     "level": 73,
     "fans": 73000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1311,13 +1455,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "74": {
     "level": 74,
     "fans": 74000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1329,13 +1475,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "75": {
     "level": 75,
     "fans": 75000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1347,13 +1495,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "76": {
     "level": 76,
     "fans": 76000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1365,13 +1515,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "77": {
     "level": 77,
     "fans": 77000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1383,13 +1535,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "78": {
     "level": 78,
     "fans": 78000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1401,13 +1555,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "79": {
     "level": 79,
     "fans": 79000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1419,13 +1575,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "80": {
     "level": 80,
     "fans": 80000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1437,13 +1595,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "81": {
     "level": 81,
     "fans": 81000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1455,13 +1615,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "82": {
     "level": 82,
     "fans": 82000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1473,13 +1635,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "83": {
     "level": 83,
     "fans": 83000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1491,13 +1655,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "84": {
     "level": 84,
     "fans": 84000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1509,13 +1675,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "85": {
     "level": 85,
     "fans": 85000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1527,13 +1695,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "86": {
     "level": 86,
     "fans": 86000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1545,13 +1715,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "87": {
     "level": 87,
     "fans": 87000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1563,13 +1735,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "88": {
     "level": 88,
     "fans": 88000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1581,13 +1755,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "89": {
     "level": 89,
     "fans": 89000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1599,13 +1775,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "90": {
     "level": 90,
     "fans": 90000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1617,13 +1795,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "91": {
     "level": 91,
     "fans": 91000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1635,13 +1815,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "92": {
     "level": 92,
     "fans": 92000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1653,13 +1835,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "93": {
     "level": 93,
     "fans": 93000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1671,13 +1855,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "94": {
     "level": 94,
     "fans": 94000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1689,13 +1875,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "95": {
     "level": 95,
     "fans": 95000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1707,13 +1895,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "96": {
     "level": 96,
     "fans": 96000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1725,13 +1915,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "97": {
     "level": 97,
     "fans": 97000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1743,13 +1935,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "98": {
     "level": 98,
     "fans": 98000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1761,13 +1955,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "99": {
     "level": 99,
     "fans": 99000,
     "story": {
-      "itemId": 2,
+      "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1779,13 +1975,15 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 0,
+    "actor_max": 1,
+    "hide_max": 1
   },
   "100": {
     "level": 100,
     "fans": 100000,
     "story": {
-      "itemId": 3,
+      "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
@@ -1797,6 +1995,8 @@
       12
     ],
     "order_num": 8,
-    "actor_max": 1
+    "train_max": 1,
+    "actor_max": 1,
+    "hide_max": 1
   }
 }

@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ProduceSouvenirConfigStruct extends BaseConfig
 	{
+	
 
 		level : number;
 		once : number;
@@ -15,6 +16,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

@@ -7,6 +7,7 @@ namespace configs
 {
 	export class TaskCompleteConfigStruct extends BaseConfig
 	{
+	
 
 		completion : number;
 		reward : DTItemNum[];
@@ -14,6 +15,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

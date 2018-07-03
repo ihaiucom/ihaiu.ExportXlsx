@@ -38,6 +38,8 @@ namespace configs
 			config.next_stage = csvGetInt(csv,  this.GetHeadIndex(  "next_stage"  )   );
 			config.city = csvGetInt(csv,  this.GetHeadIndex(  "city"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

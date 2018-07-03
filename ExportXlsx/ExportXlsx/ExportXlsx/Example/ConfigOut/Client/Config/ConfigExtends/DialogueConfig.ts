@@ -7,5 +7,6 @@ namespace configs
 {
 	export class DialogueConfig extends DialogueConfigStruct
 	{
+		
 	}
 }

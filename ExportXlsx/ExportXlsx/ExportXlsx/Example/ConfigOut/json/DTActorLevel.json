@@ -9,14 +9,11 @@
     "culture": 30,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1000
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 1,
     "plot": 0,
-    "ary": 1,
+    "art": 1,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -30,14 +27,11 @@
     "culture": 31,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1001
-    },
+    "paycheck": 100,
     "spectacle": 2,
     "perform": 0,
     "plot": 4,
-    "ary": 0,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -51,14 +45,11 @@
     "culture": 32,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1002
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 3,
     "plot": 0,
-    "ary": 3,
+    "art": 3,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -72,14 +63,11 @@
     "culture": 33,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1003
-    },
+    "paycheck": 100,
     "spectacle": 4,
     "perform": 0,
     "plot": 8,
-    "ary": 0,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -93,14 +81,11 @@
     "culture": 34,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1004
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 5,
     "plot": 0,
-    "ary": 5,
+    "art": 5,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -114,14 +99,11 @@
     "culture": 35,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1005
-    },
+    "paycheck": 100,
     "spectacle": 6,
     "perform": 0,
     "plot": 12,
-    "ary": 0,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -135,14 +117,11 @@
     "culture": 36,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1006
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 7,
     "plot": 0,
-    "ary": 7,
+    "art": 7,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -156,14 +135,11 @@
     "culture": 37,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1007
-    },
+    "paycheck": 100,
     "spectacle": 8,
     "perform": 0,
     "plot": 16,
-    "ary": 0,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -177,14 +153,11 @@
     "culture": 38,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1008
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 9,
     "plot": 0,
-    "ary": 9,
+    "art": 9,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -198,14 +171,11 @@
     "culture": 39,
     "assets": 100,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1009
-    },
+    "paycheck": 100,
     "spectacle": 10,
     "perform": 0,
     "plot": 20,
-    "ary": 0,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -219,14 +189,11 @@
     "culture": 40,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1010
-    },
+    "paycheck": 100,
     "spectacle": 0,
     "perform": 11,
     "plot": 0,
-    "ary": 11,
+    "art": 11,
     "entertainment": 0,
     "cn_tips": ""
   },
@@ -240,14 +207,3035 @@
     "culture": 41,
     "assets": 0,
     "stamina": 10,
-    "paycheck": {
-      "itemId": 1002,
-      "itemNum": 1011
-    },
+    "paycheck": 100,
     "spectacle": 12,
     "perform": 0,
     "plot": 24,
-    "ary": 0,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002001": {
+    "id": 1002001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002002": {
+    "id": 1002002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002003": {
+    "id": 1002003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002004": {
+    "id": 1002004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002005": {
+    "id": 1002005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002006": {
+    "id": 1002006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002007": {
+    "id": 1002007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002008": {
+    "id": 1002008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002009": {
+    "id": 1002009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002010": {
+    "id": 1002010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002011": {
+    "id": 1002011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1002012": {
+    "id": 1002012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003001": {
+    "id": 1003001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003002": {
+    "id": 1003002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003003": {
+    "id": 1003003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003004": {
+    "id": 1003004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003005": {
+    "id": 1003005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003006": {
+    "id": 1003006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003007": {
+    "id": 1003007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003008": {
+    "id": 1003008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003009": {
+    "id": 1003009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003010": {
+    "id": 1003010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003011": {
+    "id": 1003011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1003012": {
+    "id": 1003012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004001": {
+    "id": 1004001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004002": {
+    "id": 1004002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004003": {
+    "id": 1004003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004004": {
+    "id": 1004004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004005": {
+    "id": 1004005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004006": {
+    "id": 1004006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004007": {
+    "id": 1004007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004008": {
+    "id": 1004008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004009": {
+    "id": 1004009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004010": {
+    "id": 1004010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004011": {
+    "id": 1004011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1004012": {
+    "id": 1004012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005001": {
+    "id": 1005001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005002": {
+    "id": 1005002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005003": {
+    "id": 1005003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005004": {
+    "id": 1005004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005005": {
+    "id": 1005005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005006": {
+    "id": 1005006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005007": {
+    "id": 1005007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005008": {
+    "id": 1005008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005009": {
+    "id": 1005009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005010": {
+    "id": 1005010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005011": {
+    "id": 1005011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1005012": {
+    "id": 1005012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006001": {
+    "id": 1006001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006002": {
+    "id": 1006002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006003": {
+    "id": 1006003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006004": {
+    "id": 1006004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006005": {
+    "id": 1006005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006006": {
+    "id": 1006006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006007": {
+    "id": 1006007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006008": {
+    "id": 1006008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006009": {
+    "id": 1006009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006010": {
+    "id": 1006010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006011": {
+    "id": 1006011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1006012": {
+    "id": 1006012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007001": {
+    "id": 1007001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007002": {
+    "id": 1007002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007003": {
+    "id": 1007003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007004": {
+    "id": 1007004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007005": {
+    "id": 1007005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007006": {
+    "id": 1007006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007007": {
+    "id": 1007007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007008": {
+    "id": 1007008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007009": {
+    "id": 1007009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007010": {
+    "id": 1007010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007011": {
+    "id": 1007011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1007012": {
+    "id": 1007012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008001": {
+    "id": 1008001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008002": {
+    "id": 1008002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008003": {
+    "id": 1008003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008004": {
+    "id": 1008004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008005": {
+    "id": 1008005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008006": {
+    "id": 1008006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008007": {
+    "id": 1008007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008008": {
+    "id": 1008008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008009": {
+    "id": 1008009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008010": {
+    "id": 1008010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008011": {
+    "id": 1008011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1008012": {
+    "id": 1008012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009001": {
+    "id": 1009001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009002": {
+    "id": 1009002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009003": {
+    "id": 1009003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009004": {
+    "id": 1009004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009005": {
+    "id": 1009005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009006": {
+    "id": 1009006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009007": {
+    "id": 1009007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009008": {
+    "id": 1009008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009009": {
+    "id": 1009009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009010": {
+    "id": 1009010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009011": {
+    "id": 1009011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1009012": {
+    "id": 1009012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010001": {
+    "id": 1010001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010002": {
+    "id": 1010002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010003": {
+    "id": 1010003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010004": {
+    "id": 1010004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010005": {
+    "id": 1010005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010006": {
+    "id": 1010006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010007": {
+    "id": 1010007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010008": {
+    "id": 1010008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010009": {
+    "id": 1010009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010010": {
+    "id": 1010010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010011": {
+    "id": 1010011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1010012": {
+    "id": 1010012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011001": {
+    "id": 1011001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011002": {
+    "id": 1011002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011003": {
+    "id": 1011003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011004": {
+    "id": 1011004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011005": {
+    "id": 1011005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011006": {
+    "id": 1011006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011007": {
+    "id": 1011007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011008": {
+    "id": 1011008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011009": {
+    "id": 1011009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011010": {
+    "id": 1011010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011011": {
+    "id": 1011011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1011012": {
+    "id": 1011012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012001": {
+    "id": 1012001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012002": {
+    "id": 1012002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012003": {
+    "id": 1012003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012004": {
+    "id": 1012004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012005": {
+    "id": 1012005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012006": {
+    "id": 1012006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012007": {
+    "id": 1012007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012008": {
+    "id": 1012008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012009": {
+    "id": 1012009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012010": {
+    "id": 1012010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012011": {
+    "id": 1012011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1012012": {
+    "id": 1012012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013001": {
+    "id": 1013001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013002": {
+    "id": 1013002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013003": {
+    "id": 1013003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013004": {
+    "id": 1013004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013005": {
+    "id": 1013005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013006": {
+    "id": 1013006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013007": {
+    "id": 1013007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013008": {
+    "id": 1013008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013009": {
+    "id": 1013009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013010": {
+    "id": 1013010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013011": {
+    "id": 1013011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1013012": {
+    "id": 1013012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014001": {
+    "id": 1014001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014002": {
+    "id": 1014002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014003": {
+    "id": 1014003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014004": {
+    "id": 1014004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014005": {
+    "id": 1014005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014006": {
+    "id": 1014006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014007": {
+    "id": 1014007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014008": {
+    "id": 1014008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014009": {
+    "id": 1014009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014010": {
+    "id": 1014010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014011": {
+    "id": 1014011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1014012": {
+    "id": 1014012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015001": {
+    "id": 1015001,
+    "lv": 1,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 100
+    },
+    "culture": 30,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 1,
+    "plot": 0,
+    "art": 1,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015002": {
+    "id": 1015002,
+    "lv": 2,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 101
+    },
+    "culture": 31,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 2,
+    "perform": 0,
+    "plot": 4,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015003": {
+    "id": 1015003,
+    "lv": 3,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 102
+    },
+    "culture": 32,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 3,
+    "plot": 0,
+    "art": 3,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015004": {
+    "id": 1015004,
+    "lv": 4,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 103
+    },
+    "culture": 33,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 4,
+    "perform": 0,
+    "plot": 8,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015005": {
+    "id": 1015005,
+    "lv": 5,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 104
+    },
+    "culture": 34,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 5,
+    "plot": 0,
+    "art": 5,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015006": {
+    "id": 1015006,
+    "lv": 6,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 105
+    },
+    "culture": 35,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 6,
+    "perform": 0,
+    "plot": 12,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015007": {
+    "id": 1015007,
+    "lv": 7,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 106
+    },
+    "culture": 36,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 7,
+    "plot": 0,
+    "art": 7,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015008": {
+    "id": 1015008,
+    "lv": 8,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 107
+    },
+    "culture": 37,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 8,
+    "perform": 0,
+    "plot": 16,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015009": {
+    "id": 1015009,
+    "lv": 9,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 108
+    },
+    "culture": 38,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 9,
+    "plot": 0,
+    "art": 9,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015010": {
+    "id": 1015010,
+    "lv": 10,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 109
+    },
+    "culture": 39,
+    "assets": 100,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 10,
+    "perform": 0,
+    "plot": 20,
+    "art": 0,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015011": {
+    "id": 1015011,
+    "lv": 11,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 110
+    },
+    "culture": 40,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 0,
+    "perform": 11,
+    "plot": 0,
+    "art": 11,
+    "entertainment": 0,
+    "cn_tips": ""
+  },
+  "1015012": {
+    "id": 1015012,
+    "lv": 12,
+    "cost": {
+      "itemId": 1001,
+      "itemNum": 111
+    },
+    "culture": 41,
+    "assets": 0,
+    "stamina": 10,
+    "paycheck": 100,
+    "spectacle": 12,
+    "perform": 0,
+    "plot": 24,
+    "art": 0,
     "entertainment": 0,
     "cn_tips": ""
   }

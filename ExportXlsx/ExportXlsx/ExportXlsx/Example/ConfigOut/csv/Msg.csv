@@ -31,7 +31,7 @@ id	key	module	name	zh_cn_notice
 1027	ranking_list_tips1	排行	排行榜滚动文字1	好电影不一定大卖，烂电影基本都扑街
 1028	ranking_list_tips2	排行	排行榜滚动文字2	好的市场，如果遇到好电影，票房将难以想象
 1029	movie_ranking_list_hidden	排行	票房排行隐藏显示提示	更多影片信息已隐藏
-1030	block_upgrade_msg	街区	街区升档提示	提升到{0}{1}档需要：
+1030	block_upgrade_requirement	街区	街区升档需求提示	提升到{0}{1}档需要：
 1031	trophy_tips	街区	奖杯获取提示	每天22点傲视卡可获得奖杯
 1032	trophy_tips2	街区	奖杯获取补充提示	(每天比赛排名越高，票房大卖电影越多，奖杯就越多)
 1033	finished_block	街区	完成街区提示	您已经完成本档次的比赛，并获得下列奖励
@@ -52,7 +52,41 @@ id	key	module	name	zh_cn_notice
 1052	movie_critical2	拍摄	市场风向暴击2	最近市场上的同类电影似乎有点多
 1053	movie_critical3	拍摄	市场风向暴击3	好像赶上了市场的潮流
 1054	movie_critical4	拍摄	市场风向暴击4	突然间就火爆了起来
-1055	movie_target_fail	拍摄	剧本目标未达成	拍摄目标没达成，无法获得影业协会颁发的奖励
+1060	movie_target_fail	拍摄	剧本目标未达成	拍摄目标没达成，无法获得影业协会颁发的奖励
+1061	movie_big_sell_tips	拍摄	电影未大卖提示	因为电影没有大卖，收藏家协会不予颁发宝物奖励
+1062	earnings_over	拍摄	持续收益结束提示	收益已结束（比赛档次越高，持续收益就越高）
+1063	oscar_non_rank_tips	奥斯卡	票房未入榜提示	未进入前50名
+1064	oscar_non_rank_tips2	奥斯卡	总票房未入榜提示	未进入前30名
+1065	oscar_non_movie_tips	奥斯卡	未拍摄电影提示	没有拍摄电影
+1066	oscar_non_bigsell_tips	奥斯卡	未大卖提示	没有大卖电影
+1067	oscar_non_target_tips	奥斯卡	未完成目标提示	未达成目标
+1068	block_upgrade_msg	街区	街区升档提示	比赛档次提升，获得奖励
+1070	movie_big_sell1	拍摄	电影大卖报纸1	小制作大票房，{0}新片《{1}》剑指奥斯卡
+1071	movie_big_sell2	拍摄	电影大卖报纸2	{0}和{1}擦出火花，{2}新片{3}大受欢迎
+1072	movie_big_sell3	拍摄	电影大卖报纸3	{0}的新片{1}点燃市场
+1080	oscar_non_actor	奥斯卡	奥斯卡男演员无提名	很遗憾，并未有演员参加最佳男演员的候选，所以我们将不会颁发该奖项
+1081	oscar_non_actress	奥斯卡	奥斯卡女演员无提名	很遗憾，并未有演员参加最佳女演员的候选，所以我们将不会颁发该奖项
+1082	oscar_non_performance	奥斯卡	奥斯卡最佳表演无提名	很遗憾，并未有电影参加最佳表演电影的候选，所以我们将不会颁发该奖项
+1083	oscar_non_art	奥斯卡	奥斯卡最佳艺术无提名	很遗憾，并未有电影参加最佳艺术电影的候选，所以我们将不会颁发该奖项
+1084	oscar_non_popular	奥斯卡	奥斯卡最受欢迎无提名	很遗憾，并未有电影参加最受欢迎电影的候选，所以我们将不会颁发该奖项
+1085	oscar_actor	奥斯卡	奥斯卡最佳男演员	最佳男演员
+1086	oscar_actress	奥斯卡	奥斯卡最佳女演员	最佳女演员
+1087	oscar_performance	奥斯卡	奥斯卡最佳表演电影	最佳表演电影
+1088	oscar_art	奥斯卡	奥斯卡最佳艺术电影	最佳艺术电影
+1089	oscar_popular	奥斯卡	奥斯卡最受欢迎电影	最受欢迎电影
+1090	oscar_forbid_movie	拍摄	奥斯卡前禁止拍摄电影	为保证公平，奥斯卡颁奖前5分钟禁止拍摄电影
+1091	non_deletable_mail	邮件	没有可删除的邮件	没有可删除的邮件
+1092	non_can_receive_mail	邮件	没有可领取的邮件	没有可领取的邮件
+1093	non_mail	邮件	空邮箱	您的收件箱中没有邮件！
+1094	story_target_tips	拍摄	剧本有目标	有剧本目标奖励
+1095	story_non_target_tips	拍摄	剧本没有目标	没有目标奖励（需2星以上剧本）
+1096	story_midia_tips	拍摄	媒体评价提示	评价越高，点赞数越多，电影节越容易获奖。（有时还能提升票房）
+1097		合作	id无效	无效的id
+1098		合作	目标玩家已合作	该玩家已有合作伙伴！
+1099		合作	本周合作次数不足	本周合作伙伴太多了，请等待下周吧！
+1100		合作	没有未完成的订单	没有未完成的订单
+1101		合作	解除合作	是否解除合作关系？\n注意：每周只能和三家不同的公司进行合作
+1102		合作	重复邀请	邀请已发送，请等待对方回应
 2022	order_fail	订单	订单完成失败	需要装箱才能运输哦，点击一下箱子装箱吧
 2023	order_complete	订单	查看未解锁的订单完成度	完成X次订单可打开
 2024	order_received	订单	已领取的奖励提示	已领取过奖励
@@ -67,3 +101,18 @@ id	key	module	name	zh_cn_notice
 2033	market_envoy_wrong2	市场	艺人类型不对	我的类型不符合要求，无法担此重任
 2034	market_envoy_wrong3	市场	艺人年龄不对	我的年龄不符合要求，无法担此重任
 2035	market_envoy_wrong4	市场	艺人数值不达标	我的能力没达到要求，无法担此重任
+2036	story_comment_wrong	剧本	留言内容非法	你的留言内容不符合要求
+2037	thumbsup_less	剧本	点赞数不足	您的点赞数不足
+2038	story_search_less	剧本	搜罗次数不足	剩余搜罗次数不足
+2039	block_level_less	剧本	街区等级需求	立即搜罗需要升到街区3档
+2040	story_cd_success	剧本	搜罗冷却加速成功	搜罗冷却加速成功
+2041	meeting_time	会议	会议倒计时提示	{0}分{1}秒后有新的会议，请做好准备
+2042	secretary_bought	秘书	本日已购买提示	你本日已购买过
+2043	secretary_buy_fail	秘书	购买失败提示	购买失败
+2044	sectrary_cannot_buy	秘书	未聘用秘书不能购买提示	未聘用终身秘书，不能购买该礼包
+2045	daily_sign	签到	已签到提示	已签到
+2046	setting_not_open	设置	功能未开放提示	功能未开放，敬请期待
+2047	gift_success	设置	礼包兑换成功提示	礼包兑换成功
+2048	gift_used	设置	礼包已被兑换提示	礼包已被兑换
+2049	gift_illegal	设置	礼包码非法提示	礼包码非法
+2050	shop_period	商城	购买非时间段内商品	请在X时间段内购买该商品

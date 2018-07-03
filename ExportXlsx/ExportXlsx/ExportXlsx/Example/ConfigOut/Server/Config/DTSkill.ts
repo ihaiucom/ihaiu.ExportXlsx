@@ -17,7 +17,7 @@ namespace configs
 		cn_tips : string;
 		icon : string;
 		trigger : number[];
-		effect : number[];
+		effect : number;
 		value : number;
 		stamina : number;
 	}

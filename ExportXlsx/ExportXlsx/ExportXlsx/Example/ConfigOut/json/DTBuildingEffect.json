@@ -2,8 +2,7 @@
   "100101": {
     "id": 100101,
     "tips": "电影院1级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 1.0,
     "par2": 0.0,
@@ -14,8 +13,7 @@
   "100201": {
     "id": 100201,
     "tips": "电影院2级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 2.0,
     "par2": 0.0,
@@ -26,8 +24,7 @@
   "100301": {
     "id": 100301,
     "tips": "电影院3级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 3.0,
     "par2": 0.0,
@@ -38,8 +35,7 @@
   "100401": {
     "id": 100401,
     "tips": "电影院4级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 4.0,
     "par2": 0.0,
@@ -50,8 +46,7 @@
   "100501": {
     "id": 100501,
     "tips": "电影院5级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 5.0,
     "par2": 0.0,
@@ -62,8 +57,7 @@
   "100601": {
     "id": 100601,
     "tips": "电影院6级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 6.0,
     "par2": 0.0,
@@ -74,8 +68,7 @@
   "100701": {
     "id": 100701,
     "tips": "电影院7级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 7.0,
     "par2": 0.0,
@@ -86,8 +79,7 @@
   "100801": {
     "id": 100801,
     "tips": "电影院8级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 8.0,
     "par2": 0.0,
@@ -98,8 +90,7 @@
   "100901": {
     "id": 100901,
     "tips": "电影院9级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 9.0,
     "par2": 0.0,
@@ -110,8 +101,7 @@
   "101001": {
     "id": 101001,
     "tips": "电影院10级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 10.0,
     "par2": 0.0,
@@ -122,8 +112,7 @@
   "101101": {
     "id": 101101,
     "tips": "电影院11级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 11.0,
     "par2": 0.0,
@@ -134,8 +123,7 @@
   "101201": {
     "id": 101201,
     "tips": "电影院12级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 12.0,
     "par2": 0.0,
@@ -146,8 +134,7 @@
   "101301": {
     "id": 101301,
     "tips": "电影院13级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 13.0,
     "par2": 0.0,
@@ -158,8 +145,7 @@
   "101401": {
     "id": 101401,
     "tips": "电影院14级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 14.0,
     "par2": 0.0,
@@ -170,8 +156,7 @@
   "101501": {
     "id": 101501,
     "tips": "电影院15级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 15.0,
     "par2": 0.0,
@@ -182,8 +167,7 @@
   "101601": {
     "id": 101601,
     "tips": "电影院16级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 16.0,
     "par2": 0.0,
@@ -194,8 +178,7 @@
   "101701": {
     "id": 101701,
     "tips": "电影院17级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 17.0,
     "par2": 0.0,
@@ -206,8 +189,7 @@
   "101801": {
     "id": 101801,
     "tips": "电影院18级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 18.0,
     "par2": 0.0,
@@ -218,8 +200,7 @@
   "101901": {
     "id": 101901,
     "tips": "电影院19级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 19.0,
     "par2": 0.0,
@@ -230,8 +211,7 @@
   "102001": {
     "id": 102001,
     "tips": "电影院20级效果",
-    "effect_des": "增加电影上映天数",
-    "effect_tips": "增加电影上映天数",
+    "zh_cn_effect_des": "增加电影上映天数",
     "effect": 1,
     "par1": 20.0,
     "par2": 0.0,
@@ -242,8 +222,7 @@
   "200101": {
     "id": 200101,
     "tips": "摄影棚1级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 1.0,
@@ -254,8 +233,7 @@
   "200201": {
     "id": 200201,
     "tips": "摄影棚2级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 2.0,
@@ -266,8 +244,7 @@
   "200301": {
     "id": 200301,
     "tips": "摄影棚3级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 3.0,
@@ -278,8 +255,7 @@
   "200401": {
     "id": 200401,
     "tips": "摄影棚4级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 4.0,
@@ -290,8 +266,7 @@
   "200501": {
     "id": 200501,
     "tips": "摄影棚5级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 5.0,
@@ -302,8 +277,7 @@
   "200601": {
     "id": 200601,
     "tips": "摄影棚6级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 6.0,
@@ -314,8 +288,7 @@
   "200701": {
     "id": 200701,
     "tips": "摄影棚7级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 7.0,
@@ -326,8 +299,7 @@
   "200801": {
     "id": 200801,
     "tips": "摄影棚8级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 8.0,
@@ -338,8 +310,7 @@
   "200901": {
     "id": 200901,
     "tips": "摄影棚9级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 9.0,
@@ -350,8 +321,7 @@
   "201001": {
     "id": 201001,
     "tips": "摄影棚10级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 10.0,
@@ -362,8 +332,7 @@
   "201101": {
     "id": 201101,
     "tips": "摄影棚11级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 11.0,
@@ -374,8 +343,7 @@
   "201201": {
     "id": 201201,
     "tips": "摄影棚12级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 12.0,
@@ -386,8 +354,7 @@
   "201301": {
     "id": 201301,
     "tips": "摄影棚13级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 13.0,
@@ -398,8 +365,7 @@
   "201401": {
     "id": 201401,
     "tips": "摄影棚14级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 14.0,
@@ -410,8 +376,7 @@
   "201501": {
     "id": 201501,
     "tips": "摄影棚15级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 15.0,
@@ -422,8 +387,7 @@
   "201601": {
     "id": 201601,
     "tips": "摄影棚16级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 16.0,
@@ -434,8 +398,7 @@
   "201701": {
     "id": 201701,
     "tips": "摄影棚17级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 17.0,
@@ -446,8 +409,7 @@
   "201801": {
     "id": 201801,
     "tips": "摄影棚18级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 18.0,
@@ -458,8 +420,7 @@
   "201901": {
     "id": 201901,
     "tips": "摄影棚19级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 19.0,
@@ -470,8 +431,7 @@
   "202001": {
     "id": 202001,
     "tips": "摄影棚20级效果",
-    "effect_des": "增加电影表演属性",
-    "effect_tips": "增加电影表演属性",
+    "zh_cn_effect_des": "增加电影表演属性",
     "effect": 3,
     "par1": 1.0,
     "par2": 20.0,
@@ -482,8 +442,7 @@
   "300101": {
     "id": 300101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -494,8 +453,7 @@
   "300201": {
     "id": 300201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -506,8 +464,7 @@
   "300301": {
     "id": 300301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -518,8 +475,7 @@
   "300401": {
     "id": 300401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -530,8 +486,7 @@
   "300501": {
     "id": 300501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -542,8 +497,7 @@
   "300601": {
     "id": 300601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -554,8 +508,7 @@
   "300701": {
     "id": 300701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -566,8 +519,7 @@
   "300801": {
     "id": 300801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -578,8 +530,7 @@
   "300901": {
     "id": 300901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -590,8 +541,7 @@
   "301001": {
     "id": 301001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -602,8 +552,7 @@
   "301101": {
     "id": 301101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -614,8 +563,7 @@
   "301201": {
     "id": 301201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -626,8 +574,7 @@
   "301301": {
     "id": 301301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -638,8 +585,7 @@
   "301401": {
     "id": 301401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -650,8 +596,7 @@
   "301501": {
     "id": 301501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -662,8 +607,7 @@
   "301601": {
     "id": 301601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -674,8 +618,7 @@
   "301701": {
     "id": 301701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -686,8 +629,7 @@
   "301801": {
     "id": 301801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -698,8 +640,7 @@
   "301901": {
     "id": 301901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -710,8 +651,7 @@
   "302001": {
     "id": 302001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -722,8 +662,7 @@
   "400101": {
     "id": 400101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -734,8 +673,7 @@
   "400201": {
     "id": 400201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -746,8 +684,7 @@
   "400301": {
     "id": 400301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -758,8 +695,7 @@
   "400401": {
     "id": 400401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -770,8 +706,7 @@
   "400501": {
     "id": 400501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -782,8 +717,7 @@
   "400601": {
     "id": 400601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -794,8 +728,7 @@
   "400701": {
     "id": 400701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -806,8 +739,7 @@
   "400801": {
     "id": 400801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -818,8 +750,7 @@
   "400901": {
     "id": 400901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -830,8 +761,7 @@
   "401001": {
     "id": 401001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -842,8 +772,7 @@
   "401101": {
     "id": 401101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -854,8 +783,7 @@
   "401201": {
     "id": 401201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -866,8 +794,7 @@
   "401301": {
     "id": 401301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -878,8 +805,7 @@
   "401401": {
     "id": 401401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -890,8 +816,7 @@
   "401501": {
     "id": 401501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -902,8 +827,7 @@
   "401601": {
     "id": 401601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -914,8 +838,7 @@
   "401701": {
     "id": 401701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -926,8 +849,7 @@
   "401801": {
     "id": 401801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -938,8 +860,7 @@
   "401901": {
     "id": 401901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -950,8 +871,7 @@
   "402001": {
     "id": 402001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -962,8 +882,7 @@
   "500101": {
     "id": 500101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -974,8 +893,7 @@
   "500201": {
     "id": 500201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -986,8 +904,7 @@
   "500301": {
     "id": 500301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -998,8 +915,7 @@
   "500401": {
     "id": 500401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1010,8 +926,7 @@
   "500501": {
     "id": 500501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1022,8 +937,7 @@
   "500601": {
     "id": 500601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1034,8 +948,7 @@
   "500701": {
     "id": 500701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1046,8 +959,7 @@
   "500801": {
     "id": 500801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1058,8 +970,7 @@
   "500901": {
     "id": 500901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1070,8 +981,7 @@
   "501001": {
     "id": 501001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1082,8 +992,7 @@
   "501101": {
     "id": 501101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1094,8 +1003,7 @@
   "501201": {
     "id": 501201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1106,8 +1014,7 @@
   "501301": {
     "id": 501301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1118,8 +1025,7 @@
   "501401": {
     "id": 501401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1130,8 +1036,7 @@
   "501501": {
     "id": 501501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1142,8 +1047,7 @@
   "501601": {
     "id": 501601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1154,8 +1058,7 @@
   "501701": {
     "id": 501701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1166,8 +1069,7 @@
   "501801": {
     "id": 501801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1178,8 +1080,7 @@
   "501901": {
     "id": 501901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1190,8 +1091,7 @@
   "502001": {
     "id": 502001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1202,8 +1102,7 @@
   "600101": {
     "id": 600101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1214,8 +1113,7 @@
   "600201": {
     "id": 600201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1226,8 +1124,7 @@
   "600301": {
     "id": 600301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1238,8 +1135,7 @@
   "600401": {
     "id": 600401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1250,8 +1146,7 @@
   "600501": {
     "id": 600501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1262,8 +1157,7 @@
   "600601": {
     "id": 600601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1274,8 +1168,7 @@
   "600701": {
     "id": 600701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1286,8 +1179,7 @@
   "600801": {
     "id": 600801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1298,8 +1190,7 @@
   "600901": {
     "id": 600901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1310,8 +1201,7 @@
   "601001": {
     "id": 601001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1322,8 +1212,7 @@
   "601101": {
     "id": 601101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1334,8 +1223,7 @@
   "601201": {
     "id": 601201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1346,8 +1234,7 @@
   "601301": {
     "id": 601301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1358,8 +1245,7 @@
   "601401": {
     "id": 601401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1370,8 +1256,7 @@
   "601501": {
     "id": 601501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1382,8 +1267,7 @@
   "601601": {
     "id": 601601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1394,8 +1278,7 @@
   "601701": {
     "id": 601701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1406,8 +1289,7 @@
   "601801": {
     "id": 601801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1418,8 +1300,7 @@
   "601901": {
     "id": 601901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1430,8 +1311,7 @@
   "602001": {
     "id": 602001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1442,8 +1322,7 @@
   "700101": {
     "id": 700101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1454,8 +1333,7 @@
   "700201": {
     "id": 700201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1466,8 +1344,7 @@
   "700301": {
     "id": 700301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1478,8 +1355,7 @@
   "700401": {
     "id": 700401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1490,8 +1366,7 @@
   "700501": {
     "id": 700501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1502,8 +1377,7 @@
   "700601": {
     "id": 700601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1514,8 +1388,7 @@
   "700701": {
     "id": 700701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1526,8 +1399,7 @@
   "700801": {
     "id": 700801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1538,8 +1410,7 @@
   "700901": {
     "id": 700901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1550,8 +1421,7 @@
   "701001": {
     "id": 701001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1562,8 +1432,7 @@
   "701101": {
     "id": 701101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1574,8 +1443,7 @@
   "701201": {
     "id": 701201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1586,8 +1454,7 @@
   "701301": {
     "id": 701301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1598,8 +1465,7 @@
   "701401": {
     "id": 701401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1610,8 +1476,7 @@
   "701501": {
     "id": 701501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1622,8 +1487,7 @@
   "701601": {
     "id": 701601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1634,8 +1498,7 @@
   "701701": {
     "id": 701701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1646,8 +1509,7 @@
   "701801": {
     "id": 701801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1658,8 +1520,7 @@
   "701901": {
     "id": 701901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1670,8 +1531,7 @@
   "702001": {
     "id": 702001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1682,8 +1542,7 @@
   "800101": {
     "id": 800101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1694,8 +1553,7 @@
   "800201": {
     "id": 800201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1706,8 +1564,7 @@
   "800301": {
     "id": 800301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1718,8 +1575,7 @@
   "800401": {
     "id": 800401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1730,8 +1586,7 @@
   "800501": {
     "id": 800501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1742,8 +1597,7 @@
   "800601": {
     "id": 800601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1754,8 +1608,7 @@
   "800701": {
     "id": 800701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1766,8 +1619,7 @@
   "800801": {
     "id": 800801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1778,8 +1630,7 @@
   "800901": {
     "id": 800901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1790,8 +1641,7 @@
   "801001": {
     "id": 801001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1802,8 +1652,7 @@
   "801101": {
     "id": 801101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1814,8 +1663,7 @@
   "801201": {
     "id": 801201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1826,8 +1674,7 @@
   "801301": {
     "id": 801301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1838,8 +1685,7 @@
   "801401": {
     "id": 801401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1850,8 +1696,7 @@
   "801501": {
     "id": 801501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1862,8 +1707,7 @@
   "801601": {
     "id": 801601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1874,8 +1718,7 @@
   "801701": {
     "id": 801701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1886,8 +1729,7 @@
   "801801": {
     "id": 801801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1898,8 +1740,7 @@
   "801901": {
     "id": 801901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1910,8 +1751,7 @@
   "802001": {
     "id": 802001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1922,8 +1762,7 @@
   "900101": {
     "id": 900101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1934,8 +1773,7 @@
   "900201": {
     "id": 900201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1946,8 +1784,7 @@
   "900301": {
     "id": 900301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1958,8 +1795,7 @@
   "900401": {
     "id": 900401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1970,8 +1806,7 @@
   "900501": {
     "id": 900501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1982,8 +1817,7 @@
   "900601": {
     "id": 900601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -1994,8 +1828,7 @@
   "900701": {
     "id": 900701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2006,8 +1839,7 @@
   "900801": {
     "id": 900801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2018,8 +1850,7 @@
   "900901": {
     "id": 900901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2030,8 +1861,7 @@
   "901001": {
     "id": 901001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2042,8 +1872,7 @@
   "901101": {
     "id": 901101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2054,8 +1883,7 @@
   "901201": {
     "id": 901201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2066,8 +1894,7 @@
   "901301": {
     "id": 901301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2078,8 +1905,7 @@
   "901401": {
     "id": 901401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2090,8 +1916,7 @@
   "901501": {
     "id": 901501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2102,8 +1927,7 @@
   "901601": {
     "id": 901601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2114,8 +1938,7 @@
   "901701": {
     "id": 901701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2126,8 +1949,7 @@
   "901801": {
     "id": 901801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2138,8 +1960,7 @@
   "901901": {
     "id": 901901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2150,8 +1971,7 @@
   "902001": {
     "id": 902001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2162,8 +1982,7 @@
   "1000101": {
     "id": 1000101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2174,8 +1993,7 @@
   "1000201": {
     "id": 1000201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2186,8 +2004,7 @@
   "1000301": {
     "id": 1000301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2198,8 +2015,7 @@
   "1000401": {
     "id": 1000401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2210,8 +2026,7 @@
   "1000501": {
     "id": 1000501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2222,8 +2037,7 @@
   "1000601": {
     "id": 1000601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2234,8 +2048,7 @@
   "1000701": {
     "id": 1000701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2246,8 +2059,7 @@
   "1000801": {
     "id": 1000801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2258,8 +2070,7 @@
   "1000901": {
     "id": 1000901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2270,8 +2081,7 @@
   "1001001": {
     "id": 1001001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2282,8 +2092,7 @@
   "1001101": {
     "id": 1001101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2294,8 +2103,7 @@
   "1001201": {
     "id": 1001201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2306,8 +2114,7 @@
   "1001301": {
     "id": 1001301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2318,8 +2125,7 @@
   "1001401": {
     "id": 1001401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2330,8 +2136,7 @@
   "1001501": {
     "id": 1001501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2342,8 +2147,7 @@
   "1001601": {
     "id": 1001601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2354,8 +2158,7 @@
   "1001701": {
     "id": 1001701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2366,8 +2169,7 @@
   "1001801": {
     "id": 1001801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2378,8 +2180,7 @@
   "1001901": {
     "id": 1001901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2390,8 +2191,7 @@
   "1002001": {
     "id": 1002001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2402,8 +2202,7 @@
   "1100101": {
     "id": 1100101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2414,8 +2213,7 @@
   "1100201": {
     "id": 1100201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2426,8 +2224,7 @@
   "1100301": {
     "id": 1100301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2438,8 +2235,7 @@
   "1100401": {
     "id": 1100401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2450,8 +2246,7 @@
   "1100501": {
     "id": 1100501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2462,8 +2257,7 @@
   "1100601": {
     "id": 1100601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2474,8 +2268,7 @@
   "1100701": {
     "id": 1100701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2486,8 +2279,7 @@
   "1100801": {
     "id": 1100801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2498,8 +2290,7 @@
   "1100901": {
     "id": 1100901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2510,8 +2301,7 @@
   "1101001": {
     "id": 1101001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2522,8 +2312,7 @@
   "1101101": {
     "id": 1101101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2534,8 +2323,7 @@
   "1101201": {
     "id": 1101201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2546,8 +2334,7 @@
   "1101301": {
     "id": 1101301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2558,8 +2345,7 @@
   "1101401": {
     "id": 1101401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2570,8 +2356,7 @@
   "1101501": {
     "id": 1101501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2582,8 +2367,7 @@
   "1101601": {
     "id": 1101601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2594,8 +2378,7 @@
   "1101701": {
     "id": 1101701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2606,8 +2389,7 @@
   "1101801": {
     "id": 1101801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2618,8 +2400,7 @@
   "1101901": {
     "id": 1101901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2630,8 +2411,7 @@
   "1102001": {
     "id": 1102001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2642,8 +2422,7 @@
   "1200101": {
     "id": 1200101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2654,8 +2433,7 @@
   "1200201": {
     "id": 1200201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2666,8 +2444,7 @@
   "1200301": {
     "id": 1200301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2678,8 +2455,7 @@
   "1200401": {
     "id": 1200401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2690,8 +2466,7 @@
   "1200501": {
     "id": 1200501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2702,8 +2477,7 @@
   "1200601": {
     "id": 1200601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2714,8 +2488,7 @@
   "1200701": {
     "id": 1200701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2726,8 +2499,7 @@
   "1200801": {
     "id": 1200801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2738,8 +2510,7 @@
   "1200901": {
     "id": 1200901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2750,8 +2521,7 @@
   "1201001": {
     "id": 1201001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2762,8 +2532,7 @@
   "1201101": {
     "id": 1201101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2774,8 +2543,7 @@
   "1201201": {
     "id": 1201201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2786,8 +2554,7 @@
   "1201301": {
     "id": 1201301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2798,8 +2565,7 @@
   "1201401": {
     "id": 1201401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2810,8 +2576,7 @@
   "1201501": {
     "id": 1201501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2822,8 +2587,7 @@
   "1201601": {
     "id": 1201601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2834,8 +2598,7 @@
   "1201701": {
     "id": 1201701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2846,8 +2609,7 @@
   "1201801": {
     "id": 1201801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2858,8 +2620,7 @@
   "1201901": {
     "id": 1201901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2870,8 +2631,7 @@
   "1202001": {
     "id": 1202001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2882,8 +2642,7 @@
   "1300101": {
     "id": 1300101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2894,8 +2653,7 @@
   "1300201": {
     "id": 1300201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2906,8 +2664,7 @@
   "1300301": {
     "id": 1300301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2918,8 +2675,7 @@
   "1300401": {
     "id": 1300401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2930,8 +2686,7 @@
   "1300501": {
     "id": 1300501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2942,8 +2697,7 @@
   "1300601": {
     "id": 1300601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2954,8 +2708,7 @@
   "1300701": {
     "id": 1300701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2966,8 +2719,7 @@
   "1300801": {
     "id": 1300801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2978,8 +2730,7 @@
   "1300901": {
     "id": 1300901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -2990,8 +2741,7 @@
   "1301001": {
     "id": 1301001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3002,8 +2752,7 @@
   "1301101": {
     "id": 1301101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3014,8 +2763,7 @@
   "1301201": {
     "id": 1301201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3026,8 +2774,7 @@
   "1301301": {
     "id": 1301301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3038,8 +2785,7 @@
   "1301401": {
     "id": 1301401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3050,8 +2796,7 @@
   "1301501": {
     "id": 1301501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3062,8 +2807,7 @@
   "1301601": {
     "id": 1301601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3074,8 +2818,7 @@
   "1301701": {
     "id": 1301701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3086,8 +2829,7 @@
   "1301801": {
     "id": 1301801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3098,8 +2840,7 @@
   "1301901": {
     "id": 1301901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3110,8 +2851,7 @@
   "1302001": {
     "id": 1302001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3122,8 +2862,7 @@
   "1400101": {
     "id": 1400101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3134,8 +2873,7 @@
   "1400201": {
     "id": 1400201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3146,8 +2884,7 @@
   "1400301": {
     "id": 1400301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3158,8 +2895,7 @@
   "1400401": {
     "id": 1400401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3170,8 +2906,7 @@
   "1400501": {
     "id": 1400501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3182,8 +2917,7 @@
   "1400601": {
     "id": 1400601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3194,8 +2928,7 @@
   "1400701": {
     "id": 1400701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3206,8 +2939,7 @@
   "1400801": {
     "id": 1400801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3218,8 +2950,7 @@
   "1400901": {
     "id": 1400901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3230,8 +2961,7 @@
   "1401001": {
     "id": 1401001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3242,8 +2972,7 @@
   "1401101": {
     "id": 1401101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3254,8 +2983,7 @@
   "1401201": {
     "id": 1401201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3266,8 +2994,7 @@
   "1401301": {
     "id": 1401301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3278,8 +3005,7 @@
   "1401401": {
     "id": 1401401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3290,8 +3016,7 @@
   "1401501": {
     "id": 1401501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3302,8 +3027,7 @@
   "1401601": {
     "id": 1401601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3314,8 +3038,7 @@
   "1401701": {
     "id": 1401701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3326,8 +3049,7 @@
   "1401801": {
     "id": 1401801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3338,8 +3060,7 @@
   "1401901": {
     "id": 1401901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3350,8 +3071,7 @@
   "1402001": {
     "id": 1402001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3362,8 +3082,7 @@
   "1500101": {
     "id": 1500101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3374,8 +3093,7 @@
   "1500201": {
     "id": 1500201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3386,8 +3104,7 @@
   "1500301": {
     "id": 1500301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3398,8 +3115,7 @@
   "1500401": {
     "id": 1500401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3410,8 +3126,7 @@
   "1500501": {
     "id": 1500501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3422,8 +3137,7 @@
   "1500601": {
     "id": 1500601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3434,8 +3148,7 @@
   "1500701": {
     "id": 1500701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3446,8 +3159,7 @@
   "1500801": {
     "id": 1500801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3458,8 +3170,7 @@
   "1500901": {
     "id": 1500901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3470,8 +3181,7 @@
   "1501001": {
     "id": 1501001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3482,8 +3192,7 @@
   "1501101": {
     "id": 1501101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3494,8 +3203,7 @@
   "1501201": {
     "id": 1501201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3506,8 +3214,7 @@
   "1501301": {
     "id": 1501301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3518,8 +3225,7 @@
   "1501401": {
     "id": 1501401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3530,8 +3236,7 @@
   "1501501": {
     "id": 1501501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3542,8 +3247,7 @@
   "1501601": {
     "id": 1501601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3554,8 +3258,7 @@
   "1501701": {
     "id": 1501701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3566,8 +3269,7 @@
   "1501801": {
     "id": 1501801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3578,8 +3280,7 @@
   "1501901": {
     "id": 1501901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3590,8 +3291,7 @@
   "1502001": {
     "id": 1502001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3602,8 +3302,7 @@
   "1600101": {
     "id": 1600101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3614,8 +3313,7 @@
   "1600201": {
     "id": 1600201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3626,8 +3324,7 @@
   "1600301": {
     "id": 1600301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3638,8 +3335,7 @@
   "1600401": {
     "id": 1600401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3650,8 +3346,7 @@
   "1600501": {
     "id": 1600501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3662,8 +3357,7 @@
   "1600601": {
     "id": 1600601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3674,8 +3368,7 @@
   "1600701": {
     "id": 1600701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3686,8 +3379,7 @@
   "1600801": {
     "id": 1600801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3698,8 +3390,7 @@
   "1600901": {
     "id": 1600901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3710,8 +3401,7 @@
   "1601001": {
     "id": 1601001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3722,8 +3412,7 @@
   "1601101": {
     "id": 1601101,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3734,8 +3423,7 @@
   "1601201": {
     "id": 1601201,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3746,8 +3434,7 @@
   "1601301": {
     "id": 1601301,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3758,8 +3445,7 @@
   "1601401": {
     "id": 1601401,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3770,8 +3456,7 @@
   "1601501": {
     "id": 1601501,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3782,8 +3467,7 @@
   "1601601": {
     "id": 1601601,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3794,8 +3478,7 @@
   "1601701": {
     "id": 1601701,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3806,8 +3489,7 @@
   "1601801": {
     "id": 1601801,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3818,8 +3500,7 @@
   "1601901": {
     "id": 1601901,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,
@@ -3830,8 +3511,7 @@
   "1602001": {
     "id": 1602001,
     "tips": "施工中",
-    "effect_des": "施工中",
-    "effect_tips": "施工中",
+    "zh_cn_effect_des": "施工中",
     "effect": 0,
     "par1": 0.0,
     "par2": 0.0,

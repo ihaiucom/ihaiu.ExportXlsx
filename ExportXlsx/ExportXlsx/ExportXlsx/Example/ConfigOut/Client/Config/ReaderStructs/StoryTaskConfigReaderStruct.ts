@@ -23,6 +23,8 @@ namespace configs
 			config.pre_id = csvGetInt(csv,  this.GetHeadIndex(  "pre_id"  )   );
 			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 
+			
+
 
 			this.addConfig(config);
         }

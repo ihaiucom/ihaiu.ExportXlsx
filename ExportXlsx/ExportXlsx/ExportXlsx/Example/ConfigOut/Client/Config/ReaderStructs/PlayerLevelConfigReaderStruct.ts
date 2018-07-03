@@ -23,7 +23,11 @@ namespace configs
 			config.diamond = csvGetInt(csv,  this.GetHeadIndex(  "diamond"  )   );
 			config.order_qua =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "order_qua"  )   )   );
 			config.order_num = csvGetInt(csv,  this.GetHeadIndex(  "order_num"  )   );
+			config.train_max = csvGetInt(csv,  this.GetHeadIndex(  "train_max"  )   );
 			config.actor_max = csvGetInt(csv,  this.GetHeadIndex(  "actor_max"  )   );
+			config.hide_max = csvGetInt(csv,  this.GetHeadIndex(  "hide_max"  )   );
+
+			
 
 
 			this.addConfig(config);

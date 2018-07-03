@@ -17,8 +17,10 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.effect = csvGetString(csv,  this.GetHeadIndex(  "effect"  )   );
+			config.effect = csvGetInt(csv,  this.GetHeadIndex(  "effect"  )   );
 			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
+
+			
 
 
 			this.addConfig(config);

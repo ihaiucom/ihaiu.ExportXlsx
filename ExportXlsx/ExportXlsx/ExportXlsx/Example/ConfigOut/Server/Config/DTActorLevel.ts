@@ -13,11 +13,11 @@ namespace configs
 		culture : number;
 		assets : number;
 		stamina : number;
-		paycheck : DTItemNum;
+		paycheck : number;
 		spectacle : number;
 		perform : number;
 		plot : number;
-		ary : number;
+		art : number;
 		entertainment : number;
 		cn_tips : string;
 	}

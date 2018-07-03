@@ -20,6 +20,8 @@ namespace configs
 			config.once = csvGetInt(csv,  this.GetHeadIndex(  "once"  )   );
 			config.max = csvGetInt(csv,  this.GetHeadIndex(  "max"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

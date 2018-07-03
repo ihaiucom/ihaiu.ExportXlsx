@@ -22,6 +22,8 @@ namespace configs
 			config.rate = csvGetInt(csv,  this.GetHeadIndex(  "rate"  )   );
 			config.cn = csvGetString(csv,  this.GetHeadIndex(  "cn"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

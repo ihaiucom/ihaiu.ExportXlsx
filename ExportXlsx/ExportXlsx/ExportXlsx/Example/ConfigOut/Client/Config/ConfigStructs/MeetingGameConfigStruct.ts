@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MeetingGameConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		type : string;
@@ -18,6 +19,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

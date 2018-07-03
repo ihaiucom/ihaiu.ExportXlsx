@@ -7,6 +7,7 @@ namespace configs
 {
 	export class SkillConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		group_id : number;
@@ -18,13 +19,23 @@ namespace configs
 		cn_tips : string;
 		icon : string;
 		trigger : number[];
-		effect : number[];
+		effect : number;
 		value : number;
 		stamina : number;
 
 
 
 
+
+		
+		get name()
+		{
+			return this.cn_name
+		}
+		get tips()
+		{
+			return this.cn_tips
+		}
 	}
 
 

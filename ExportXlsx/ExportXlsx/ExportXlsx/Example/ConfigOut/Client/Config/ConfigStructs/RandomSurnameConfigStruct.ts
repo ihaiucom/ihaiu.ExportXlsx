@@ -7,6 +7,7 @@ namespace configs
 {
 	export class RandomSurnameConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		text : string;
@@ -14,6 +15,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

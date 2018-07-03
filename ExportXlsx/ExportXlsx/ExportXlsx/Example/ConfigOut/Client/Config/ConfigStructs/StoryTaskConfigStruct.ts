@@ -7,6 +7,7 @@ namespace configs
 {
 	export class StoryTaskConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		task : number;
@@ -18,6 +19,12 @@ namespace configs
 
 
 
+
+		
+		get description()
+		{
+			return this.zh_cn_description
+		}
 	}
 
 

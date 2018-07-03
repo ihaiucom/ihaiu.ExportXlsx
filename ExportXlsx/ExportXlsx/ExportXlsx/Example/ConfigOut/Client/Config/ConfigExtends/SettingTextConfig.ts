@@ -7,5 +7,6 @@ namespace configs
 {
 	export class SettingTextConfig extends SettingTextConfigStruct
 	{
+		
 	}
 }

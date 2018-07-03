@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace ExportXlsx.Sources
 {
@@ -53,15 +54,47 @@ namespace ExportXlsx.Sources
 
         public void ExportConfigStruct()
         {
+            List<object[]> dicts = new List<object[]>();
             List<object[]> fields = new List<object[]>();
 
-            for(int i = 0; i < dataStruct.fields.Count; i ++)
+
+            for (int i = 0; i < dataStruct.fields.Count; i ++)
             {
                 DataField dataField = dataStruct.fields[i];
 
-                object[] lines = new object[] { dataField.field, dataField.GetTsTypeName() };
-                fields.Add(lines);
+                if(dataField.fieldNameIsEnable)
+                {
+                    object[] lines = new object[] { dataField.field, dataField.GetTsTypeName() };
+                    fields.Add(lines);
+                }
+                else
+                {
+                    object[] lines = new object[] { dataField.field, dataField.GetTsTypeName(), Regex.Replace(dataField.field, @"[^A-Za-z0-9_]", @"_") };
+                    dicts.Add(lines);
+                }
             }
+
+
+            List<object[]> langs = new List<object[]>();
+
+
+            for (int i = 0; i < dataStruct.fields.Count; i++)
+            {
+                DataField dataField = dataStruct.fields[i];
+
+                if (dataField.field.StartsWith("zh_cn_"))
+                {
+                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field };
+                    langs.Add(lines);
+                }
+                else if (dataField.field.StartsWith("cn_"))
+                {
+                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field };
+                    langs.Add(lines);
+                }
+            }
+
+
 
             string parse = "";
             string parseArray = "";
@@ -112,6 +145,8 @@ namespace ExportXlsx.Sources
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigStructTemplates));
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
             template.AddVariable("fields", fields.ToArray());
+            template.AddVariable("dicts", dicts.ToArray());
+            template.AddVariable("langs", langs.ToArray());
             template.AddVariable("parse", parse);
             template.AddVariable("parseArray", parseArray);
             string content = template.Parse();
@@ -124,10 +159,30 @@ namespace ExportXlsx.Sources
 
         public void ExportConfig()
         {
+            List<object[]> langs = new List<object[]>();
+
+
+            for (int i = 0; i < dataStruct.fields.Count; i++)
+            {
+                DataField dataField = dataStruct.fields[i];
+
+                if (dataField.field.StartsWith("zh_cn_"))
+                {
+                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field };
+                    langs.Add(lines);
+                }
+                else if (dataField.field.StartsWith("cn_"))
+                {
+                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field };
+                    langs.Add(lines);
+                }
+            }
+
 
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigTemplate));
             template.AddVariable("classNameConfig", classNameConfig);
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
+            template.AddVariable("langs", langs.ToArray());
             string content = template.Parse();
             string path = string.Format(OutPaths.Client.ConfigTemplate, classNameConfig);
 
@@ -139,14 +194,24 @@ namespace ExportXlsx.Sources
 
         public void ExportConfigReaderStruct()
         {
+            List<object[]> dicts = new List<object[]>();
             List<object[]> fields = new List<object[]>();
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
             {
                 DataField dataField = dataStruct.fields[i];
 
-                object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
-                fields.Add(lines);
+                if(dataField.fieldNameIsEnable)
+                {
+                    object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
+                    fields.Add(lines);
+                }
+                else
+                {
+                    object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
+                    dicts.Add(lines);
+                }
+
             }
 
 
@@ -155,6 +220,7 @@ namespace ExportXlsx.Sources
             template.AddVariable("classNameConfigReaderStruct", classNameConfigReaderStruct);
             template.AddVariable("tableName", tableName);
             template.AddVariable("fields", fields.ToArray());
+            template.AddVariable("dicts", dicts.ToArray());
             string content = template.Parse();
             string path = string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct);
 
@@ -232,7 +298,7 @@ namespace ExportXlsx.Sources
                     return $"csvGetInt(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
                 case "float":
                 case "double":
-                    return $"csvGetInt(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
+                    return $"csvGetFloat(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
                 case "boolean":
                 case "bool":
                     return $"csvGetBoolean(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
@@ -288,7 +354,7 @@ namespace ExportXlsx.Sources
                     return $"csvGetInt(csv,  {i} )";
                 case "float":
                 case "double":
-                    return $"csvGetInt(csv,  {i}  )";
+                    return $"csvGetFloat(csv,  {i}  )";
                 case "boolean":
                 case "bool":
                     return $"csvGetBoolean(csv, {i}   )";

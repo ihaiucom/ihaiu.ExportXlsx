@@ -12,9 +12,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -31,9 +29,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 1.0,
     "stamina": 0
   },
@@ -50,9 +46,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 1.5,
     "stamina": 0
   },
@@ -69,9 +63,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 2.0,
     "stamina": 0
   },
@@ -88,9 +80,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 2.5,
     "stamina": 0
   },
@@ -107,9 +97,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 3.0,
     "stamina": 0
   },
@@ -126,9 +114,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 3.5,
     "stamina": 0
   },
@@ -145,9 +131,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 4.0,
     "stamina": 0
   },
@@ -164,9 +148,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 4.5,
     "stamina": 0
   },
@@ -183,9 +165,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 5.0,
     "stamina": 0
   },
@@ -202,9 +182,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 5.5,
     "stamina": 0
   },
@@ -221,9 +199,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 6.0,
     "stamina": 0
   },
@@ -240,9 +216,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 6.5,
     "stamina": 0
   },
@@ -259,9 +233,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 7.0,
     "stamina": 0
   },
@@ -278,9 +250,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 7.5,
     "stamina": 0
   },
@@ -297,9 +267,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 8.0,
     "stamina": 0
   },
@@ -316,9 +284,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 8.5,
     "stamina": 0
   },
@@ -335,9 +301,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 9.0,
     "stamina": 0
   },
@@ -354,9 +318,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 9.5,
     "stamina": 0
   },
@@ -373,9 +335,7 @@
     "trigger": [
       1001
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 10.0,
     "stamina": 0
   },
@@ -392,9 +352,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -411,9 +369,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -430,9 +386,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -449,9 +403,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -468,9 +420,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -487,9 +437,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -506,9 +454,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -525,9 +471,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -544,9 +488,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -563,9 +505,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -582,9 +522,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -601,9 +539,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -620,9 +556,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -639,9 +573,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -658,9 +590,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -677,9 +607,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -696,9 +624,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -715,9 +641,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -734,9 +658,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -753,9 +675,7 @@
     "trigger": [
       1002
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -772,9 +692,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -791,9 +709,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -810,9 +726,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -829,9 +743,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -848,9 +760,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -867,9 +777,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -886,9 +794,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -905,9 +811,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -924,9 +828,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -943,9 +845,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -962,9 +862,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -981,9 +879,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1000,9 +896,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1019,9 +913,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1038,9 +930,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1057,9 +947,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1076,9 +964,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1095,9 +981,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1114,9 +998,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1133,9 +1015,7 @@
     "trigger": [
       1003
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1152,9 +1032,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1171,9 +1049,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1190,9 +1066,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1209,9 +1083,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1228,9 +1100,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1247,9 +1117,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1266,9 +1134,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1285,9 +1151,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1304,9 +1168,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1323,9 +1185,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1342,9 +1202,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1361,9 +1219,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1380,9 +1236,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1399,9 +1253,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1418,9 +1270,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1437,9 +1287,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1456,9 +1304,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1475,9 +1321,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1494,9 +1338,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1513,9 +1355,7 @@
     "trigger": [
       1004
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1532,9 +1372,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1551,9 +1389,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1570,9 +1406,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1589,9 +1423,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1608,9 +1440,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1627,9 +1457,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1646,9 +1474,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1665,9 +1491,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1684,9 +1508,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1703,9 +1525,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1722,9 +1542,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1741,9 +1559,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1760,9 +1576,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1779,9 +1593,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1798,9 +1610,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1817,9 +1627,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1836,9 +1644,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1855,9 +1661,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1874,9 +1678,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1893,9 +1695,7 @@
     "trigger": [
       1005
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -1912,9 +1712,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1931,9 +1729,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1950,9 +1746,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1969,9 +1763,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -1988,9 +1780,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2007,9 +1797,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2026,9 +1814,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2045,9 +1831,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2064,9 +1848,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2083,9 +1865,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2102,9 +1882,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2121,9 +1899,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2140,9 +1916,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2159,9 +1933,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2178,9 +1950,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2197,9 +1967,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2216,9 +1984,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2235,9 +2001,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2254,9 +2018,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2273,9 +2035,7 @@
     "trigger": [
       1006
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": -0.5,
     "stamina": 0
   },
@@ -2292,9 +2052,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2311,9 +2069,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2330,9 +2086,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2349,9 +2103,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2368,9 +2120,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2387,9 +2137,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2406,9 +2154,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2425,9 +2171,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2444,9 +2188,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2463,9 +2205,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2482,9 +2222,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2501,9 +2239,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2520,9 +2256,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2539,9 +2273,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2558,9 +2290,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2577,9 +2307,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2596,9 +2324,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2615,9 +2341,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2634,9 +2358,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2653,9 +2375,7 @@
     "trigger": [
       1007
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2672,9 +2392,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2691,9 +2409,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2710,9 +2426,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2729,9 +2443,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2748,9 +2460,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2767,9 +2477,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2786,9 +2494,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2805,9 +2511,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2824,9 +2528,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2843,9 +2545,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2862,9 +2562,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2881,9 +2579,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2900,9 +2596,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2919,9 +2613,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2938,9 +2630,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2957,9 +2647,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2976,9 +2664,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -2995,9 +2681,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -3014,9 +2698,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   },
@@ -3033,9 +2715,7 @@
     "trigger": [
       1008
     ],
-    "effect": [
-      1001
-    ],
+    "effect": 1001,
     "value": 0.5,
     "stamina": 0
   }

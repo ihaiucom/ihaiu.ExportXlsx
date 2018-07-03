@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MoviePopularizeConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		pop_level : number;
@@ -18,6 +19,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

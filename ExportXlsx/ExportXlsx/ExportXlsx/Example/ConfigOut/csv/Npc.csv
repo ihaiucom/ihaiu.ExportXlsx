@@ -1,0 +1,4 @@
+﻿int	string	string	int	int
+ID	英文名字	中文名字	性别|n|1101女|n|1102男	美术资源
+id	en_name	cn_name	sex	avatar
+1001	Superman	超人	1102	1001

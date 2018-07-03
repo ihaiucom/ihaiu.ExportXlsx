@@ -33,6 +33,8 @@ namespace configs
 			config.pre_id = csvGetInt(csv,  this.GetHeadIndex(  "pre_id"  )   );
 			config.next_line = csvGetInt(csv,  this.GetHeadIndex(  "next_line"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

@@ -23,6 +23,8 @@ namespace configs
 			config.pre_id = csvGetInt(csv,  this.GetHeadIndex(  "pre_id"  )   );
 			config.next_level = csvGetInt(csv,  this.GetHeadIndex(  "next_level"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

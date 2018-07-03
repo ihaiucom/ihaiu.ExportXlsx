@@ -23,6 +23,9 @@ namespace configs
 			config.property2 = csvGetInt(csv,  this.GetHeadIndex(  "property2"  )   );
 			config.value2 = csvGetInt(csv,  this.GetHeadIndex(  "value2"  )   );
 			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.cn = csvGetString(csv,  this.GetHeadIndex(  "cn"  )   );
+
+			
 
 
 			this.addConfig(config);

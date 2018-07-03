@@ -7,5 +7,6 @@ namespace configs
 {
 	export class StoryCharactersConfig extends StoryCharactersConfigStruct
 	{
+		
 	}
 }

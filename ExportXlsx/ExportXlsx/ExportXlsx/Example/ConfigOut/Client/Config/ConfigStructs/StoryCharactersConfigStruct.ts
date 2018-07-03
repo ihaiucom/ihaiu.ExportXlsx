@@ -7,13 +7,15 @@ namespace configs
 {
 	export class StoryCharactersConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		story_id : number;
 		character_num : number;
 		zh_cn_name : string;
 		type : number;
-		gender : number;
+		type_pic : number;
+		sex : number;
 		country : number;
 		show_type : number;
 		age_type : number;
@@ -24,6 +26,16 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
+		get introduction()
+		{
+			return this.zh_cn_introduction
+		}
 	}
 
 

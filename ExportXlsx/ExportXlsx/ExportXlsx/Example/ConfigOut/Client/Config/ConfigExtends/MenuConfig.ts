@@ -7,5 +7,6 @@ namespace configs
 {
 	export class MenuConfig extends MenuConfigStruct
 	{
+		
 	}
 }

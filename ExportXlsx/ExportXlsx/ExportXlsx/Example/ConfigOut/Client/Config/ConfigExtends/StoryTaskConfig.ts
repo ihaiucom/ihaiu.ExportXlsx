@@ -7,5 +7,6 @@ namespace configs
 {
 	export class StoryTaskConfig extends StoryTaskConfigStruct
 	{
+		
 	}
 }

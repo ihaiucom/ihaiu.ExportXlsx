@@ -7,11 +7,11 @@ namespace configs
 {
 	export class MovieShootTypeConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		name : string;
-		name_tips : string;
-		type_des : string;
+		zh_cn_name : string;
+		zh_cn_type_des : string;
 		item_id : number;
 		item_num : number;
 		pic : number;
@@ -19,6 +19,16 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
+		get type_des()
+		{
+			return this.zh_cn_type_des
+		}
 	}
 
 

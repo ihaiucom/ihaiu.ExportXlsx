@@ -18,6 +18,7 @@ namespace configs
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.story_num = csvGetInt(csv,  this.GetHeadIndex(  "story_num"  )   );
+			config.stack_sort = csvGetInt(csv,  this.GetHeadIndex(  "stack_sort"  )   );
 			config.zh_cn_story_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_story_name"  )   );
 			config.name_tips = csvGetString(csv,  this.GetHeadIndex(  "name_tips"  )   );
 			config.poster_name = csvGetString(csv,  this.GetHeadIndex(  "poster_name"  )   );
@@ -29,17 +30,20 @@ namespace configs
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 			config.tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "tags"  )   )   );
 			config.hidden_tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "hidden_tags"  )   )   );
-			config.shoot_type =  DTShootType.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "shoot_type"  )   )   );
+			config.shoot_type = csvGetInt(csv,  this.GetHeadIndex(  "shoot_type"  )   );
 			config.property =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "property"  )   )   );
 			config.target_mark = csvGetBoolean(csv,  this.GetHeadIndex(  "target_mark"  )   );
 			config.target = csvGetInt(csv,  this.GetHeadIndex(  "target"  )   );
 			config.male_percent = csvGetInt(csv,  this.GetHeadIndex(  "male_percent"  )   );
 			config.female_percent = csvGetInt(csv,  this.GetHeadIndex(  "female_percent"  )   );
 			config.child_percent = csvGetInt(csv,  this.GetHeadIndex(  "child_percent"  )   );
-			config.reward =  DTStoryEffect.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.reward =  DTStoryEffect.parse(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.sequel_mark = csvGetBoolean(csv,  this.GetHeadIndex(  "sequel_mark"  )   );
 			config.interviews_bottom = csvGetInt(csv,  this.GetHeadIndex(  "interviews_bottom"  )   );
 			config.interviews_top = csvGetInt(csv,  this.GetHeadIndex(  "interviews_top"  )   );
+			config.random_name = csvGetInt(csv,  this.GetHeadIndex(  "random_name"  )   );
+
+			
 
 
 			this.addConfig(config);

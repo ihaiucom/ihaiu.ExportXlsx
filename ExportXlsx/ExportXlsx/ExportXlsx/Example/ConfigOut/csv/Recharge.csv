@@ -1,0 +1,8 @@
+﻿int	string	DTItemNum	DTItemNum[]	int	int	int	int
+编号	道具名称	道具ID，数量	赠送道具ID，数量	售价	初次翻倍	前往功能	有效期
+id	zh_cn_name	item	gift	cost_dollar	double	go	term
+1001	60钻石	1:6	1:5;1:5	6	1	0	0
+1002	300钻石	1:7	1:5;1:5	30	1	0	0
+1003	终身秘书	1:8	1:5;1:5	60	0	0	999999
+1004	月卡	1:9	1:5;1:5	90	0	0	30
+1005	至尊月卡	1:10	1:5;1:5	120	0	0	30

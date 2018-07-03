@@ -14,5 +14,6 @@ namespace configs
 		property2 : number;
 		value2 : number;
 		reward : DTItemNum[];
+		cn : string;
 	}
 }

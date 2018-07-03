@@ -7,6 +7,7 @@ namespace configs
 {
 	export class CountryConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		number : number;
@@ -20,6 +21,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

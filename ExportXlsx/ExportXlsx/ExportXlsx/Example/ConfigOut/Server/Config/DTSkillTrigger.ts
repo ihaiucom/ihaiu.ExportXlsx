@@ -8,7 +8,7 @@ namespace configs
 	export class DTSkillTrigger
 	{
 		id : number;
-		trigger : string;
+		trigger : number;
 		value : number;
 		cn_tips : string;
 	}

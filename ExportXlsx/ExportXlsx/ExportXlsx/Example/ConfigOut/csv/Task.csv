@@ -1,6 +1,6 @@
 ﻿int	string	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int	int
 编号	任务名称	解锁建筑	拍摄电影	升级艺人	培养艺人	赠送艺人礼物	技能训练	升级技能	完成公务	完成会议	接见粉丝	城市宣传	领取城市收益	祝贺总排行	祝贺影片排行	领取比赛礼包	升级宝物	进行生产	完成订单	领取影片持续收益	提升关注度	赠送美元	合作任务	合作订单	美元奖励	完成度奖励
-id	zh_cn_name	unlock	task_movie	task_actor_level	task_actor_train	task_actor_gift	task_actor_skill	task_skill_level	task_business	task_meeting	task_fans	task_fans	task_city	task_rank_all	task_rank_movie	task_game_gift	task_treasure	task_produce	task_order	task_income	task_attention	task_dollar	task_cotask	task_coorder	reward	Complete
+id	zh_cn_name	unlock	task_movie	task_actor_level	task_actor_train	task_actor_gift	task_actor_skill	task_skill_level	task_business	task_meeting	task_fans	task_publicize	task_city	task_rank_all	task_rank_movie	task_game_gift	task_treasure	task_produce	task_order	task_income	task_attention	task_dollar	task_cotask	task_coorder	reward	Complete
 1001	拍摄5部电影	1002	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	10
 1002	升级艺人10次	1002	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	10
 1003	培养艺人1次	1002	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
@@ -9,8 +9,8 @@ id	zh_cn_name	unlock	task_movie	task_actor_level	task_actor_train	task_actor_gif
 1006	升级艺人技能1次	1002	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
 1007	完成公务30次	1002	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
 1008	完成会议10次	1002	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
-1009	接见粉丝10次	1002	0	0	0	0	0	0	0	0	10	10	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
-1010	城市宣传20次	1002	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
+1009	接见粉丝10次	1002	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
+1010	城市宣传20次	1002	0	0	0	0	0	0	0	0	0	20	0	0	0	0	0	0	0	0	0	0	0	0	20000	5
 1011	领取城市收益5次	1002	0	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	20000	5
 1012	祝贺总排行榜1次	1002	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	20000	5
 1013	祝贺影片排行榜1次	1002	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	20000	5

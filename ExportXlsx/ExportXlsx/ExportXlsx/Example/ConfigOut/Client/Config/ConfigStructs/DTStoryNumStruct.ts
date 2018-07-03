@@ -7,6 +7,7 @@ namespace configs
 {
 	export class DTStoryNumStruct extends BaseConfig
 	{
+	
 
 		star : number;
 		num : number;
@@ -34,6 +35,8 @@ namespace configs
           return list;
       }
  
+
+		
 	}
 
 

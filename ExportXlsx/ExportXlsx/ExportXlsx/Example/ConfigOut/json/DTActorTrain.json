@@ -4,16 +4,22 @@
     "train_num": 1,
     "train_type": 1,
     "en_name": "培养1",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1603,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -23,16 +29,22 @@
     "train_num": 1,
     "train_type": 2,
     "en_name": "培养2",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1603,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -42,16 +54,22 @@
     "train_num": 1,
     "train_type": 3,
     "en_name": "培养3",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1603,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -61,16 +79,22 @@
     "train_num": 1,
     "train_type": 4,
     "en_name": "培养4",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1602,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -80,16 +104,22 @@
     "train_num": 2,
     "train_type": 1,
     "en_name": "培养1",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1602,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -99,16 +129,22 @@
     "train_num": 2,
     "train_type": 2,
     "en_name": "培养2",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1602,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -118,16 +154,22 @@
     "train_num": 2,
     "train_type": 3,
     "en_name": "培养3",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -137,16 +179,22 @@
     "train_num": 2,
     "train_type": 4,
     "en_name": "培养4",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -156,16 +204,22 @@
     "train_num": 3,
     "train_type": 1,
     "en_name": "培养1",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1603,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -175,16 +229,22 @@
     "train_num": 3,
     "train_type": 2,
     "en_name": "培养2",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -194,16 +254,22 @@
     "train_num": 3,
     "train_type": 3,
     "en_name": "培养3",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""
@@ -213,16 +279,2422 @@
     "train_num": 3,
     "train_type": 4,
     "en_name": "培养4",
-    "cost": {
-      "itemId": 1001,
-      "itemNum": 100
-    },
-    "property_1": 1601,
-    "property_1_interval": "1:5",
-    "property_2": 1602,
-    "property_2_interval": "1:5",
-    "property_3": 1604,
-    "property_3_interval": "1:5",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200101": {
+    "id": 100200101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200102": {
+    "id": 100200102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200103": {
+    "id": 100200103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200104": {
+    "id": 100200104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200201": {
+    "id": 100200201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200202": {
+    "id": 100200202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200203": {
+    "id": 100200203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200204": {
+    "id": 100200204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200301": {
+    "id": 100200301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200302": {
+    "id": 100200302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200303": {
+    "id": 100200303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100200304": {
+    "id": 100200304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300101": {
+    "id": 100300101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300102": {
+    "id": 100300102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300103": {
+    "id": 100300103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300104": {
+    "id": 100300104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300201": {
+    "id": 100300201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300202": {
+    "id": 100300202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300203": {
+    "id": 100300203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300204": {
+    "id": 100300204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300301": {
+    "id": 100300301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300302": {
+    "id": 100300302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300303": {
+    "id": 100300303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100300304": {
+    "id": 100300304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400101": {
+    "id": 100400101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400102": {
+    "id": 100400102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400103": {
+    "id": 100400103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400104": {
+    "id": 100400104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400201": {
+    "id": 100400201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400202": {
+    "id": 100400202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400203": {
+    "id": 100400203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400204": {
+    "id": 100400204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400301": {
+    "id": 100400301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400302": {
+    "id": 100400302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400303": {
+    "id": 100400303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100400304": {
+    "id": 100400304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500101": {
+    "id": 100500101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500102": {
+    "id": 100500102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500103": {
+    "id": 100500103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500104": {
+    "id": 100500104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500201": {
+    "id": 100500201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500202": {
+    "id": 100500202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500203": {
+    "id": 100500203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500204": {
+    "id": 100500204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500301": {
+    "id": 100500301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500302": {
+    "id": 100500302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500303": {
+    "id": 100500303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100500304": {
+    "id": 100500304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600101": {
+    "id": 100600101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600102": {
+    "id": 100600102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600103": {
+    "id": 100600103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600104": {
+    "id": 100600104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600201": {
+    "id": 100600201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600202": {
+    "id": 100600202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600203": {
+    "id": 100600203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600204": {
+    "id": 100600204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600301": {
+    "id": 100600301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600302": {
+    "id": 100600302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600303": {
+    "id": 100600303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100600304": {
+    "id": 100600304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700101": {
+    "id": 100700101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700102": {
+    "id": 100700102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700103": {
+    "id": 100700103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700104": {
+    "id": 100700104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700201": {
+    "id": 100700201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700202": {
+    "id": 100700202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700203": {
+    "id": 100700203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700204": {
+    "id": 100700204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700301": {
+    "id": 100700301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700302": {
+    "id": 100700302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700303": {
+    "id": 100700303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100700304": {
+    "id": 100700304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800101": {
+    "id": 100800101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800102": {
+    "id": 100800102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800103": {
+    "id": 100800103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800104": {
+    "id": 100800104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800201": {
+    "id": 100800201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800202": {
+    "id": 100800202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800203": {
+    "id": 100800203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800204": {
+    "id": 100800204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800301": {
+    "id": 100800301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800302": {
+    "id": 100800302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800303": {
+    "id": 100800303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100800304": {
+    "id": 100800304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900101": {
+    "id": 100900101,
+    "train_num": 1,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900102": {
+    "id": 100900102,
+    "train_num": 1,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900103": {
+    "id": 100900103,
+    "train_num": 1,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900104": {
+    "id": 100900104,
+    "train_num": 1,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900201": {
+    "id": 100900201,
+    "train_num": 2,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900202": {
+    "id": 100900202,
+    "train_num": 2,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900203": {
+    "id": 100900203,
+    "train_num": 2,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900204": {
+    "id": 100900204,
+    "train_num": 2,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900301": {
+    "id": 100900301,
+    "train_num": 3,
+    "train_type": 1,
+    "en_name": "培养1",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900302": {
+    "id": 100900302,
+    "train_num": 3,
+    "train_type": 2,
+    "en_name": "培养2",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900303": {
+    "id": 100900303,
+    "train_num": 3,
+    "train_type": 3,
+    "en_name": "培养3",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
+    "scene_name": "拍电影",
+    "action": 1001,
+    "cn_tips": ""
+  },
+  "100900304": {
+    "id": 100900304,
+    "train_num": 3,
+    "train_type": 4,
+    "en_name": "培养4",
+    "cost": [
+      {
+        "itemId": 1001,
+        "itemNum": 100
+      },
+      {
+        "itemId": 1002,
+        "itemNum": 20
+      }
+    ],
+    "property": [
+      1601,
+      1602,
+      1603
+    ],
+    "property_interval": "1:5;1:5;1:5",
     "scene_name": "拍电影",
     "action": 1001,
     "cn_tips": ""

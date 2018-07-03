@@ -7,6 +7,7 @@ namespace configs
 {
 	export class TaskConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		zh_cn_name : string;
@@ -20,7 +21,7 @@ namespace configs
 		task_business : number;
 		task_meeting : number;
 		task_fans : number;
-		task_fans : number;
+		task_publicize : number;
 		task_city : number;
 		task_rank_all : number;
 		task_rank_movie : number;
@@ -39,6 +40,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

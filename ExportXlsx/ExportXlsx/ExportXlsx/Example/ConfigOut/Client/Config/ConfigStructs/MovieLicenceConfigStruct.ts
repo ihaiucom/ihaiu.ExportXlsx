@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MovieLicenceConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		tips : string;
@@ -15,6 +16,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

@@ -7,5 +7,6 @@ namespace configs
 {
 	export class ActorTrainConfig extends ActorTrainConfigStruct
 	{
+		
 	}
 }

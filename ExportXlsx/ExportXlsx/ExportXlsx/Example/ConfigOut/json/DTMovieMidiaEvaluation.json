@@ -2,422 +2,330 @@
   "101": {
     "id": 101,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 0.100000001490116,
     "max_score": 1.0,
-    "content": [
-      1011,
-      1012
-    ],
+    "zh_cn_content": "从未看过的烂电影",
     "praise": 11,
     "pic": 0
   },
   "102": {
     "id": 102,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 1.10000002384186,
     "max_score": 2.0,
-    "content": [
-      1021,
-      1022
-    ],
+    "zh_cn_content": "最多给1.9分的电影",
     "praise": 11,
     "pic": 0
   },
   "103": {
     "id": 103,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 2.09999990463257,
     "max_score": 3.0,
-    "content": [
-      1031
-    ],
+    "zh_cn_content": "最多给3分的电影",
     "praise": 11,
     "pic": 0
   },
   "104": {
     "id": 104,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 3.09999990463257,
     "max_score": 4.0,
-    "content": [
-      1041
-    ],
+    "zh_cn_content": "最多给4分的电影",
     "praise": 11,
     "pic": 0
   },
   "105": {
     "id": 105,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 4.09999990463257,
     "max_score": 5.0,
-    "content": [
-      1051
-    ],
+    "zh_cn_content": "最多给5分的电影",
     "praise": 11,
     "pic": 0
   },
   "106": {
     "id": 106,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 5.09999990463257,
     "max_score": 6.0,
-    "content": [
-      1061
-    ],
+    "zh_cn_content": "最多给6分的电影",
     "praise": 11,
     "pic": 0
   },
   "107": {
     "id": 107,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 6.09999990463257,
     "max_score": 7.0,
-    "content": [
-      1071
-    ],
+    "zh_cn_content": "最多给7分的电影",
     "praise": 11,
     "pic": 0
   },
   "108": {
     "id": 108,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 7.09999990463257,
     "max_score": 8.0,
-    "content": [
-      1081
-    ],
+    "zh_cn_content": "最多给8分的电影",
     "praise": 11,
     "pic": 0
   },
   "109": {
     "id": 109,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 8.10000038146973,
     "max_score": 9.0,
-    "content": [
-      1091
-    ],
+    "zh_cn_content": "最多给9分的电影",
     "praise": 11,
     "pic": 0
   },
   "110": {
     "id": 110,
     "media_id": 1,
-    "name": "豆瓣",
-    "tips": "豆瓣",
-    "commentators": "jack",
+    "zh_cn_name": "豆瓣",
+    "zh_cn_commentators": "jack",
     "min_score": 9.10000038146973,
     "max_score": 10.0,
-    "content": [
-      1101
-    ],
+    "zh_cn_content": "最多给10分的电影",
     "praise": 11,
     "pic": 0
   },
   "201": {
     "id": 201,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 0.100000001490116,
     "max_score": 1.0,
-    "content": [
-      2011
-    ],
+    "zh_cn_content": "最多给1分的电影",
     "praise": 11,
     "pic": 0
   },
   "202": {
     "id": 202,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 1.10000002384186,
     "max_score": 2.0,
-    "content": [
-      2021
-    ],
+    "zh_cn_content": "最多给2分的电影",
     "praise": 11,
     "pic": 0
   },
   "203": {
     "id": 203,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 2.09999990463257,
     "max_score": 3.0,
-    "content": [
-      2031
-    ],
+    "zh_cn_content": "最多给3分的电影",
     "praise": 11,
     "pic": 0
   },
   "204": {
     "id": 204,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 3.09999990463257,
     "max_score": 4.0,
-    "content": [
-      2041
-    ],
+    "zh_cn_content": "最多给4分的电影",
     "praise": 11,
     "pic": 0
   },
   "205": {
     "id": 205,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 4.09999990463257,
     "max_score": 5.0,
-    "content": [
-      2051
-    ],
+    "zh_cn_content": "最多给5分的电影",
     "praise": 11,
     "pic": 0
   },
   "206": {
     "id": 206,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 5.09999990463257,
     "max_score": 6.0,
-    "content": [
-      2061
-    ],
+    "zh_cn_content": "最多给6分的电影",
     "praise": 11,
     "pic": 0
   },
   "207": {
     "id": 207,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 6.09999990463257,
     "max_score": 7.0,
-    "content": [
-      2071
-    ],
+    "zh_cn_content": "最多给7分的电影",
     "praise": 11,
     "pic": 0
   },
   "208": {
     "id": 208,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 7.09999990463257,
     "max_score": 8.0,
-    "content": [
-      2081
-    ],
+    "zh_cn_content": "最多给8分的电影",
     "praise": 11,
     "pic": 0
   },
   "209": {
     "id": 209,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 8.10000038146973,
     "max_score": 9.0,
-    "content": [
-      2091
-    ],
+    "zh_cn_content": "最多给9分的电影",
     "praise": 11,
     "pic": 0
   },
   "210": {
     "id": 210,
     "media_id": 2,
-    "name": "时光网",
-    "tips": "时光网",
-    "commentators": "Tom",
+    "zh_cn_name": "时光网",
+    "zh_cn_commentators": "Tom",
     "min_score": 9.10000038146973,
     "max_score": 10.0,
-    "content": [
-      2101
-    ],
+    "zh_cn_content": "最多给10分的电影",
     "praise": 11,
     "pic": 0
   },
   "301": {
     "id": 301,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 0.100000001490116,
     "max_score": 1.0,
-    "content": [
-      3011
-    ],
+    "zh_cn_content": "最多给1分的电影",
     "praise": 11,
     "pic": 0
   },
   "302": {
     "id": 302,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 1.10000002384186,
     "max_score": 2.0,
-    "content": [
-      3021
-    ],
+    "zh_cn_content": "最多给2分的电影",
     "praise": 11,
     "pic": 0
   },
   "303": {
     "id": 303,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 2.09999990463257,
     "max_score": 3.0,
-    "content": [
-      3031
-    ],
+    "zh_cn_content": "最多给3分的电影",
     "praise": 11,
     "pic": 0
   },
   "304": {
     "id": 304,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 3.09999990463257,
     "max_score": 4.0,
-    "content": [
-      3041
-    ],
+    "zh_cn_content": "最多给4分的电影",
     "praise": 11,
     "pic": 0
   },
   "305": {
     "id": 305,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 4.09999990463257,
     "max_score": 5.0,
-    "content": [
-      3051
-    ],
+    "zh_cn_content": "最多给5分的电影",
     "praise": 11,
     "pic": 0
   },
   "306": {
     "id": 306,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 5.09999990463257,
     "max_score": 6.0,
-    "content": [
-      3061
-    ],
+    "zh_cn_content": "最多给6分的电影",
     "praise": 11,
     "pic": 0
   },
   "307": {
     "id": 307,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 6.09999990463257,
     "max_score": 7.0,
-    "content": [
-      3071
-    ],
+    "zh_cn_content": "最多给7分的电影",
     "praise": 11,
     "pic": 0
   },
   "308": {
     "id": 308,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 7.09999990463257,
     "max_score": 8.0,
-    "content": [
-      3081
-    ],
+    "zh_cn_content": "最多给8分的电影",
     "praise": 11,
     "pic": 0
   },
   "309": {
     "id": 309,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 8.10000038146973,
     "max_score": 9.0,
-    "content": [
-      3091
-    ],
+    "zh_cn_content": "最多给9分的电影",
     "praise": 11,
     "pic": 0
   },
   "310": {
     "id": 310,
     "media_id": 3,
-    "name": "新闻网",
-    "tips": "新闻网",
-    "commentators": "Mike",
+    "zh_cn_name": "新闻网",
+    "zh_cn_commentators": "Mike",
     "min_score": 9.10000038146973,
     "max_score": 10.0,
-    "content": [
-      3101
-    ],
+    "zh_cn_content": "最多给10分的电影",
     "praise": 11,
     "pic": 0
   }

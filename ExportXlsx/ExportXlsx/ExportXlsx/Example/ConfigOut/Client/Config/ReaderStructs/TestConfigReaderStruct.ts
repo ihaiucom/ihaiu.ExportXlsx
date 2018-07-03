@@ -25,6 +25,8 @@ namespace configs
 			config.position =  DTVector2.parse(       csvGetString(csv,  this.GetHeadIndex(  "position"  )   )   );
 			config.story =  DTStoryNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "story"  )   )   );
 
+			
+
 
 			this.addConfig(config);
         }

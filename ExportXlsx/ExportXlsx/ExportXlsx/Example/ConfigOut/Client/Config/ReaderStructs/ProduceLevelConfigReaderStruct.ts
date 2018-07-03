@@ -23,6 +23,8 @@ namespace configs
 			config.output_initial = csvGetInt(csv,  this.GetHeadIndex(  "output_initial"  )   );
 			config.cost = csvGetInt(csv,  this.GetHeadIndex(  "cost"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

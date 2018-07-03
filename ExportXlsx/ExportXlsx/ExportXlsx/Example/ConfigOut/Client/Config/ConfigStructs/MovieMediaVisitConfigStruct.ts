@@ -7,11 +7,11 @@ namespace configs
 {
 	export class MovieMediaVisitConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		level : number;
-		name : string;
-		name_tips : string;
+		zh_cn_name : string;
 		levelup_req : number;
 		cost_id : number;
 		cost_num : number;
@@ -23,6 +23,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

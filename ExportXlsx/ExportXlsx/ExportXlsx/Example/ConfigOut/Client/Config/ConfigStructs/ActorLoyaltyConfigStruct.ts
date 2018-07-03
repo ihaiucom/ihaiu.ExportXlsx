@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ActorLoyaltyConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		lv : number;
@@ -17,6 +18,12 @@ namespace configs
 
 
 
+
+		
+		get tips()
+		{
+			return this.cn_tips
+		}
 	}
 
 

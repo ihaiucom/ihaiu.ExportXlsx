@@ -17,13 +17,15 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.sign_level = csvGetInt(csv,  this.GetHeadIndex(  "sign_level"  )   );
 			config.pic = csvGetInt(csv,  this.GetHeadIndex(  "pic"  )   );
 			config.num = csvGetInt(csv,  this.GetHeadIndex(  "num"  )   );
-			config.proportion = csvGetInt(csv,  this.GetHeadIndex(  "proportion"  )   );
+			config.proportion = csvGetFloat(csv,  this.GetHeadIndex(  "proportion"  )   );
 			config.favorite_actor = csvGetInt(csv,  this.GetHeadIndex(  "favorite_actor"  )   );
 			config.increase = csvGetInt(csv,  this.GetHeadIndex(  "increase"  )   );
+
+			
 
 
 			this.addConfig(config);

@@ -8,12 +8,12 @@ namespace configs
 	export class DTMovieAudienceEvaluation
 	{
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		sex : number;
 		pic : string;
 		tips : string;
 		min_score : number;
 		max_score : number;
-		content : number[];
+		zh_cn_content : string;
 	}
 }

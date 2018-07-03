@@ -7,5 +7,6 @@ namespace configs
 {
 	export class CompoundConfig extends CompoundConfigStruct
 	{
+		
 	}
 }

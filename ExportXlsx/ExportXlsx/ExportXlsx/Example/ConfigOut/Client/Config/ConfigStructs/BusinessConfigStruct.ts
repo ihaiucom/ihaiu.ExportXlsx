@@ -7,6 +7,7 @@ namespace configs
 {
 	export class BusinessConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		zh_cn_from : string;
@@ -19,6 +20,20 @@ namespace configs
 
 
 
+
+		
+		get from()
+		{
+			return this.zh_cn_from
+		}
+		get name()
+		{
+			return this.zh_cn_name
+		}
+		get description()
+		{
+			return this.zh_cn_description
+		}
 	}
 
 

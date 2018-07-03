@@ -1,5 +1,5 @@
-﻿int	int	int	int	string	string	string	string	string	int[]	int[]	float	int
-ID	技能组ID	技能等级	升级经验	英文名字	中文名字	技能描述	中文描述	技能ICON	触发条件	技能效果	效果参数	体力消耗
+﻿int	int	int	int	string	string	string	string	string	int[]	int	float	int
+ID	技能组ID	技能等级	升级经验	英文名字	中文名字	技能描述	中文描述	技能ICON	触发条件|n|多个条件时，满足一个就会触发	技能效果	效果参数	体力消耗
 id	group_id	lv	exp	en_name	cn_name	en_tips	cn_tips	icon	trigger	effect	value	stamina
 1001	1001	1	10	Superman	吸金达人	Superman	当派遣演员去城市时,赚取金币速度+N%	1001	1001	1001	0.5	0
 1002	1001	2	10	Superman	吸金达人	Superman	当派遣演员去城市时,赚取金币速度+N%	1001	1001	1001	1	0

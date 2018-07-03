@@ -7,9 +7,16 @@ namespace configs
 {
 	export class MenuConfigStruct extends BaseConfig
 	{
+	
+		// 101 : number;
+		static KEY_101 = "101";
+
+		// 102 : number[];
+		static KEY_102 = "102";
+
 
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		icon : string;
 		moduleName : string;
 		layer : number;
@@ -21,6 +28,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

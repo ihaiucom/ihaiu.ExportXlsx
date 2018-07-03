@@ -1,0 +1,20 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "group": 1,
+    "order": 1,
+    "path": "",
+    "assistant": true,
+    "position": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "cn_content": "A",
+    "en_content": "B",
+    "finger": true,
+    "f_direction": 1,
+    "halo": false,
+    "storyline": false,
+    "storyline_id": 0
+  }
+}

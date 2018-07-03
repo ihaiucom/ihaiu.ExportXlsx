@@ -7,5 +7,6 @@ namespace configs
 {
 	export class MoviePopularizeConfig extends MoviePopularizeConfigStruct
 	{
+		
 	}
 }

@@ -2,246 +2,384 @@
   "1001": {
     "id": 1001,
     "story_num": 1,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
+    "stack_sort": 1,
+    "zh_cn_story_name": "情多深雨多濛",
+    "name_tips": "测试用剧本1",
     "poster_name": "movie1",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
+    "zh_cn_introduction": "出生于富贵之家的陆伊萍（女主角）被迫离开陆家，为了生活她不得不去歌舞厅当歌女，因缘巧合下他与何疏桓（男主角）相识，并得知他与自己同父异母的姐姐陆心萍（配角）有婚约。萌生了抢夺去其男友何疏桓以报复陆家，随着交往她渐渐被疏桓打动。正当她决定为了爱情放弃复仇时，却被疏桓知晓其报复计划。一波曲折后最终两人冰释前嫌，有情人终成眷属。",
+    "introduction_tips": "测试用剧本1",
+    "length": 120,
     "cost": 900,
-    "stars": 2,
-    "type": 1701,
+    "stars": 1302,
+    "type": 1703,
     "tags": [
-      1801,
-      1802
+      1804,
+      1808
     ],
     "hidden_tags": [
-      1803,
-      1804
+      1805,
+      1812
     ],
-    "shoot_type": "2201:100;2202:50",
+    "shoot_type": 1001,
     "property": [
       1001,
-      1002
-    ],
-    "target_mark": true,
-    "target": 1001,
-    "male_percent": 10,
-    "female_percent": 10,
-    "child_percent": 10,
-    "reward": "1:10",
-    "sequel_mark": false,
-    "interviews_bottom": 0,
-    "interviews_top": 5
-  },
-  "1002": {
-    "id": 1002,
-    "story_num": 2,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
-    "poster_name": "movie2",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
-    "tags": [
-      1801,
-      1802
-    ],
-    "hidden_tags": [
-      1803,
-      1804
-    ],
-    "shoot_type": "2201:100;2202:50",
-    "property": [
+      1002,
       1003,
       1004
     ],
     "target_mark": true,
     "target": 1001,
     "male_percent": 10,
+    "female_percent": 30,
+    "child_percent": 0,
+    "reward": "1603:25",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1001
+  },
+  "1002": {
+    "id": 1002,
+    "story_num": 2,
+    "stack_sort": 1,
+    "zh_cn_story_name": "西服农民",
+    "name_tips": "测试用剧本2",
+    "poster_name": "movie2",
+    "zh_cn_introduction": "22世纪地心出现生命生物，国土资源局建立了“黑衣人”的神秘机构，专门制裁邪恶的地心人。阿杰（主角）和老开（主角）是组织的前线观察人员，一天他们发现了企图夺走能量源“银河”的地心生物艾德根（反派）。事态紧急，阿杰和老开这对搭档带着先进武器对抗地心人追回“银河”。",
+    "introduction_tips": "测试用剧本2",
+    "length": 130,
+    "cost": 800,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1811,
+      1807
+    ],
+    "hidden_tags": [
+      1806,
+      1809
+    ],
+    "shoot_type": 1002,
+    "property": [
+      1005,
+      1006,
+      1007
+    ],
+    "target_mark": false,
+    "target": 0,
+    "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
-    "reward": "1:11",
-    "sequel_mark": false,
+    "reward": "1603:11",
+    "sequel_mark": true,
     "interviews_bottom": 0,
-    "interviews_top": 5
+    "interviews_top": 5,
+    "random_name": 1002
   },
   "1003": {
     "id": 1003,
     "story_num": 3,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
+    "stack_sort": 2,
+    "zh_cn_story_name": "神力女超人",
+    "name_tips": "测试用剧本3",
     "poster_name": "movie3",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
+    "zh_cn_introduction": "自由生活在大山中的小女孩，跟随隐世的师父习得高超武艺，被一名外国探险家诱拐逃出深山，通过自身力量对抗外面世界的邪恶……",
+    "introduction_tips": "测试用剧本3",
+    "length": 90,
+    "cost": 1000,
+    "stars": 1303,
+    "type": 1708,
     "tags": [
       1801,
-      1802
+      1820,
+      1808
     ],
     "hidden_tags": [
-      1803,
-      1804
+      1802,
+      1815
     ],
-    "shoot_type": "2201:100;2202:50",
+    "shoot_type": 1003,
     "property": [
-      1005,
-      1006
-    ],
-    "target_mark": true,
-    "target": 1001,
-    "male_percent": 10,
-    "female_percent": 10,
-    "child_percent": 10,
-    "reward": "1:12",
-    "sequel_mark": false,
-    "interviews_bottom": 0,
-    "interviews_top": 5
-  },
-  "1004": {
-    "id": 1004,
-    "story_num": 4,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
-    "poster_name": "movie4",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
-    "tags": [
-      1801,
-      1802
-    ],
-    "hidden_tags": [
-      1803,
-      1804
-    ],
-    "shoot_type": "2201:100;2202:50",
-    "property": [
-      1007,
-      1008
-    ],
-    "target_mark": true,
-    "target": 1001,
-    "male_percent": 10,
-    "female_percent": 10,
-    "child_percent": 10,
-    "reward": "1:13",
-    "sequel_mark": false,
-    "interviews_bottom": 0,
-    "interviews_top": 5
-  },
-  "1005": {
-    "id": 1005,
-    "story_num": 5,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
-    "poster_name": "movie5",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
-    "tags": [
-      1801,
-      1802
-    ],
-    "hidden_tags": [
-      1803,
-      1804
-    ],
-    "shoot_type": "2201:100;2202:50",
-    "property": [
+      1008,
       1009,
       1010
     ],
     "target_mark": true,
-    "target": 1001,
+    "target": 1002,
+    "male_percent": 30,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1003
+  },
+  "1004": {
+    "id": 1004,
+    "story_num": 4,
+    "stack_sort": 2,
+    "zh_cn_story_name": "囧人归家",
+    "name_tips": "测试用剧本4",
+    "poster_name": "movie4",
+    "zh_cn_introduction": "常年在外创业的玩具集团老板李诚功（主角），准备再春节回家与妻子梅莉（配角）离婚。然而，却在机场遇到了同一目的地的讨债工牛耿直（主角），命运作弄两人在路上遇到各种千奇百怪的事。经过了一系列的人与事后，李诚功渐渐被牛耿直的正直改变，唤醒了他沉睡多年的真情。",
+    "introduction_tips": "测试用剧本4",
+    "length": 110,
+    "cost": 2000,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1816,
+      1803
+    ],
+    "hidden_tags": [
+      1818,
+      1810
+    ],
+    "shoot_type": 1004,
+    "property": [
+      1011,
+      1012,
+      1013
+    ],
+    "target_mark": false,
+    "target": 0,
     "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
-    "reward": "1:14",
-    "sequel_mark": false,
+    "reward": "1603:5",
+    "sequel_mark": true,
     "interviews_bottom": 0,
-    "interviews_top": 5
+    "interviews_top": 5,
+    "random_name": 1004
+  },
+  "1005": {
+    "id": 1005,
+    "story_num": 5,
+    "stack_sort": 3,
+    "zh_cn_story_name": "寄生少年",
+    "name_tips": "测试用剧本5",
+    "poster_name": "movie5",
+    "zh_cn_introduction": "某天夜里，来自外星的神秘寄生兽出现在霓虹上空，他们入侵到各地的人类身上，并占据身体，然而一位少年泉贤一（男主角）却因为意外只被侵占了右手，苏醒后的寄生兽小佑（主角）因为无法脱离本体，不得不与贤一合作。因为贤一的特殊存在让其他寄生兽对他发起了袭击，贤一的母亲也因此被杀害，渐渐了解到寄生兽目的的贤一决定挺身而出。",
+    "introduction_tips": "测试用剧本5",
+    "length": 135,
+    "cost": 1500,
+    "stars": 1303,
+    "type": 1702,
+    "tags": [
+      1801,
+      1811
+    ],
+    "hidden_tags": [
+      1808,
+      1812
+    ],
+    "shoot_type": 1005,
+    "property": [
+      1014,
+      1015,
+      1016,
+      1017
+    ],
+    "target_mark": true,
+    "target": 1003,
+    "male_percent": 30,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1005
   },
   "1006": {
     "id": 1006,
     "story_num": 6,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
+    "stack_sort": 3,
+    "zh_cn_story_name": "暗藏危机",
+    "name_tips": "测试用剧本6",
     "poster_name": "movie6",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
+    "zh_cn_introduction": "杰姆斯（男主角）因童年一张老照片开启前往墨西哥之旅，邂逅了美丽的陆希亚（配角）揭开了名为幽灵党的邪恶组织。与他宿敌的女儿马迪琳（女主角）一同战胜布莱福（反派）",
+    "introduction_tips": "测试用剧本6",
+    "length": 115,
+    "cost": 1100,
+    "stars": 1302,
+    "type": 1708,
     "tags": [
       1801,
-      1802
-    ],
-    "hidden_tags": [
-      1803,
       1804
     ],
-    "shoot_type": "2201:100;2202:50",
+    "hidden_tags": [
+      1809,
+      1817
+    ],
+    "shoot_type": 1006,
     "property": [
-      1011,
-      1012
+      1018,
+      1019,
+      1020,
+      1021
     ],
     "target_mark": true,
-    "target": 1001,
-    "male_percent": 10,
-    "female_percent": 10,
-    "child_percent": 10,
-    "reward": "1:15",
-    "sequel_mark": false,
+    "target": 1004,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1601:5",
+    "sequel_mark": true,
     "interviews_bottom": 0,
-    "interviews_top": 5
+    "interviews_top": 5,
+    "random_name": 1006
   },
   "1007": {
     "id": 1007,
     "story_num": 7,
-    "zh_cn_story_name": "钢达尼号",
-    "name_tips": "策划备注",
+    "stack_sort": 3,
+    "zh_cn_story_name": "探索死亡之地",
+    "name_tips": "测试用剧本7",
     "poster_name": "movie7",
-    "zh_cn_introduction": "电影简介",
-    "introduction_tips": "策划备注2",
-    "length": 150,
-    "cost": 900,
-    "stars": 2,
-    "type": 1701,
+    "zh_cn_introduction": "1994年十月，三个电影学院的学生——麦克（男主角），伊瑟（女主角）和奇什（男主角）前往马里兰州的一个小镇拍摄一部关于女巫的纪录片，然而在拍摄过程中三人全部失踪。人们在一年以后，发现了他们留下的电影胶片，记录了她们失踪前发生的一切……",
+    "introduction_tips": "测试用剧本7",
+    "length": 95,
+    "cost": 1400,
+    "stars": 1301,
+    "type": 1706,
     "tags": [
-      1801,
-      1802
+      1802,
+      1812
+    ],
+    "hidden_tags": [
+      1813,
+      1810
+    ],
+    "shoot_type": 1007,
+    "property": [
+      1022,
+      1023,
+      1024
+    ],
+    "target_mark": false,
+    "target": 0,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1007
+  },
+  "1008": {
+    "id": 1008,
+    "story_num": 8,
+    "stack_sort": 4,
+    "zh_cn_story_name": "废材天才",
+    "name_tips": "测试用剧本8",
+    "poster_name": "movie8",
+    "zh_cn_introduction": "曾是家族天才的少年萧火火（主角）变成了只有三段斗气的弱鸡 ，他遭受了家族冷落，旁人轻视。更不幸的是与其定有婚约的未婚妻竟亲自上门退婚，对其百般羞辱，他立下誓言潜心修行，历经艰险，最终一雪前耻成为整个大陆的最强者。",
+    "introduction_tips": "测试用剧本8",
+    "length": 85,
+    "cost": 1358,
+    "stars": 1302,
+    "type": 1706,
+    "tags": [
+      1808,
+      1801
     ],
     "hidden_tags": [
       1803,
-      1804
+      1813
     ],
-    "shoot_type": "2201:100;2202:50",
+    "shoot_type": 1008,
     "property": [
-      1012,
-      1004
+      1025,
+      1026,
+      1027
     ],
     "target_mark": true,
-    "target": 1001,
+    "target": 1005,
+    "male_percent": 30,
+    "female_percent": 0,
+    "child_percent": 10,
+    "reward": "1603:5",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1008
+  },
+  "1009": {
+    "id": 1009,
+    "story_num": 9,
+    "stack_sort": 4,
+    "zh_cn_story_name": "花甲特工",
+    "name_tips": "测试用剧本9",
+    "poster_name": "movie9",
+    "zh_cn_introduction": "退休多年的军官特工丁豹（主角）一直为弄丢孙女自责，年事已高的他记忆力迅速衰退，后来与邻家小女孩春花（主角）相识。春花的父亲李振久（配角）确认他被牵扯进了一宗国际犯罪事件……",
+    "introduction_tips": "测试用剧本9",
+    "length": 100,
+    "cost": 777,
+    "stars": 1301,
+    "type": 1707,
+    "tags": [
+      1809
+    ],
+    "hidden_tags": [
+      1817,
+      1820
+    ],
+    "shoot_type": 1009,
+    "property": [
+      1029,
+      1030,
+      1031
+    ],
+    "target_mark": false,
+    "target": 0,
     "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
-    "reward": "1:16",
-    "sequel_mark": false,
+    "reward": "1601:25",
+    "sequel_mark": true,
     "interviews_bottom": 0,
-    "interviews_top": 5
+    "interviews_top": 5,
+    "random_name": 1009
+  },
+  "1010": {
+    "id": 1010,
+    "story_num": 10,
+    "stack_sort": 4,
+    "zh_cn_story_name": "穿山甲说了什么",
+    "name_tips": "测试用剧本10",
+    "poster_name": "movie10",
+    "zh_cn_introduction": "鉴黄师小马（主角）救下被地球三体组织追杀的东营艺术家大木老师（主角），大木老师临死前告诉了他一个惊天秘密：穿山甲说……",
+    "introduction_tips": "测试用剧本10",
+    "length": 150,
+    "cost": 999,
+    "stars": 1302,
+    "type": 1710,
+    "tags": [
+      1816,
+      1812
+    ],
+    "hidden_tags": [
+      1820,
+      1818
+    ],
+    "shoot_type": 1010,
+    "property": [
+      1032,
+      1033,
+      1034
+    ],
+    "target_mark": true,
+    "target": 1006,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "interviews_bottom": 0,
+    "interviews_top": 5,
+    "random_name": 1010
   }
 }

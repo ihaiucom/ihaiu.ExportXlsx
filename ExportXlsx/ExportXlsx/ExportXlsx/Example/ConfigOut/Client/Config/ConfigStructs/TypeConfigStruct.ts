@@ -7,6 +7,7 @@ namespace configs
 {
 	export class TypeConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		field : string;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

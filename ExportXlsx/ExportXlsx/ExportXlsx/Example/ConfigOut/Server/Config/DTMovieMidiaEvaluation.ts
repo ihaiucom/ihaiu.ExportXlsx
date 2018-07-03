@@ -9,12 +9,11 @@ namespace configs
 	{
 		id : number;
 		media_id : number;
-		name : string;
-		tips : string;
-		commentators : string;
+		zh_cn_name : string;
+		zh_cn_commentators : string;
 		min_score : number;
 		max_score : number;
-		content : number[];
+		zh_cn_content : string;
 		praise : number;
 		pic : number;
 	}

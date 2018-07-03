@@ -7,6 +7,7 @@ namespace configs
 {
 	export class StoryRateConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		name : string;
@@ -15,6 +16,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

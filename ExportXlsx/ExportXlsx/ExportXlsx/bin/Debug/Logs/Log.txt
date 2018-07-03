@@ -249,3 +249,105 @@
 2018-06-26 13:33:57.9269   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Test.xlsx
 2018-06-26 13:33:57.9269   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Type.xlsx
 2018-06-26 13:33:57.9269   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Visit.xlsx
+2018-07-02 18:34:34.0806   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-02 18:34:34.4266   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-02 18:34:34.4376   (TableReader.cs:37) 读取配置表 Activities
+2018-07-02 18:34:34.4626   (TableReader.cs:37) 读取配置表 Actor
+2018-07-02 18:34:34.4916   (TableReader.cs:37) 读取配置表 ActorAssets
+2018-07-02 18:34:34.5106   (TableReader.cs:37) 读取配置表 ActorLevel
+2018-07-02 18:34:34.5397   (TableReader.cs:37) 读取配置表 ActorLoyalty
+2018-07-02 18:34:34.5487   (TableReader.cs:37) 读取配置表 ActorProficiency
+2018-07-02 18:34:34.5617   (TableReader.cs:37) 读取配置表 ActorTrain
+2018-07-02 18:34:34.5717   (TableReader.cs:37) 读取配置表 Avatar
+2018-07-02 18:34:34.5717   (TableReader.cs:37) 读取配置表 BattleLevel
+2018-07-02 18:34:34.5717   (TableReader.cs:37) 读取配置表 BattleShootType
+2018-07-02 18:34:34.5877   (TableReader.cs:37) 读取配置表 BlockLevel
+2018-07-02 18:34:34.6027   (TableReader.cs:37) 读取配置表 BlockRankingList
+2018-07-02 18:34:34.6027   (TableReader.cs:37) 读取配置表 BlockWords
+2018-07-02 18:34:34.6247   (TableReader.cs:37) 读取配置表 BuildingEffect
+2018-07-02 18:34:34.6557   (TableReader.cs:37) 读取配置表 BuildingLevel
+2018-07-02 18:34:34.7607   (TableReader.cs:37) 读取配置表 BuildProperty
+2018-07-02 18:34:34.7607   (TableReader.cs:91)  path:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BuildProperty.xlsx, sheetName:， 是空单元格 3行2列  
+2018-07-02 18:34:34.7607   (TableReader.cs:37) 读取配置表 Business
+2018-07-02 18:34:34.7787   (TableReader.cs:37) 读取配置表 Cinema
+2018-07-02 18:34:34.7787   (TableReader.cs:37) 读取配置表 CityPopularize
+2018-07-02 18:34:34.7917   (TableReader.cs:37) 读取配置表 Compound
+2018-07-02 18:34:34.7917   (TableReader.cs:37) 读取配置表 CooperateReward
+2018-07-02 18:34:34.8107   (TableReader.cs:37) 读取配置表 CooperateTask
+2018-07-02 18:34:34.8277   (TableReader.cs:37) 读取配置表 Country
+2018-07-02 18:34:34.8277   (TableReader.cs:37) 读取配置表 DailySign
+2018-07-02 18:34:34.8477   (TableReader.cs:37) 读取配置表 Dialogue
+2018-07-02 18:34:34.8607   (TableReader.cs:37) 读取配置表 GameLevel
+2018-07-02 18:34:34.8607   (TableReader.cs:37) 读取配置表 GameRandomName
+2018-07-02 18:34:34.8717   (TableReader.cs:37) 读取配置表 GiftPackage
+2018-07-02 18:34:34.8717   (TableReader.cs:37) 读取配置表 Global
+2018-07-02 18:34:34.8977   (TableReader.cs:37) 读取配置表 Guidesystem
+2018-07-02 18:34:34.9027   (TableReader.cs:37) 读取配置表 HeadPortrait
+2018-07-02 18:34:34.9157   (TableReader.cs:37) 读取配置表 Item
+2018-07-02 18:34:34.9537   (TableReader.cs:37) 读取配置表 Loader
+2018-07-02 18:34:34.9537   (TableReader.cs:37) 读取配置表 Loading
+2018-07-02 18:34:34.9687   (TableReader.cs:37) 读取配置表 Mail
+2018-07-02 18:34:34.9687   (TableReader.cs:37) 读取配置表 Maintask
+2018-07-02 18:34:34.9797   (TableReader.cs:37) 读取配置表 Meeting
+2018-07-02 18:34:34.9797   (TableReader.cs:37) 读取配置表 MeetingGame
+2018-07-02 18:34:34.9797   (TableReader.cs:37) 读取配置表 MeetingRewards
+2018-07-02 18:34:34.9967   (TableReader.cs:37) 读取配置表 MeetingText
+2018-07-02 18:34:34.9967   (TableReader.cs:37) 读取配置表 Menu
+2018-07-02 18:34:35.0097   (TableReader.cs:37) 读取配置表 MovieAudienceEvaluation
+2018-07-02 18:34:35.0377   (TableReader.cs:37) 读取配置表 MovieDailyReward
+2018-07-02 18:34:35.0567   (TableReader.cs:37) 读取配置表 MovieDrop
+2018-07-02 18:34:35.0847   (TableReader.cs:37) 读取配置表 MovieExpect
+2018-07-02 18:34:35.0907   (TableReader.cs:37) 读取配置表 MovieLicence
+2018-07-02 18:34:35.0907   (TableReader.cs:37) 读取配置表 MovieMediaVisit
+2018-07-02 18:34:35.1057   (TableReader.cs:37) 读取配置表 MovieMidiaEvaluation
+2018-07-02 18:34:35.1187   (TableReader.cs:37) 读取配置表 MoviePopularize
+2018-07-02 18:34:35.1187   (TableReader.cs:37) 读取配置表 MovieShootType
+2018-07-02 18:34:35.1187   (TableReader.cs:37) 读取配置表 Msg
+2018-07-02 18:34:35.1477   (TableReader.cs:37) 读取配置表 Npc
+2018-07-02 18:34:35.1517   (TableReader.cs:37) 读取配置表 Order
+2018-07-02 18:34:35.1517   (TableReader.cs:37) 读取配置表 OrderComplete
+2018-07-02 18:34:35.1667   (TableReader.cs:37) 读取配置表 Oscar
+2018-07-02 18:34:35.1667   (TableReader.cs:37) 读取配置表 Perform
+2018-07-02 18:34:35.1857   (TableReader.cs:37) 读取配置表 PlayerLevel
+2018-07-02 18:34:35.2027   (TableReader.cs:37) 读取配置表 Position
+2018-07-02 18:34:35.2027   (TableReader.cs:37) 读取配置表 Produce
+2018-07-02 18:34:35.2267   (TableReader.cs:37) 读取配置表 ProduceLevel
+2018-07-02 18:34:35.2267   (TableReader.cs:37) 读取配置表 ProduceSouvenir
+2018-07-02 18:34:35.2997   (TableReader.cs:37) 读取配置表 Property
+2018-07-02 18:34:35.3267   (TableReader.cs:37) 读取配置表 RandomName
+2018-07-02 18:34:35.3487   (TableReader.cs:37) 读取配置表 RandomSurname
+2018-07-02 18:34:35.3997   (TableReader.cs:37) 读取配置表 Recharge
+2018-07-02 18:34:35.4137   (TableReader.cs:37) 读取配置表 Secretary
+2018-07-02 18:34:35.4137   (TableReader.cs:37) 读取配置表 SecretaryGift
+2018-07-02 18:34:35.4317   (TableReader.cs:37) 读取配置表 SecretaryText
+2018-07-02 18:34:35.4317   (TableReader.cs:37) 读取配置表 SecretaryType
+2018-07-02 18:34:35.4477   (TableReader.cs:37) 读取配置表 ServerRankingList
+2018-07-02 18:34:35.4657   (TableReader.cs:37) 读取配置表 SettingDefault
+2018-07-02 18:34:35.4657   (TableReader.cs:37) 读取配置表 SettingText
+2018-07-02 18:34:35.4767   (TableReader.cs:37) 读取配置表 SevenDays
+2018-07-02 18:34:35.4767   (TableReader.cs:37) 读取配置表 SevenDaysText
+2018-07-02 18:34:35.4767   (TableReader.cs:37) 读取配置表 Shop
+2018-07-02 18:34:35.4947   (TableReader.cs:37) 读取配置表 Skill
+2018-07-02 18:34:35.5167   (TableReader.cs:37) 读取配置表 SkillEffect
+2018-07-02 18:34:35.5167   (TableReader.cs:37) 读取配置表 SkillTrigger
+2018-07-02 18:34:35.5367   (TableReader.cs:37) 读取配置表 Speak
+2018-07-02 18:34:35.5417   (TableReader.cs:37) 读取配置表 StarCon
+2018-07-02 18:34:35.5417   (TableReader.cs:37) 读取配置表 Story
+2018-07-02 18:34:35.5547   (TableReader.cs:37) 读取配置表 StoryCharacters
+2018-07-02 18:34:35.5547   (TableReader.cs:37) 读取配置表 StoryGoals
+2018-07-02 18:34:35.5697   (TableReader.cs:37) 读取配置表 Storyline
+2018-07-02 18:34:35.5697   (TableReader.cs:37) 读取配置表 StoryRate
+2018-07-02 18:34:35.5697   (TableReader.cs:37) 读取配置表 StoryStackItem
+2018-07-02 18:34:35.5877   (TableReader.cs:37) 读取配置表 StoryStackSort
+2018-07-02 18:34:35.5877   (TableReader.cs:37) 读取配置表 StoryTask
+2018-07-02 18:34:35.5877   (TableReader.cs:37) 读取配置表 Street
+2018-07-02 18:34:35.6107   (TableReader.cs:37) 读取配置表 Task
+2018-07-02 18:34:35.6237   (TableReader.cs:37) 读取配置表 TaskComplete
+2018-07-02 18:34:35.6237   (TableReader.cs:37) 读取配置表 Test
+2018-07-02 18:34:36.3658   (TableReader.cs:37) 读取配置表 Type
+2018-07-02 18:34:36.3658   (TableReader.cs:37) 读取配置表 Visit
+2018-07-02 18:34:36.4178   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-02 18:34:36.4178   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:Activities
+2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:Actor

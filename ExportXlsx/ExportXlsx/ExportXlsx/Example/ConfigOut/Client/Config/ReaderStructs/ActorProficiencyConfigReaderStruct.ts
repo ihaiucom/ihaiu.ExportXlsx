@@ -22,6 +22,8 @@ namespace configs
 			config.shoot_exp = csvGetInt(csv,  this.GetHeadIndex(  "shoot_exp"  )   );
 			config.exp = csvGetInt(csv,  this.GetHeadIndex(  "exp"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

@@ -16,7 +16,9 @@ namespace configs
 			let config = new BuildPropertyConfig();
 
 
-			config.下映后的持续收益时间 =  名称.parse(       csvGetString(csv,  this.GetHeadIndex(  "下映后的持续收益时间"  )   )   );
+
+			
+			config["下映后的持续收益时间"] =  名称.parse(       csvGetString(csv,  this.GetHeadIndex(  "下映后的持续收益时间"  )   )   );
 
 
 			this.addConfig(config);

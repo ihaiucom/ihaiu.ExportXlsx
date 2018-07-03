@@ -26,9 +26,11 @@ namespace configs
 			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
 			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.trigger =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "trigger"  )   )   );
-			config.effect =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "effect"  )   )   );
-			config.value = csvGetInt(csv,  this.GetHeadIndex(  "value"  )   );
+			config.effect = csvGetInt(csv,  this.GetHeadIndex(  "effect"  )   );
+			config.value = csvGetFloat(csv,  this.GetHeadIndex(  "value"  )   );
 			config.stamina = csvGetInt(csv,  this.GetHeadIndex(  "stamina"  )   );
+
+			
 
 
 			this.addConfig(config);

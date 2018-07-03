@@ -20,6 +20,8 @@ namespace configs
 			config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
 			config.cool_down = csvGetInt(csv,  this.GetHeadIndex(  "cool_down"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

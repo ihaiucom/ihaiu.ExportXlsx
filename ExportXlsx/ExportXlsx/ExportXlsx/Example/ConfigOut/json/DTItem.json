@@ -1,18 +1,17 @@
 ﻿{
   "1": {
     "id": 1,
-    "name": "金币",
-    "item_des": "金币",
+    "zh_cn_name": "钻石",
+    "zh_cn_item_des": "钻石",
     "icon": 0,
     "star": 0,
-    "name_tips": "",
     "type": 1,
     "max_num": 0,
     "get_way": [
       6,
       10
     ],
-    "can_use": false,
+    "use_type": 0,
     "reward": [
       {
         "itemId": 0
@@ -26,11 +25,10 @@
   },
   "2": {
     "id": 2,
-    "name": "美元",
-    "item_des": "美元",
+    "zh_cn_name": "金币",
+    "zh_cn_item_des": "金币",
     "icon": 0,
     "star": 0,
-    "name_tips": "",
     "type": 2,
     "max_num": 0,
     "get_way": [
@@ -38,7 +36,7 @@
       5,
       15
     ],
-    "can_use": false,
+    "use_type": 0,
     "reward": [
       {
         "itemId": 0
@@ -52,20 +50,1507 @@
   },
   "3": {
     "id": 3,
-    "name": "钻石",
-    "item_des": "钻石",
+    "zh_cn_name": "美元",
+    "zh_cn_item_des": "美元",
     "icon": 0,
     "star": 0,
-    "name_tips": "",
     "type": 3,
     "max_num": 0,
     "get_way": [
       0
     ],
-    "can_use": false,
+    "use_type": 0,
     "reward": [
       {
         "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4": {
+    "id": 4,
+    "zh_cn_name": "拍摄许可证",
+    "zh_cn_item_des": "拍摄许可证",
+    "icon": 0,
+    "star": 0,
+    "type": 10,
+    "max_num": 2,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4001": {
+    "id": 4001,
+    "zh_cn_name": "科幻片激光器",
+    "zh_cn_item_des": "科幻片激光器",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4002": {
+    "id": 4002,
+    "zh_cn_name": "奇幻片魔法剑",
+    "zh_cn_item_des": "奇幻片魔法剑",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4003": {
+    "id": 4003,
+    "zh_cn_name": "现代片钢笔",
+    "zh_cn_item_des": "现代片钢笔",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4004": {
+    "id": 4004,
+    "zh_cn_name": "励志片名言T恤",
+    "zh_cn_item_des": "励志片名言T恤",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4005": {
+    "id": 4005,
+    "zh_cn_name": "战争片勋章",
+    "zh_cn_item_des": "战争片勋章",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4006": {
+    "id": 4006,
+    "zh_cn_name": "冒险片牛仔帽",
+    "zh_cn_item_des": "冒险片牛仔帽",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4007": {
+    "id": 4007,
+    "zh_cn_name": "古装片铠甲",
+    "zh_cn_item_des": "古装片铠甲",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4008": {
+    "id": 4008,
+    "zh_cn_name": "犯罪片头套",
+    "zh_cn_item_des": "犯罪片头套",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4009": {
+    "id": 4009,
+    "zh_cn_name": "谍战片墨镜",
+    "zh_cn_item_des": "谍战片墨镜",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4010": {
+    "id": 4010,
+    "zh_cn_name": "灾难片手电筒",
+    "zh_cn_item_des": "灾难片手电筒",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4011": {
+    "id": 4011,
+    "zh_cn_name": "叙事片明信片",
+    "zh_cn_item_des": "叙事片明信片",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4012": {
+    "id": 4012,
+    "zh_cn_name": "喜剧片气球",
+    "zh_cn_item_des": "喜剧片气球",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4013": {
+    "id": 4013,
+    "zh_cn_name": "动作片沙袋",
+    "zh_cn_item_des": "动作片沙袋",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4014": {
+    "id": 4014,
+    "zh_cn_name": "爱情片海报",
+    "zh_cn_item_des": "爱情片海报",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4015": {
+    "id": 4015,
+    "zh_cn_name": "动画片音乐CD",
+    "zh_cn_item_des": "动画片音乐CD",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4016": {
+    "id": 4016,
+    "zh_cn_name": "悬疑片手铐",
+    "zh_cn_item_des": "悬疑片手铐",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4017": {
+    "id": 4017,
+    "zh_cn_name": "恐怖片面具",
+    "zh_cn_item_des": "恐怖片面具",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "4018": {
+    "id": 4018,
+    "zh_cn_name": "动画片公仔",
+    "zh_cn_item_des": "动画片公仔",
+    "icon": 0,
+    "star": 0,
+    "type": 4,
+    "max_num": 9999,
+    "get_way": [
+      6
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6101": {
+    "id": 6101,
+    "zh_cn_name": "1星潮流耳机",
+    "zh_cn_item_des": "1星潮流耳机",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6101,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6102": {
+    "id": 6102,
+    "zh_cn_name": "1星雕塑",
+    "zh_cn_item_des": "1星雕塑",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6102,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6103": {
+    "id": 6103,
+    "zh_cn_name": "1星瓷器",
+    "zh_cn_item_des": "1星瓷器",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6103,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6104": {
+    "id": 6104,
+    "zh_cn_name": "1星领带",
+    "zh_cn_item_des": "1星领带",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6104,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6105": {
+    "id": 6105,
+    "zh_cn_name": "1星手提包",
+    "zh_cn_item_des": "1星手提包",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6105,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6106": {
+    "id": 6106,
+    "zh_cn_name": "1星运动鞋",
+    "zh_cn_item_des": "1星运动鞋",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6106,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6107": {
+    "id": 6107,
+    "zh_cn_name": "1星单反相机",
+    "zh_cn_item_des": "1星单反相机",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6107,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6108": {
+    "id": 6108,
+    "zh_cn_name": "1星油画",
+    "zh_cn_item_des": "1星油画",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6108,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6109": {
+    "id": 6109,
+    "zh_cn_name": "1星茶具",
+    "zh_cn_item_des": "1星茶具",
+    "icon": 0,
+    "star": 1,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6109,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6201": {
+    "id": 6201,
+    "zh_cn_name": "2星潮流耳机",
+    "zh_cn_item_des": "2星潮流耳机",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6201,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6202": {
+    "id": 6202,
+    "zh_cn_name": "2星雕塑",
+    "zh_cn_item_des": "2星雕塑",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6202,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6203": {
+    "id": 6203,
+    "zh_cn_name": "2星瓷器",
+    "zh_cn_item_des": "2星瓷器",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6203,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6204": {
+    "id": 6204,
+    "zh_cn_name": "2星领带",
+    "zh_cn_item_des": "2星领带",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6204,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6205": {
+    "id": 6205,
+    "zh_cn_name": "2星手提包",
+    "zh_cn_item_des": "2星手提包",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6205,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6206": {
+    "id": 6206,
+    "zh_cn_name": "2星运动鞋",
+    "zh_cn_item_des": "2星运动鞋",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6206,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6207": {
+    "id": 6207,
+    "zh_cn_name": "2星单反相机",
+    "zh_cn_item_des": "2星单反相机",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6207,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6208": {
+    "id": 6208,
+    "zh_cn_name": "2星油画",
+    "zh_cn_item_des": "2星油画",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6208,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6209": {
+    "id": 6209,
+    "zh_cn_name": "2星茶具",
+    "zh_cn_item_des": "2星茶具",
+    "icon": 0,
+    "star": 2,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6209,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6301": {
+    "id": 6301,
+    "zh_cn_name": "3星潮流耳机",
+    "zh_cn_item_des": "3星潮流耳机",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6301,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6302": {
+    "id": 6302,
+    "zh_cn_name": "3星雕塑",
+    "zh_cn_item_des": "3星雕塑",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6302,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6303": {
+    "id": 6303,
+    "zh_cn_name": "3星瓷器",
+    "zh_cn_item_des": "3星瓷器",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6303,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6304": {
+    "id": 6304,
+    "zh_cn_name": "3星领带",
+    "zh_cn_item_des": "3星领带",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6304,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6305": {
+    "id": 6305,
+    "zh_cn_name": "3星手提包",
+    "zh_cn_item_des": "3星手提包",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6305,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6306": {
+    "id": 6306,
+    "zh_cn_name": "3星运动鞋",
+    "zh_cn_item_des": "3星运动鞋",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6306,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6307": {
+    "id": 6307,
+    "zh_cn_name": "3星单反相机",
+    "zh_cn_item_des": "3星单反相机",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6307,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6308": {
+    "id": 6308,
+    "zh_cn_name": "3星油画",
+    "zh_cn_item_des": "3星油画",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6308,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6309": {
+    "id": 6309,
+    "zh_cn_name": "3星茶具",
+    "zh_cn_item_des": "3星茶具",
+    "icon": 0,
+    "star": 3,
+    "type": 6,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 6309,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "9001": {
+    "id": 9001,
+    "zh_cn_name": "砖头",
+    "zh_cn_item_des": "砖头",
+    "icon": 0,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      7,
+      12,
+      15
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "9002": {
+    "id": 9002,
+    "zh_cn_name": "玻璃",
+    "zh_cn_item_des": "玻璃",
+    "icon": 0,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      11,
+      12,
+      14
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "9003": {
+    "id": 9003,
+    "zh_cn_name": "水泥",
+    "zh_cn_item_des": "水泥",
+    "icon": 0,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      3,
+      11
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "9004": {
+    "id": 9004,
+    "zh_cn_name": "木材",
+    "zh_cn_item_des": "木材",
+    "icon": 0,
+    "star": 0,
+    "type": 9,
+    "max_num": 9999,
+    "get_way": [
+      7
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5001": {
+    "id": 5001,
+    "zh_cn_name": "培养卡",
+    "zh_cn_item_des": "培养卡",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5002": {
+    "id": 5002,
+    "zh_cn_name": "邀请函",
+    "zh_cn_item_des": "邀请函",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5003": {
+    "id": 5003,
+    "zh_cn_name": "忠诚卡",
+    "zh_cn_item_des": "忠诚卡",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5004": {
+    "id": 5004,
+    "zh_cn_name": "进修券",
+    "zh_cn_item_des": "进修券",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5005": {
+    "id": 5005,
+    "zh_cn_name": "宣传册",
+    "zh_cn_item_des": "宣传册",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5006": {
+    "id": 5006,
+    "zh_cn_name": "喇叭",
+    "zh_cn_item_des": "喇叭",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": true,
+    "price": 10,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "8001": {
+    "id": 8001,
+    "zh_cn_name": "一星资产礼包",
+    "zh_cn_item_des": "一星资产礼包",
+    "icon": 0,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "8002": {
+    "id": 8002,
+    "zh_cn_name": "二星资产礼包",
+    "zh_cn_item_des": "二星资产礼包",
+    "icon": 0,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6201,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6202,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6203,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6204,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6205,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6206,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6207,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6208,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6209,
+        "itemNum": 1
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "8003": {
+    "id": 8003,
+    "zh_cn_name": "三星资产礼包",
+    "zh_cn_item_des": "三星资产礼包",
+    "icon": 0,
+    "star": 0,
+    "type": 8,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "use_type": 2,
+    "reward": [
+      {
+        "itemId": 6301,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6302,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6303,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6304,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6305,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6306,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6307,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6308,
+        "itemNum": 1
+      },
+      {
+        "itemId": 6309,
+        "itemNum": 1
       }
     ],
     "can_sell": false,

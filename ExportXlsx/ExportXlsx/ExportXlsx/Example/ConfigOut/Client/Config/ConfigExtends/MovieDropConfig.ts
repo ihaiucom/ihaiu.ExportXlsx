@@ -7,5 +7,6 @@ namespace configs
 {
 	export class MovieDropConfig extends MovieDropConfigStruct
 	{
+		
 	}
 }

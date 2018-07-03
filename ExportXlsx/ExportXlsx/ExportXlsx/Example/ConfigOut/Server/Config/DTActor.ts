@@ -10,6 +10,7 @@ namespace configs
 		id : number;
 		en_name : string;
 		cn_name : string;
+		random_name : number;
 		star : number;
 		sex : number;
 		country : number;
@@ -19,12 +20,12 @@ namespace configs
 		spectacle : number;
 		perform : number;
 		plot : number;
-		ary : number;
+		art : number;
 		entertainment : number;
-		skill : DTActorSkill;
-		story_type : DTActorStory;
-		story_feature : DTActorFeature;
-		character : DTActorCharacter;
+		skill : DTActorSkill[];
+		story_type : DTActorStory[];
+		story_feature : DTActorFeature[];
+		character : DTActorCharacter[];
 		surprise : number;
 		cost : DTItemNum;
 		recruit_reward : DTItemNum[];

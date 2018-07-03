@@ -7,5 +7,6 @@ namespace configs
 {
 	export class SkillTriggerConfig extends SkillTriggerConfigStruct
 	{
+		
 	}
 }

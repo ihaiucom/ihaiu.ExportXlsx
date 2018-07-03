@@ -14,6 +14,8 @@ namespace configs
 		diamond : number;
 		order_qua : number[];
 		order_num : number;
+		train_max : number;
 		actor_max : number;
+		hide_max : number;
 	}
 }

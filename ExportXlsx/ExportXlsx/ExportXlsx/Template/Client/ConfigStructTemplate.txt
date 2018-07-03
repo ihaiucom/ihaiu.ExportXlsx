@@ -7,6 +7,12 @@ namespace configs
 {
 	export class >:classNameConfigStruct:< extends BaseConfig
 	{
+	
+		>:FOREACH dicts:<
+		// >:[0]:< : >:[1]:<;
+		static KEY_>:[2]:< = ">:[0]:<";
+
+		>:ENDFOREACH:<
 
 		>:FOREACH fields:<
 		>:[0]:< : >:[1]:<;
@@ -17,6 +23,14 @@ namespace configs
 
 
 		>:parseArray:< 
+
+		
+		>:FOREACH langs:<
+		get >:[0]:<()
+		{
+			return this.>:[1]:<
+		}
+		>:ENDFOREACH:<
 	}
 
 

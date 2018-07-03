@@ -4,7 +4,7 @@
     "type": 1,
     "field": "lady",
     "enName": "Lady",
-    "cnName": "女",
+    "zh_cn_name": "女",
     "icon": "",
     "tip": ""
   },
@@ -13,7 +13,7 @@
     "type": 1,
     "field": "man",
     "enName": "Man",
-    "cnName": "男",
+    "zh_cn_name": "男",
     "icon": "",
     "tip": ""
   },
@@ -22,7 +22,7 @@
     "type": 2,
     "field": "usa",
     "enName": "Usa",
-    "cnName": "美国",
+    "zh_cn_name": "美国",
     "icon": "",
     "tip": ""
   },
@@ -31,7 +31,7 @@
     "type": 2,
     "field": "europe",
     "enName": "Europe",
-    "cnName": "欧洲",
+    "zh_cn_name": "欧洲",
     "icon": "",
     "tip": ""
   },
@@ -40,7 +40,7 @@
     "type": 2,
     "field": "asia",
     "enName": "Asia",
-    "cnName": "亚洲",
+    "zh_cn_name": "亚洲",
     "icon": "",
     "tip": ""
   },
@@ -49,7 +49,7 @@
     "type": 3,
     "field": "1",
     "enName": "1",
-    "cnName": "1",
+    "zh_cn_name": "1",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -58,7 +58,7 @@
     "type": 3,
     "field": "2",
     "enName": "2",
-    "cnName": "2",
+    "zh_cn_name": "2",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -67,7 +67,7 @@
     "type": 3,
     "field": "3",
     "enName": "3",
-    "cnName": "3",
+    "zh_cn_name": "3",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -76,7 +76,7 @@
     "type": 3,
     "field": "4",
     "enName": "4",
-    "cnName": "4",
+    "zh_cn_name": "4",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -85,7 +85,7 @@
     "type": 3,
     "field": "5",
     "enName": "5",
-    "cnName": "5",
+    "zh_cn_name": "5",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -94,7 +94,7 @@
     "type": 3,
     "field": "6",
     "enName": "6",
-    "cnName": "6",
+    "zh_cn_name": "6",
     "icon": "",
     "tip": "剧本，演员，物品的星级"
   },
@@ -103,7 +103,7 @@
     "type": 14,
     "field": "odd_number",
     "enName": "Odd_number",
-    "cnName": "奇数升级",
+    "zh_cn_name": "奇数升级",
     "icon": "",
     "tip": ""
   },
@@ -112,7 +112,7 @@
     "type": 14,
     "field": "even_numbers",
     "enName": "Even_numbers",
-    "cnName": "偶数升级",
+    "zh_cn_name": "偶数升级",
     "icon": "",
     "tip": ""
   },
@@ -121,7 +121,7 @@
     "type": 5,
     "field": "youth",
     "enName": "Youth",
-    "cnName": "青春型",
+    "zh_cn_name": "青春型",
     "icon": "",
     "tip": ""
   },
@@ -130,7 +130,7 @@
     "type": 5,
     "field": "mature",
     "enName": "Mature",
-    "cnName": "成熟型",
+    "zh_cn_name": "成熟型",
     "icon": "",
     "tip": ""
   },
@@ -139,7 +139,7 @@
     "type": 6,
     "field": "spectacle",
     "enName": "Spectacle",
-    "cnName": "场面",
+    "zh_cn_name": "场面",
     "icon": "",
     "tip": ""
   },
@@ -148,7 +148,7 @@
     "type": 6,
     "field": "perform",
     "enName": "Perform",
-    "cnName": "表演",
+    "zh_cn_name": "表演",
     "icon": "",
     "tip": ""
   },
@@ -157,16 +157,16 @@
     "type": 6,
     "field": "plot",
     "enName": "Plot",
-    "cnName": "剧情",
+    "zh_cn_name": "剧情",
     "icon": "",
     "tip": ""
   },
   "1604": {
     "id": 1604,
     "type": 6,
-    "field": "ary",
-    "enName": "Ary",
-    "cnName": "艺术",
+    "field": "art",
+    "enName": "Art",
+    "zh_cn_name": "艺术",
     "icon": "",
     "tip": ""
   },
@@ -175,7 +175,7 @@
     "type": 6,
     "field": "entertainment",
     "enName": "Entertainment",
-    "cnName": "娱乐",
+    "zh_cn_name": "娱乐",
     "icon": "",
     "tip": ""
   },
@@ -184,7 +184,7 @@
     "type": 7,
     "field": "war",
     "enName": "War",
-    "cnName": "战争片",
+    "zh_cn_name": "战争片",
     "icon": "",
     "tip": ""
   },
@@ -193,7 +193,7 @@
     "type": 7,
     "field": "test001",
     "enName": "Test001",
-    "cnName": "科幻片",
+    "zh_cn_name": "科幻片",
     "icon": "",
     "tip": ""
   },
@@ -202,7 +202,7 @@
     "type": 7,
     "field": "test002",
     "enName": "Test002",
-    "cnName": "现代片",
+    "zh_cn_name": "现代片",
     "icon": "",
     "tip": ""
   },
@@ -211,7 +211,7 @@
     "type": 7,
     "field": "test003",
     "enName": "Test003",
-    "cnName": "励志片",
+    "zh_cn_name": "励志片",
     "icon": "",
     "tip": ""
   },
@@ -220,7 +220,7 @@
     "type": 7,
     "field": "test004",
     "enName": "Test004",
-    "cnName": "犯罪片",
+    "zh_cn_name": "犯罪片",
     "icon": "",
     "tip": ""
   },
@@ -229,7 +229,7 @@
     "type": 7,
     "field": "test005",
     "enName": "Test005",
-    "cnName": "奇幻片",
+    "zh_cn_name": "奇幻片",
     "icon": "",
     "tip": ""
   },
@@ -238,7 +238,7 @@
     "type": 7,
     "field": "test006",
     "enName": "Test006",
-    "cnName": "谍战片",
+    "zh_cn_name": "谍战片",
     "icon": "",
     "tip": ""
   },
@@ -247,7 +247,7 @@
     "type": 7,
     "field": "test007",
     "enName": "Test007",
-    "cnName": "冒险片",
+    "zh_cn_name": "冒险片",
     "icon": "",
     "tip": ""
   },
@@ -256,7 +256,7 @@
     "type": 7,
     "field": "test008",
     "enName": "Test008",
-    "cnName": "古装片",
+    "zh_cn_name": "古装片",
     "icon": "",
     "tip": ""
   },
@@ -265,7 +265,7 @@
     "type": 7,
     "field": "test009",
     "enName": "Test009",
-    "cnName": "灾难片",
+    "zh_cn_name": "灾难片",
     "icon": "",
     "tip": ""
   },
@@ -274,7 +274,7 @@
     "type": 8,
     "field": "test010",
     "enName": "Test010",
-    "cnName": "英雄",
+    "zh_cn_name": "英雄",
     "icon": "",
     "tip": ""
   },
@@ -283,7 +283,7 @@
     "type": 8,
     "field": "test011",
     "enName": "Test011",
-    "cnName": "神鬼",
+    "zh_cn_name": "神鬼",
     "icon": "",
     "tip": ""
   },
@@ -292,7 +292,7 @@
     "type": 8,
     "field": "test012",
     "enName": "Test012",
-    "cnName": "伦理",
+    "zh_cn_name": "伦理",
     "icon": "",
     "tip": ""
   },
@@ -301,7 +301,7 @@
     "type": 8,
     "field": "test013",
     "enName": "Test013",
-    "cnName": "浪漫",
+    "zh_cn_name": "浪漫",
     "icon": "",
     "tip": ""
   },
@@ -310,7 +310,7 @@
     "type": 8,
     "field": "test014",
     "enName": "Test014",
-    "cnName": "历史",
+    "zh_cn_name": "历史",
     "icon": "",
     "tip": ""
   },
@@ -319,7 +319,7 @@
     "type": 8,
     "field": "test015",
     "enName": "Test015",
-    "cnName": "太空",
+    "zh_cn_name": "太空",
     "icon": "",
     "tip": ""
   },
@@ -328,7 +328,7 @@
     "type": 8,
     "field": "test016",
     "enName": "Test016",
-    "cnName": "末世",
+    "zh_cn_name": "末世",
     "icon": "",
     "tip": ""
   },
@@ -337,7 +337,7 @@
     "type": 8,
     "field": "test017",
     "enName": "Test017",
-    "cnName": "复仇",
+    "zh_cn_name": "复仇",
     "icon": "",
     "tip": ""
   },
@@ -346,7 +346,7 @@
     "type": 8,
     "field": "test018",
     "enName": "Test018",
-    "cnName": "警匪",
+    "zh_cn_name": "警匪",
     "icon": "",
     "tip": ""
   },
@@ -355,7 +355,7 @@
     "type": 8,
     "field": "test019",
     "enName": "Test019",
-    "cnName": "艺术",
+    "zh_cn_name": "艺术",
     "icon": "",
     "tip": ""
   },
@@ -364,7 +364,7 @@
     "type": 8,
     "field": "test020",
     "enName": "Test020",
-    "cnName": "怪兽",
+    "zh_cn_name": "怪兽",
     "icon": "",
     "tip": ""
   },
@@ -373,7 +373,7 @@
     "type": 8,
     "field": "test021",
     "enName": "Test021",
-    "cnName": "校园",
+    "zh_cn_name": "校园",
     "icon": "",
     "tip": ""
   },
@@ -382,7 +382,7 @@
     "type": 8,
     "field": "test022",
     "enName": "Test022",
-    "cnName": "政治",
+    "zh_cn_name": "政治",
     "icon": "",
     "tip": ""
   },
@@ -391,7 +391,7 @@
     "type": 8,
     "field": "test023",
     "enName": "Test023",
-    "cnName": "机器人",
+    "zh_cn_name": "机器人",
     "icon": "",
     "tip": ""
   },
@@ -400,7 +400,7 @@
     "type": 8,
     "field": "test024",
     "enName": "Test024",
-    "cnName": "穿越",
+    "zh_cn_name": "穿越",
     "icon": "",
     "tip": ""
   },
@@ -409,7 +409,7 @@
     "type": 8,
     "field": "test025",
     "enName": "Test025",
-    "cnName": "公路",
+    "zh_cn_name": "公路",
     "icon": "",
     "tip": ""
   },
@@ -418,7 +418,7 @@
     "type": 8,
     "field": "test026",
     "enName": "Test026",
-    "cnName": "枪战",
+    "zh_cn_name": "枪战",
     "icon": "",
     "tip": ""
   },
@@ -427,7 +427,7 @@
     "type": 8,
     "field": "test027",
     "enName": "Test027",
-    "cnName": "飙车",
+    "zh_cn_name": "飙车",
     "icon": "",
     "tip": ""
   },
@@ -436,7 +436,7 @@
     "type": 8,
     "field": "test028",
     "enName": "Test028",
-    "cnName": "宫廷",
+    "zh_cn_name": "宫廷",
     "icon": "",
     "tip": ""
   },
@@ -445,7 +445,7 @@
     "type": 8,
     "field": "test029",
     "enName": "Test029",
-    "cnName": "传奇",
+    "zh_cn_name": "传奇",
     "icon": "",
     "tip": ""
   },
@@ -454,7 +454,7 @@
     "type": 9,
     "field": "test030",
     "enName": "Test030",
-    "cnName": "军人",
+    "zh_cn_name": "军人",
     "icon": "",
     "tip": ""
   },
@@ -463,7 +463,7 @@
     "type": 9,
     "field": "test031",
     "enName": "Test031",
-    "cnName": "青春",
+    "zh_cn_name": "青春",
     "icon": "",
     "tip": ""
   },
@@ -472,7 +472,7 @@
     "type": 9,
     "field": "test032",
     "enName": "Test032",
-    "cnName": "机灵",
+    "zh_cn_name": "机灵",
     "icon": "",
     "tip": ""
   },
@@ -481,7 +481,7 @@
     "type": 9,
     "field": "test033",
     "enName": "Test033",
-    "cnName": "高颜值",
+    "zh_cn_name": "高颜值",
     "icon": "",
     "tip": ""
   },
@@ -490,7 +490,7 @@
     "type": 9,
     "field": "test034",
     "enName": "Test034",
-    "cnName": "花花公子",
+    "zh_cn_name": "花花公子",
     "icon": "",
     "tip": ""
   },
@@ -499,7 +499,7 @@
     "type": 9,
     "field": "test035",
     "enName": "Test035",
-    "cnName": "艺术家",
+    "zh_cn_name": "艺术家",
     "icon": "",
     "tip": ""
   },
@@ -508,7 +508,7 @@
     "type": 9,
     "field": "test036",
     "enName": "Test036",
-    "cnName": "强壮",
+    "zh_cn_name": "强壮",
     "icon": "",
     "tip": ""
   },
@@ -517,7 +517,7 @@
     "type": 9,
     "field": "test037",
     "enName": "Test037",
-    "cnName": "学生",
+    "zh_cn_name": "学生",
     "icon": "",
     "tip": ""
   },
@@ -526,7 +526,7 @@
     "type": 9,
     "field": "test038",
     "enName": "Test038",
-    "cnName": "贵族",
+    "zh_cn_name": "贵族",
     "icon": "",
     "tip": ""
   },
@@ -535,7 +535,7 @@
     "type": 9,
     "field": "test039",
     "enName": "Test039",
-    "cnName": "领导者",
+    "zh_cn_name": "领导者",
     "icon": "",
     "tip": ""
   },
@@ -544,7 +544,7 @@
     "type": 9,
     "field": "test040",
     "enName": "Test040",
-    "cnName": "罪犯",
+    "zh_cn_name": "罪犯",
     "icon": "",
     "tip": ""
   },
@@ -553,7 +553,7 @@
     "type": 9,
     "field": "test041",
     "enName": "Test041",
-    "cnName": "神职人员",
+    "zh_cn_name": "神职人员",
     "icon": "",
     "tip": ""
   },
@@ -562,7 +562,7 @@
     "type": 9,
     "field": "test042",
     "enName": "Test042",
-    "cnName": "超能力",
+    "zh_cn_name": "超能力",
     "icon": "",
     "tip": ""
   },
@@ -571,7 +571,7 @@
     "type": 9,
     "field": "test043",
     "enName": "Test043",
-    "cnName": "警察",
+    "zh_cn_name": "警察",
     "icon": "",
     "tip": ""
   },
@@ -580,7 +580,7 @@
     "type": 9,
     "field": "test044",
     "enName": "Test044",
-    "cnName": "大亨",
+    "zh_cn_name": "大亨",
     "icon": "",
     "tip": ""
   },
@@ -589,7 +589,7 @@
     "type": 9,
     "field": "test045",
     "enName": "Test045",
-    "cnName": "侠客",
+    "zh_cn_name": "侠客",
     "icon": "",
     "tip": ""
   },
@@ -598,7 +598,7 @@
     "type": 9,
     "field": "test046",
     "enName": "Test046",
-    "cnName": "搞笑",
+    "zh_cn_name": "搞笑",
     "icon": "",
     "tip": ""
   },
@@ -607,7 +607,7 @@
     "type": 9,
     "field": "test047",
     "enName": "Test047",
-    "cnName": "海盗",
+    "zh_cn_name": "海盗",
     "icon": "",
     "tip": ""
   },
@@ -616,7 +616,7 @@
     "type": 9,
     "field": "test048",
     "enName": "Test048",
-    "cnName": "佣兵",
+    "zh_cn_name": "佣兵",
     "icon": "",
     "tip": ""
   },
@@ -625,7 +625,7 @@
     "type": 9,
     "field": "test049",
     "enName": "Test049",
-    "cnName": "残酷",
+    "zh_cn_name": "残酷",
     "icon": "",
     "tip": ""
   },
@@ -634,7 +634,7 @@
     "type": 9,
     "field": "test050",
     "enName": "Test050",
-    "cnName": "沧桑",
+    "zh_cn_name": "沧桑",
     "icon": "",
     "tip": ""
   },
@@ -643,7 +643,7 @@
     "type": 9,
     "field": "test051",
     "enName": "Test051",
-    "cnName": "高智商",
+    "zh_cn_name": "高智商",
     "icon": "",
     "tip": ""
   },
@@ -652,7 +652,7 @@
     "type": 9,
     "field": "test052",
     "enName": "Test052",
-    "cnName": "反派",
+    "zh_cn_name": "反派",
     "icon": "",
     "tip": ""
   },
@@ -661,7 +661,7 @@
     "type": 9,
     "field": "test053",
     "enName": "Test053",
-    "cnName": "车手",
+    "zh_cn_name": "车手",
     "icon": "",
     "tip": ""
   },
@@ -670,7 +670,7 @@
     "type": 9,
     "field": "test054",
     "enName": "Test054",
-    "cnName": "枪手",
+    "zh_cn_name": "枪手",
     "icon": "",
     "tip": ""
   },
@@ -679,7 +679,7 @@
     "type": 9,
     "field": "test055",
     "enName": "Test055",
-    "cnName": "打斗",
+    "zh_cn_name": "打斗",
     "icon": "",
     "tip": ""
   },
@@ -688,7 +688,7 @@
     "type": 9,
     "field": "test056",
     "enName": "Test056",
-    "cnName": "口才好",
+    "zh_cn_name": "口才好",
     "icon": "",
     "tip": ""
   },
@@ -697,7 +697,7 @@
     "type": 9,
     "field": "test057",
     "enName": "Test057",
-    "cnName": "忠诚",
+    "zh_cn_name": "忠诚",
     "icon": "",
     "tip": ""
   },
@@ -706,7 +706,7 @@
     "type": 9,
     "field": "test058",
     "enName": "Test058",
-    "cnName": "无常识",
+    "zh_cn_name": "无常识",
     "icon": "",
     "tip": ""
   },
@@ -715,7 +715,7 @@
     "type": 9,
     "field": "test059",
     "enName": "Test059",
-    "cnName": "疯狂",
+    "zh_cn_name": "疯狂",
     "icon": "",
     "tip": ""
   },
@@ -724,7 +724,7 @@
     "type": 9,
     "field": "test060",
     "enName": "Test060",
-    "cnName": "忧郁",
+    "zh_cn_name": "忧郁",
     "icon": "",
     "tip": ""
   },
@@ -733,7 +733,7 @@
     "type": 9,
     "field": "test061",
     "enName": "Test061",
-    "cnName": "性感",
+    "zh_cn_name": "性感",
     "icon": "",
     "tip": ""
   },
@@ -742,7 +742,7 @@
     "type": 9,
     "field": "test062",
     "enName": "Test062",
-    "cnName": "教师",
+    "zh_cn_name": "教师",
     "icon": "",
     "tip": ""
   },
@@ -751,7 +751,7 @@
     "type": 9,
     "field": "test063",
     "enName": "Test063",
-    "cnName": "硬汉",
+    "zh_cn_name": "硬汉",
     "icon": "",
     "tip": ""
   },
@@ -760,7 +760,7 @@
     "type": 9,
     "field": "test064",
     "enName": "Test064",
-    "cnName": "痴情",
+    "zh_cn_name": "痴情",
     "icon": "",
     "tip": ""
   },
@@ -769,7 +769,7 @@
     "type": 9,
     "field": "test065",
     "enName": "Test065",
-    "cnName": "赌徒",
+    "zh_cn_name": "赌徒",
     "icon": "",
     "tip": ""
   },
@@ -778,7 +778,7 @@
     "type": 9,
     "field": "test066",
     "enName": "Test066",
-    "cnName": "间谍",
+    "zh_cn_name": "间谍",
     "icon": "",
     "tip": ""
   },
@@ -787,7 +787,7 @@
     "type": 9,
     "field": "test067",
     "enName": "Test067",
-    "cnName": "失忆",
+    "zh_cn_name": "失忆",
     "icon": "",
     "tip": ""
   },
@@ -796,7 +796,7 @@
     "type": 9,
     "field": "test068",
     "enName": "Test068",
-    "cnName": "医生",
+    "zh_cn_name": "医生",
     "icon": "",
     "tip": ""
   },
@@ -805,7 +805,7 @@
     "type": 9,
     "field": "test069",
     "enName": "Test069",
-    "cnName": "拜金",
+    "zh_cn_name": "拜金",
     "icon": "",
     "tip": ""
   },
@@ -814,7 +814,7 @@
     "type": 9,
     "field": "test070",
     "enName": "Test070",
-    "cnName": "长者",
+    "zh_cn_name": "长者",
     "icon": "",
     "tip": ""
   },
@@ -823,7 +823,7 @@
     "type": 9,
     "field": "test071",
     "enName": "Test071",
-    "cnName": "天真",
+    "zh_cn_name": "天真",
     "icon": "",
     "tip": ""
   },
@@ -832,7 +832,7 @@
     "type": 9,
     "field": "test072",
     "enName": "Test072",
-    "cnName": "阴谋家",
+    "zh_cn_name": "阴谋家",
     "icon": "",
     "tip": ""
   },
@@ -841,7 +841,7 @@
     "type": 9,
     "field": "test073",
     "enName": "Test073",
-    "cnName": "童星",
+    "zh_cn_name": "童星",
     "icon": "",
     "tip": ""
   },
@@ -850,7 +850,7 @@
     "type": 9,
     "field": "test074",
     "enName": "Test074",
-    "cnName": "颓废",
+    "zh_cn_name": "颓废",
     "icon": "",
     "tip": ""
   },
@@ -859,7 +859,7 @@
     "type": 9,
     "field": "test075",
     "enName": "Test075",
-    "cnName": "学者",
+    "zh_cn_name": "学者",
     "icon": "",
     "tip": ""
   },
@@ -868,7 +868,7 @@
     "type": 9,
     "field": "test076",
     "enName": "Test076",
-    "cnName": "记者",
+    "zh_cn_name": "记者",
     "icon": "",
     "tip": ""
   },
@@ -877,7 +877,7 @@
     "type": 9,
     "field": "test077",
     "enName": "Test077",
-    "cnName": "功夫",
+    "zh_cn_name": "功夫",
     "icon": "",
     "tip": ""
   },
@@ -886,7 +886,7 @@
     "type": 9,
     "field": "test078",
     "enName": "Test078",
-    "cnName": "政客",
+    "zh_cn_name": "政客",
     "icon": "",
     "tip": ""
   },
@@ -895,7 +895,7 @@
     "type": 10,
     "field": "test079",
     "enName": "Test079",
-    "cnName": "男性",
+    "zh_cn_name": "男性",
     "icon": "",
     "tip": ""
   },
@@ -904,7 +904,7 @@
     "type": 10,
     "field": "test080",
     "enName": "Test080",
-    "cnName": "女性",
+    "zh_cn_name": "女性",
     "icon": "",
     "tip": ""
   },
@@ -913,7 +913,7 @@
     "type": 10,
     "field": "test081",
     "enName": "Test081",
-    "cnName": "儿童",
+    "zh_cn_name": "儿童",
     "icon": "",
     "tip": ""
   },
@@ -922,7 +922,7 @@
     "type": 11,
     "field": "test082",
     "enName": "Test082",
-    "cnName": "主角",
+    "zh_cn_name": "主角",
     "icon": "",
     "tip": ""
   },
@@ -931,7 +931,7 @@
     "type": 11,
     "field": "test083",
     "enName": "Test083",
-    "cnName": "男主角",
+    "zh_cn_name": "男主角",
     "icon": "",
     "tip": ""
   },
@@ -940,7 +940,7 @@
     "type": 11,
     "field": "test084",
     "enName": "Test084",
-    "cnName": "女主角",
+    "zh_cn_name": "女主角",
     "icon": "",
     "tip": ""
   },
@@ -949,7 +949,7 @@
     "type": 11,
     "field": "test085",
     "enName": "Test085",
-    "cnName": "配角",
+    "zh_cn_name": "配角",
     "icon": "",
     "tip": ""
   },
@@ -958,7 +958,7 @@
     "type": 11,
     "field": "test086",
     "enName": "Test086",
-    "cnName": "男配角",
+    "zh_cn_name": "男配角",
     "icon": "",
     "tip": ""
   },
@@ -967,7 +967,7 @@
     "type": 11,
     "field": "test087",
     "enName": "Test087",
-    "cnName": "女配角",
+    "zh_cn_name": "女配角",
     "icon": "",
     "tip": ""
   },
@@ -976,43 +976,43 @@
     "type": 11,
     "field": "test088",
     "enName": "Test088",
-    "cnName": "反派",
+    "zh_cn_name": "反派",
     "icon": "",
     "tip": ""
   },
   "2201": {
     "id": 2201,
     "type": 12,
-    "field": "test089",
-    "enName": "Test089",
-    "cnName": "歌舞",
+    "field": "dance",
+    "enName": "Dance",
+    "zh_cn_name": "歌舞",
     "icon": "",
     "tip": ""
   },
   "2202": {
     "id": 2202,
     "type": 12,
-    "field": "test090",
-    "enName": "Test090",
-    "cnName": "爱情",
+    "field": "romance",
+    "enName": "Romance",
+    "zh_cn_name": "爱情",
     "icon": "",
     "tip": ""
   },
   "2203": {
     "id": 2203,
     "type": 12,
-    "field": "test091",
-    "enName": "Test091",
-    "cnName": "喜剧",
+    "field": "comedy",
+    "enName": "Comedy",
+    "zh_cn_name": "喜剧",
     "icon": "",
     "tip": ""
   },
   "2204": {
     "id": 2204,
     "type": 12,
-    "field": "test092",
-    "enName": "Test092",
-    "cnName": "叙事",
+    "field": "feature",
+    "enName": "Feature",
+    "zh_cn_name": "叙事",
     "icon": "",
     "tip": ""
   },
@@ -1021,7 +1021,7 @@
     "type": 12,
     "field": "action",
     "enName": "Action",
-    "cnName": "动作",
+    "zh_cn_name": "动作",
     "icon": "",
     "tip": ""
   },
@@ -1030,25 +1030,25 @@
     "type": 12,
     "field": "horror",
     "enName": "Horror",
-    "cnName": "恐怖",
+    "zh_cn_name": "恐怖",
     "icon": "",
     "tip": ""
   },
   "2207": {
     "id": 2207,
     "type": 12,
-    "field": "test093",
-    "enName": "Test093",
-    "cnName": "动画",
+    "field": "cartoon",
+    "enName": "Cartoon",
+    "zh_cn_name": "动画",
     "icon": "",
     "tip": ""
   },
   "2208": {
     "id": 2208,
     "type": 12,
-    "field": "test094",
-    "enName": "Test094",
-    "cnName": "悬疑",
+    "field": "suspense",
+    "enName": "Suspense",
+    "zh_cn_name": "悬疑",
     "icon": "",
     "tip": ""
   },
@@ -1057,7 +1057,7 @@
     "type": 13,
     "field": "secondary_property",
     "enName": "Secondary_property",
-    "cnName": "次要属性",
+    "zh_cn_name": "次要属性",
     "icon": "",
     "tip": ""
   },
@@ -1066,7 +1066,7 @@
     "type": 13,
     "field": "main_property",
     "enName": "Main_property",
-    "cnName": "主要属性",
+    "zh_cn_name": "主要属性",
     "icon": "",
     "tip": ""
   },
@@ -1075,7 +1075,7 @@
     "type": 15,
     "field": "test095",
     "enName": "Test095",
-    "cnName": "街区1档",
+    "zh_cn_name": "街区1档",
     "icon": "",
     "tip": ""
   },
@@ -1084,7 +1084,7 @@
     "type": 15,
     "field": "test096",
     "enName": "Test096",
-    "cnName": "街区2档",
+    "zh_cn_name": "街区2档",
     "icon": "",
     "tip": ""
   },
@@ -1093,7 +1093,7 @@
     "type": 15,
     "field": "test097",
     "enName": "Test097",
-    "cnName": "街区3档",
+    "zh_cn_name": "街区3档",
     "icon": "",
     "tip": ""
   },
@@ -1102,7 +1102,7 @@
     "type": 15,
     "field": "test098",
     "enName": "Test098",
-    "cnName": "街区4档",
+    "zh_cn_name": "街区4档",
     "icon": "",
     "tip": ""
   },
@@ -1111,7 +1111,7 @@
     "type": 15,
     "field": "test099",
     "enName": "Test099",
-    "cnName": "街区5档",
+    "zh_cn_name": "街区5档",
     "icon": "",
     "tip": ""
   },
@@ -1120,7 +1120,7 @@
     "type": 15,
     "field": "test100",
     "enName": "Test100",
-    "cnName": "街区6档",
+    "zh_cn_name": "街区6档",
     "icon": "",
     "tip": ""
   },
@@ -1129,7 +1129,7 @@
     "type": 15,
     "field": "test101",
     "enName": "Test101",
-    "cnName": "街区7档",
+    "zh_cn_name": "街区7档",
     "icon": "",
     "tip": ""
   },
@@ -1138,7 +1138,7 @@
     "type": 15,
     "field": "test102",
     "enName": "Test102",
-    "cnName": "街区8档",
+    "zh_cn_name": "街区8档",
     "icon": "",
     "tip": ""
   },
@@ -1147,7 +1147,7 @@
     "type": 15,
     "field": "test103",
     "enName": "Test103",
-    "cnName": "街区9档",
+    "zh_cn_name": "街区9档",
     "icon": "",
     "tip": ""
   },
@@ -1156,7 +1156,7 @@
     "type": 15,
     "field": "test104",
     "enName": "Test104",
-    "cnName": "街区10档",
+    "zh_cn_name": "街区10档",
     "icon": "",
     "tip": ""
   },
@@ -1165,7 +1165,7 @@
     "type": 15,
     "field": "test105",
     "enName": "Test105",
-    "cnName": "城市1档",
+    "zh_cn_name": "城市1档",
     "icon": "",
     "tip": ""
   },
@@ -1174,7 +1174,7 @@
     "type": 15,
     "field": "test106",
     "enName": "Test106",
-    "cnName": "城市2档",
+    "zh_cn_name": "城市2档",
     "icon": "",
     "tip": ""
   },
@@ -1183,7 +1183,7 @@
     "type": 15,
     "field": "test107",
     "enName": "Test107",
-    "cnName": "城市3档",
+    "zh_cn_name": "城市3档",
     "icon": "",
     "tip": ""
   },
@@ -1192,7 +1192,7 @@
     "type": 15,
     "field": "test108",
     "enName": "Test108",
-    "cnName": "城市4档",
+    "zh_cn_name": "城市4档",
     "icon": "",
     "tip": ""
   },
@@ -1201,7 +1201,7 @@
     "type": 15,
     "field": "test109",
     "enName": "Test109",
-    "cnName": "城市5档",
+    "zh_cn_name": "城市5档",
     "icon": "",
     "tip": ""
   },
@@ -1210,7 +1210,7 @@
     "type": 15,
     "field": "test110",
     "enName": "Test110",
-    "cnName": "城市6档",
+    "zh_cn_name": "城市6档",
     "icon": "",
     "tip": ""
   },
@@ -1219,7 +1219,7 @@
     "type": 15,
     "field": "test111",
     "enName": "Test111",
-    "cnName": "城市7档",
+    "zh_cn_name": "城市7档",
     "icon": "",
     "tip": ""
   },
@@ -1228,7 +1228,7 @@
     "type": 15,
     "field": "test112",
     "enName": "Test112",
-    "cnName": "城市8档",
+    "zh_cn_name": "城市8档",
     "icon": "",
     "tip": ""
   },
@@ -1237,7 +1237,7 @@
     "type": 15,
     "field": "test113",
     "enName": "Test113",
-    "cnName": "城市9档",
+    "zh_cn_name": "城市9档",
     "icon": "",
     "tip": ""
   },
@@ -1246,7 +1246,7 @@
     "type": 15,
     "field": "test114",
     "enName": "Test114",
-    "cnName": "城市10档",
+    "zh_cn_name": "城市10档",
     "icon": "",
     "tip": ""
   },
@@ -1255,7 +1255,7 @@
     "type": 15,
     "field": "test115",
     "enName": "Test115",
-    "cnName": "国家1档",
+    "zh_cn_name": "国家1档",
     "icon": "",
     "tip": ""
   },
@@ -1264,7 +1264,7 @@
     "type": 15,
     "field": "test116",
     "enName": "Test116",
-    "cnName": "国家2档",
+    "zh_cn_name": "国家2档",
     "icon": "",
     "tip": ""
   },
@@ -1273,7 +1273,7 @@
     "type": 15,
     "field": "test117",
     "enName": "Test117",
-    "cnName": "国家3档",
+    "zh_cn_name": "国家3档",
     "icon": "",
     "tip": ""
   },
@@ -1282,7 +1282,7 @@
     "type": 15,
     "field": "test118",
     "enName": "Test118",
-    "cnName": "国家4档",
+    "zh_cn_name": "国家4档",
     "icon": "",
     "tip": ""
   },
@@ -1291,7 +1291,7 @@
     "type": 15,
     "field": "test119",
     "enName": "Test119",
-    "cnName": "国家5档",
+    "zh_cn_name": "国家5档",
     "icon": "",
     "tip": ""
   },
@@ -1300,7 +1300,7 @@
     "type": 15,
     "field": "test120",
     "enName": "Test120",
-    "cnName": "国家6档",
+    "zh_cn_name": "国家6档",
     "icon": "",
     "tip": ""
   },
@@ -1309,7 +1309,7 @@
     "type": 15,
     "field": "test121",
     "enName": "Test121",
-    "cnName": "国家7档",
+    "zh_cn_name": "国家7档",
     "icon": "",
     "tip": ""
   },
@@ -1318,7 +1318,7 @@
     "type": 15,
     "field": "test122",
     "enName": "Test122",
-    "cnName": "国家8档",
+    "zh_cn_name": "国家8档",
     "icon": "",
     "tip": ""
   },
@@ -1327,7 +1327,7 @@
     "type": 15,
     "field": "test123",
     "enName": "Test123",
-    "cnName": "国家9档",
+    "zh_cn_name": "国家9档",
     "icon": "",
     "tip": ""
   },
@@ -1336,7 +1336,7 @@
     "type": 15,
     "field": "test124",
     "enName": "Test124",
-    "cnName": "国家10档",
+    "zh_cn_name": "国家10档",
     "icon": "",
     "tip": ""
   },
@@ -1345,7 +1345,7 @@
     "type": 15,
     "field": "test125",
     "enName": "Test125",
-    "cnName": "全球1档",
+    "zh_cn_name": "全球1档",
     "icon": "",
     "tip": ""
   },
@@ -1354,7 +1354,7 @@
     "type": 15,
     "field": "test126",
     "enName": "Test126",
-    "cnName": "全球2档",
+    "zh_cn_name": "全球2档",
     "icon": "",
     "tip": ""
   },
@@ -1363,7 +1363,7 @@
     "type": 15,
     "field": "test127",
     "enName": "Test127",
-    "cnName": "全球3档",
+    "zh_cn_name": "全球3档",
     "icon": "",
     "tip": ""
   },
@@ -1372,7 +1372,7 @@
     "type": 15,
     "field": "test128",
     "enName": "Test128",
-    "cnName": "全球4档",
+    "zh_cn_name": "全球4档",
     "icon": "",
     "tip": ""
   },
@@ -1381,7 +1381,7 @@
     "type": 15,
     "field": "test129",
     "enName": "Test129",
-    "cnName": "全球5档",
+    "zh_cn_name": "全球5档",
     "icon": "",
     "tip": ""
   },
@@ -1390,7 +1390,7 @@
     "type": 15,
     "field": "test130",
     "enName": "Test130",
-    "cnName": "全球6档",
+    "zh_cn_name": "全球6档",
     "icon": "",
     "tip": ""
   },
@@ -1399,7 +1399,7 @@
     "type": 15,
     "field": "test131",
     "enName": "Test131",
-    "cnName": "全球7档",
+    "zh_cn_name": "全球7档",
     "icon": "",
     "tip": ""
   },
@@ -1408,7 +1408,7 @@
     "type": 15,
     "field": "test132",
     "enName": "Test132",
-    "cnName": "全球8档",
+    "zh_cn_name": "全球8档",
     "icon": "",
     "tip": ""
   },
@@ -1417,7 +1417,7 @@
     "type": 15,
     "field": "test133",
     "enName": "Test133",
-    "cnName": "全球9档",
+    "zh_cn_name": "全球9档",
     "icon": "",
     "tip": ""
   },
@@ -1426,7 +1426,7 @@
     "type": 15,
     "field": "test134",
     "enName": "Test134",
-    "cnName": "全球10档",
+    "zh_cn_name": "全球10档",
     "icon": "",
     "tip": ""
   },
@@ -1435,7 +1435,7 @@
     "type": 16,
     "field": "test135",
     "enName": "Test135",
-    "cnName": "歌舞_经验",
+    "zh_cn_name": "歌舞_经验",
     "icon": "",
     "tip": ""
   },
@@ -1444,7 +1444,7 @@
     "type": 16,
     "field": "test136",
     "enName": "Test136",
-    "cnName": "爱情_经验",
+    "zh_cn_name": "爱情_经验",
     "icon": "",
     "tip": ""
   },
@@ -1453,7 +1453,7 @@
     "type": 16,
     "field": "test137",
     "enName": "Test137",
-    "cnName": "喜剧_经验",
+    "zh_cn_name": "喜剧_经验",
     "icon": "",
     "tip": ""
   },
@@ -1462,7 +1462,7 @@
     "type": 16,
     "field": "test138",
     "enName": "Test138",
-    "cnName": "叙事_经验",
+    "zh_cn_name": "叙事_经验",
     "icon": "",
     "tip": ""
   },
@@ -1471,7 +1471,7 @@
     "type": 16,
     "field": "test139",
     "enName": "Test139",
-    "cnName": "动作_经验",
+    "zh_cn_name": "动作_经验",
     "icon": "",
     "tip": ""
   },
@@ -1480,7 +1480,7 @@
     "type": 16,
     "field": "test140",
     "enName": "Test140",
-    "cnName": "恐怖_经验",
+    "zh_cn_name": "恐怖_经验",
     "icon": "",
     "tip": ""
   },
@@ -1489,7 +1489,7 @@
     "type": 16,
     "field": "test141",
     "enName": "Test141",
-    "cnName": "动画_经验",
+    "zh_cn_name": "动画_经验",
     "icon": "",
     "tip": ""
   },
@@ -1498,7 +1498,7 @@
     "type": 16,
     "field": "test142",
     "enName": "Test142",
-    "cnName": "悬疑_经验",
+    "zh_cn_name": "悬疑_经验",
     "icon": "",
     "tip": ""
   }

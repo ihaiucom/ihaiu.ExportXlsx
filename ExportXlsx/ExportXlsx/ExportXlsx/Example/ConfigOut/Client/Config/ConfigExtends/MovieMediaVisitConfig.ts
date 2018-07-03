@@ -7,5 +7,6 @@ namespace configs
 {
 	export class MovieMediaVisitConfig extends MovieMediaVisitConfigStruct
 	{
+		
 	}
 }

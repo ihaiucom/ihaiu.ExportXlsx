@@ -24,6 +24,8 @@ namespace configs
 			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.expect = csvGetInt(csv,  this.GetHeadIndex(  "expect"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

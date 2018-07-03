@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ActorProficiencyConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		shoot_type : number;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

@@ -8,7 +8,7 @@ namespace configs
 	export class DTMenu
 	{
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		icon : string;
 		moduleName : string;
 		layer : number;
@@ -16,5 +16,7 @@ namespace configs
 		closeHomeWindow : boolean;
 		cacheTime : number;
 		loaderId : number;
+		101 : number;
+		102 : number[];
 	}
 }

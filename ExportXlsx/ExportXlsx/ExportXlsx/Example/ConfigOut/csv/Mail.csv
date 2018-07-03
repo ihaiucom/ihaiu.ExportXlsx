@@ -1,0 +1,6 @@
+﻿int	string	int	string	DTItemNum[]	string
+ID	注释	生存时间（小时）	标题	附件道具	内容
+id	tip	life_time	zh_cn_title	item	zh_cn_content
+1	仓库满，无法领取奖励	720	系统		仓库容量已满，请查收
+2	活动公告	24	开服公告	0	<font size='12'>6月27日活动公告：</font>\n  <font color="#FF0000">一.超级偶像</font>\n    玩家可从主界面超级偶像入口进入该活动，对自己心仪的偶像投票!
+3	合作邀请失败	0	合作邀请失败	0	您向ID为{0}的玩家发送的邀请失败

@@ -12,7 +12,8 @@ namespace configs
 		character_num : number;
 		zh_cn_name : string;
 		type : number;
-		gender : number;
+		type_pic : number;
+		sex : number;
 		country : number;
 		show_type : number;
 		age_type : number;

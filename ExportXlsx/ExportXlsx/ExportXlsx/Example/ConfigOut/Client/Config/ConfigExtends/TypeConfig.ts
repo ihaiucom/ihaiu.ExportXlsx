@@ -7,5 +7,6 @@ namespace configs
 {
 	export class TypeConfig extends TypeConfigStruct
 	{
+		
 	}
 }

@@ -20,6 +20,8 @@ namespace configs
 			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
 			config.isShowCircle = csvGetBoolean(csv,  this.GetHeadIndex(  "isShowCircle"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

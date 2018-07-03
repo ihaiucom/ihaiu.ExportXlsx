@@ -21,7 +21,9 @@ namespace configs
 			config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
 			config.cost_id = csvGetInt(csv,  this.GetHeadIndex(  "cost_id"  )   );
 			config.cost_num = csvGetInt(csv,  this.GetHeadIndex(  "cost_num"  )   );
-			config.increase = csvGetInt(csv,  this.GetHeadIndex(  "increase"  )   );
+			config.increase = csvGetFloat(csv,  this.GetHeadIndex(  "increase"  )   );
+
+			
 
 
 			this.addConfig(config);

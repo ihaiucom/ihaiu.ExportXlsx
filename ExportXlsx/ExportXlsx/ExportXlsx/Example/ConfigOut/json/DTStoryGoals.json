@@ -2,71 +2,91 @@
   "1001": {
     "id": 1001,
     "rank": 1,
-    "property1": 1,
-    "value1": 20,
-    "property2": 2,
-    "value2": 20,
+    "property1": 1603,
+    "value1": 100,
+    "property2": 1604,
+    "value2": 100,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 20
+        "itemNum": 1000
       }
-    ]
+    ],
+    "cn": "情多深雨多濛（1001）"
   },
   "1002": {
     "id": 1002,
     "rank": 1,
-    "property1": 1,
-    "value1": 20,
-    "property2": 2,
-    "value2": 20,
+    "property1": 1601,
+    "value1": 100,
+    "property2": 1603,
+    "value2": 100,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 20
+        "itemNum": 1000
       }
-    ]
+    ],
+    "cn": "神力女超人（1003）"
   },
   "1003": {
     "id": 1003,
     "rank": 1,
-    "property1": 1,
-    "value1": 20,
-    "property2": 2,
-    "value2": 20,
+    "property1": 1603,
+    "value1": 100,
+    "property2": 1604,
+    "value2": 100,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 20
+        "itemNum": 1000
       }
-    ]
+    ],
+    "cn": "寄生少年(1005)"
   },
   "1004": {
     "id": 1004,
     "rank": 1,
-    "property1": 1,
-    "value1": 20,
-    "property2": 2,
-    "value2": 20,
+    "property1": 1601,
+    "value1": 100,
+    "property2": 1602,
+    "value2": 100,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 20
+        "itemNum": 1000
       }
-    ]
+    ],
+    "cn": "暗藏危机（1006）"
   },
   "1005": {
     "id": 1005,
     "rank": 1,
-    "property1": 1,
-    "value1": 20,
-    "property2": 2,
-    "value2": 20,
+    "property1": 1601,
+    "value1": 100,
+    "property2": 1603,
+    "value2": 100,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 20
+        "itemNum": 1000
       }
-    ]
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "1006": {
+    "id": 1006,
+    "rank": 1,
+    "property1": 1602,
+    "value1": 100,
+    "property2": 1604,
+    "value2": 100,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
   }
 }

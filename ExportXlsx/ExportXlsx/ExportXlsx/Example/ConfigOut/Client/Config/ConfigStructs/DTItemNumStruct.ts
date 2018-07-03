@@ -7,6 +7,7 @@ namespace configs
 {
 	export class DTItemNumStruct extends BaseConfig
 	{
+	
 
 		itemId : number;
 		itemNum : number;
@@ -34,6 +35,8 @@ namespace configs
           return list;
       }
  
+
+		
 	}
 
 

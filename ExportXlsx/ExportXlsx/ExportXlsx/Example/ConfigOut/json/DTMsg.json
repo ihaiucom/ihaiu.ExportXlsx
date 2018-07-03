@@ -211,9 +211,9 @@
   },
   "1030": {
     "id": 1030,
-    "key": "block_upgrade_msg",
+    "key": "block_upgrade_requirement",
     "module": "街区",
-    "name": "街区升档提示",
+    "name": "街区升档需求提示",
     "zh_cn_notice": "提升到{0}{1}档需要："
   },
   "1031": {
@@ -356,12 +356,250 @@
     "name": "市场风向暴击4",
     "zh_cn_notice": "突然间就火爆了起来"
   },
-  "1055": {
-    "id": 1055,
+  "1060": {
+    "id": 1060,
     "key": "movie_target_fail",
     "module": "拍摄",
     "name": "剧本目标未达成",
     "zh_cn_notice": "拍摄目标没达成，无法获得影业协会颁发的奖励"
+  },
+  "1061": {
+    "id": 1061,
+    "key": "movie_big_sell_tips",
+    "module": "拍摄",
+    "name": "电影未大卖提示",
+    "zh_cn_notice": "因为电影没有大卖，收藏家协会不予颁发宝物奖励"
+  },
+  "1062": {
+    "id": 1062,
+    "key": "earnings_over",
+    "module": "拍摄",
+    "name": "持续收益结束提示",
+    "zh_cn_notice": "收益已结束（比赛档次越高，持续收益就越高）"
+  },
+  "1063": {
+    "id": 1063,
+    "key": "oscar_non_rank_tips",
+    "module": "奥斯卡",
+    "name": "票房未入榜提示",
+    "zh_cn_notice": "未进入前50名"
+  },
+  "1064": {
+    "id": 1064,
+    "key": "oscar_non_rank_tips2",
+    "module": "奥斯卡",
+    "name": "总票房未入榜提示",
+    "zh_cn_notice": "未进入前30名"
+  },
+  "1065": {
+    "id": 1065,
+    "key": "oscar_non_movie_tips",
+    "module": "奥斯卡",
+    "name": "未拍摄电影提示",
+    "zh_cn_notice": "没有拍摄电影"
+  },
+  "1066": {
+    "id": 1066,
+    "key": "oscar_non_bigsell_tips",
+    "module": "奥斯卡",
+    "name": "未大卖提示",
+    "zh_cn_notice": "没有大卖电影"
+  },
+  "1067": {
+    "id": 1067,
+    "key": "oscar_non_target_tips",
+    "module": "奥斯卡",
+    "name": "未完成目标提示",
+    "zh_cn_notice": "未达成目标"
+  },
+  "1068": {
+    "id": 1068,
+    "key": "block_upgrade_msg",
+    "module": "街区",
+    "name": "街区升档提示",
+    "zh_cn_notice": "比赛档次提升，获得奖励"
+  },
+  "1070": {
+    "id": 1070,
+    "key": "movie_big_sell1",
+    "module": "拍摄",
+    "name": "电影大卖报纸1",
+    "zh_cn_notice": "小制作大票房，{0}新片《{1}》剑指奥斯卡"
+  },
+  "1071": {
+    "id": 1071,
+    "key": "movie_big_sell2",
+    "module": "拍摄",
+    "name": "电影大卖报纸2",
+    "zh_cn_notice": "{0}和{1}擦出火花，{2}新片{3}大受欢迎"
+  },
+  "1072": {
+    "id": 1072,
+    "key": "movie_big_sell3",
+    "module": "拍摄",
+    "name": "电影大卖报纸3",
+    "zh_cn_notice": "{0}的新片{1}点燃市场"
+  },
+  "1080": {
+    "id": 1080,
+    "key": "oscar_non_actor",
+    "module": "奥斯卡",
+    "name": "奥斯卡男演员无提名",
+    "zh_cn_notice": "很遗憾，并未有演员参加最佳男演员的候选，所以我们将不会颁发该奖项"
+  },
+  "1081": {
+    "id": 1081,
+    "key": "oscar_non_actress",
+    "module": "奥斯卡",
+    "name": "奥斯卡女演员无提名",
+    "zh_cn_notice": "很遗憾，并未有演员参加最佳女演员的候选，所以我们将不会颁发该奖项"
+  },
+  "1082": {
+    "id": 1082,
+    "key": "oscar_non_performance",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳表演无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最佳表演电影的候选，所以我们将不会颁发该奖项"
+  },
+  "1083": {
+    "id": 1083,
+    "key": "oscar_non_art",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳艺术无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最佳艺术电影的候选，所以我们将不会颁发该奖项"
+  },
+  "1084": {
+    "id": 1084,
+    "key": "oscar_non_popular",
+    "module": "奥斯卡",
+    "name": "奥斯卡最受欢迎无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最受欢迎电影的候选，所以我们将不会颁发该奖项"
+  },
+  "1085": {
+    "id": 1085,
+    "key": "oscar_actor",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳男演员",
+    "zh_cn_notice": "最佳男演员"
+  },
+  "1086": {
+    "id": 1086,
+    "key": "oscar_actress",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳女演员",
+    "zh_cn_notice": "最佳女演员"
+  },
+  "1087": {
+    "id": 1087,
+    "key": "oscar_performance",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳表演电影",
+    "zh_cn_notice": "最佳表演电影"
+  },
+  "1088": {
+    "id": 1088,
+    "key": "oscar_art",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳艺术电影",
+    "zh_cn_notice": "最佳艺术电影"
+  },
+  "1089": {
+    "id": 1089,
+    "key": "oscar_popular",
+    "module": "奥斯卡",
+    "name": "奥斯卡最受欢迎电影",
+    "zh_cn_notice": "最受欢迎电影"
+  },
+  "1090": {
+    "id": 1090,
+    "key": "oscar_forbid_movie",
+    "module": "拍摄",
+    "name": "奥斯卡前禁止拍摄电影",
+    "zh_cn_notice": "为保证公平，奥斯卡颁奖前5分钟禁止拍摄电影"
+  },
+  "1091": {
+    "id": 1091,
+    "key": "non_deletable_mail",
+    "module": "邮件",
+    "name": "没有可删除的邮件",
+    "zh_cn_notice": "没有可删除的邮件"
+  },
+  "1092": {
+    "id": 1092,
+    "key": "non_can_receive_mail",
+    "module": "邮件",
+    "name": "没有可领取的邮件",
+    "zh_cn_notice": "没有可领取的邮件"
+  },
+  "1093": {
+    "id": 1093,
+    "key": "non_mail",
+    "module": "邮件",
+    "name": "空邮箱",
+    "zh_cn_notice": "您的收件箱中没有邮件！"
+  },
+  "1094": {
+    "id": 1094,
+    "key": "story_target_tips",
+    "module": "拍摄",
+    "name": "剧本有目标",
+    "zh_cn_notice": "有剧本目标奖励"
+  },
+  "1095": {
+    "id": 1095,
+    "key": "story_non_target_tips",
+    "module": "拍摄",
+    "name": "剧本没有目标",
+    "zh_cn_notice": "没有目标奖励（需2星以上剧本）"
+  },
+  "1096": {
+    "id": 1096,
+    "key": "story_midia_tips",
+    "module": "拍摄",
+    "name": "媒体评价提示",
+    "zh_cn_notice": "评价越高，点赞数越多，电影节越容易获奖。（有时还能提升票房）"
+  },
+  "1097": {
+    "id": 1097,
+    "key": "",
+    "module": "合作",
+    "name": "id无效",
+    "zh_cn_notice": "无效的id"
+  },
+  "1098": {
+    "id": 1098,
+    "key": "",
+    "module": "合作",
+    "name": "目标玩家已合作",
+    "zh_cn_notice": "该玩家已有合作伙伴！"
+  },
+  "1099": {
+    "id": 1099,
+    "key": "",
+    "module": "合作",
+    "name": "本周合作次数不足",
+    "zh_cn_notice": "本周合作伙伴太多了，请等待下周吧！"
+  },
+  "1100": {
+    "id": 1100,
+    "key": "",
+    "module": "合作",
+    "name": "没有未完成的订单",
+    "zh_cn_notice": "没有未完成的订单"
+  },
+  "1101": {
+    "id": 1101,
+    "key": "",
+    "module": "合作",
+    "name": "解除合作",
+    "zh_cn_notice": "是否解除合作关系？\\n注意：每周只能和三家不同的公司进行合作"
+  },
+  "1102": {
+    "id": 1102,
+    "key": "",
+    "module": "合作",
+    "name": "重复邀请",
+    "zh_cn_notice": "邀请已发送，请等待对方回应"
   },
   "2022": {
     "id": 2022,
@@ -460,5 +698,110 @@
     "module": "市场",
     "name": "艺人数值不达标",
     "zh_cn_notice": "我的能力没达到要求，无法担此重任"
+  },
+  "2036": {
+    "id": 2036,
+    "key": "story_comment_wrong",
+    "module": "剧本",
+    "name": "留言内容非法",
+    "zh_cn_notice": "你的留言内容不符合要求"
+  },
+  "2037": {
+    "id": 2037,
+    "key": "thumbsup_less",
+    "module": "剧本",
+    "name": "点赞数不足",
+    "zh_cn_notice": "您的点赞数不足"
+  },
+  "2038": {
+    "id": 2038,
+    "key": "story_search_less",
+    "module": "剧本",
+    "name": "搜罗次数不足",
+    "zh_cn_notice": "剩余搜罗次数不足"
+  },
+  "2039": {
+    "id": 2039,
+    "key": "block_level_less",
+    "module": "剧本",
+    "name": "街区等级需求",
+    "zh_cn_notice": "立即搜罗需要升到街区3档"
+  },
+  "2040": {
+    "id": 2040,
+    "key": "story_cd_success",
+    "module": "剧本",
+    "name": "搜罗冷却加速成功",
+    "zh_cn_notice": "搜罗冷却加速成功"
+  },
+  "2041": {
+    "id": 2041,
+    "key": "meeting_time",
+    "module": "会议",
+    "name": "会议倒计时提示",
+    "zh_cn_notice": "{0}分{1}秒后有新的会议，请做好准备"
+  },
+  "2042": {
+    "id": 2042,
+    "key": "secretary_bought",
+    "module": "秘书",
+    "name": "本日已购买提示",
+    "zh_cn_notice": "你本日已购买过"
+  },
+  "2043": {
+    "id": 2043,
+    "key": "secretary_buy_fail",
+    "module": "秘书",
+    "name": "购买失败提示",
+    "zh_cn_notice": "购买失败"
+  },
+  "2044": {
+    "id": 2044,
+    "key": "sectrary_cannot_buy",
+    "module": "秘书",
+    "name": "未聘用秘书不能购买提示",
+    "zh_cn_notice": "未聘用终身秘书，不能购买该礼包"
+  },
+  "2045": {
+    "id": 2045,
+    "key": "daily_sign",
+    "module": "签到",
+    "name": "已签到提示",
+    "zh_cn_notice": "已签到"
+  },
+  "2046": {
+    "id": 2046,
+    "key": "setting_not_open",
+    "module": "设置",
+    "name": "功能未开放提示",
+    "zh_cn_notice": "功能未开放，敬请期待"
+  },
+  "2047": {
+    "id": 2047,
+    "key": "gift_success",
+    "module": "设置",
+    "name": "礼包兑换成功提示",
+    "zh_cn_notice": "礼包兑换成功"
+  },
+  "2048": {
+    "id": 2048,
+    "key": "gift_used",
+    "module": "设置",
+    "name": "礼包已被兑换提示",
+    "zh_cn_notice": "礼包已被兑换"
+  },
+  "2049": {
+    "id": 2049,
+    "key": "gift_illegal",
+    "module": "设置",
+    "name": "礼包码非法提示",
+    "zh_cn_notice": "礼包码非法"
+  },
+  "2050": {
+    "id": 2050,
+    "key": "shop_period",
+    "module": "商城",
+    "name": "购买非时间段内商品",
+    "zh_cn_notice": "请在X时间段内购买该商品"
   }
 }

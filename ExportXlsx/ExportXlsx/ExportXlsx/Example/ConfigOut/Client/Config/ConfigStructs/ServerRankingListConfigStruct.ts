@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ServerRankingListConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		name : string;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

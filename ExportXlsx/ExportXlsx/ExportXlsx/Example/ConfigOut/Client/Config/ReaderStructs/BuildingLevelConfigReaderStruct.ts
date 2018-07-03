@@ -17,10 +17,9 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 			config.function_open =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "function_open"  )   )   );
-			config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
 			config.level = csvGetInt(csv,  this.GetHeadIndex(  "level"  )   );
 			config.cost =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "cost"  )   )   );
 			config.level_req = csvGetInt(csv,  this.GetHeadIndex(  "level_req"  )   );
@@ -28,6 +27,10 @@ namespace configs
 			config.block_req = csvGetInt(csv,  this.GetHeadIndex(  "block_req"  )   );
 			config.UI = csvGetBoolean(csv,  this.GetHeadIndex(  "UI"  )   );
 			config.effect_id =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "effect_id"  )   )   );
+			config.effect_tips = csvGetString(csv,  this.GetHeadIndex(  "effect_tips"  )   );
+			config.level_tips = csvGetString(csv,  this.GetHeadIndex(  "level_tips"  )   );
+
+			
 
 
 			this.addConfig(config);

@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MeetingConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		level : number;
@@ -16,6 +17,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

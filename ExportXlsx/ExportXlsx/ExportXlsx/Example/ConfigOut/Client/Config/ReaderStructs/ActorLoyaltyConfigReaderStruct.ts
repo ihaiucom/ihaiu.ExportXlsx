@@ -22,6 +22,8 @@ namespace configs
 			config.max_lv = csvGetInt(csv,  this.GetHeadIndex(  "max_lv"  )   );
 			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

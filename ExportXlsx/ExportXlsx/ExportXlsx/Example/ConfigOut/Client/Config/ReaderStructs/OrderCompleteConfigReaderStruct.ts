@@ -19,6 +19,8 @@ namespace configs
 			config.completion = csvGetInt(csv,  this.GetHeadIndex(  "completion"  )   );
 			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 
+			
+
 
 			this.addConfig(config);
         }

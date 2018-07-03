@@ -1,0 +1,1127 @@
+﻿{
+  "101": {
+    "id": 101,
+    "task_name": "拍摄电影",
+    "task_star": 1,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2208
+    ],
+    "parameter2": [
+      0,
+      1,
+      2
+    ],
+    "parameter3": [
+      0,
+      10,
+      20
+    ],
+    "parameter4": [
+      0,
+      1
+    ],
+    "parameter5": [
+      0,
+      2
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "102": {
+    "id": 102,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 1,
+    "task_type": 2,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "103": {
+    "id": 103,
+    "task_name": "完成订单",
+    "task_star": 1,
+    "task_type": 3,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "104": {
+    "id": 104,
+    "task_name": "生产指定周边产品",
+    "task_star": 1,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4006
+    ],
+    "parameter2": [
+      1,
+      1
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "105": {
+    "id": 105,
+    "task_name": "生产任意周边产品",
+    "task_star": 1,
+    "task_type": 5,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "106": {
+    "id": 106,
+    "task_name": "领取城市收益",
+    "task_star": 1,
+    "task_type": 6,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "201": {
+    "id": 201,
+    "task_name": "拍摄电影",
+    "task_star": 2,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2209
+    ],
+    "parameter2": [
+      2,
+      3
+    ],
+    "parameter3": [
+      10,
+      20
+    ],
+    "parameter4": [
+      0,
+      1,
+      2
+    ],
+    "parameter5": [
+      0,
+      2
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "202": {
+    "id": 202,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 2,
+    "task_type": 2,
+    "parameter1": [
+      2,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "203": {
+    "id": 203,
+    "task_name": "完成订单",
+    "task_star": 2,
+    "task_type": 3,
+    "parameter1": [
+      2,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "204": {
+    "id": 204,
+    "task_name": "生产指定周边产品",
+    "task_star": 2,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4007
+    ],
+    "parameter2": [
+      2,
+      3
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "205": {
+    "id": 205,
+    "task_name": "生产任意周边产品",
+    "task_star": 2,
+    "task_type": 5,
+    "parameter1": [
+      2,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "206": {
+    "id": 206,
+    "task_name": "领取城市收益",
+    "task_star": 2,
+    "task_type": 6,
+    "parameter1": [
+      2,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "301": {
+    "id": 301,
+    "task_name": "拍摄电影",
+    "task_star": 3,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2209
+    ],
+    "parameter2": [
+      1,
+      3
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "302": {
+    "id": 302,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 3,
+    "task_type": 2,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "303": {
+    "id": 303,
+    "task_name": "完成订单",
+    "task_star": 3,
+    "task_type": 3,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "304": {
+    "id": 304,
+    "task_name": "生产指定周边产品",
+    "task_star": 3,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4007
+    ],
+    "parameter2": [
+      1,
+      2
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "305": {
+    "id": 305,
+    "task_name": "生产任意周边产品",
+    "task_star": 3,
+    "task_type": 5,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "306": {
+    "id": 306,
+    "task_name": "领取城市收益",
+    "task_star": 3,
+    "task_type": 6,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "401": {
+    "id": 401,
+    "task_name": "拍摄电影",
+    "task_star": 4,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2210
+    ],
+    "parameter2": [
+      1,
+      4
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "402": {
+    "id": 402,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 4,
+    "task_type": 2,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "403": {
+    "id": 403,
+    "task_name": "完成订单",
+    "task_star": 4,
+    "task_type": 3,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "404": {
+    "id": 404,
+    "task_name": "生产指定周边产品",
+    "task_star": 4,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4008
+    ],
+    "parameter2": [
+      1,
+      3
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "405": {
+    "id": 405,
+    "task_name": "生产任意周边产品",
+    "task_star": 4,
+    "task_type": 5,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "406": {
+    "id": 406,
+    "task_name": "领取城市收益",
+    "task_star": 4,
+    "task_type": 6,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "501": {
+    "id": 501,
+    "task_name": "拍摄电影",
+    "task_star": 5,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2210
+    ],
+    "parameter2": [
+      1,
+      4
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "502": {
+    "id": 502,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 5,
+    "task_type": 2,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "503": {
+    "id": 503,
+    "task_name": "完成订单",
+    "task_star": 5,
+    "task_type": 3,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "504": {
+    "id": 504,
+    "task_name": "生产指定周边产品",
+    "task_star": 5,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4008
+    ],
+    "parameter2": [
+      1,
+      3
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "505": {
+    "id": 505,
+    "task_name": "生产任意周边产品",
+    "task_star": 5,
+    "task_type": 5,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "506": {
+    "id": 506,
+    "task_name": "领取城市收益",
+    "task_star": 5,
+    "task_type": 6,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "601": {
+    "id": 601,
+    "task_name": "拍摄电影",
+    "task_star": 6,
+    "task_type": 1,
+    "parameter1": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2211
+    ],
+    "parameter2": [
+      1,
+      5
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "602": {
+    "id": 602,
+    "task_name": "会议、公务、粉丝",
+    "task_star": 6,
+    "task_type": 2,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "603": {
+    "id": 603,
+    "task_name": "完成订单",
+    "task_star": 6,
+    "task_type": 3,
+    "parameter1": [
+      1,
+      3
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "604": {
+    "id": 604,
+    "task_name": "生产指定周边产品",
+    "task_star": 6,
+    "task_type": 4,
+    "parameter1": [
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4009
+    ],
+    "parameter2": [
+      1,
+      4
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "605": {
+    "id": 605,
+    "task_name": "生产任意周边产品",
+    "task_star": 6,
+    "task_type": 5,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  },
+  "606": {
+    "id": 606,
+    "task_name": "领取城市收益",
+    "task_star": 6,
+    "task_type": 6,
+    "parameter1": [
+      1,
+      2
+    ],
+    "parameter2": [
+      0
+    ],
+    "parameter3": [
+      0
+    ],
+    "parameter4": [
+      0
+    ],
+    "parameter5": [
+      0
+    ],
+    "reward_id": [
+      0
+    ],
+    "base_reward": 0,
+    "level_par": [
+      0
+    ]
+  }
+}

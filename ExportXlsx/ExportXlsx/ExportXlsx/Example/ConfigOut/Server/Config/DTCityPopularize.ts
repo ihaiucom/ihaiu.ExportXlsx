@@ -8,8 +8,7 @@ namespace configs
 	export class DTCityPopularize
 	{
 		id : number;
-		name : string;
-		tips : string;
+		zh_cn_name : string;
 		level_three_out : number;
 		level_three_num : number;
 		level_three_chance : number;

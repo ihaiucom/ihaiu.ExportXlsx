@@ -21,6 +21,8 @@ namespace configs
 			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
 			config.default = csvGetBoolean(csv,  this.GetHeadIndex(  "default"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

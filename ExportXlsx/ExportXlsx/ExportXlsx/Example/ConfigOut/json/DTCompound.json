@@ -1,232 +1,218 @@
 ﻿{
-  "1": {
-    "id": 1,
-    "name_tips": "1星帽子",
-    "syn_item": 101,
+  "6101": {
+    "id": 6101,
+    "name_tips": "1星潮流耳机",
+    "syn_item": 6201,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "2": {
-    "id": 2,
-    "name_tips": "1星手套",
-    "syn_item": 102,
+  "6102": {
+    "id": 6102,
+    "name_tips": "1星雕塑",
+    "syn_item": 6202,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "3": {
-    "id": 3,
-    "name_tips": "1星耳机",
-    "syn_item": 103,
+  "6103": {
+    "id": 6103,
+    "name_tips": "1星瓷器",
+    "syn_item": 6203,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "4": {
-    "id": 4,
-    "name_tips": "1星球鞋",
-    "syn_item": 104,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
-  },
-  "5": {
-    "id": 5,
-    "name_tips": "1星花瓶",
-    "syn_item": 105,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
-  },
-  "6": {
-    "id": 6,
-    "name_tips": "1星手提包",
-    "syn_item": 106,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
-  },
-  "7": {
-    "id": 7,
-    "name_tips": "1星画板",
-    "syn_item": 107,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
-  },
-  "8": {
-    "id": 8,
-    "name_tips": "1星雕像",
-    "syn_item": 108,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
-  },
-  "9": {
-    "id": 9,
+  "6104": {
+    "id": 6104,
     "name_tips": "1星领带",
-    "syn_item": 109,
+    "syn_item": 6204,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "10": {
-    "id": 10,
-    "name_tips": "1星口红",
-    "syn_item": 110,
+  "6105": {
+    "id": 6105,
+    "name_tips": "1星手提包",
+    "syn_item": 6205,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 0
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "11": {
-    "id": 11,
-    "name_tips": "2星帽子",
-    "syn_item": 201,
+  "6106": {
+    "id": 6106,
+    "name_tips": "1星运动鞋",
+    "syn_item": 6206,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 1,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "12": {
-    "id": 12,
-    "name_tips": "2星手套",
-    "syn_item": 202,
+  "6107": {
+    "id": 6107,
+    "name_tips": "1星单反相机",
+    "syn_item": 6207,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 2,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "13": {
-    "id": 13,
-    "name_tips": "2星耳机",
-    "syn_item": 203,
+  "6108": {
+    "id": 6108,
+    "name_tips": "1星油画",
+    "syn_item": 6208,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 3,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "14": {
-    "id": 14,
-    "name_tips": "2星球鞋",
-    "syn_item": 204,
+  "6109": {
+    "id": 6109,
+    "name_tips": "1星茶具",
+    "syn_item": 6209,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 4,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 0,
+    "split_num": 0
   },
-  "15": {
-    "id": 15,
-    "name_tips": "2星花瓶",
-    "syn_item": 205,
+  "6201": {
+    "id": 6201,
+    "name_tips": "2星潮流耳机",
+    "syn_item": 6301,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 5,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 6101,
+    "split_num": 5
   },
-  "16": {
-    "id": 16,
-    "name_tips": "2星手提包",
-    "syn_item": 206,
+  "6202": {
+    "id": 6202,
+    "name_tips": "2星雕塑",
+    "syn_item": 6302,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 6,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 6102,
+    "split_num": 5
   },
-  "17": {
-    "id": 17,
-    "name_tips": "2星画板",
-    "syn_item": 207,
+  "6203": {
+    "id": 6203,
+    "name_tips": "2星瓷器",
+    "syn_item": 6303,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 7,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 6103,
+    "split_num": 5
   },
-  "18": {
-    "id": 18,
-    "name_tips": "2星雕像",
-    "syn_item": 208,
-    "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 8,
-        "itemNum": 5
-      }
-    ]
-  },
-  "19": {
-    "id": 19,
+  "6204": {
+    "id": 6204,
     "name_tips": "2星领带",
-    "syn_item": 209,
+    "syn_item": 6304,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 9,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 6104,
+    "split_num": 5
   },
-  "20": {
-    "id": 20,
-    "name_tips": "2星口红",
-    "syn_item": 210,
+  "6205": {
+    "id": 6205,
+    "name_tips": "2星手提包",
+    "syn_item": 6305,
     "num_req": 5,
-    "split_list": [
-      {
-        "itemId": 10,
-        "itemNum": 5
-      }
-    ]
+    "split_item": 6105,
+    "split_num": 5
+  },
+  "6206": {
+    "id": 6206,
+    "name_tips": "2星运动鞋",
+    "syn_item": 6306,
+    "num_req": 5,
+    "split_item": 6106,
+    "split_num": 5
+  },
+  "6207": {
+    "id": 6207,
+    "name_tips": "2星单反相机",
+    "syn_item": 6307,
+    "num_req": 5,
+    "split_item": 6107,
+    "split_num": 5
+  },
+  "6208": {
+    "id": 6208,
+    "name_tips": "2星油画",
+    "syn_item": 6308,
+    "num_req": 5,
+    "split_item": 6108,
+    "split_num": 5
+  },
+  "6209": {
+    "id": 6209,
+    "name_tips": "2星茶具",
+    "syn_item": 6309,
+    "num_req": 5,
+    "split_item": 6109,
+    "split_num": 5
+  },
+  "6301": {
+    "id": 6301,
+    "name_tips": "3星潮流耳机",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6201,
+    "split_num": 5
+  },
+  "6302": {
+    "id": 6302,
+    "name_tips": "3星雕塑",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6202,
+    "split_num": 5
+  },
+  "6303": {
+    "id": 6303,
+    "name_tips": "3星瓷器",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6203,
+    "split_num": 5
+  },
+  "6304": {
+    "id": 6304,
+    "name_tips": "3星领带",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6204,
+    "split_num": 5
+  },
+  "6305": {
+    "id": 6305,
+    "name_tips": "3星手提包",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6205,
+    "split_num": 5
+  },
+  "6306": {
+    "id": 6306,
+    "name_tips": "3星运动鞋",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6206,
+    "split_num": 5
+  },
+  "6307": {
+    "id": 6307,
+    "name_tips": "3星单反相机",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6207,
+    "split_num": 5
+  },
+  "6308": {
+    "id": 6308,
+    "name_tips": "3星油画",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6208,
+    "split_num": 5
+  },
+  "6309": {
+    "id": 6309,
+    "name_tips": "3星茶具",
+    "syn_item": 0,
+    "num_req": 0,
+    "split_item": 6209,
+    "split_num": 5
   }
 }

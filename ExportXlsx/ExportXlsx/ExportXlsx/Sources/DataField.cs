@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace ExportXlsx.Sources
 {
@@ -10,6 +11,16 @@ namespace ExportXlsx.Sources
         public string   cn;
         public string   typeName;
         public int      index;
+
+        static Regex EnableRegex = new Regex("^[A-Za-z_]+[A-Za-z0-9_]*");
+
+        public bool fieldNameIsEnable
+        {
+            get
+            {
+                return EnableRegex.IsMatch(field);
+            }
+        }
 
         public string GetTsTypeName()
         {

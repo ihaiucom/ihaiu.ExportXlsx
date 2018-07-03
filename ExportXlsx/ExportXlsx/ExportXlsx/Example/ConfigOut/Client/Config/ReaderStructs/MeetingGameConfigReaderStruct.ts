@@ -23,6 +23,8 @@ namespace configs
 			config.rate = csvGetInt(csv,  this.GetHeadIndex(  "rate"  )   );
 			config.times = csvGetString(csv,  this.GetHeadIndex(  "times"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

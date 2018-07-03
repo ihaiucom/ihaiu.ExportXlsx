@@ -1,6 +1,6 @@
-﻿int	string	int[]	int	int	int	int	int
-类别id	类别名称	剧本序列	场面加成	剧情加成	表演加成	艺术加成	娱乐加成
-id	zh_cn_name	scripts	addition_scene	addition_plot	addition_performance	addition_art	addition_entertainment
-1	喜剧组	1001;1002	10	0	0	0	0
-2	悲剧租	1003;1004	0	10	0	0	0
-3	歌舞组	1005;1006	0	0	10	0	0
+﻿int	string	int[]	DTItemNum[]	DTStoryEffect[]
+类别id	类别名称	剧本序列	集齐剧本奖励	对电影属性的奖励(1601:场面,1602:表演;1603:剧情;1604:艺术;1605:娱乐）（电影属性:百分比）
+id	zh_cn_name	scripts	rewards	addition_scene
+1	喜剧组	1001;1002	1:10;2:20	1601:10;1602:20
+2	悲剧租	1003;1004	1:10;2:20	1601:10
+3	歌舞组	1005;1006;1007	1:10;2:20	1601:10

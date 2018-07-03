@@ -11,7 +11,7 @@ namespace configs
 		type : number;
 		field : string;
 		enName : string;
-		cnName : string;
+		zh_cn_name : string;
 		icon : string;
 		tip : string;
 	}

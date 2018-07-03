@@ -6,11 +6,17 @@
       1001,
       1002
     ],
-    "addition_scene": 10,
-    "addition_plot": 0,
-    "addition_performance": 0,
-    "addition_art": 0,
-    "addition_entertainment": 0
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "addition_scene": "1601:10;1602:20"
   },
   "2": {
     "id": 2,
@@ -19,23 +25,36 @@
       1003,
       1004
     ],
-    "addition_scene": 0,
-    "addition_plot": 10,
-    "addition_performance": 0,
-    "addition_art": 0,
-    "addition_entertainment": 0
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "addition_scene": "1601:10"
   },
   "3": {
     "id": 3,
     "zh_cn_name": "歌舞组",
     "scripts": [
       1005,
-      1006
+      1006,
+      1007
     ],
-    "addition_scene": 0,
-    "addition_plot": 0,
-    "addition_performance": 10,
-    "addition_art": 0,
-    "addition_entertainment": 0
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 20
+      }
+    ],
+    "addition_scene": "1601:10"
   }
 }

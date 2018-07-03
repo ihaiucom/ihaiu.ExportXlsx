@@ -7,10 +7,10 @@ namespace configs
 {
 	export class CityPopularizeConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		name : string;
-		tips : string;
+		zh_cn_name : string;
 		level_three_out : number;
 		level_three_num : number;
 		level_three_chance : number;
@@ -30,6 +30,12 @@ namespace configs
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

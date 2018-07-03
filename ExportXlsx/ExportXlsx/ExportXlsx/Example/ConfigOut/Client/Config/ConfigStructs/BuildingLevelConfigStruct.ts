@@ -7,12 +7,12 @@ namespace configs
 {
 	export class BuildingLevelConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		type : number;
 		function_open : number[];
-		tips : string;
 		level : number;
 		cost : DTItemNum[];
 		level_req : number;
@@ -20,10 +20,18 @@ namespace configs
 		block_req : number;
 		UI : boolean;
 		effect_id : number[];
+		effect_tips : string;
+		level_tips : string;
 
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

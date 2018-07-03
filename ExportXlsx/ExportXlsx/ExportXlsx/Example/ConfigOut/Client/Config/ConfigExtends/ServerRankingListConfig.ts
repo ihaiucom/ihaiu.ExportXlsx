@@ -7,5 +7,6 @@ namespace configs
 {
 	export class ServerRankingListConfig extends ServerRankingListConfigStruct
 	{
+		
 	}
 }

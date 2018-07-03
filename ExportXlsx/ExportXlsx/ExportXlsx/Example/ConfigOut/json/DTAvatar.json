@@ -7,6 +7,7 @@
     "mini_icon": "abc/001",
     "piece_icon": "abc/001",
     "model_skin": "abc/001",
-    "model_bones": "abc/001"
+    "model_bones": "abc/001",
+    "bg_pic": ""
   }
 }

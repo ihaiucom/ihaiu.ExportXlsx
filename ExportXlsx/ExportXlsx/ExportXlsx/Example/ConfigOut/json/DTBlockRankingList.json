@@ -18,9 +18,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -43,9 +53,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -68,9 +88,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -93,9 +123,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": false,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -118,9 +158,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -143,9 +193,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   },
@@ -168,9 +228,19 @@
       "itemId": 1,
       "itemNum": 100
     },
+    "oscar_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
     "congratulate_switch": true,
     "congratulate_reward": {
-      "itemId": 0,
+      "itemId": 2,
       "itemNum": 50
     }
   }

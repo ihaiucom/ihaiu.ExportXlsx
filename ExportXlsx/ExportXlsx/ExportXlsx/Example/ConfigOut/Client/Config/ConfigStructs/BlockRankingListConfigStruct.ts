@@ -7,6 +7,7 @@ namespace configs
 {
 	export class BlockRankingListConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		name : string;
@@ -14,12 +15,15 @@ namespace configs
 		rank : number;
 		reward : DTItemNum[];
 		extra_reward : DTItemNum;
+		oscar_reward : DTItemNum[];
 		congratulate_switch : boolean;
 		congratulate_reward : DTItemNum;
 
 
 
 
+
+		
 	}
 
 

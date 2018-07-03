@@ -8,7 +8,7 @@ namespace configs
 	export class DTCinema
 	{
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		sign_level : number;
 		pic : number;
 		num : number;

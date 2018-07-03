@@ -7,5 +7,6 @@ namespace configs
 {
 	export class VisitConfig extends VisitConfigStruct
 	{
+		
 	}
 }

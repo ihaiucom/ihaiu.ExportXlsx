@@ -1,0 +1,30 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "cn_name": "建造摄影棚",
+    "en_name": "Build",
+    "trigger": 2,
+    "t_value": 1001,
+    "require": 1,
+    "r_value": 2,
+    "cn_info": "A",
+    "en_info": "B",
+    "cn_rinfo": "A",
+    "en_rinfo": "B",
+    "cn_content": "建造摄影棚",
+    "en_content": "Bulid",
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 1000
+      },
+      {
+        "itemId": 2,
+        "itemNum": 500
+      }
+    ],
+    "pre_quest": 0,
+    "guide": true,
+    "guide_id": 1001
+  }
+}

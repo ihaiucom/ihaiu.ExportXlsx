@@ -28,7 +28,7 @@ namespace configs
 			config.task_business = csvGetInt(csv,  this.GetHeadIndex(  "task_business"  )   );
 			config.task_meeting = csvGetInt(csv,  this.GetHeadIndex(  "task_meeting"  )   );
 			config.task_fans = csvGetInt(csv,  this.GetHeadIndex(  "task_fans"  )   );
-			config.task_fans = csvGetInt(csv,  this.GetHeadIndex(  "task_fans"  )   );
+			config.task_publicize = csvGetInt(csv,  this.GetHeadIndex(  "task_publicize"  )   );
 			config.task_city = csvGetInt(csv,  this.GetHeadIndex(  "task_city"  )   );
 			config.task_rank_all = csvGetInt(csv,  this.GetHeadIndex(  "task_rank_all"  )   );
 			config.task_rank_movie = csvGetInt(csv,  this.GetHeadIndex(  "task_rank_movie"  )   );
@@ -43,6 +43,8 @@ namespace configs
 			config.task_coorder = csvGetInt(csv,  this.GetHeadIndex(  "task_coorder"  )   );
 			config.reward = csvGetInt(csv,  this.GetHeadIndex(  "reward"  )   );
 			config.Complete = csvGetInt(csv,  this.GetHeadIndex(  "Complete"  )   );
+
+			
 
 
 			this.addConfig(config);

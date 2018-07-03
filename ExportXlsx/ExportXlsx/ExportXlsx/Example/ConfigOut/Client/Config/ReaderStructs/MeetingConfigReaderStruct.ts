@@ -21,6 +21,8 @@ namespace configs
 			config.meeting_cd = csvGetInt(csv,  this.GetHeadIndex(  "meeting_cd"  )   );
 			config.cost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "cost"  )   )   );
 
+			
+
 
 			this.addConfig(config);
         }

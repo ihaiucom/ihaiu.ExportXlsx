@@ -20,6 +20,8 @@ namespace configs
 			config.key = csvGetString(csv,  this.GetHeadIndex(  "key"  )   );
 			config.zh_cn_text = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_text"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

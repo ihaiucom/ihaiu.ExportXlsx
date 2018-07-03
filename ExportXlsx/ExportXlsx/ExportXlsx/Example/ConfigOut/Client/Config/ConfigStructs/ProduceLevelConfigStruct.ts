@@ -7,6 +7,7 @@ namespace configs
 {
 	export class ProduceLevelConfigStruct extends BaseConfig
 	{
+	
 
 		level : number;
 		line : number;
@@ -18,6 +19,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

@@ -7,6 +7,7 @@ namespace configs
 {
 	export class DailySignConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		cycle : number;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

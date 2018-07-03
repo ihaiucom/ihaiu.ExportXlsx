@@ -22,8 +22,11 @@ namespace configs
 			config.rank = csvGetInt(csv,  this.GetHeadIndex(  "rank"  )   );
 			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.extra_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "extra_reward"  )   )   );
+			config.oscar_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "oscar_reward"  )   )   );
 			config.congratulate_switch = csvGetBoolean(csv,  this.GetHeadIndex(  "congratulate_switch"  )   );
 			config.congratulate_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "congratulate_reward"  )   )   );
+
+			
 
 
 			this.addConfig(config);

@@ -1,200 +1,440 @@
 ﻿{
   "1": {
     "id": 1,
-    "name": "放映",
+    "zh_cn_name": "主界面",
     "icon": "",
-    "moduleName": "",
-    "layer": 0,
+    "moduleName": "Main",
+    "layer": 2,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 4,
+    "101": 1,
+    "102": [
+      1,
+      2
+    ]
   },
   "2": {
     "id": 2,
-    "name": "拍摄",
+    "zh_cn_name": "放映",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 2,
+    "102": [
+      2,
+      4
+    ]
   },
   "3": {
     "id": 3,
-    "name": "艺人",
+    "zh_cn_name": "拍摄",
     "icon": "",
-    "moduleName": "",
-    "layer": 0,
+    "moduleName": "War",
+    "layer": 3,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 4,
+    "101": 3,
+    "102": [
+      1,
+      2
+    ]
   },
   "4": {
     "id": 4,
-    "name": "星探",
+    "zh_cn_name": "艺人",
     "icon": "",
-    "moduleName": "",
-    "layer": 0,
+    "moduleName": "ArtistList",
+    "layer": 3,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 4,
+    "101": 4,
+    "102": [
+      0
+    ]
   },
   "5": {
     "id": 5,
-    "name": "生产",
+    "zh_cn_name": "星探",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 5,
+    "102": [
+      0
+    ]
   },
   "6": {
     "id": 6,
-    "name": "市场",
+    "zh_cn_name": "生产",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 6,
+    "102": [
+      0
+    ]
   },
   "7": {
     "id": 7,
-    "name": "日程",
+    "zh_cn_name": "市场",
     "icon": "",
-    "moduleName": "",
-    "layer": 0,
+    "moduleName": "Market",
+    "layer": 3,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 4,
+    "101": 7,
+    "102": [
+      0
+    ]
   },
   "8": {
     "id": 8,
-    "name": "每日目标",
+    "zh_cn_name": "日程",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "9": {
     "id": 9,
-    "name": "仓库",
+    "zh_cn_name": "每日目标",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "10": {
     "id": 10,
-    "name": "订单",
+    "zh_cn_name": "仓库",
     "icon": "",
-    "moduleName": "",
-    "layer": 0,
+    "moduleName": "Bag",
+    "layer": 3,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "11": {
     "id": 11,
-    "name": "合作",
+    "zh_cn_name": "订单",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "12": {
     "id": 12,
-    "name": "公务",
+    "zh_cn_name": "合作",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "13": {
     "id": 13,
-    "name": "粉丝",
+    "zh_cn_name": "公务",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "14": {
     "id": 14,
-    "name": "会议",
+    "zh_cn_name": "粉丝",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "15": {
     "id": 15,
-    "name": "财务兑换",
+    "zh_cn_name": "会议",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "16": {
     "id": 16,
-    "name": "训练",
+    "zh_cn_name": "财务兑换",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "17": {
     "id": 17,
-    "name": "宝物",
+    "zh_cn_name": "训练",
     "icon": "",
     "moduleName": "",
     "layer": 0,
     "closeOtherType": 0,
     "closeHomeWindow": false,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "18": {
+    "id": 18,
+    "zh_cn_name": "宝物",
+    "icon": "",
+    "moduleName": "",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "19": {
+    "id": 19,
+    "zh_cn_name": "街区",
+    "icon": "",
+    "moduleName": "Block",
+    "layer": 0,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "20": {
+    "id": 20,
+    "zh_cn_name": "角色信息",
+    "icon": "",
+    "moduleName": "PlayerInfo",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
   },
   "101": {
     "id": 101,
-    "name": "登录",
+    "zh_cn_name": "登录",
     "icon": "",
     "moduleName": "Login",
     "layer": 3,
     "closeOtherType": 3,
     "closeHomeWindow": true,
     "cacheTime": 0,
-    "loaderId": 0
+    "loaderId": 2,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "102": {
+    "id": 102,
+    "zh_cn_name": "创建角色",
+    "icon": "",
+    "moduleName": "CreateRole",
+    "layer": 3,
+    "closeOtherType": 3,
+    "closeHomeWindow": true,
+    "cacheTime": 0,
+    "loaderId": 2,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "401": {
+    "id": 401,
+    "zh_cn_name": "艺人详情",
+    "icon": "",
+    "moduleName": "ArtistDetail",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "402": {
+    "id": 402,
+    "zh_cn_name": "艺人介绍",
+    "icon": "",
+    "moduleName": "ActorDetail",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "403": {
+    "id": 403,
+    "zh_cn_name": "艺人雪藏",
+    "icon": "",
+    "moduleName": "ArtistFrozen",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "404": {
+    "id": 404,
+    "zh_cn_name": "艺人招募",
+    "icon": "",
+    "moduleName": "ArtistScoutResult",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "405": {
+    "id": 405,
+    "zh_cn_name": "艺人招募成功",
+    "icon": "",
+    "moduleName": "ArtistScoutSuccess",
+    "layer": 5,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "406": {
+    "id": 406,
+    "zh_cn_name": "艺人培训",
+    "icon": "",
+    "moduleName": "ArtistTrain",
+    "layer": 3,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 4,
+    "101": 0,
+    "102": [
+      0
+    ]
+  },
+  "407": {
+    "id": 407,
+    "zh_cn_name": "艺人培训结果",
+    "icon": "",
+    "moduleName": "ArtistTrainResult",
+    "layer": 5,
+    "closeOtherType": 0,
+    "closeHomeWindow": false,
+    "cacheTime": 0,
+    "loaderId": 0,
+    "101": 0,
+    "102": [
+      0
+    ]
   }
 }

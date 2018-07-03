@@ -7,11 +7,11 @@ namespace configs
 {
 	export class BuildingEffectConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		tips : string;
-		effect_des : string;
-		effect_tips : string;
+		zh_cn_effect_des : string;
 		effect : number;
 		par1 : number;
 		par2 : number;
@@ -22,6 +22,12 @@ namespace configs
 
 
 
+
+		
+		get effect_des()
+		{
+			return this.zh_cn_effect_des
+		}
 	}
 
 

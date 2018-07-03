@@ -8,7 +8,7 @@ namespace configs
 	export class DTSkillEffect
 	{
 		id : number;
-		effect : string;
+		effect : number;
 		cn_tips : string;
 	}
 }

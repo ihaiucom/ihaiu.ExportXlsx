@@ -1,0 +1,112 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "zh_cn_name": "60钻石",
+    "item": {
+      "itemId": 1,
+      "itemNum": 6
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "cost_dollar": 6,
+    "double": 1,
+    "go": 0,
+    "term": 0
+  },
+  "1002": {
+    "id": 1002,
+    "zh_cn_name": "300钻石",
+    "item": {
+      "itemId": 1,
+      "itemNum": 7
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "cost_dollar": 30,
+    "double": 1,
+    "go": 0,
+    "term": 0
+  },
+  "1003": {
+    "id": 1003,
+    "zh_cn_name": "终身秘书",
+    "item": {
+      "itemId": 1,
+      "itemNum": 8
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "cost_dollar": 60,
+    "double": 0,
+    "go": 0,
+    "term": 999999
+  },
+  "1004": {
+    "id": 1004,
+    "zh_cn_name": "月卡",
+    "item": {
+      "itemId": 1,
+      "itemNum": 9
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "cost_dollar": 90,
+    "double": 0,
+    "go": 0,
+    "term": 30
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_name": "至尊月卡",
+    "item": {
+      "itemId": 1,
+      "itemNum": 10
+    },
+    "gift": [
+      {
+        "itemId": 1,
+        "itemNum": 5
+      },
+      {
+        "itemId": 1,
+        "itemNum": 5
+      }
+    ],
+    "cost_dollar": 120,
+    "double": 0,
+    "go": 0,
+    "term": 30
+  }
+}

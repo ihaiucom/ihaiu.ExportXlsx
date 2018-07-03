@@ -22,6 +22,8 @@ namespace configs
 			config.unlock =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "unlock"  )   )   );
 			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

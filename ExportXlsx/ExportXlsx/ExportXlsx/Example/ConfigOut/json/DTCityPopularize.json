@@ -1,8 +1,7 @@
 ﻿{
   "1101": {
     "id": 1101,
-    "name": "纽约",
-    "tips": "纽约",
+    "zh_cn_name": "纽约",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -21,8 +20,7 @@
   },
   "1102": {
     "id": 1102,
-    "name": "上海",
-    "tips": "上海",
+    "zh_cn_name": "上海",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -41,8 +39,7 @@
   },
   "1103": {
     "id": 1103,
-    "name": "北京",
-    "tips": "北京",
+    "zh_cn_name": "北京",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -61,8 +58,7 @@
   },
   "1104": {
     "id": 1104,
-    "name": "巴黎",
-    "tips": "巴黎",
+    "zh_cn_name": "巴黎",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -81,8 +77,7 @@
   },
   "1105": {
     "id": 1105,
-    "name": "杭州",
-    "tips": "杭州",
+    "zh_cn_name": "杭州",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -101,8 +96,7 @@
   },
   "1106": {
     "id": 1106,
-    "name": "广州",
-    "tips": "广州",
+    "zh_cn_name": "广州",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -121,8 +115,7 @@
   },
   "1107": {
     "id": 1107,
-    "name": "深圳",
-    "tips": "深圳",
+    "zh_cn_name": "深圳",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -141,8 +134,7 @@
   },
   "1108": {
     "id": 1108,
-    "name": "伦敦",
-    "tips": "伦敦",
+    "zh_cn_name": "伦敦",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -161,8 +153,7 @@
   },
   "1109": {
     "id": 1109,
-    "name": "柏林",
-    "tips": "柏林",
+    "zh_cn_name": "柏林",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -181,8 +172,7 @@
   },
   "1110": {
     "id": 1110,
-    "name": "莫斯科",
-    "tips": "莫斯科",
+    "zh_cn_name": "莫斯科",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -201,8 +191,7 @@
   },
   "1111": {
     "id": 1111,
-    "name": "拉萨",
-    "tips": "拉萨",
+    "zh_cn_name": "拉萨",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -221,8 +210,7 @@
   },
   "1112": {
     "id": 1112,
-    "name": "南京",
-    "tips": "南京",
+    "zh_cn_name": "南京",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -241,8 +229,7 @@
   },
   "1113": {
     "id": 1113,
-    "name": "墨西哥",
-    "tips": "墨西哥",
+    "zh_cn_name": "墨西哥",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,
@@ -261,8 +248,7 @@
   },
   "1114": {
     "id": 1114,
-    "name": "华盛顿",
-    "tips": "华盛顿",
+    "zh_cn_name": "华盛顿",
     "level_three_out": 1,
     "level_three_num": 10,
     "level_three_chance": 0.100000001490116,

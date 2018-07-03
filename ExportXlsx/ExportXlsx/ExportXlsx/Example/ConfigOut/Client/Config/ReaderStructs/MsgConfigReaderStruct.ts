@@ -22,6 +22,8 @@ namespace configs
 			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
 			config.zh_cn_notice = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_notice"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

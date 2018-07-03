@@ -22,6 +22,8 @@ namespace configs
 			config.normal_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "normal_reward"  )   )   );
 			config.spec_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "spec_reward"  )   )   );
 
+			
+
 
 			this.addConfig(config);
         }

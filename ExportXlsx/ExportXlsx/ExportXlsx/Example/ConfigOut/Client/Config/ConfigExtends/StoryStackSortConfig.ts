@@ -7,5 +7,6 @@ namespace configs
 {
 	export class StoryStackSortConfig extends StoryStackSortConfigStruct
 	{
+		
 	}
 }

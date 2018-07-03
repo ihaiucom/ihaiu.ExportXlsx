@@ -7,6 +7,7 @@ namespace configs
 {
 	export class StoryStackItemConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		type : number;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

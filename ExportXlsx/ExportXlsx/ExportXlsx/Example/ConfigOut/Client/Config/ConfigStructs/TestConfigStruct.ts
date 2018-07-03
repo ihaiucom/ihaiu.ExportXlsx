@@ -7,6 +7,7 @@ namespace configs
 {
 	export class TestConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		name : string;
@@ -20,6 +21,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

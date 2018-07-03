@@ -7,5 +7,6 @@ namespace configs
 {
 	export class OrderConfig extends OrderConfigStruct
 	{
+		
 	}
 }

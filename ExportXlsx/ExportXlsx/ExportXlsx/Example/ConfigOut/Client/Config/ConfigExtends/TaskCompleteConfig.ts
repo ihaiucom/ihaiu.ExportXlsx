@@ -7,5 +7,6 @@ namespace configs
 {
 	export class TaskCompleteConfig extends TaskCompleteConfigStruct
 	{
+		
 	}
 }

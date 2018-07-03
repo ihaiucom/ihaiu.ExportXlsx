@@ -24,6 +24,9 @@ namespace configs
 			config.piece_icon = csvGetString(csv,  this.GetHeadIndex(  "piece_icon"  )   );
 			config.model_skin = csvGetString(csv,  this.GetHeadIndex(  "model_skin"  )   );
 			config.model_bones = csvGetString(csv,  this.GetHeadIndex(  "model_bones"  )   );
+			config.bg_pic = csvGetString(csv,  this.GetHeadIndex(  "bg_pic"  )   );
+
+			
 
 
 			this.addConfig(config);

@@ -8,9 +8,8 @@ namespace configs
 	export class DTMovieShootType
 	{
 		id : number;
-		name : string;
-		name_tips : string;
-		type_des : string;
+		zh_cn_name : string;
+		zh_cn_type_des : string;
 		item_id : number;
 		item_num : number;
 		pic : number;

@@ -8,11 +8,11 @@ namespace configs
 	export class DTMovieExpect
 	{
 		id : number;
-		name : string;
+		zh_cn_name : string;
 		tips : string;
 		expect_req : number;
 		pic : number;
-		pic_word : string;
 		gain_up : number;
+		zh_cn_pic_word : string[];
 	}
 }

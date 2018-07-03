@@ -22,6 +22,8 @@ namespace configs
 			config.gift =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "gift"  )   )   );
 			config.cn = csvGetString(csv,  this.GetHeadIndex(  "cn"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

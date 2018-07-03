@@ -17,7 +17,7 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.moduleName = csvGetString(csv,  this.GetHeadIndex(  "moduleName"  )   );
 			config.layer = csvGetInt(csv,  this.GetHeadIndex(  "layer"  )   );
@@ -25,6 +25,10 @@ namespace configs
 			config.closeHomeWindow = csvGetBoolean(csv,  this.GetHeadIndex(  "closeHomeWindow"  )   );
 			config.cacheTime = csvGetInt(csv,  this.GetHeadIndex(  "cacheTime"  )   );
 			config.loaderId = csvGetInt(csv,  this.GetHeadIndex(  "loaderId"  )   );
+
+			
+			config["101"] = csvGetInt(csv,  this.GetHeadIndex(  "101"  )   );
+			config["102"] =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "102"  )   )   );
 
 
 			this.addConfig(config);

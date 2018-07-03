@@ -7,5 +7,6 @@ namespace configs
 {
 	export class ActorLoyaltyConfig extends ActorLoyaltyConfigStruct
 	{
+		
 	}
 }

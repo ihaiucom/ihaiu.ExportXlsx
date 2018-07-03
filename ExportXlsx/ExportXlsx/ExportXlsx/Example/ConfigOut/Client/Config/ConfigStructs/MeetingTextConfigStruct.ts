@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MeetingTextConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		key : string;
@@ -16,6 +17,12 @@ namespace configs
 
 
 
+
+		
+		get text()
+		{
+			return this.zh_cn_text
+		}
 	}
 
 

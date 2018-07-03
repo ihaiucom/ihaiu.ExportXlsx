@@ -7,5 +7,6 @@ namespace configs
 {
 	export class BusinessConfig extends BusinessConfigStruct
 	{
+		
 	}
 }

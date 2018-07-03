@@ -7,16 +7,20 @@ namespace configs
 {
 	export class CompoundConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		name_tips : string;
 		syn_item : number;
 		num_req : number;
-		split_list : DTItemNum[];
+		split_item : number;
+		split_num : number;
 
 
 
 
+
+		
 	}
 
 

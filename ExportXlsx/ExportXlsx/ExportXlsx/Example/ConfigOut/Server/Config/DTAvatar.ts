@@ -15,5 +15,6 @@ namespace configs
 		piece_icon : string;
 		model_skin : string;
 		model_bones : string;
+		bg_pic : string;
 	}
 }

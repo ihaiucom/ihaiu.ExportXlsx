@@ -3,160 +3,728 @@
     "id": 1001,
     "story_id": 1001,
     "character_num": 1,
-    "zh_cn_name": "小李",
-    "type": 2101,
-    "gender": 0,
+    "zh_cn_name": "陆伊萍",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
     "country": 0,
-    "show_type": 0,
-    "age_type": 1502,
+    "show_type": 1402,
+    "age_type": 0,
     "tags": [
-      1904,
-      1905
+      1902,
+      1904
     ],
     "effect": [
-      1601,
-      1602
+      1602,
+      1603
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "陆伊萍（女主角）出生于富贵之家，从小被陆家赶出家门，生活清贫，在舞厅当歌女，为复仇决定利用何疏桓却发动了真情。"
   },
   "1002": {
     "id": 1002,
     "story_id": 1001,
     "character_num": 2,
-    "zh_cn_name": "小张",
-    "type": 2101,
-    "gender": 1101,
+    "zh_cn_name": "何疏桓",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
     "country": 0,
-    "show_type": 1401,
-    "age_type": 1502,
+    "show_type": 0,
+    "age_type": 0,
     "tags": [
-      1904,
-      1905
+      1905,
+      1931,
+      1947
     ],
     "effect": [
-      1601,
-      1602
+      1603,
+      1604
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "何疏桓（男主角）报社记者，深情款款，才高志坚，与陆伊萍相恋，最后有情人终成眷属。"
   },
   "1003": {
     "id": 1003,
+    "story_id": 1001,
+    "character_num": 3,
+    "zh_cn_name": "陆心萍",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1904,
+      1908,
+      1935
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "陆心萍（配角）大学生，知书达理，长相甜美，温柔贴心，对爱情非常执着。"
+  },
+  "1004": {
+    "id": 1004,
+    "story_id": 1001,
+    "character_num": 4,
+    "zh_cn_name": "杜辉",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1947,
+      1928,
+      1917
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "杜辉（配角）报社记者，头脑机灵，虽然知道陆心萍喜欢何疏桓也不曾放弃，最终成功俘获美人心"
+  },
+  "1005": {
+    "id": 1005,
     "story_id": 1002,
     "character_num": 1,
-    "zh_cn_name": "小王",
+    "zh_cn_name": "阿杰",
     "type": 2101,
-    "gender": 1101,
-    "country": 1201,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907,
+      1926,
+      1934
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "阿杰（主角）当地农民，为人爽朗正直，勇猛异常，极富正义感，被选入黑衣人阻止。配备武器：灭害灵手枪。"
+  },
+  "1006": {
+    "id": 1006,
+    "story_id": 1002,
+    "character_num": 2,
+    "zh_cn_name": "老开",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1910,
+      1921,
+      1941
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "老开（主角）黑衣人组织中精干老练的特警，为人严肃，刚正不阿，曾多次挽救地球于危难之中。配备武器：敌敌畏大炮。"
+  },
+  "1007": {
+    "id": 1007,
+    "story_id": 1002,
+    "character_num": 3,
+    "zh_cn_name": "艾德根",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911,
+      1920,
+      1943
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "艾德根（反派）邪恶的地心人，化身人形的虫科生物，处心积虑想夺走能量源“银河”掌控宇宙。"
+  },
+  "1008": {
+    "id": 1008,
+    "story_id": 1003,
+    "character_num": 1,
+    "zh_cn_name": "盖·朵",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
     "show_type": 0,
     "age_type": 0,
     "tags": [
       1904,
-      1905
+      1910,
+      1926
     ],
     "effect": [
       1601,
       1602
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "盖·朵（女主角）从小练就非凡武艺，从家里偷出全套神装，来到外面的世界对抗邪恶……"
   },
-  "1004": {
-    "id": 1004,
-    "story_id": 1002,
+  "1009": {
+    "id": 1009,
+    "story_id": 1003,
     "character_num": 2,
-    "zh_cn_name": "小孙",
+    "zh_cn_name": "史蒂夫",
     "type": 2101,
-    "gender": 1101,
-    "country": 1201,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1916,
+      1922,
+      1937
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "史蒂夫（主角）潜伏在敌人内部窃取机密的特工"
+  },
+  "1010": {
+    "id": 1010,
+    "story_id": 1003,
+    "character_num": 3,
+    "zh_cn_name": "战神",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1502,
+    "tags": [
+      1943,
+      1911,
+      1923,
+      1930
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "战神（反派）上古神祇在人间的化身，通过挑起战争获得力量"
+  },
+  "1011": {
+    "id": 1011,
+    "story_id": 1004,
+    "character_num": 1,
+    "zh_cn_name": "李诚功",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1905,
+      1915
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "李诚功（主角）独立创业的小老板，有钱有闲，有妻儿有情人，在成功人生不知所措的时候，此次的归家之旅也得到了答案。"
+  },
+  "1012": {
+    "id": 1012,
+    "story_id": 1004,
+    "character_num": 2,
+    "zh_cn_name": "牛耿直",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1942
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "牛耿直（主角）从小与父母走失的民工，耿直坚持，乐观积极，一直相信未来充满希望"
+  },
+  "1013": {
+    "id": 1013,
+    "story_id": 1004,
+    "character_num": 3,
+    "zh_cn_name": "梅莉",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1928
+    ],
+    "effect": [
+      1604,
+      1602
+    ],
+    "zh_cn_introduction": "梅莉（配角）李诚功在老家的妻子，温柔贤妻，孝敬父母，一直默默保卫这整个家庭"
+  },
+  "1014": {
+    "id": 1014,
+    "story_id": 1005,
+    "character_num": 1,
+    "zh_cn_name": "泉贤一",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1908,
+      1926
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "泉贤一（男主角）平凡的高中生，单纯善良，母亲被杀害后性情大变，被寄生后拥有超越超人的能力。"
+  },
+  "1015": {
+    "id": 1015,
+    "story_id": 1005,
+    "character_num": 2,
+    "zh_cn_name": "小佑",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1922
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "小佑（主角）寄生在贤一右手的寄生兽，拥有强大的力量，和贤一成为相互信任的伙伴，一起对抗其他寄生兽。"
+  },
+  "1016": {
+    "id": 1016,
+    "story_id": 1005,
+    "character_num": 3,
+    "zh_cn_name": "田宫凌子",
+    "type": 2106,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1922
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "田宫凌子（女配角）在与人类的接触中慢慢被改变的寄生兽，拥有强大的能力，但不喜欢杀戮，一直想了解人类和寄生生物之间和平相处的方法。"
+  },
+  "1017": {
+    "id": 1017,
+    "story_id": 1005,
+    "character_num": 4,
+    "zh_cn_name": "春野里美",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1908
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "春野里美（女配角）平凡的女高中生，勇敢善良，贤一的青梅竹马，对贤一有好感。"
+  },
+  "1018": {
+    "id": 1018,
+    "story_id": 1006,
+    "character_num": 1,
+    "zh_cn_name": "杰姆斯",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
     "show_type": 1401,
     "age_type": 0,
     "tags": [
       1904,
-      1905
+      1937
     ],
     "effect": [
       1601,
       1602
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "杰姆斯（男主角）出色的间谍，风度翩翩，举止文雅体面"
   },
-  "1005": {
-    "id": 1005,
-    "story_id": 1003,
-    "character_num": 1,
-    "zh_cn_name": "小汪",
-    "type": 2101,
-    "gender": 0,
-    "country": 1201,
-    "show_type": 1401,
-    "age_type": 1502,
-    "tags": [
-      1904,
-      1905
-    ],
-    "effect": [
-      1601,
-      1602
-    ],
-    "zh_cn_introduction": "角色介绍"
-  },
-  "1006": {
-    "id": 1006,
-    "story_id": 1003,
+  "1019": {
+    "id": 1019,
+    "story_id": 1006,
     "character_num": 2,
-    "zh_cn_name": "小包",
-    "type": 2101,
-    "gender": 1101,
-    "country": 1201,
-    "show_type": 1401,
-    "age_type": 1502,
+    "zh_cn_name": "马迪琳",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
     "tags": [
+      1939,
       1904,
-      1905
+      1922
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "马迪琳（女主角）漂亮聪明的医生，争强好胜掌握幽灵党的秘密信息。"
+  },
+  "1020": {
+    "id": 1020,
+    "story_id": 1006,
+    "character_num": 3,
+    "zh_cn_name": "露希亚",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1921
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "露希亚（配角)冷若冰霜，深藏不露，暗中密谋，失去丈夫后担心自己遭受同样的而已。"
+  },
+  "1021": {
+    "id": 1021,
+    "story_id": 1006,
+    "character_num": 4,
+    "zh_cn_name": "布莱福",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1930,
+      1943
     ],
     "effect": [
       1601,
-      1602
+      1603
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "布莱福（反派）双重身份，幽灵党的真正反派头目。"
   },
-  "1007": {
-    "id": 1007,
-    "story_id": 1004,
+  "1022": {
+    "id": 1022,
+    "story_id": 1007,
     "character_num": 1,
-    "zh_cn_name": "小蔡",
+    "zh_cn_name": "麦克",
     "type": 2101,
-    "gender": 1101,
-    "country": 1201,
-    "show_type": 1401,
-    "age_type": 1502,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
     "tags": [
-      1904,
-      1905
+      1908
     ],
     "effect": [
-      1601,
-      1602
+      1602,
+      1603
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "麦克（男主角），三位进入森林的大学生之一。"
   },
-  "1008": {
-    "id": 1008,
-    "story_id": 1005,
+  "1023": {
+    "id": 1023,
+    "story_id": 1007,
     "character_num": 2,
-    "zh_cn_name": "小朱",
+    "zh_cn_name": "伊瑟",
     "type": 2101,
-    "gender": 1101,
-    "country": 1201,
-    "show_type": 1401,
-    "age_type": 1502,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
     "tags": [
-      1904,
-      1905
+      1908
     ],
     "effect": [
       1601,
       1602
     ],
-    "zh_cn_introduction": "角色介绍"
+    "zh_cn_introduction": "伊瑟（女主角），三位进入森林的大学生之一。"
+  },
+  "1024": {
+    "id": 1024,
+    "story_id": 1007,
+    "character_num": 3,
+    "zh_cn_name": "奇什",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "奇什（男主角），三位进入森林的大学生之一。"
+  },
+  "1025": {
+    "id": 1025,
+    "story_id": 1008,
+    "character_num": 1,
+    "zh_cn_name": "萧火火",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1903,
+      1913,
+      1926,
+      1948
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "萧火火（主角）天资卓越的少年，坚韧不屈，豪放洒脱，经过不懈的努力和磨练成最强之人"
+  },
+  "1026": {
+    "id": 1026,
+    "story_id": 1008,
+    "character_num": 2,
+    "zh_cn_name": "药闹",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1921,
+      1926
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "药闹（配角）炼药师，萧火火的导师，以灵魂形态存在，斗尊巅峰最强者"
+  },
+  "1027": {
+    "id": 1027,
+    "story_id": 1008,
+    "character_num": 3,
+    "zh_cn_name": "萧香儿",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1922,
+      1935
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "萧香儿（配角）古族族长千金，天赋异禀，清纯可人，冰雪聪明，最终与萧火火历经艰险修成正果"
+  },
+  "1028": {
+    "id": 1028,
+    "story_id": 1008,
+    "character_num": 4,
+    "zh_cn_name": "纳兰伊然",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1909
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "纳兰伊然（配角）萧火火未婚妻，美丽冷艳，傲气盛人，认为萧火火无法胜任其丈夫登门退婚。"
+  },
+  "1029": {
+    "id": 1029,
+    "story_id": 1009,
+    "character_num": 1,
+    "zh_cn_name": "丁豹",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1914,
+      1934,
+      1948
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "丁豹（主角）一个退休军官特工，六十岁的身体素质却强过许多年轻人。但是年纪过大，记忆衰退，经常健忘。"
+  },
+  "1030": {
+    "id": 1030,
+    "story_id": 1009,
+    "character_num": 2,
+    "zh_cn_name": "春花",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1942,
+      1944
+    ],
+    "effect": [
+      1602,
+      1605
+    ],
+    "zh_cn_introduction": "春花（主角）乐观的小姑娘，天真无邪。母亲离家出走，父亲惹是生非，非常不幸。"
+  },
+  "1031": {
+    "id": 1031,
+    "story_id": 1009,
+    "character_num": 3,
+    "zh_cn_name": "李振久",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1936,
+      1930,
+      1911
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "李振久（配角）嗜赌成性且脾气暴躁，赌博、盗窃。一次被卷入黑道混战。"
+  },
+  "1032": {
+    "id": 1032,
+    "story_id": 1010,
+    "character_num": 1,
+    "zh_cn_name": "小马",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1946
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "小马（主角）职业是鉴黄师，凭借职业敏感一眼就发现了伪装成饶舌歌手的大木老师"
+  },
+  "1033": {
+    "id": 1033,
+    "story_id": 1010,
+    "character_num": 2,
+    "zh_cn_name": "大木",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1932,
+      1946
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "大木（主角）长相酷似饶舌歌手的表演艺术家，成就是千人斩"
+  },
+  "1034": {
+    "id": 1034,
+    "story_id": 1010,
+    "character_num": 3,
+    "zh_cn_name": "蜜桃",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1946
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "蜜桃（配角）习惯性便秘的合气道高手，苦苦追寻穿山甲到底说了什么"
   }
 }

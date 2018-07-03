@@ -7,5 +7,6 @@ namespace configs
 {
 	export class StoryGoalsConfig extends StoryGoalsConfigStruct
 	{
+		
 	}
 }

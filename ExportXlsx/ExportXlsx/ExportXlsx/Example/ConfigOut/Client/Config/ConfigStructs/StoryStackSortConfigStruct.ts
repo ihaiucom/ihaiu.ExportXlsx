@@ -7,19 +7,23 @@ namespace configs
 {
 	export class StoryStackSortConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		zh_cn_name : string;
 		scripts : number[];
-		addition_scene : number;
-		addition_plot : number;
-		addition_performance : number;
-		addition_art : number;
-		addition_entertainment : number;
+		rewards : DTItemNum[];
+		addition_scene : DTStoryEffect[];
 
 
 
 
+
+		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

@@ -7,6 +7,7 @@ namespace configs
 {
 	export class DTVector2Struct extends BaseConfig
 	{
+	
 
 		x : number;
 		y : number;
@@ -16,8 +17,8 @@ namespace configs
       {
           let csv = toStringArray(txt);
           let config = new DTVector2();
-          config.x = csvGetInt(csv,  0  );
-          config.y = csvGetInt(csv,  1  );
+          config.x = csvGetFloat(csv,  0  );
+          config.y = csvGetFloat(csv,  1  );
           return config;
       }
  
@@ -34,6 +35,8 @@ namespace configs
           return list;
       }
  
+
+		
 	}
 
 

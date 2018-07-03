@@ -7,6 +7,7 @@ namespace configs
 {
 	export class GiftPackageConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		plat : number;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

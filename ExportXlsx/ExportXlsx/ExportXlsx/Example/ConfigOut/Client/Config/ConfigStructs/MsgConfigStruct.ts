@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MsgConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		key : string;
@@ -17,6 +18,12 @@ namespace configs
 
 
 
+
+		
+		get notice()
+		{
+			return this.zh_cn_notice
+		}
 	}
 
 

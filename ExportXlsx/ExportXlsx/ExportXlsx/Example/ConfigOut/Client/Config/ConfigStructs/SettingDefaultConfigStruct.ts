@@ -7,6 +7,7 @@ namespace configs
 {
 	export class SettingDefaultConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		key : string;
@@ -16,6 +17,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

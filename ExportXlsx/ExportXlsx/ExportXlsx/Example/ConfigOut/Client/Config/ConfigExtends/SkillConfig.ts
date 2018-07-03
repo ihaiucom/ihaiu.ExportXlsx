@@ -7,5 +7,6 @@ namespace configs
 {
 	export class SkillConfig extends SkillConfigStruct
 	{
+		
 	}
 }

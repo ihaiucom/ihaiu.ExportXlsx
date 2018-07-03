@@ -7,6 +7,7 @@ namespace configs
 {
 	export class MeetingRewardsConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		rewards : DTItemNum;
@@ -17,6 +18,8 @@ namespace configs
 
 
 
+
+		
 	}
 
 

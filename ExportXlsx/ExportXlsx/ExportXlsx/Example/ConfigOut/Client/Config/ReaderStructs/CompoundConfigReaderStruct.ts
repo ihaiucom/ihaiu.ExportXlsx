@@ -20,7 +20,10 @@ namespace configs
 			config.name_tips = csvGetString(csv,  this.GetHeadIndex(  "name_tips"  )   );
 			config.syn_item = csvGetInt(csv,  this.GetHeadIndex(  "syn_item"  )   );
 			config.num_req = csvGetInt(csv,  this.GetHeadIndex(  "num_req"  )   );
-			config.split_list =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "split_list"  )   )   );
+			config.split_item = csvGetInt(csv,  this.GetHeadIndex(  "split_item"  )   );
+			config.split_num = csvGetInt(csv,  this.GetHeadIndex(  "split_num"  )   );
+
+			
 
 
 			this.addConfig(config);

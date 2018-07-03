@@ -19,6 +19,7 @@ namespace configs
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.en_name = csvGetString(csv,  this.GetHeadIndex(  "en_name"  )   );
 			config.cn_name = csvGetString(csv,  this.GetHeadIndex(  "cn_name"  )   );
+			config.random_name = csvGetInt(csv,  this.GetHeadIndex(  "random_name"  )   );
 			config.star = csvGetInt(csv,  this.GetHeadIndex(  "star"  )   );
 			config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
 			config.country = csvGetInt(csv,  this.GetHeadIndex(  "country"  )   );
@@ -28,12 +29,12 @@ namespace configs
 			config.spectacle = csvGetInt(csv,  this.GetHeadIndex(  "spectacle"  )   );
 			config.perform = csvGetInt(csv,  this.GetHeadIndex(  "perform"  )   );
 			config.plot = csvGetInt(csv,  this.GetHeadIndex(  "plot"  )   );
-			config.ary = csvGetInt(csv,  this.GetHeadIndex(  "ary"  )   );
+			config.art = csvGetInt(csv,  this.GetHeadIndex(  "art"  )   );
 			config.entertainment = csvGetInt(csv,  this.GetHeadIndex(  "entertainment"  )   );
-			config.skill =  DTActorSkill.parse(       csvGetString(csv,  this.GetHeadIndex(  "skill"  )   )   );
-			config.story_type =  DTActorStory.parse(       csvGetString(csv,  this.GetHeadIndex(  "story_type"  )   )   );
-			config.story_feature =  DTActorFeature.parse(       csvGetString(csv,  this.GetHeadIndex(  "story_feature"  )   )   );
-			config.character =  DTActorCharacter.parse(       csvGetString(csv,  this.GetHeadIndex(  "character"  )   )   );
+			config.skill =  DTActorSkill.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "skill"  )   )   );
+			config.story_type =  DTActorStory.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "story_type"  )   )   );
+			config.story_feature =  DTActorFeature.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "story_feature"  )   )   );
+			config.character =  DTActorCharacter.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "character"  )   )   );
 			config.surprise = csvGetInt(csv,  this.GetHeadIndex(  "surprise"  )   );
 			config.cost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "cost"  )   )   );
 			config.recruit_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "recruit_reward"  )   )   );
@@ -46,6 +47,8 @@ namespace configs
 			config.assets = csvGetInt(csv,  this.GetHeadIndex(  "assets"  )   );
 			config.en_tips = csvGetString(csv,  this.GetHeadIndex(  "en_tips"  )   );
 			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
+
+			
 
 
 			this.addConfig(config);

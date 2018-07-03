@@ -19,11 +19,10 @@ namespace configs
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.scripts =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "scripts"  )   )   );
-			config.addition_scene = csvGetInt(csv,  this.GetHeadIndex(  "addition_scene"  )   );
-			config.addition_plot = csvGetInt(csv,  this.GetHeadIndex(  "addition_plot"  )   );
-			config.addition_performance = csvGetInt(csv,  this.GetHeadIndex(  "addition_performance"  )   );
-			config.addition_art = csvGetInt(csv,  this.GetHeadIndex(  "addition_art"  )   );
-			config.addition_entertainment = csvGetInt(csv,  this.GetHeadIndex(  "addition_entertainment"  )   );
+			config.rewards =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "rewards"  )   )   );
+			config.addition_scene =  DTStoryEffect.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "addition_scene"  )   )   );
+
+			
 
 
 			this.addConfig(config);

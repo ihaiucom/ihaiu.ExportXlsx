@@ -9,6 +9,7 @@ namespace configs
 	{
 		id : number;
 		story_num : number;
+		stack_sort : number;
 		zh_cn_story_name : string;
 		name_tips : string;
 		poster_name : string;
@@ -20,16 +21,17 @@ namespace configs
 		type : number;
 		tags : number[];
 		hidden_tags : number[];
-		shoot_type : DTShootType[];
+		shoot_type : number;
 		property : number[];
 		target_mark : boolean;
 		target : number;
 		male_percent : number;
 		female_percent : number;
 		child_percent : number;
-		reward : DTStoryEffect[];
+		reward : DTStoryEffect;
 		sequel_mark : boolean;
 		interviews_bottom : number;
 		interviews_top : number;
+		random_name : number;
 	}
 }

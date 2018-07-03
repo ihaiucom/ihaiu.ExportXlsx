@@ -22,6 +22,8 @@ namespace configs
 			config.reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.cn = csvGetString(csv,  this.GetHeadIndex(  "cn"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

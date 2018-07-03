@@ -19,6 +19,8 @@ namespace configs
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.text = csvGetString(csv,  this.GetHeadIndex(  "text"  )   );
 
+			
+
 
 			this.addConfig(config);
         }

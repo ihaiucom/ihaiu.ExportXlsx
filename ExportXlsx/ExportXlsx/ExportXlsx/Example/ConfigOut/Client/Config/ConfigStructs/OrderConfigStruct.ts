@@ -7,6 +7,7 @@ namespace configs
 {
 	export class OrderConfigStruct extends BaseConfig
 	{
+	
 
 		id : number;
 		zh_cn_name1 : string;
@@ -21,6 +22,16 @@ namespace configs
 
 
 
+
+		
+		get name1()
+		{
+			return this.zh_cn_name1
+		}
+		get name2()
+		{
+			return this.zh_cn_name2
+		}
 	}
 
 

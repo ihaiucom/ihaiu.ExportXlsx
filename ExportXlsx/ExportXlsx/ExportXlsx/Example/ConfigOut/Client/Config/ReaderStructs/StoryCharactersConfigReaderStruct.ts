@@ -21,13 +21,16 @@ namespace configs
 			config.character_num = csvGetInt(csv,  this.GetHeadIndex(  "character_num"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
-			config.gender = csvGetInt(csv,  this.GetHeadIndex(  "gender"  )   );
+			config.type_pic = csvGetInt(csv,  this.GetHeadIndex(  "type_pic"  )   );
+			config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
 			config.country = csvGetInt(csv,  this.GetHeadIndex(  "country"  )   );
 			config.show_type = csvGetInt(csv,  this.GetHeadIndex(  "show_type"  )   );
 			config.age_type = csvGetInt(csv,  this.GetHeadIndex(  "age_type"  )   );
 			config.tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "tags"  )   )   );
 			config.effect =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "effect"  )   )   );
 			config.zh_cn_introduction = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_introduction"  )   );
+
+			
 
 
 			this.addConfig(config);

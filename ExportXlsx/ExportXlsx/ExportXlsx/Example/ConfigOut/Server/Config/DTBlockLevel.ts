@@ -8,8 +8,7 @@ namespace configs
 	export class DTBlockLevel
 	{
 		id : number;
-		name : string;
-		tips : string;
+		zh_cn_name : string;
 		pic : number;
 		upgrade_req : number;
 		upgrade_menu : number[];
@@ -18,12 +17,13 @@ namespace configs
 		cinema : number[];
 		level_multiple : number;
 		level_con : number;
+		theater_level_con : number;
 		good : number;
 		big_sell : number;
 		great_sell : number;
 		myth_sell : number;
 		marvel_sell : number;
-		current_msg : string[];
-		next_msg : string[];
+		zh_cn_current_msg : string[];
+		zh_cn_next_msg : string[];
 	}
 }
