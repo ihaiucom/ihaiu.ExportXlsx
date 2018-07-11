@@ -7,7 +7,7 @@ namespace configs
 {
 	export class DTPlayerLevel
 	{
-		level : number;
+		id : number;
 		fans : number;
 		story : DTItemNum;
 		gold : number;
@@ -17,5 +17,6 @@ namespace configs
 		train_max : number;
 		actor_max : number;
 		hide_max : number;
+		day_max : number;
 	}
 }

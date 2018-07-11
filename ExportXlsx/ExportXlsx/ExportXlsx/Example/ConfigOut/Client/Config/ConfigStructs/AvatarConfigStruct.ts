@@ -11,7 +11,7 @@ namespace configs
 
 		id : number;
 		en_name : string;
-		cn_name : string;
+		zh_cn_name : string;
 		icon : string;
 		mini_icon : string;
 		piece_icon : string;
@@ -26,7 +26,7 @@ namespace configs
 		
 		get name()
 		{
-			return this.cn_name
+			return this.zh_cn_name
 		}
 	}
 

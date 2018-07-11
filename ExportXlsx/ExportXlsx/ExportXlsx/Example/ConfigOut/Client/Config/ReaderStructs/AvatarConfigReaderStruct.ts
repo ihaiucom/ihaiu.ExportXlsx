@@ -18,7 +18,7 @@ namespace configs
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.en_name = csvGetString(csv,  this.GetHeadIndex(  "en_name"  )   );
-			config.cn_name = csvGetString(csv,  this.GetHeadIndex(  "cn_name"  )   );
+			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.mini_icon = csvGetString(csv,  this.GetHeadIndex(  "mini_icon"  )   );
 			config.piece_icon = csvGetString(csv,  this.GetHeadIndex(  "piece_icon"  )   );

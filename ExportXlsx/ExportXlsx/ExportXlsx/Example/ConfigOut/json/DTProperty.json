@@ -21,8 +21,8 @@
     "id": 1201,
     "type": 2,
     "field": "usa",
-    "enName": "Usa",
-    "zh_cn_name": "美国",
+    "enName": "NA",
+    "zh_cn_name": "北美",
     "icon": "",
     "tip": ""
   },
@@ -100,19 +100,19 @@
   },
   "1401": {
     "id": 1401,
-    "type": 14,
-    "field": "odd_number",
-    "enName": "Odd_number",
-    "zh_cn_name": "奇数升级",
+    "type": 4,
+    "field": "acting",
+    "enName": "Acting",
+    "zh_cn_name": "演技派",
     "icon": "",
     "tip": ""
   },
   "1402": {
     "id": 1402,
-    "type": 14,
-    "field": "even_numbers",
-    "enName": "Even_numbers",
-    "zh_cn_name": "偶数升级",
+    "type": 4,
+    "field": "idol",
+    "enName": "Idol",
+    "zh_cn_name": "偶像派",
     "icon": "",
     "tip": ""
   },
@@ -1067,6 +1067,24 @@
     "field": "main_property",
     "enName": "Main_property",
     "zh_cn_name": "主要属性",
+    "icon": "",
+    "tip": ""
+  },
+  "2401": {
+    "id": 2401,
+    "type": 14,
+    "field": "odd_number",
+    "enName": "Odd_number",
+    "zh_cn_name": "奇数升级",
+    "icon": "",
+    "tip": ""
+  },
+  "2402": {
+    "id": 2402,
+    "type": 14,
+    "field": "even_numbers",
+    "enName": "Even_numbers",
+    "zh_cn_name": "偶数升级",
     "icon": "",
     "tip": ""
   },

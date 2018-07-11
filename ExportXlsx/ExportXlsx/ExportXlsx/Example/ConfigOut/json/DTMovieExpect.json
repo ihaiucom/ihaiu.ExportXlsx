@@ -15,7 +15,7 @@
     "zh_cn_name": "有所耳闻",
     "tips": "2级期待",
     "expect_req": 150,
-    "pic": 2,
+    "pic": 1,
     "gain_up": 115,
     "zh_cn_pic_word": [
       "听说今天有部新电影{0}上映了，电影院的观众比往常多了不少！"
@@ -26,7 +26,7 @@
     "zh_cn_name": "翘首以待",
     "tips": "3级期待",
     "expect_req": 250,
-    "pic": 3,
+    "pic": 2,
     "gain_up": 120,
     "zh_cn_pic_word": [
       "{0}终于上映了，希望这部大家都关注已久的电影对得起它的期待值"
@@ -37,7 +37,7 @@
     "zh_cn_name": "万众瞩目",
     "tips": "4级期待",
     "expect_req": 500,
-    "pic": 4,
+    "pic": 3,
     "gain_up": 125,
     "zh_cn_pic_word": [
       "万众瞩目的{0}终于上映了，不少影院出现粉丝通宵排队的情况"
@@ -48,7 +48,7 @@
     "zh_cn_name": "一票难求",
     "tips": "5级期待",
     "expect_req": 800,
-    "pic": 5,
+    "pic": 4,
     "gain_up": 130,
     "zh_cn_pic_word": [
       "{0}上映首日，一票难求",

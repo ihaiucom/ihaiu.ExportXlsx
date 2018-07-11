@@ -1,8 +1,8 @@
 ﻿{
-  "1": {
-    "id": 1,
+  "1001": {
+    "id": 1001,
     "zh_cn_name": "街区1档",
-    "pic": 1,
+    "pic": 4001,
     "upgrade_req": 5,
     "upgrade_menu": [
       0
@@ -22,16 +22,16 @@
       "itemNum": 100
     },
     "cinema": [
-      1
+      1001
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 100,
-    "good": 3,
-    "big_sell": 4,
-    "great_sell": 5,
-    "myth_sell": 6,
-    "marvel_sell": 7,
+    "good": 3003,
+    "big_sell": 4004,
+    "great_sell": 5005,
+    "myth_sell": 6006,
+    "marvel_sell": 7007,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包1"
@@ -41,10 +41,10 @@
       "每日领取奖励礼包2"
     ]
   },
-  "2": {
-    "id": 2,
+  "1002": {
+    "id": 1002,
     "zh_cn_name": "街区2档",
-    "pic": 2,
+    "pic": 4001,
     "upgrade_req": 10,
     "upgrade_menu": [
       0
@@ -64,16 +64,16 @@
       "itemNum": 100
     },
     "cinema": [
-      2
+      1002
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 100,
-    "good": 6,
-    "big_sell": 8,
-    "great_sell": 10,
-    "myth_sell": 12,
-    "marvel_sell": 14,
+    "good": 3006,
+    "big_sell": 4008,
+    "great_sell": 5010,
+    "myth_sell": 6012,
+    "marvel_sell": 7014,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包2"
@@ -83,10 +83,10 @@
       "每日领取奖励礼包3"
     ]
   },
-  "3": {
-    "id": 3,
+  "1003": {
+    "id": 1003,
     "zh_cn_name": "街区3档",
-    "pic": 3,
+    "pic": 4001,
     "upgrade_req": 15,
     "upgrade_menu": [
       0
@@ -106,16 +106,16 @@
       "itemNum": 100
     },
     "cinema": [
-      3
+      1003
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 100,
-    "good": 9,
-    "big_sell": 12,
-    "great_sell": 15,
-    "myth_sell": 18,
-    "marvel_sell": 21,
+    "good": 3009,
+    "big_sell": 4012,
+    "great_sell": 5015,
+    "myth_sell": 6018,
+    "marvel_sell": 7021,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包3"
@@ -125,10 +125,10 @@
       "每日领取奖励礼包4"
     ]
   },
-  "4": {
-    "id": 4,
+  "1004": {
+    "id": 1004,
     "zh_cn_name": "街区4档",
-    "pic": 4,
+    "pic": 4001,
     "upgrade_req": 20,
     "upgrade_menu": [
       0
@@ -148,16 +148,16 @@
       "itemNum": 100
     },
     "cinema": [
-      4
+      1004
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 100,
-    "good": 12,
-    "big_sell": 16,
-    "great_sell": 20,
-    "myth_sell": 24,
-    "marvel_sell": 28,
+    "good": 3012,
+    "big_sell": 4016,
+    "great_sell": 5020,
+    "myth_sell": 6024,
+    "marvel_sell": 7028,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包4"
@@ -167,10 +167,10 @@
       "每日领取奖励礼包5"
     ]
   },
-  "5": {
-    "id": 5,
+  "1005": {
+    "id": 1005,
     "zh_cn_name": "街区5档",
-    "pic": 5,
+    "pic": 4001,
     "upgrade_req": 25,
     "upgrade_menu": [
       0
@@ -190,16 +190,16 @@
       "itemNum": 100
     },
     "cinema": [
-      5
+      1005
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 100,
-    "good": 15,
-    "big_sell": 20,
-    "great_sell": 25,
-    "myth_sell": 30,
-    "marvel_sell": 35,
+    "good": 3015,
+    "big_sell": 4020,
+    "great_sell": 5025,
+    "myth_sell": 6030,
+    "marvel_sell": 7035,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包5"
@@ -209,10 +209,10 @@
       "每日领取奖励礼包6"
     ]
   },
-  "6": {
-    "id": 6,
+  "1006": {
+    "id": 1006,
     "zh_cn_name": "街区6档",
-    "pic": 6,
+    "pic": 4001,
     "upgrade_req": 30,
     "upgrade_menu": [
       0
@@ -232,16 +232,17 @@
       "itemNum": 100
     },
     "cinema": [
-      6
+      2001,
+      3001
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 110,
-    "good": 18,
-    "big_sell": 24,
-    "great_sell": 30,
-    "myth_sell": 36,
-    "marvel_sell": 42,
+    "good": 3018,
+    "big_sell": 4024,
+    "great_sell": 5030,
+    "myth_sell": 6036,
+    "marvel_sell": 7042,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包6"
@@ -251,10 +252,10 @@
       "每日领取奖励礼包7"
     ]
   },
-  "7": {
-    "id": 7,
+  "1007": {
+    "id": 1007,
     "zh_cn_name": "街区7档",
-    "pic": 7,
+    "pic": 4001,
     "upgrade_req": 35,
     "upgrade_menu": [
       0
@@ -274,16 +275,17 @@
       "itemNum": 100
     },
     "cinema": [
-      7
+      2002,
+      3002
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 110,
-    "good": 21,
-    "big_sell": 28,
-    "great_sell": 35,
-    "myth_sell": 42,
-    "marvel_sell": 49,
+    "good": 3021,
+    "big_sell": 4028,
+    "great_sell": 5035,
+    "myth_sell": 6042,
+    "marvel_sell": 7049,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包7"
@@ -293,10 +295,10 @@
       "每日领取奖励礼包8"
     ]
   },
-  "8": {
-    "id": 8,
+  "1008": {
+    "id": 1008,
     "zh_cn_name": "街区8档",
-    "pic": 8,
+    "pic": 4001,
     "upgrade_req": 40,
     "upgrade_menu": [
       0
@@ -316,16 +318,17 @@
       "itemNum": 100
     },
     "cinema": [
-      8
+      2003,
+      3003
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 110,
-    "good": 24,
-    "big_sell": 32,
-    "great_sell": 40,
-    "myth_sell": 48,
-    "marvel_sell": 56,
+    "good": 3024,
+    "big_sell": 4032,
+    "great_sell": 5040,
+    "myth_sell": 6048,
+    "marvel_sell": 7056,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包8"
@@ -335,10 +338,10 @@
       "每日领取奖励礼包9"
     ]
   },
-  "9": {
-    "id": 9,
+  "1009": {
+    "id": 1009,
     "zh_cn_name": "街区9档",
-    "pic": 9,
+    "pic": 4001,
     "upgrade_req": 45,
     "upgrade_menu": [
       0
@@ -358,16 +361,17 @@
       "itemNum": 100
     },
     "cinema": [
-      9
+      2004,
+      3004
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 110,
-    "good": 27,
-    "big_sell": 36,
-    "great_sell": 45,
-    "myth_sell": 54,
-    "marvel_sell": 63,
+    "good": 3027,
+    "big_sell": 4036,
+    "great_sell": 5045,
+    "myth_sell": 6054,
+    "marvel_sell": 7063,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包9"
@@ -377,10 +381,10 @@
       "每日领取奖励礼包10"
     ]
   },
-  "10": {
-    "id": 10,
+  "1010": {
+    "id": 1010,
     "zh_cn_name": "街区10档",
-    "pic": 10,
+    "pic": 4001,
     "upgrade_req": 50,
     "upgrade_menu": [
       0
@@ -400,16 +404,17 @@
       "itemNum": 100
     },
     "cinema": [
-      10
+      2005,
+      3005
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 110,
-    "good": 30,
-    "big_sell": 40,
-    "great_sell": 50,
-    "myth_sell": 60,
-    "marvel_sell": 70,
+    "good": 3030,
+    "big_sell": 4040,
+    "great_sell": 5050,
+    "myth_sell": 6060,
+    "marvel_sell": 7070,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包10"
@@ -419,10 +424,10 @@
       "每日领取奖励礼包11"
     ]
   },
-  "11": {
-    "id": 11,
+  "2001": {
+    "id": 2001,
     "zh_cn_name": "城镇1档",
-    "pic": 11,
+    "pic": 4002,
     "upgrade_req": 55,
     "upgrade_menu": [
       0
@@ -442,16 +447,17 @@
       "itemNum": 100
     },
     "cinema": [
-      11
+      2001,
+      3001
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 120,
-    "good": 33,
-    "big_sell": 44,
-    "great_sell": 55,
-    "myth_sell": 66,
-    "marvel_sell": 77,
+    "good": 6003,
+    "big_sell": 8004,
+    "great_sell": 10005,
+    "myth_sell": 12006,
+    "marvel_sell": 14007,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包11"
@@ -461,10 +467,10 @@
       "每日领取奖励礼包12"
     ]
   },
-  "12": {
-    "id": 12,
+  "2002": {
+    "id": 2002,
     "zh_cn_name": "城镇2档",
-    "pic": 12,
+    "pic": 4002,
     "upgrade_req": 60,
     "upgrade_menu": [
       0
@@ -484,16 +490,17 @@
       "itemNum": 100
     },
     "cinema": [
-      12
+      2002,
+      3002
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 120,
-    "good": 36,
-    "big_sell": 48,
-    "great_sell": 60,
-    "myth_sell": 72,
-    "marvel_sell": 84,
+    "good": 6006,
+    "big_sell": 8008,
+    "great_sell": 10010,
+    "myth_sell": 12012,
+    "marvel_sell": 14014,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包12"
@@ -503,10 +510,10 @@
       "每日领取奖励礼包13"
     ]
   },
-  "13": {
-    "id": 13,
+  "2003": {
+    "id": 2003,
     "zh_cn_name": "城镇3档",
-    "pic": 13,
+    "pic": 4002,
     "upgrade_req": 65,
     "upgrade_menu": [
       0
@@ -526,16 +533,17 @@
       "itemNum": 100
     },
     "cinema": [
-      13
+      2003,
+      3003
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 120,
-    "good": 39,
-    "big_sell": 52,
-    "great_sell": 65,
-    "myth_sell": 78,
-    "marvel_sell": 91,
+    "good": 6009,
+    "big_sell": 8012,
+    "great_sell": 10015,
+    "myth_sell": 12018,
+    "marvel_sell": 14021,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包13"
@@ -545,10 +553,10 @@
       "每日领取奖励礼包14"
     ]
   },
-  "14": {
-    "id": 14,
+  "2004": {
+    "id": 2004,
     "zh_cn_name": "城镇4档",
-    "pic": 14,
+    "pic": 4002,
     "upgrade_req": 70,
     "upgrade_menu": [
       0
@@ -568,16 +576,17 @@
       "itemNum": 100
     },
     "cinema": [
-      14
+      2004,
+      3004
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 120,
-    "good": 42,
-    "big_sell": 56,
-    "great_sell": 70,
-    "myth_sell": 84,
-    "marvel_sell": 98,
+    "good": 6012,
+    "big_sell": 8016,
+    "great_sell": 10020,
+    "myth_sell": 12024,
+    "marvel_sell": 14028,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包14"
@@ -587,10 +596,10 @@
       "每日领取奖励礼包15"
     ]
   },
-  "15": {
-    "id": 15,
+  "2005": {
+    "id": 2005,
     "zh_cn_name": "城镇5档",
-    "pic": 15,
+    "pic": 4002,
     "upgrade_req": 75,
     "upgrade_menu": [
       0
@@ -610,16 +619,17 @@
       "itemNum": 100
     },
     "cinema": [
-      15
+      2005,
+      3005
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 120,
-    "good": 45,
-    "big_sell": 60,
-    "great_sell": 75,
-    "myth_sell": 90,
-    "marvel_sell": 105,
+    "good": 6015,
+    "big_sell": 8020,
+    "great_sell": 10025,
+    "myth_sell": 12030,
+    "marvel_sell": 14035,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包15"
@@ -629,10 +639,10 @@
       "每日领取奖励礼包16"
     ]
   },
-  "16": {
-    "id": 16,
+  "2006": {
+    "id": 2006,
     "zh_cn_name": "城镇6档",
-    "pic": 16,
+    "pic": 4002,
     "upgrade_req": 80,
     "upgrade_menu": [
       0
@@ -652,16 +662,17 @@
       "itemNum": 100
     },
     "cinema": [
-      16
+      2001,
+      3001
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 130,
-    "good": 48,
-    "big_sell": 64,
-    "great_sell": 80,
-    "myth_sell": 96,
-    "marvel_sell": 112,
+    "good": 6018,
+    "big_sell": 8024,
+    "great_sell": 10030,
+    "myth_sell": 12036,
+    "marvel_sell": 14042,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包16"
@@ -671,10 +682,10 @@
       "每日领取奖励礼包17"
     ]
   },
-  "17": {
-    "id": 17,
+  "2007": {
+    "id": 2007,
     "zh_cn_name": "城镇7档",
-    "pic": 17,
+    "pic": 4002,
     "upgrade_req": 85,
     "upgrade_menu": [
       0
@@ -694,16 +705,17 @@
       "itemNum": 100
     },
     "cinema": [
-      17
+      2002,
+      3002
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 130,
-    "good": 51,
-    "big_sell": 68,
-    "great_sell": 85,
-    "myth_sell": 102,
-    "marvel_sell": 119,
+    "good": 6021,
+    "big_sell": 8028,
+    "great_sell": 10035,
+    "myth_sell": 12042,
+    "marvel_sell": 14049,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包17"
@@ -713,10 +725,10 @@
       "每日领取奖励礼包18"
     ]
   },
-  "18": {
-    "id": 18,
+  "2008": {
+    "id": 2008,
     "zh_cn_name": "城镇8档",
-    "pic": 18,
+    "pic": 4002,
     "upgrade_req": 90,
     "upgrade_menu": [
       0
@@ -736,16 +748,17 @@
       "itemNum": 100
     },
     "cinema": [
-      18
+      2003,
+      3003
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 130,
-    "good": 54,
-    "big_sell": 72,
-    "great_sell": 90,
-    "myth_sell": 108,
-    "marvel_sell": 126,
+    "good": 6024,
+    "big_sell": 8032,
+    "great_sell": 10040,
+    "myth_sell": 12048,
+    "marvel_sell": 14056,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包18"
@@ -755,10 +768,10 @@
       "每日领取奖励礼包19"
     ]
   },
-  "19": {
-    "id": 19,
+  "2009": {
+    "id": 2009,
     "zh_cn_name": "城镇9档",
-    "pic": 19,
+    "pic": 4002,
     "upgrade_req": 95,
     "upgrade_menu": [
       0
@@ -778,16 +791,17 @@
       "itemNum": 100
     },
     "cinema": [
-      19
+      2004,
+      3004
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 130,
-    "good": 57,
-    "big_sell": 76,
-    "great_sell": 95,
-    "myth_sell": 114,
-    "marvel_sell": 133,
+    "good": 6027,
+    "big_sell": 8036,
+    "great_sell": 10045,
+    "myth_sell": 12054,
+    "marvel_sell": 14063,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包19"
@@ -797,10 +811,10 @@
       "每日领取奖励礼包20"
     ]
   },
-  "20": {
-    "id": 20,
+  "2010": {
+    "id": 2010,
     "zh_cn_name": "城镇10档",
-    "pic": 20,
+    "pic": 4002,
     "upgrade_req": 100,
     "upgrade_menu": [
       0
@@ -820,16 +834,17 @@
       "itemNum": 100
     },
     "cinema": [
-      20
+      2005,
+      3005
     ],
     "level_multiple": 1,
     "level_con": 1,
     "theater_level_con": 130,
-    "good": 60,
-    "big_sell": 80,
-    "great_sell": 100,
-    "myth_sell": 120,
-    "marvel_sell": 140,
+    "good": 6030,
+    "big_sell": 8040,
+    "great_sell": 10050,
+    "myth_sell": 12060,
+    "marvel_sell": 14070,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包20"
@@ -837,6 +852,1296 @@
     "zh_cn_next_msg": [
       "启动资金100万",
       "每日领取奖励礼包21"
+    ]
+  },
+  "3001": {
+    "id": 3001,
+    "zh_cn_name": "州省1档",
+    "pic": 4003,
+    "upgrade_req": 105,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9003,
+    "big_sell": 12004,
+    "great_sell": 15005,
+    "myth_sell": 18006,
+    "marvel_sell": 21007,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包21"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包22"
+    ]
+  },
+  "3002": {
+    "id": 3002,
+    "zh_cn_name": "州省2档",
+    "pic": 4003,
+    "upgrade_req": 110,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9006,
+    "big_sell": 12008,
+    "great_sell": 15010,
+    "myth_sell": 18012,
+    "marvel_sell": 21014,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包22"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包23"
+    ]
+  },
+  "3003": {
+    "id": 3003,
+    "zh_cn_name": "州省3档",
+    "pic": 4003,
+    "upgrade_req": 115,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9009,
+    "big_sell": 12012,
+    "great_sell": 15015,
+    "myth_sell": 18018,
+    "marvel_sell": 21021,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包23"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包24"
+    ]
+  },
+  "3004": {
+    "id": 3004,
+    "zh_cn_name": "州省4档",
+    "pic": 4003,
+    "upgrade_req": 120,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9012,
+    "big_sell": 12016,
+    "great_sell": 15020,
+    "myth_sell": 18024,
+    "marvel_sell": 21028,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包24"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包25"
+    ]
+  },
+  "3005": {
+    "id": 3005,
+    "zh_cn_name": "州省5档",
+    "pic": 4003,
+    "upgrade_req": 125,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9015,
+    "big_sell": 12020,
+    "great_sell": 15025,
+    "myth_sell": 18030,
+    "marvel_sell": 21035,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包25"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包26"
+    ]
+  },
+  "3006": {
+    "id": 3006,
+    "zh_cn_name": "州省6档",
+    "pic": 4003,
+    "upgrade_req": 130,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9018,
+    "big_sell": 12024,
+    "great_sell": 15030,
+    "myth_sell": 18036,
+    "marvel_sell": 21042,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包26"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包27"
+    ]
+  },
+  "3007": {
+    "id": 3007,
+    "zh_cn_name": "州省7档",
+    "pic": 4003,
+    "upgrade_req": 135,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9021,
+    "big_sell": 12028,
+    "great_sell": 15035,
+    "myth_sell": 18042,
+    "marvel_sell": 21049,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包27"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包28"
+    ]
+  },
+  "3008": {
+    "id": 3008,
+    "zh_cn_name": "州省8档",
+    "pic": 4003,
+    "upgrade_req": 140,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9024,
+    "big_sell": 12032,
+    "great_sell": 15040,
+    "myth_sell": 18048,
+    "marvel_sell": 21056,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包28"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包29"
+    ]
+  },
+  "3009": {
+    "id": 3009,
+    "zh_cn_name": "州省9档",
+    "pic": 4003,
+    "upgrade_req": 145,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9027,
+    "big_sell": 12036,
+    "great_sell": 15045,
+    "myth_sell": 18054,
+    "marvel_sell": 21063,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包29"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包30"
+    ]
+  },
+  "3010": {
+    "id": 3010,
+    "zh_cn_name": "州省10档",
+    "pic": 4003,
+    "upgrade_req": 150,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 9030,
+    "big_sell": 12040,
+    "great_sell": 15050,
+    "myth_sell": 18060,
+    "marvel_sell": 21070,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包30"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包31"
+    ]
+  },
+  "4001": {
+    "id": 4001,
+    "zh_cn_name": "全国1档",
+    "pic": 4004,
+    "upgrade_req": 155,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12003,
+    "big_sell": 16004,
+    "great_sell": 20005,
+    "myth_sell": 24006,
+    "marvel_sell": 28007,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包31"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包32"
+    ]
+  },
+  "4002": {
+    "id": 4002,
+    "zh_cn_name": "全国2档",
+    "pic": 4004,
+    "upgrade_req": 160,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12006,
+    "big_sell": 16008,
+    "great_sell": 20010,
+    "myth_sell": 24012,
+    "marvel_sell": 28014,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包32"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包33"
+    ]
+  },
+  "4003": {
+    "id": 4003,
+    "zh_cn_name": "全国3档",
+    "pic": 4004,
+    "upgrade_req": 165,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12009,
+    "big_sell": 16012,
+    "great_sell": 20015,
+    "myth_sell": 24018,
+    "marvel_sell": 28021,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包33"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包34"
+    ]
+  },
+  "4004": {
+    "id": 4004,
+    "zh_cn_name": "全国4档",
+    "pic": 4004,
+    "upgrade_req": 170,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12012,
+    "big_sell": 16016,
+    "great_sell": 20020,
+    "myth_sell": 24024,
+    "marvel_sell": 28028,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包34"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包35"
+    ]
+  },
+  "4005": {
+    "id": 4005,
+    "zh_cn_name": "全国5档",
+    "pic": 4004,
+    "upgrade_req": 175,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12015,
+    "big_sell": 16020,
+    "great_sell": 20025,
+    "myth_sell": 24030,
+    "marvel_sell": 28035,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包35"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包36"
+    ]
+  },
+  "4006": {
+    "id": 4006,
+    "zh_cn_name": "全国6档",
+    "pic": 4004,
+    "upgrade_req": 180,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12018,
+    "big_sell": 16024,
+    "great_sell": 20030,
+    "myth_sell": 24036,
+    "marvel_sell": 28042,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包36"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包37"
+    ]
+  },
+  "4007": {
+    "id": 4007,
+    "zh_cn_name": "全国7档",
+    "pic": 4004,
+    "upgrade_req": 185,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12021,
+    "big_sell": 16028,
+    "great_sell": 20035,
+    "myth_sell": 24042,
+    "marvel_sell": 28049,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包37"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包38"
+    ]
+  },
+  "4008": {
+    "id": 4008,
+    "zh_cn_name": "全国8档",
+    "pic": 4004,
+    "upgrade_req": 190,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12024,
+    "big_sell": 16032,
+    "great_sell": 20040,
+    "myth_sell": 24048,
+    "marvel_sell": 28056,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包38"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包39"
+    ]
+  },
+  "4009": {
+    "id": 4009,
+    "zh_cn_name": "全国9档",
+    "pic": 4004,
+    "upgrade_req": 195,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12027,
+    "big_sell": 16036,
+    "great_sell": 20045,
+    "myth_sell": 24054,
+    "marvel_sell": 28063,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包39"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包40"
+    ]
+  },
+  "4010": {
+    "id": 4010,
+    "zh_cn_name": "全国10档",
+    "pic": 4004,
+    "upgrade_req": 200,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 12030,
+    "big_sell": 16040,
+    "great_sell": 20050,
+    "myth_sell": 24060,
+    "marvel_sell": 28070,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包40"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包41"
+    ]
+  },
+  "5001": {
+    "id": 5001,
+    "zh_cn_name": "世界1档",
+    "pic": 4005,
+    "upgrade_req": 205,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15003,
+    "big_sell": 20004,
+    "great_sell": 25005,
+    "myth_sell": 30006,
+    "marvel_sell": 35007,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包41"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包42"
+    ]
+  },
+  "5002": {
+    "id": 5002,
+    "zh_cn_name": "世界2档",
+    "pic": 4005,
+    "upgrade_req": 210,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15006,
+    "big_sell": 20008,
+    "great_sell": 25010,
+    "myth_sell": 30012,
+    "marvel_sell": 35014,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包42"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包43"
+    ]
+  },
+  "5003": {
+    "id": 5003,
+    "zh_cn_name": "世界3档",
+    "pic": 4005,
+    "upgrade_req": 215,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15009,
+    "big_sell": 20012,
+    "great_sell": 25015,
+    "myth_sell": 30018,
+    "marvel_sell": 35021,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包43"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包44"
+    ]
+  },
+  "5004": {
+    "id": 5004,
+    "zh_cn_name": "世界4档",
+    "pic": 4005,
+    "upgrade_req": 220,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15012,
+    "big_sell": 20016,
+    "great_sell": 25020,
+    "myth_sell": 30024,
+    "marvel_sell": 35028,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包44"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包45"
+    ]
+  },
+  "5005": {
+    "id": 5005,
+    "zh_cn_name": "世界5档",
+    "pic": 4005,
+    "upgrade_req": 225,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15015,
+    "big_sell": 20020,
+    "great_sell": 25025,
+    "myth_sell": 30030,
+    "marvel_sell": 35035,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包45"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包46"
+    ]
+  },
+  "5006": {
+    "id": 5006,
+    "zh_cn_name": "世界6档",
+    "pic": 4005,
+    "upgrade_req": 230,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2001,
+      3001
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15018,
+    "big_sell": 20024,
+    "great_sell": 25030,
+    "myth_sell": 30036,
+    "marvel_sell": 35042,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包46"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包47"
+    ]
+  },
+  "5007": {
+    "id": 5007,
+    "zh_cn_name": "世界7档",
+    "pic": 4005,
+    "upgrade_req": 235,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2002,
+      3002
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15021,
+    "big_sell": 20028,
+    "great_sell": 25035,
+    "myth_sell": 30042,
+    "marvel_sell": 35049,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包47"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包48"
+    ]
+  },
+  "5008": {
+    "id": 5008,
+    "zh_cn_name": "世界8档",
+    "pic": 4005,
+    "upgrade_req": 240,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2003,
+      3003
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15024,
+    "big_sell": 20032,
+    "great_sell": 25040,
+    "myth_sell": 30048,
+    "marvel_sell": 35056,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包48"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包49"
+    ]
+  },
+  "5009": {
+    "id": 5009,
+    "zh_cn_name": "世界9档",
+    "pic": 4005,
+    "upgrade_req": 245,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2004,
+      3004
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15027,
+    "big_sell": 20036,
+    "great_sell": 25045,
+    "myth_sell": 30054,
+    "marvel_sell": 35063,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包49"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包50"
+    ]
+  },
+  "5010": {
+    "id": 5010,
+    "zh_cn_name": "世界10档",
+    "pic": 4005,
+    "upgrade_req": 250,
+    "upgrade_menu": [
+      0
+    ],
+    "upgrade_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "daily_reward": {
+      "itemId": 1,
+      "itemNum": 100
+    },
+    "cinema": [
+      2005,
+      3005
+    ],
+    "level_multiple": 1,
+    "level_con": 1,
+    "theater_level_con": 130,
+    "good": 15030,
+    "big_sell": 20040,
+    "great_sell": 25050,
+    "myth_sell": 30060,
+    "marvel_sell": 35070,
+    "zh_cn_current_msg": [
+      "启动资金50万",
+      "每日领取奖励礼包50"
+    ],
+    "zh_cn_next_msg": [
+      "启动资金100万",
+      "每日领取奖励礼包51"
     ]
   }
 }

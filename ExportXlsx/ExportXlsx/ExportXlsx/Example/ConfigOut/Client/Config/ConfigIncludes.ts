@@ -62,6 +62,7 @@ import OrderConfig  = configs.OrderConfig ;
 import OrderCompleteConfig  = configs.OrderCompleteConfig ;
 import OscarConfig  = configs.OscarConfig ;
 import PerformConfig  = configs.PerformConfig ;
+import PlayerDefaultConfig  = configs.PlayerDefaultConfig ;
 import PlayerLevelConfig  = configs.PlayerLevelConfig ;
 import PositionConfig  = configs.PositionConfig ;
 import ProduceConfig  = configs.ProduceConfig ;

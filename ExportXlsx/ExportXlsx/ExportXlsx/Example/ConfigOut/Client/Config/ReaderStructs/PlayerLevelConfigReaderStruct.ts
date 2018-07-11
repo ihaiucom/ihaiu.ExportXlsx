@@ -16,7 +16,7 @@ namespace configs
 			let config = new PlayerLevelConfig();
 
 
-			config.level = csvGetInt(csv,  this.GetHeadIndex(  "level"  )   );
+			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.fans = csvGetInt(csv,  this.GetHeadIndex(  "fans"  )   );
 			config.story =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "story"  )   )   );
 			config.gold = csvGetInt(csv,  this.GetHeadIndex(  "gold"  )   );
@@ -26,6 +26,7 @@ namespace configs
 			config.train_max = csvGetInt(csv,  this.GetHeadIndex(  "train_max"  )   );
 			config.actor_max = csvGetInt(csv,  this.GetHeadIndex(  "actor_max"  )   );
 			config.hide_max = csvGetInt(csv,  this.GetHeadIndex(  "hide_max"  )   );
+			config.day_max = csvGetInt(csv,  this.GetHeadIndex(  "day_max"  )   );
 
 			
 

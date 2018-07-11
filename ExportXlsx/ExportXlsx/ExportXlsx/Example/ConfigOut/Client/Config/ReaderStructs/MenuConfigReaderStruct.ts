@@ -27,8 +27,6 @@ namespace configs
 			config.loaderId = csvGetInt(csv,  this.GetHeadIndex(  "loaderId"  )   );
 
 			
-			config["101"] = csvGetInt(csv,  this.GetHeadIndex(  "101"  )   );
-			config["102"] =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "102"  )   )   );
 
 
 			this.addConfig(config);

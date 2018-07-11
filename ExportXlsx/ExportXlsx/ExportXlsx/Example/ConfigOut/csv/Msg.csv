@@ -81,12 +81,19 @@ id	key	module	name	zh_cn_notice
 1094	story_target_tips	拍摄	剧本有目标	有剧本目标奖励
 1095	story_non_target_tips	拍摄	剧本没有目标	没有目标奖励（需2星以上剧本）
 1096	story_midia_tips	拍摄	媒体评价提示	评价越高，点赞数越多，电影节越容易获奖。（有时还能提升票房）
-1097		合作	id无效	无效的id
-1098		合作	目标玩家已合作	该玩家已有合作伙伴！
-1099		合作	本周合作次数不足	本周合作伙伴太多了，请等待下周吧！
-1100		合作	没有未完成的订单	没有未完成的订单
-1101		合作	解除合作	是否解除合作关系？\n注意：每周只能和三家不同的公司进行合作
-1102		合作	重复邀请	邀请已发送，请等待对方回应
+1097	null_id	合作	id无效	无效的id
+1098	cooperated_player	合作	目标玩家已合作	该玩家已有合作伙伴！
+1099	no_cooperation_num	合作	本周合作次数不足	本周合作伙伴太多了，请等待下周吧！
+1100	no_cooperation_orders	合作	没有未完成的订单	没有未完成的订单
+1101	relieve_cooperation	合作	解除合作	是否解除合作关系？\n注意：每周只能和三家不同的公司进行合作
+1102	repetition_cooperation	合作	重复邀请	邀请已发送，请等待对方回应
+1103	null_actor_send	仓库	赠送资产	请选择艺人
+1104	build_confirm	建筑	建造确认	是否建造{0}？
+1105	non_material	建筑	材料不足	{0}数量不足
+1106	non_level	建筑	等级不足	需要公司等级{0}
+1107	non_prebuilding	建筑	没有前置建筑	需要建造{0}
+1108	non_block	建筑	街区档次不足	需要提升到{0}
+1109	be_builded	建筑	房间已建造提示	已建造
 2022	order_fail	订单	订单完成失败	需要装箱才能运输哦，点击一下箱子装箱吧
 2023	order_complete	订单	查看未解锁的订单完成度	完成X次订单可打开
 2024	order_received	订单	已领取的奖励提示	已领取过奖励
@@ -101,6 +108,9 @@ id	key	module	name	zh_cn_notice
 2033	market_envoy_wrong2	市场	艺人类型不对	我的类型不符合要求，无法担此重任
 2034	market_envoy_wrong3	市场	艺人年龄不对	我的年龄不符合要求，无法担此重任
 2035	market_envoy_wrong4	市场	艺人数值不达标	我的能力没达到要求，无法担此重任
+2051	market_envoy_wrong5	市场	艺人性别不对	我的性别不符合要求，无法担此重任
+2052	market_dollar_less	市场	美元不足	美元不足
+2053	market_show_failure	市场	路演失败	路演失败，请升级艺人
 2036	story_comment_wrong	剧本	留言内容非法	你的留言内容不符合要求
 2037	thumbsup_less	剧本	点赞数不足	您的点赞数不足
 2038	story_search_less	剧本	搜罗次数不足	剩余搜罗次数不足

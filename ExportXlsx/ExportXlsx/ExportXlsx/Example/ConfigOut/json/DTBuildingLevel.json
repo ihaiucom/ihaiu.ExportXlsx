@@ -1,19 +1,19 @@
 ﻿{
   "1001": {
     "id": 1001,
-    "zh_cn_name": "电影院1级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      3
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -22,26 +22,27 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      100101
+      100101,
+      100102
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1002": {
     "id": 1002,
-    "zh_cn_name": "电影院2级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -50,26 +51,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100201
+      100201,
+      100202
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1003": {
     "id": 1003,
-    "zh_cn_name": "电影院3级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -78,26 +80,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100301
+      100301,
+      100302
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1004": {
     "id": 1004,
-    "zh_cn_name": "电影院4级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -106,26 +109,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100401
+      100401,
+      100402
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1005": {
     "id": 1005,
-    "zh_cn_name": "电影院5级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -134,26 +138,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100501
+      100501,
+      100502
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1006": {
     "id": 1006,
-    "zh_cn_name": "电影院6级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -162,26 +167,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100601
+      100601,
+      100602
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1007": {
     "id": 1007,
-    "zh_cn_name": "电影院7级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -190,26 +196,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100701
+      100701,
+      100702
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1008": {
     "id": 1008,
-    "zh_cn_name": "电影院8级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -218,26 +225,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100801
+      100801,
+      100802
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1009": {
     "id": 1009,
-    "zh_cn_name": "电影院9级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -246,26 +254,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      100901
+      100901,
+      100902
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1010": {
     "id": 1010,
-    "zh_cn_name": "电影院10级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -274,26 +283,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101001
+      101001,
+      101002
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1011": {
     "id": 1011,
-    "zh_cn_name": "电影院11级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -302,26 +312,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101101
+      101101,
+      101102
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1012": {
     "id": 1012,
-    "zh_cn_name": "电影院12级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -330,26 +341,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101201
+      101201,
+      101202
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1013": {
     "id": 1013,
-    "zh_cn_name": "电影院13级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -358,26 +370,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101301
+      101301,
+      101302
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1014": {
     "id": 1014,
-    "zh_cn_name": "电影院14级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -386,26 +399,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101401
+      101401,
+      101402
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1015": {
     "id": 1015,
-    "zh_cn_name": "电影院15级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -414,26 +428,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101501
+      101501,
+      101502
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1016": {
     "id": 1016,
-    "zh_cn_name": "电影院16级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -442,26 +457,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101601
+      101601,
+      101602
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1017": {
     "id": 1017,
-    "zh_cn_name": "电影院17级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -470,26 +486,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101701
+      101701,
+      101702
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1018": {
     "id": 1018,
-    "zh_cn_name": "电影院18级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -498,26 +515,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101801
+      101801,
+      101802
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1019": {
     "id": 1019,
-    "zh_cn_name": "电影院19级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -526,26 +544,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      101901
+      101901,
+      101902
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "1020": {
     "id": 1020,
-    "zh_cn_name": "电影院20级",
+    "zh_cn_name": "电影院",
     "type": 1,
     "function_open": [
-      1
+      0
     ],
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -554,14 +573,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      102001
+      102001,
+      102002
     ],
     "effect_tips": "电影院作用",
     "level_tips": "电影院效果"
   },
   "2001": {
     "id": 2001,
-    "zh_cn_name": "摄影棚1级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
       2
@@ -569,11 +589,11 @@
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -582,26 +602,30 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      200101
+      200101,
+      200102,
+      200103,
+      200104,
+      200105
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2002": {
     "id": 2002,
-    "zh_cn_name": "摄影棚2级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -610,26 +634,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200201
+      200201,
+      200202,
+      200203,
+      200204,
+      200205
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2003": {
     "id": 2003,
-    "zh_cn_name": "摄影棚3级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -638,26 +666,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200301
+      200301,
+      200302,
+      200303,
+      200304,
+      200305
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2004": {
     "id": 2004,
-    "zh_cn_name": "摄影棚4级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -666,26 +698,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200401
+      200401,
+      200402,
+      200403,
+      200404,
+      200405
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2005": {
     "id": 2005,
-    "zh_cn_name": "摄影棚5级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -694,26 +730,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200501
+      200501,
+      200502,
+      200503,
+      200504,
+      200505
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2006": {
     "id": 2006,
-    "zh_cn_name": "摄影棚6级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -722,26 +762,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200601
+      200601,
+      200602,
+      200603,
+      200604,
+      200605
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2007": {
     "id": 2007,
-    "zh_cn_name": "摄影棚7级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -750,26 +794,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200701
+      200701,
+      200702,
+      200703,
+      200704,
+      200705
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2008": {
     "id": 2008,
-    "zh_cn_name": "摄影棚8级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -778,26 +826,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200801
+      200801,
+      200802,
+      200803,
+      200804,
+      200805
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2009": {
     "id": 2009,
-    "zh_cn_name": "摄影棚9级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -806,26 +858,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      200901
+      200901,
+      200902,
+      200903,
+      200904,
+      200905
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2010": {
     "id": 2010,
-    "zh_cn_name": "摄影棚10级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -834,26 +890,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201001
+      201001,
+      201002,
+      201003,
+      201004,
+      201005
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2011": {
     "id": 2011,
-    "zh_cn_name": "摄影棚11级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -862,26 +922,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201101
+      201101,
+      201102,
+      201103,
+      201104,
+      201105
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2012": {
     "id": 2012,
-    "zh_cn_name": "摄影棚12级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -890,26 +954,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201201
+      201201,
+      201202,
+      201203,
+      201204,
+      201205
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2013": {
     "id": 2013,
-    "zh_cn_name": "摄影棚13级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -918,26 +986,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201301
+      201301,
+      201302,
+      201303,
+      201304,
+      201305
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2014": {
     "id": 2014,
-    "zh_cn_name": "摄影棚14级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -946,26 +1018,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201401
+      201401,
+      201402,
+      201403,
+      201404,
+      201405
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2015": {
     "id": 2015,
-    "zh_cn_name": "摄影棚15级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -974,26 +1050,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201501
+      201501,
+      201502,
+      201503,
+      201504,
+      201505
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2016": {
     "id": 2016,
-    "zh_cn_name": "摄影棚16级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1002,26 +1082,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201601
+      201601,
+      201602,
+      201603,
+      201604,
+      201605
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2017": {
     "id": 2017,
-    "zh_cn_name": "摄影棚17级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1030,26 +1114,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201701
+      201701,
+      201702,
+      201703,
+      201704,
+      201705
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2018": {
     "id": 2018,
-    "zh_cn_name": "摄影棚18级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1058,26 +1146,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201801
+      201801,
+      201802,
+      201803,
+      201804,
+      201805
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2019": {
     "id": 2019,
-    "zh_cn_name": "摄影棚19级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1086,26 +1178,30 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      201901
+      201901,
+      201902,
+      201903,
+      201904,
+      201905
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "2020": {
     "id": 2020,
-    "zh_cn_name": "摄影棚20级",
+    "zh_cn_name": "摄影棚",
     "type": 2,
     "function_open": [
-      2
+      0
     ],
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9001,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1114,27 +1210,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      202001
+      202001,
+      202002,
+      202003,
+      202004,
+      202005
     ],
     "effect_tips": "摄影棚作用",
     "level_tips": "摄影棚效果"
   },
   "3001": {
     "id": 3001,
-    "zh_cn_name": "艺人教室1级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
-      3
+      4
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 1,
@@ -1142,14 +1238,15 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      300101
+      300101,
+      300102
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3002": {
     "id": 3002,
-    "zh_cn_name": "艺人教室2级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1157,12 +1254,8 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 1,
@@ -1170,14 +1263,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300201
+      300201,
+      300202
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3003": {
     "id": 3003,
-    "zh_cn_name": "艺人教室3级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1185,12 +1279,8 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 1,
@@ -1198,14 +1288,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300301
+      300301,
+      300302
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3004": {
     "id": 3004,
-    "zh_cn_name": "艺人教室4级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1213,12 +1304,8 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 10,
@@ -1226,14 +1313,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300401
+      300401,
+      300402
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3005": {
     "id": 3005,
-    "zh_cn_name": "艺人教室5级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1241,12 +1329,8 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 10,
@@ -1254,14 +1338,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300501
+      300501,
+      300502
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3006": {
     "id": 3006,
-    "zh_cn_name": "艺人教室6级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1269,12 +1354,8 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 10,
@@ -1282,14 +1363,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300601
+      300601,
+      300602
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3007": {
     "id": 3007,
-    "zh_cn_name": "艺人教室7级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1297,12 +1379,8 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 20,
@@ -1310,14 +1388,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300701
+      300701,
+      300702
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3008": {
     "id": 3008,
-    "zh_cn_name": "艺人教室8级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1325,12 +1404,8 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 20,
@@ -1338,14 +1413,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300801
+      300801,
+      300802
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3009": {
     "id": 3009,
-    "zh_cn_name": "艺人教室9级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1353,12 +1429,8 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 20,
@@ -1366,14 +1438,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      300901
+      300901,
+      300902
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3010": {
     "id": 3010,
-    "zh_cn_name": "艺人教室10级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1381,12 +1454,8 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 40,
@@ -1394,14 +1463,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301001
+      301001,
+      301002
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3011": {
     "id": 3011,
-    "zh_cn_name": "艺人教室11级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1409,12 +1479,8 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 40,
@@ -1422,14 +1488,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301101
+      301101,
+      301102
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3012": {
     "id": 3012,
-    "zh_cn_name": "艺人教室12级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1437,12 +1504,8 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 40,
@@ -1450,14 +1513,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301201
+      301201,
+      301202
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3013": {
     "id": 3013,
-    "zh_cn_name": "艺人教室13级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1465,12 +1529,8 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 60,
@@ -1478,14 +1538,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301301
+      301301,
+      301302
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3014": {
     "id": 3014,
-    "zh_cn_name": "艺人教室14级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1493,12 +1554,8 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 60,
@@ -1506,14 +1563,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301401
+      301401,
+      301402
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3015": {
     "id": 3015,
-    "zh_cn_name": "艺人教室15级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1521,12 +1579,8 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 60,
@@ -1534,14 +1588,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301501
+      301501,
+      301502
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3016": {
     "id": 3016,
-    "zh_cn_name": "艺人教室16级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1549,12 +1604,8 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 80,
@@ -1562,14 +1613,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301601
+      301601,
+      301602
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3017": {
     "id": 3017,
-    "zh_cn_name": "艺人教室17级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1577,12 +1629,8 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 80,
@@ -1590,14 +1638,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301701
+      301701,
+      301702
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3018": {
     "id": 3018,
-    "zh_cn_name": "艺人教室18级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1605,12 +1654,8 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 80,
@@ -1618,14 +1663,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301801
+      301801,
+      301802
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3019": {
     "id": 3019,
-    "zh_cn_name": "艺人教室19级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1633,12 +1679,8 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 100,
@@ -1646,14 +1688,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      301901
+      301901,
+      301902
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "3020": {
     "id": 3020,
-    "zh_cn_name": "艺人教室20级",
+    "zh_cn_name": "艺人教室",
     "type": 3,
     "function_open": [
       0
@@ -1661,12 +1704,8 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       }
     ],
     "level_req": 100,
@@ -1674,26 +1713,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      302001
+      302001,
+      302002
     ],
     "effect_tips": "艺人教室作用",
     "level_tips": "艺人教室效果"
   },
   "4001": {
     "id": 4001,
-    "zh_cn_name": "市场部1级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
-      4
+      7
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1709,7 +1749,7 @@
   },
   "4002": {
     "id": 4002,
-    "zh_cn_name": "市场部2级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1717,11 +1757,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1737,7 +1777,7 @@
   },
   "4003": {
     "id": 4003,
-    "zh_cn_name": "市场部3级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1745,11 +1785,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1765,7 +1805,7 @@
   },
   "4004": {
     "id": 4004,
-    "zh_cn_name": "市场部4级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1773,11 +1813,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1793,7 +1833,7 @@
   },
   "4005": {
     "id": 4005,
-    "zh_cn_name": "市场部5级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1801,11 +1841,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1821,7 +1861,7 @@
   },
   "4006": {
     "id": 4006,
-    "zh_cn_name": "市场部6级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1829,11 +1869,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1849,7 +1889,7 @@
   },
   "4007": {
     "id": 4007,
-    "zh_cn_name": "市场部7级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1857,11 +1897,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1877,7 +1917,7 @@
   },
   "4008": {
     "id": 4008,
-    "zh_cn_name": "市场部8级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1885,11 +1925,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1905,7 +1945,7 @@
   },
   "4009": {
     "id": 4009,
-    "zh_cn_name": "市场部9级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1913,11 +1953,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1933,7 +1973,7 @@
   },
   "4010": {
     "id": 4010,
-    "zh_cn_name": "市场部10级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1941,11 +1981,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1961,7 +2001,7 @@
   },
   "4011": {
     "id": 4011,
-    "zh_cn_name": "市场部11级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1969,11 +2009,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -1989,7 +2029,7 @@
   },
   "4012": {
     "id": 4012,
-    "zh_cn_name": "市场部12级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -1997,11 +2037,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2017,7 +2057,7 @@
   },
   "4013": {
     "id": 4013,
-    "zh_cn_name": "市场部13级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2025,11 +2065,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2045,7 +2085,7 @@
   },
   "4014": {
     "id": 4014,
-    "zh_cn_name": "市场部14级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2053,11 +2093,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2073,7 +2113,7 @@
   },
   "4015": {
     "id": 4015,
-    "zh_cn_name": "市场部15级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2081,11 +2121,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2101,7 +2141,7 @@
   },
   "4016": {
     "id": 4016,
-    "zh_cn_name": "市场部16级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2109,11 +2149,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2129,7 +2169,7 @@
   },
   "4017": {
     "id": 4017,
-    "zh_cn_name": "市场部17级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2137,11 +2177,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2157,7 +2197,7 @@
   },
   "4018": {
     "id": 4018,
-    "zh_cn_name": "市场部18级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2165,11 +2205,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2185,7 +2225,7 @@
   },
   "4019": {
     "id": 4019,
-    "zh_cn_name": "市场部19级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2193,11 +2233,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2213,7 +2253,7 @@
   },
   "4020": {
     "id": 4020,
-    "zh_cn_name": "市场部20级",
+    "zh_cn_name": "市场部",
     "type": 4,
     "function_open": [
       0
@@ -2221,11 +2261,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2241,7 +2281,7 @@
   },
   "5001": {
     "id": 5001,
-    "zh_cn_name": "宣传部1级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       5
@@ -2249,11 +2289,11 @@
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2262,14 +2302,15 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      500101
+      500101,
+      500102
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5002": {
     "id": 5002,
-    "zh_cn_name": "宣传部2级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2277,11 +2318,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2290,14 +2331,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500201
+      500201,
+      500202
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5003": {
     "id": 5003,
-    "zh_cn_name": "宣传部3级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2305,11 +2347,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2318,14 +2360,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500301
+      500301,
+      500302
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5004": {
     "id": 5004,
-    "zh_cn_name": "宣传部4级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2333,11 +2376,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2346,14 +2389,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500401
+      500401,
+      500402
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5005": {
     "id": 5005,
-    "zh_cn_name": "宣传部5级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2361,11 +2405,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2374,14 +2418,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500501
+      500501,
+      500502
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5006": {
     "id": 5006,
-    "zh_cn_name": "宣传部6级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2389,11 +2434,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2402,14 +2447,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500601
+      500601,
+      500602
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5007": {
     "id": 5007,
-    "zh_cn_name": "宣传部7级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2417,11 +2463,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2430,14 +2476,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500701
+      500701,
+      500702
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5008": {
     "id": 5008,
-    "zh_cn_name": "宣传部8级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2445,11 +2492,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2458,14 +2505,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500801
+      500801,
+      500802
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5009": {
     "id": 5009,
-    "zh_cn_name": "宣传部9级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2473,11 +2521,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2486,14 +2534,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      500901
+      500901,
+      500902
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5010": {
     "id": 5010,
-    "zh_cn_name": "宣传部10级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2501,11 +2550,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2514,14 +2563,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501001
+      501001,
+      501002
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5011": {
     "id": 5011,
-    "zh_cn_name": "宣传部11级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2529,11 +2579,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2542,14 +2592,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501101
+      501101,
+      501102
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5012": {
     "id": 5012,
-    "zh_cn_name": "宣传部12级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2557,11 +2608,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2570,14 +2621,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501201
+      501201,
+      501202
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5013": {
     "id": 5013,
-    "zh_cn_name": "宣传部13级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2585,11 +2637,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2598,14 +2650,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501301
+      501301,
+      501302
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5014": {
     "id": 5014,
-    "zh_cn_name": "宣传部14级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2613,11 +2666,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2626,14 +2679,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501401
+      501401,
+      501402
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5015": {
     "id": 5015,
-    "zh_cn_name": "宣传部15级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2641,11 +2695,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2654,14 +2708,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501501
+      501501,
+      501502
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5016": {
     "id": 5016,
-    "zh_cn_name": "宣传部16级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2669,11 +2724,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2682,14 +2737,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501601
+      501601,
+      501602
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5017": {
     "id": 5017,
-    "zh_cn_name": "宣传部17级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2697,11 +2753,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2710,14 +2766,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501701
+      501701,
+      501702
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5018": {
     "id": 5018,
-    "zh_cn_name": "宣传部18级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2725,11 +2782,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2738,14 +2795,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501801
+      501801,
+      501802
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5019": {
     "id": 5019,
-    "zh_cn_name": "宣传部19级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2753,11 +2811,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2766,14 +2824,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      501901
+      501901,
+      501902
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "5020": {
     "id": 5020,
-    "zh_cn_name": "宣传部20级",
+    "zh_cn_name": "宣传部",
     "type": 5,
     "function_open": [
       0
@@ -2781,11 +2840,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2794,26 +2853,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      502001
+      502001,
+      502002
     ],
     "effect_tips": "宣传部作用",
     "level_tips": "宣传部效果"
   },
   "6001": {
     "id": 6001,
-    "zh_cn_name": "仓库1级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
-      6
+      10
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2829,7 +2889,7 @@
   },
   "6002": {
     "id": 6002,
-    "zh_cn_name": "仓库2级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2837,11 +2897,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2857,7 +2917,7 @@
   },
   "6003": {
     "id": 6003,
-    "zh_cn_name": "仓库3级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2865,11 +2925,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2885,7 +2945,7 @@
   },
   "6004": {
     "id": 6004,
-    "zh_cn_name": "仓库4级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2893,11 +2953,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2913,7 +2973,7 @@
   },
   "6005": {
     "id": 6005,
-    "zh_cn_name": "仓库5级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2921,11 +2981,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2941,7 +3001,7 @@
   },
   "6006": {
     "id": 6006,
-    "zh_cn_name": "仓库6级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2949,11 +3009,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2969,7 +3029,7 @@
   },
   "6007": {
     "id": 6007,
-    "zh_cn_name": "仓库7级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -2977,11 +3037,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -2997,7 +3057,7 @@
   },
   "6008": {
     "id": 6008,
-    "zh_cn_name": "仓库8级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3005,11 +3065,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3025,7 +3085,7 @@
   },
   "6009": {
     "id": 6009,
-    "zh_cn_name": "仓库9级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3033,11 +3093,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3053,7 +3113,7 @@
   },
   "6010": {
     "id": 6010,
-    "zh_cn_name": "仓库10级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3061,11 +3121,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3081,7 +3141,7 @@
   },
   "6011": {
     "id": 6011,
-    "zh_cn_name": "仓库11级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3089,11 +3149,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3109,7 +3169,7 @@
   },
   "6012": {
     "id": 6012,
-    "zh_cn_name": "仓库12级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3117,11 +3177,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3137,7 +3197,7 @@
   },
   "6013": {
     "id": 6013,
-    "zh_cn_name": "仓库13级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3145,11 +3205,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3165,7 +3225,7 @@
   },
   "6014": {
     "id": 6014,
-    "zh_cn_name": "仓库14级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3173,11 +3233,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3193,7 +3253,7 @@
   },
   "6015": {
     "id": 6015,
-    "zh_cn_name": "仓库15级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3201,11 +3261,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3221,7 +3281,7 @@
   },
   "6016": {
     "id": 6016,
-    "zh_cn_name": "仓库16级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3229,11 +3289,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3249,7 +3309,7 @@
   },
   "6017": {
     "id": 6017,
-    "zh_cn_name": "仓库17级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3257,11 +3317,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3277,7 +3337,7 @@
   },
   "6018": {
     "id": 6018,
-    "zh_cn_name": "仓库18级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3285,11 +3345,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3305,7 +3365,7 @@
   },
   "6019": {
     "id": 6019,
-    "zh_cn_name": "仓库19级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3313,11 +3373,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3333,7 +3393,7 @@
   },
   "6020": {
     "id": 6020,
-    "zh_cn_name": "仓库20级",
+    "zh_cn_name": "仓库",
     "type": 6,
     "function_open": [
       0
@@ -3341,11 +3401,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9003,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3361,19 +3421,19 @@
   },
   "7001": {
     "id": 7001,
-    "zh_cn_name": "销售部1级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
-      7
+      0
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3382,14 +3442,16 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      700101
+      700101,
+      700102,
+      700103
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7002": {
     "id": 7002,
-    "zh_cn_name": "销售部2级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3397,11 +3459,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3410,14 +3472,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700201
+      700201,
+      700202,
+      700203
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7003": {
     "id": 7003,
-    "zh_cn_name": "销售部3级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3425,11 +3489,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3438,14 +3502,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700301
+      700301,
+      700302,
+      700303
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7004": {
     "id": 7004,
-    "zh_cn_name": "销售部4级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3453,11 +3519,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3466,14 +3532,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700401
+      700401,
+      700402,
+      700403
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7005": {
     "id": 7005,
-    "zh_cn_name": "销售部5级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3481,11 +3549,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3494,14 +3562,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700501
+      700501,
+      700502,
+      700503
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7006": {
     "id": 7006,
-    "zh_cn_name": "销售部6级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3509,11 +3579,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3522,14 +3592,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700601
+      700601,
+      700602,
+      700603
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7007": {
     "id": 7007,
-    "zh_cn_name": "销售部7级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3537,11 +3609,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3550,14 +3622,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700701
+      700701,
+      700702,
+      700703
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7008": {
     "id": 7008,
-    "zh_cn_name": "销售部8级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3565,11 +3639,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3578,14 +3652,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700801
+      700801,
+      700802,
+      700803
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7009": {
     "id": 7009,
-    "zh_cn_name": "销售部9级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3593,11 +3669,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3606,14 +3682,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      700901
+      700901,
+      700902,
+      700903
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7010": {
     "id": 7010,
-    "zh_cn_name": "销售部10级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3621,11 +3699,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3634,14 +3712,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701001
+      701001,
+      701002,
+      701003
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7011": {
     "id": 7011,
-    "zh_cn_name": "销售部11级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3649,11 +3729,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3662,14 +3742,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701101
+      701101,
+      701102,
+      701103
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7012": {
     "id": 7012,
-    "zh_cn_name": "销售部12级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3677,11 +3759,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3690,14 +3772,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701201
+      701201,
+      701202,
+      701203
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7013": {
     "id": 7013,
-    "zh_cn_name": "销售部13级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3705,11 +3789,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3718,14 +3802,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701301
+      701301,
+      701302,
+      701303
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7014": {
     "id": 7014,
-    "zh_cn_name": "销售部14级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3733,11 +3819,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3746,14 +3832,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701401
+      701401,
+      701402,
+      701403
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7015": {
     "id": 7015,
-    "zh_cn_name": "销售部15级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3761,11 +3849,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3774,14 +3862,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701501
+      701501,
+      701502,
+      701503
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7016": {
     "id": 7016,
-    "zh_cn_name": "销售部16级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3789,11 +3879,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3802,14 +3892,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701601
+      701601,
+      701602,
+      701603
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7017": {
     "id": 7017,
-    "zh_cn_name": "销售部17级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3817,11 +3909,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3830,14 +3922,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701701
+      701701,
+      701702,
+      701703
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7018": {
     "id": 7018,
-    "zh_cn_name": "销售部18级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3845,11 +3939,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3858,14 +3952,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701801
+      701801,
+      701802,
+      701803
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7019": {
     "id": 7019,
-    "zh_cn_name": "销售部19级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3873,11 +3969,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3886,14 +3982,16 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      701901
+      701901,
+      701902,
+      701903
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "7020": {
     "id": 7020,
-    "zh_cn_name": "销售部20级",
+    "zh_cn_name": "销售部",
     "type": 7,
     "function_open": [
       0
@@ -3901,11 +3999,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3914,26 +4012,28 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      702001
+      702001,
+      702002,
+      702003
     ],
     "effect_tips": "销售部作用",
     "level_tips": "销售部效果"
   },
   "8001": {
     "id": 8001,
-    "zh_cn_name": "商务部1级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
-      8
+      6
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3949,7 +4049,7 @@
   },
   "8002": {
     "id": 8002,
-    "zh_cn_name": "商务部2级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -3957,11 +4057,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -3977,7 +4077,7 @@
   },
   "8003": {
     "id": 8003,
-    "zh_cn_name": "商务部3级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -3985,11 +4085,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4005,7 +4105,7 @@
   },
   "8004": {
     "id": 8004,
-    "zh_cn_name": "商务部4级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4013,11 +4113,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4033,7 +4133,7 @@
   },
   "8005": {
     "id": 8005,
-    "zh_cn_name": "商务部5级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4041,11 +4141,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4061,7 +4161,7 @@
   },
   "8006": {
     "id": 8006,
-    "zh_cn_name": "商务部6级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4069,11 +4169,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4089,7 +4189,7 @@
   },
   "8007": {
     "id": 8007,
-    "zh_cn_name": "商务部7级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4097,11 +4197,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4117,7 +4217,7 @@
   },
   "8008": {
     "id": 8008,
-    "zh_cn_name": "商务部8级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4125,11 +4225,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4145,7 +4245,7 @@
   },
   "8009": {
     "id": 8009,
-    "zh_cn_name": "商务部9级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4153,11 +4253,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4173,7 +4273,7 @@
   },
   "8010": {
     "id": 8010,
-    "zh_cn_name": "商务部10级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4181,11 +4281,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4201,7 +4301,7 @@
   },
   "8011": {
     "id": 8011,
-    "zh_cn_name": "商务部11级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4209,11 +4309,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4229,7 +4329,7 @@
   },
   "8012": {
     "id": 8012,
-    "zh_cn_name": "商务部12级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4237,11 +4337,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4257,7 +4357,7 @@
   },
   "8013": {
     "id": 8013,
-    "zh_cn_name": "商务部13级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4265,11 +4365,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4285,7 +4385,7 @@
   },
   "8014": {
     "id": 8014,
-    "zh_cn_name": "商务部14级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4293,11 +4393,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4313,7 +4413,7 @@
   },
   "8015": {
     "id": 8015,
-    "zh_cn_name": "商务部15级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4321,11 +4421,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4341,7 +4441,7 @@
   },
   "8016": {
     "id": 8016,
-    "zh_cn_name": "商务部16级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4349,11 +4449,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4369,7 +4469,7 @@
   },
   "8017": {
     "id": 8017,
-    "zh_cn_name": "商务部17级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4377,11 +4477,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4397,7 +4497,7 @@
   },
   "8018": {
     "id": 8018,
-    "zh_cn_name": "商务部18级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4405,11 +4505,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4425,7 +4525,7 @@
   },
   "8019": {
     "id": 8019,
-    "zh_cn_name": "商务部19级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4433,11 +4533,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4453,7 +4553,7 @@
   },
   "8020": {
     "id": 8020,
-    "zh_cn_name": "商务部20级",
+    "zh_cn_name": "商务部",
     "type": 8,
     "function_open": [
       0
@@ -4461,11 +4561,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4481,19 +4581,19 @@
   },
   "9001": {
     "id": 9001,
-    "zh_cn_name": "办公室1级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
-      9
+      13
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4502,14 +4602,15 @@
     "block_req": 2,
     "UI": true,
     "effect_id": [
-      900101
+      900101,
+      900102
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9002": {
     "id": 9002,
-    "zh_cn_name": "办公室2级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4517,11 +4618,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4530,14 +4631,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900201
+      900201,
+      900202
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9003": {
     "id": 9003,
-    "zh_cn_name": "办公室3级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4545,11 +4647,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4558,14 +4660,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900301
+      900301,
+      900302
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9004": {
     "id": 9004,
-    "zh_cn_name": "办公室4级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4573,11 +4676,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4586,14 +4689,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900401
+      900401,
+      900402
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9005": {
     "id": 9005,
-    "zh_cn_name": "办公室5级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4601,11 +4705,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4614,14 +4718,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900501
+      900501,
+      900502
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9006": {
     "id": 9006,
-    "zh_cn_name": "办公室6级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4629,11 +4734,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4642,14 +4747,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900601
+      900601,
+      900602
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9007": {
     "id": 9007,
-    "zh_cn_name": "办公室7级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4657,11 +4763,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4670,14 +4776,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900701
+      900701,
+      900702
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9008": {
     "id": 9008,
-    "zh_cn_name": "办公室8级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4685,11 +4792,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4698,14 +4805,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900801
+      900801,
+      900802
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9009": {
     "id": 9009,
-    "zh_cn_name": "办公室9级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4713,11 +4821,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4726,14 +4834,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      900901
+      900901,
+      900902
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9010": {
     "id": 9010,
-    "zh_cn_name": "办公室10级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4741,11 +4850,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4754,14 +4863,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901001
+      901001,
+      901002
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9011": {
     "id": 9011,
-    "zh_cn_name": "办公室11级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4769,11 +4879,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4782,14 +4892,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901101
+      901101,
+      901102
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9012": {
     "id": 9012,
-    "zh_cn_name": "办公室12级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4797,11 +4908,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4810,14 +4921,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901201
+      901201,
+      901202
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9013": {
     "id": 9013,
-    "zh_cn_name": "办公室13级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4825,11 +4937,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4838,14 +4950,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901301
+      901301,
+      901302
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9014": {
     "id": 9014,
-    "zh_cn_name": "办公室14级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4853,11 +4966,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4866,14 +4979,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901401
+      901401,
+      901402
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9015": {
     "id": 9015,
-    "zh_cn_name": "办公室15级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4881,11 +4995,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4894,14 +5008,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901501
+      901501,
+      901502
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9016": {
     "id": 9016,
-    "zh_cn_name": "办公室16级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4909,11 +5024,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4922,14 +5037,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901601
+      901601,
+      901602
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9017": {
     "id": 9017,
-    "zh_cn_name": "办公室17级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4937,11 +5053,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4950,14 +5066,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901701
+      901701,
+      901702
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9018": {
     "id": 9018,
-    "zh_cn_name": "办公室18级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4965,11 +5082,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -4978,14 +5095,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901801
+      901801,
+      901802
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9019": {
     "id": 9019,
-    "zh_cn_name": "办公室19级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -4993,11 +5111,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5006,14 +5124,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      901901
+      901901,
+      901902
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "9020": {
     "id": 9020,
-    "zh_cn_name": "办公室20级",
+    "zh_cn_name": "办公室",
     "type": 9,
     "function_open": [
       0
@@ -5021,11 +5140,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5034,26 +5153,27 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      902001
+      902001,
+      902002
     ],
     "effect_tips": "办公室作用",
     "level_tips": "办公室效果"
   },
   "10001": {
     "id": 10001,
-    "zh_cn_name": "接待室1级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
-      10
+      14
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5062,14 +5182,16 @@
     "block_req": 2,
     "UI": true,
     "effect_id": [
-      1000101
+      1000101,
+      1000102,
+      1000103
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10002": {
     "id": 10002,
-    "zh_cn_name": "接待室2级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5077,11 +5199,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5090,14 +5212,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000201
+      1000201,
+      1000202,
+      1000203
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10003": {
     "id": 10003,
-    "zh_cn_name": "接待室3级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5105,11 +5229,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5118,14 +5242,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000301
+      1000301,
+      1000302,
+      1000303
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10004": {
     "id": 10004,
-    "zh_cn_name": "接待室4级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5133,11 +5259,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5146,14 +5272,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000401
+      1000401,
+      1000402,
+      1000403
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10005": {
     "id": 10005,
-    "zh_cn_name": "接待室5级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5161,11 +5289,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5174,14 +5302,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000501
+      1000501,
+      1000502,
+      1000503
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10006": {
     "id": 10006,
-    "zh_cn_name": "接待室6级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5189,11 +5319,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5202,14 +5332,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000601
+      1000601,
+      1000602,
+      1000603
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10007": {
     "id": 10007,
-    "zh_cn_name": "接待室7级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5217,11 +5349,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5230,14 +5362,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000701
+      1000701,
+      1000702,
+      1000703
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10008": {
     "id": 10008,
-    "zh_cn_name": "接待室8级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5245,11 +5379,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5258,14 +5392,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000801
+      1000801,
+      1000802,
+      1000803
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10009": {
     "id": 10009,
-    "zh_cn_name": "接待室9级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5273,11 +5409,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5286,14 +5422,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1000901
+      1000901,
+      1000902,
+      1000903
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10010": {
     "id": 10010,
-    "zh_cn_name": "接待室10级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5301,11 +5439,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5314,14 +5452,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001001
+      1001001,
+      1001002,
+      1001003
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10011": {
     "id": 10011,
-    "zh_cn_name": "接待室11级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5329,11 +5469,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5342,14 +5482,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001101
+      1001101,
+      1001102,
+      1001103
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10012": {
     "id": 10012,
-    "zh_cn_name": "接待室12级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5357,11 +5499,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5370,14 +5512,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001201
+      1001201,
+      1001202,
+      1001203
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10013": {
     "id": 10013,
-    "zh_cn_name": "接待室13级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5385,11 +5529,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5398,14 +5542,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001301
+      1001301,
+      1001302,
+      1001303
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10014": {
     "id": 10014,
-    "zh_cn_name": "接待室14级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5413,11 +5559,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5426,14 +5572,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001401
+      1001401,
+      1001402,
+      1001403
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10015": {
     "id": 10015,
-    "zh_cn_name": "接待室15级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5441,11 +5589,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5454,14 +5602,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001501
+      1001501,
+      1001502,
+      1001503
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10016": {
     "id": 10016,
-    "zh_cn_name": "接待室16级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5469,11 +5619,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5482,14 +5632,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001601
+      1001601,
+      1001602,
+      1001603
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10017": {
     "id": 10017,
-    "zh_cn_name": "接待室17级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5497,11 +5649,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5510,14 +5662,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001701
+      1001701,
+      1001702,
+      1001703
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10018": {
     "id": 10018,
-    "zh_cn_name": "接待室18级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5525,11 +5679,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5538,14 +5692,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001801
+      1001801,
+      1001802,
+      1001803
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10019": {
     "id": 10019,
-    "zh_cn_name": "接待室19级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5553,11 +5709,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5566,14 +5722,16 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1001901
+      1001901,
+      1001902,
+      1001903
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "10020": {
     "id": 10020,
-    "zh_cn_name": "接待室20级",
+    "zh_cn_name": "接待室",
     "type": 10,
     "function_open": [
       0
@@ -5581,11 +5739,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5594,26 +5752,28 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1002001
+      1002001,
+      1002002,
+      1002003
     ],
     "effect_tips": "接待室作用",
     "level_tips": "接待室效果"
   },
   "11001": {
     "id": 11001,
-    "zh_cn_name": "会议室1级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
-      11
+      15
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5622,14 +5782,15 @@
     "block_req": 2,
     "UI": true,
     "effect_id": [
-      1100101
+      1100101,
+      1100102
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11002": {
     "id": 11002,
-    "zh_cn_name": "会议室2级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5637,11 +5798,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5650,14 +5811,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100201
+      1100201,
+      1100202
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11003": {
     "id": 11003,
-    "zh_cn_name": "会议室3级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5665,11 +5827,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5678,14 +5840,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100301
+      1100301,
+      1100302
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11004": {
     "id": 11004,
-    "zh_cn_name": "会议室4级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5693,11 +5856,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5706,14 +5869,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100401
+      1100401,
+      1100402
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11005": {
     "id": 11005,
-    "zh_cn_name": "会议室5级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5721,11 +5885,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5734,14 +5898,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100501
+      1100501,
+      1100502
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11006": {
     "id": 11006,
-    "zh_cn_name": "会议室6级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5749,11 +5914,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5762,14 +5927,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100601
+      1100601,
+      1100602
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11007": {
     "id": 11007,
-    "zh_cn_name": "会议室7级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5777,11 +5943,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5790,14 +5956,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100701
+      1100701,
+      1100702
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11008": {
     "id": 11008,
-    "zh_cn_name": "会议室8级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5805,11 +5972,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5818,14 +5985,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100801
+      1100801,
+      1100802
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11009": {
     "id": 11009,
-    "zh_cn_name": "会议室9级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5833,11 +6001,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5846,14 +6014,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1100901
+      1100901,
+      1100902
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11010": {
     "id": 11010,
-    "zh_cn_name": "会议室10级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5861,11 +6030,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5874,14 +6043,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101001
+      1101001,
+      1101002
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11011": {
     "id": 11011,
-    "zh_cn_name": "会议室11级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5889,11 +6059,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5902,14 +6072,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101101
+      1101101,
+      1101102
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11012": {
     "id": 11012,
-    "zh_cn_name": "会议室12级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5917,11 +6088,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5930,14 +6101,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101201
+      1101201,
+      1101202
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11013": {
     "id": 11013,
-    "zh_cn_name": "会议室13级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5945,11 +6117,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5958,14 +6130,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101301
+      1101301,
+      1101302
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11014": {
     "id": 11014,
-    "zh_cn_name": "会议室14级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -5973,11 +6146,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -5986,14 +6159,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101401
+      1101401,
+      1101402
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11015": {
     "id": 11015,
-    "zh_cn_name": "会议室15级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6001,11 +6175,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6014,14 +6188,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101501
+      1101501,
+      1101502
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11016": {
     "id": 11016,
-    "zh_cn_name": "会议室16级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6029,11 +6204,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6042,14 +6217,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101601
+      1101601,
+      1101602
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11017": {
     "id": 11017,
-    "zh_cn_name": "会议室17级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6057,11 +6233,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6070,14 +6246,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101701
+      1101701,
+      1101702
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11018": {
     "id": 11018,
-    "zh_cn_name": "会议室18级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6085,11 +6262,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6098,14 +6275,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101801
+      1101801,
+      1101802
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11019": {
     "id": 11019,
-    "zh_cn_name": "会议室19级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6113,11 +6291,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6126,14 +6304,15 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1101901
+      1101901,
+      1101902
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "11020": {
     "id": 11020,
-    "zh_cn_name": "会议室20级",
+    "zh_cn_name": "会议室",
     "type": 11,
     "function_open": [
       0
@@ -6141,11 +6320,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6154,26 +6333,27 @@
     "block_req": 2,
     "UI": false,
     "effect_id": [
-      1102001
+      1102001,
+      1102002
     ],
     "effect_tips": "会议室作用",
     "level_tips": "会议室效果"
   },
   "12001": {
     "id": 12001,
-    "zh_cn_name": "财务部1级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
-      12
+      16
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6182,14 +6362,15 @@
     "block_req": 1,
     "UI": true,
     "effect_id": [
-      1200101
+      1200101,
+      1200102
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12002": {
     "id": 12002,
-    "zh_cn_name": "财务部2级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6197,11 +6378,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6210,14 +6391,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200201
+      1200201,
+      1200202
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12003": {
     "id": 12003,
-    "zh_cn_name": "财务部3级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6225,11 +6407,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6238,14 +6420,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200301
+      1200301,
+      1200302
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12004": {
     "id": 12004,
-    "zh_cn_name": "财务部4级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6253,11 +6436,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6266,14 +6449,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200401
+      1200401,
+      1200402
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12005": {
     "id": 12005,
-    "zh_cn_name": "财务部5级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6281,11 +6465,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6294,14 +6478,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200501
+      1200501,
+      1200502
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12006": {
     "id": 12006,
-    "zh_cn_name": "财务部6级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6309,11 +6494,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6322,14 +6507,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200601
+      1200601,
+      1200602
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12007": {
     "id": 12007,
-    "zh_cn_name": "财务部7级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6337,11 +6523,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6350,14 +6536,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200701
+      1200701,
+      1200702
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12008": {
     "id": 12008,
-    "zh_cn_name": "财务部8级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6365,11 +6552,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6378,14 +6565,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200801
+      1200801,
+      1200802
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12009": {
     "id": 12009,
-    "zh_cn_name": "财务部9级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6393,11 +6581,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6406,14 +6594,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1200901
+      1200901,
+      1200902
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12010": {
     "id": 12010,
-    "zh_cn_name": "财务部10级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6421,11 +6610,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6434,14 +6623,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201001
+      1201001,
+      1201002
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12011": {
     "id": 12011,
-    "zh_cn_name": "财务部11级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6449,11 +6639,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6462,14 +6652,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201101
+      1201101,
+      1201102
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12012": {
     "id": 12012,
-    "zh_cn_name": "财务部12级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6477,11 +6668,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6490,14 +6681,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201201
+      1201201,
+      1201202
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12013": {
     "id": 12013,
-    "zh_cn_name": "财务部13级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6505,11 +6697,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6518,14 +6710,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201301
+      1201301,
+      1201302
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12014": {
     "id": 12014,
-    "zh_cn_name": "财务部14级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6533,11 +6726,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6546,14 +6739,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201401
+      1201401,
+      1201402
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12015": {
     "id": 12015,
-    "zh_cn_name": "财务部15级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6561,11 +6755,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6574,14 +6768,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201501
+      1201501,
+      1201502
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12016": {
     "id": 12016,
-    "zh_cn_name": "财务部16级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6589,11 +6784,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6602,14 +6797,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201601
+      1201601,
+      1201602
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12017": {
     "id": 12017,
-    "zh_cn_name": "财务部17级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6617,11 +6813,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6630,14 +6826,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201701
+      1201701,
+      1201702
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12018": {
     "id": 12018,
-    "zh_cn_name": "财务部18级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6645,11 +6842,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6658,14 +6855,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201801
+      1201801,
+      1201802
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12019": {
     "id": 12019,
-    "zh_cn_name": "财务部19级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6673,11 +6871,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6686,14 +6884,15 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1201901
+      1201901,
+      1201902
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "12020": {
     "id": 12020,
-    "zh_cn_name": "财务部20级",
+    "zh_cn_name": "财务部",
     "type": 12,
     "function_open": [
       0
@@ -6701,11 +6900,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6714,26 +6913,27 @@
     "block_req": 1,
     "UI": false,
     "effect_id": [
-      1202001
+      1202001,
+      1202002
     ],
     "effect_tips": "财务室作用",
     "level_tips": "财务室效果"
   },
   "13001": {
     "id": 13001,
-    "zh_cn_name": "训练室1级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
-      13
+      17
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6742,14 +6942,15 @@
     "block_req": 6,
     "UI": true,
     "effect_id": [
-      1300101
+      1300101,
+      1300102
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13002": {
     "id": 13002,
-    "zh_cn_name": "训练室2级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6757,11 +6958,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6770,14 +6971,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300201
+      1300201,
+      1300202
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13003": {
     "id": 13003,
-    "zh_cn_name": "训练室3级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6785,11 +6987,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6798,14 +7000,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300301
+      1300301,
+      1300302
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13004": {
     "id": 13004,
-    "zh_cn_name": "训练室4级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6813,11 +7016,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6826,14 +7029,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300401
+      1300401,
+      1300402
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13005": {
     "id": 13005,
-    "zh_cn_name": "训练室5级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6841,11 +7045,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6854,14 +7058,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300501
+      1300501,
+      1300502
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13006": {
     "id": 13006,
-    "zh_cn_name": "训练室6级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6869,11 +7074,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6882,14 +7087,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300601
+      1300601,
+      1300602
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13007": {
     "id": 13007,
-    "zh_cn_name": "训练室7级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6897,11 +7103,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6910,14 +7116,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300701
+      1300701,
+      1300702
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13008": {
     "id": 13008,
-    "zh_cn_name": "训练室8级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6925,11 +7132,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6938,14 +7145,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300801
+      1300801,
+      1300802
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13009": {
     "id": 13009,
-    "zh_cn_name": "训练室9级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6953,11 +7161,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6966,14 +7174,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1300901
+      1300901,
+      1300902
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13010": {
     "id": 13010,
-    "zh_cn_name": "训练室10级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -6981,11 +7190,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -6994,14 +7203,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301001
+      1301001,
+      1301002
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13011": {
     "id": 13011,
-    "zh_cn_name": "训练室11级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7009,11 +7219,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7022,14 +7232,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301101
+      1301101,
+      1301102
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13012": {
     "id": 13012,
-    "zh_cn_name": "训练室12级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7037,11 +7248,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7050,14 +7261,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301201
+      1301201,
+      1301202
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13013": {
     "id": 13013,
-    "zh_cn_name": "训练室13级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7065,11 +7277,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7078,14 +7290,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301301
+      1301301,
+      1301302
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13014": {
     "id": 13014,
-    "zh_cn_name": "训练室14级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7093,11 +7306,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7106,14 +7319,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301401
+      1301401,
+      1301402
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13015": {
     "id": 13015,
-    "zh_cn_name": "训练室15级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7121,11 +7335,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7134,14 +7348,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301501
+      1301501,
+      1301502
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13016": {
     "id": 13016,
-    "zh_cn_name": "训练室16级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7149,11 +7364,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7162,14 +7377,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301601
+      1301601,
+      1301602
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13017": {
     "id": 13017,
-    "zh_cn_name": "训练室17级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7177,11 +7393,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7190,14 +7406,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301701
+      1301701,
+      1301702
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13018": {
     "id": 13018,
-    "zh_cn_name": "训练室18级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7205,11 +7422,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7218,14 +7435,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301801
+      1301801,
+      1301802
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13019": {
     "id": 13019,
-    "zh_cn_name": "训练室19级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7233,11 +7451,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7246,14 +7464,15 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1301901
+      1301901,
+      1301902
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "13020": {
     "id": 13020,
-    "zh_cn_name": "训练室20级",
+    "zh_cn_name": "训练室",
     "type": 13,
     "function_open": [
       0
@@ -7261,11 +7480,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9004,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7274,26 +7493,27 @@
     "block_req": 6,
     "UI": false,
     "effect_id": [
-      1302001
+      1302001,
+      1302002
     ],
     "effect_tips": "训练室作用",
     "level_tips": "训练室效果"
   },
   "14001": {
     "id": 14001,
-    "zh_cn_name": "全国商务部1级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
-      14
+      0
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7309,7 +7529,7 @@
   },
   "14002": {
     "id": 14002,
-    "zh_cn_name": "全国商务部2级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7317,11 +7537,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7337,7 +7557,7 @@
   },
   "14003": {
     "id": 14003,
-    "zh_cn_name": "全国商务部3级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7345,11 +7565,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7365,7 +7585,7 @@
   },
   "14004": {
     "id": 14004,
-    "zh_cn_name": "全国商务部4级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7373,11 +7593,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7393,7 +7613,7 @@
   },
   "14005": {
     "id": 14005,
-    "zh_cn_name": "全国商务部5级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7401,11 +7621,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7421,7 +7641,7 @@
   },
   "14006": {
     "id": 14006,
-    "zh_cn_name": "全国商务部6级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7429,11 +7649,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7449,7 +7669,7 @@
   },
   "14007": {
     "id": 14007,
-    "zh_cn_name": "全国商务部7级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7457,11 +7677,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7477,7 +7697,7 @@
   },
   "14008": {
     "id": 14008,
-    "zh_cn_name": "全国商务部8级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7485,11 +7705,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7505,7 +7725,7 @@
   },
   "14009": {
     "id": 14009,
-    "zh_cn_name": "全国商务部9级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7513,11 +7733,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7533,7 +7753,7 @@
   },
   "14010": {
     "id": 14010,
-    "zh_cn_name": "全国商务部10级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7541,11 +7761,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7561,7 +7781,7 @@
   },
   "14011": {
     "id": 14011,
-    "zh_cn_name": "全国商务部11级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7569,11 +7789,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7589,7 +7809,7 @@
   },
   "14012": {
     "id": 14012,
-    "zh_cn_name": "全国商务部12级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7597,11 +7817,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7617,7 +7837,7 @@
   },
   "14013": {
     "id": 14013,
-    "zh_cn_name": "全国商务部13级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7625,11 +7845,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7645,7 +7865,7 @@
   },
   "14014": {
     "id": 14014,
-    "zh_cn_name": "全国商务部14级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7653,11 +7873,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7673,7 +7893,7 @@
   },
   "14015": {
     "id": 14015,
-    "zh_cn_name": "全国商务部15级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7681,11 +7901,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7701,7 +7921,7 @@
   },
   "14016": {
     "id": 14016,
-    "zh_cn_name": "全国商务部16级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7709,11 +7929,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7729,7 +7949,7 @@
   },
   "14017": {
     "id": 14017,
-    "zh_cn_name": "全国商务部17级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7737,11 +7957,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7757,7 +7977,7 @@
   },
   "14018": {
     "id": 14018,
-    "zh_cn_name": "全国商务部18级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7765,11 +7985,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7785,7 +8005,7 @@
   },
   "14019": {
     "id": 14019,
-    "zh_cn_name": "全国商务部19级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7793,11 +8013,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7813,7 +8033,7 @@
   },
   "14020": {
     "id": 14020,
-    "zh_cn_name": "全国商务部20级",
+    "zh_cn_name": "全国商务部",
     "type": 14,
     "function_open": [
       0
@@ -7821,11 +8041,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7841,19 +8061,19 @@
   },
   "15001": {
     "id": 15001,
-    "zh_cn_name": "环球商务部1级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
-      15
+      0
     ],
     "level": 1,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7869,7 +8089,7 @@
   },
   "15002": {
     "id": 15002,
-    "zh_cn_name": "环球商务部2级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -7877,11 +8097,11 @@
     "level": 2,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7897,7 +8117,7 @@
   },
   "15003": {
     "id": 15003,
-    "zh_cn_name": "环球商务部3级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -7905,11 +8125,11 @@
     "level": 3,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7925,7 +8145,7 @@
   },
   "15004": {
     "id": 15004,
-    "zh_cn_name": "环球商务部4级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -7933,11 +8153,11 @@
     "level": 4,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7953,7 +8173,7 @@
   },
   "15005": {
     "id": 15005,
-    "zh_cn_name": "环球商务部5级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -7961,11 +8181,11 @@
     "level": 5,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -7981,7 +8201,7 @@
   },
   "15006": {
     "id": 15006,
-    "zh_cn_name": "环球商务部6级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -7989,11 +8209,11 @@
     "level": 6,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8009,7 +8229,7 @@
   },
   "15007": {
     "id": 15007,
-    "zh_cn_name": "环球商务部7级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8017,11 +8237,11 @@
     "level": 7,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8037,7 +8257,7 @@
   },
   "15008": {
     "id": 15008,
-    "zh_cn_name": "环球商务部8级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8045,11 +8265,11 @@
     "level": 8,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8065,7 +8285,7 @@
   },
   "15009": {
     "id": 15009,
-    "zh_cn_name": "环球商务部9级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8073,11 +8293,11 @@
     "level": 9,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8093,7 +8313,7 @@
   },
   "15010": {
     "id": 15010,
-    "zh_cn_name": "环球商务部10级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8101,11 +8321,11 @@
     "level": 10,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8121,7 +8341,7 @@
   },
   "15011": {
     "id": 15011,
-    "zh_cn_name": "环球商务部11级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8129,11 +8349,11 @@
     "level": 11,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8149,7 +8369,7 @@
   },
   "15012": {
     "id": 15012,
-    "zh_cn_name": "环球商务部12级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8157,11 +8377,11 @@
     "level": 12,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8177,7 +8397,7 @@
   },
   "15013": {
     "id": 15013,
-    "zh_cn_name": "环球商务部13级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8185,11 +8405,11 @@
     "level": 13,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8205,7 +8425,7 @@
   },
   "15014": {
     "id": 15014,
-    "zh_cn_name": "环球商务部14级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8213,11 +8433,11 @@
     "level": 14,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8233,7 +8453,7 @@
   },
   "15015": {
     "id": 15015,
-    "zh_cn_name": "环球商务部15级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8241,11 +8461,11 @@
     "level": 15,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8261,7 +8481,7 @@
   },
   "15016": {
     "id": 15016,
-    "zh_cn_name": "环球商务部16级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8269,11 +8489,11 @@
     "level": 16,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8289,7 +8509,7 @@
   },
   "15017": {
     "id": 15017,
-    "zh_cn_name": "环球商务部17级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8297,11 +8517,11 @@
     "level": 17,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8317,7 +8537,7 @@
   },
   "15018": {
     "id": 15018,
-    "zh_cn_name": "环球商务部18级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8325,11 +8545,11 @@
     "level": 18,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8345,7 +8565,7 @@
   },
   "15019": {
     "id": 15019,
-    "zh_cn_name": "环球商务部19级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8353,11 +8573,11 @@
     "level": 19,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8373,7 +8593,7 @@
   },
   "15020": {
     "id": 15020,
-    "zh_cn_name": "环球商务部20级",
+    "zh_cn_name": "环球商务部",
     "type": 15,
     "function_open": [
       0
@@ -8381,11 +8601,11 @@
     "level": 20,
     "cost": [
       {
-        "itemId": 2,
-        "itemNum": 100
+        "itemId": 9002,
+        "itemNum": 10
       },
       {
-        "itemId": 3,
+        "itemId": 1,
         "itemNum": 100
       }
     ],
@@ -8398,565 +8618,5 @@
     ],
     "effect_tips": "环球商务部作用",
     "level_tips": "环球商务部效果"
-  },
-  "16001": {
-    "id": 16001,
-    "zh_cn_name": "收藏室1级",
-    "type": 16,
-    "function_open": [
-      16
-    ],
-    "level": 1,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 1,
-    "type_level": "16:0",
-    "block_req": 5,
-    "UI": true,
-    "effect_id": [
-      1600101
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16002": {
-    "id": 16002,
-    "zh_cn_name": "收藏室2级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 2,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 1,
-    "type_level": "16:1",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600201
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16003": {
-    "id": 16003,
-    "zh_cn_name": "收藏室3级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 3,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 1,
-    "type_level": "16:2",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600301
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16004": {
-    "id": 16004,
-    "zh_cn_name": "收藏室4级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 4,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 10,
-    "type_level": "16:3",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600401
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16005": {
-    "id": 16005,
-    "zh_cn_name": "收藏室5级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 5,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 10,
-    "type_level": "16:4",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600501
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16006": {
-    "id": 16006,
-    "zh_cn_name": "收藏室6级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 6,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 10,
-    "type_level": "16:5",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600601
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16007": {
-    "id": 16007,
-    "zh_cn_name": "收藏室7级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 7,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 20,
-    "type_level": "16:6",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600701
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16008": {
-    "id": 16008,
-    "zh_cn_name": "收藏室8级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 8,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 20,
-    "type_level": "16:7",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600801
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16009": {
-    "id": 16009,
-    "zh_cn_name": "收藏室9级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 9,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 20,
-    "type_level": "16:8",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1600901
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16010": {
-    "id": 16010,
-    "zh_cn_name": "收藏室10级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 10,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 40,
-    "type_level": "16:9",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601001
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16011": {
-    "id": 16011,
-    "zh_cn_name": "收藏室11级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 11,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 40,
-    "type_level": "16:10",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601101
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16012": {
-    "id": 16012,
-    "zh_cn_name": "收藏室12级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 12,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 40,
-    "type_level": "16:11",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601201
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16013": {
-    "id": 16013,
-    "zh_cn_name": "收藏室13级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 13,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 60,
-    "type_level": "16:12",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601301
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16014": {
-    "id": 16014,
-    "zh_cn_name": "收藏室14级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 14,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 60,
-    "type_level": "16:13",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601401
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16015": {
-    "id": 16015,
-    "zh_cn_name": "收藏室15级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 15,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 60,
-    "type_level": "16:14",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601501
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16016": {
-    "id": 16016,
-    "zh_cn_name": "收藏室16级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 16,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 80,
-    "type_level": "16:15",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601601
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16017": {
-    "id": 16017,
-    "zh_cn_name": "收藏室17级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 17,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 80,
-    "type_level": "16:16",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601701
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16018": {
-    "id": 16018,
-    "zh_cn_name": "收藏室18级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 18,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 80,
-    "type_level": "16:17",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601801
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16019": {
-    "id": 16019,
-    "zh_cn_name": "收藏室19级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 19,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 100,
-    "type_level": "16:18",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1601901
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
-  },
-  "16020": {
-    "id": 16020,
-    "zh_cn_name": "收藏室20级",
-    "type": 16,
-    "function_open": [
-      0
-    ],
-    "level": 20,
-    "cost": [
-      {
-        "itemId": 2,
-        "itemNum": 100
-      },
-      {
-        "itemId": 3,
-        "itemNum": 100
-      }
-    ],
-    "level_req": 100,
-    "type_level": "16:19",
-    "block_req": 5,
-    "UI": false,
-    "effect_id": [
-      1602001
-    ],
-    "effect_tips": "收藏室作用",
-    "level_tips": "收藏室效果"
   }
 }

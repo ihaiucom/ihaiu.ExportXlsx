@@ -3,7 +3,7 @@
     "id": 1,
     "zh_cn_name": "钻石",
     "zh_cn_item_des": "钻石",
-    "icon": 0,
+    "icon": 2001,
     "star": 0,
     "type": 1,
     "max_num": 0,
@@ -11,6 +11,7 @@
       6,
       10
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -27,7 +28,7 @@
     "id": 2,
     "zh_cn_name": "金币",
     "zh_cn_item_des": "金币",
-    "icon": 0,
+    "icon": 2002,
     "star": 0,
     "type": 2,
     "max_num": 0,
@@ -36,6 +37,7 @@
       5,
       15
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -52,13 +54,14 @@
     "id": 3,
     "zh_cn_name": "美元",
     "zh_cn_item_des": "美元",
-    "icon": 0,
+    "icon": 2003,
     "star": 0,
     "type": 3,
     "max_num": 0,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -75,13 +78,62 @@
     "id": 4,
     "zh_cn_name": "拍摄许可证",
     "zh_cn_item_des": "拍摄许可证",
-    "icon": 0,
+    "icon": 2004,
     "star": 0,
     "type": 10,
     "max_num": 2,
     "get_way": [
       0
     ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "5": {
+    "id": 5,
+    "zh_cn_name": "粉丝",
+    "zh_cn_item_des": "粉丝",
+    "icon": 0,
+    "star": 0,
+    "type": 11,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
+  "6": {
+    "id": 6,
+    "zh_cn_name": "点赞",
+    "zh_cn_item_des": "点赞",
+    "icon": 0,
+    "star": 0,
+    "type": 12,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -98,13 +150,14 @@
     "id": 4001,
     "zh_cn_name": "科幻片激光器",
     "zh_cn_item_des": "科幻片激光器",
-    "icon": 0,
+    "icon": 2005,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -121,13 +174,14 @@
     "id": 4002,
     "zh_cn_name": "奇幻片魔法剑",
     "zh_cn_item_des": "奇幻片魔法剑",
-    "icon": 0,
+    "icon": 2006,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -144,13 +198,14 @@
     "id": 4003,
     "zh_cn_name": "现代片钢笔",
     "zh_cn_item_des": "现代片钢笔",
-    "icon": 0,
+    "icon": 2007,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -167,13 +222,14 @@
     "id": 4004,
     "zh_cn_name": "励志片名言T恤",
     "zh_cn_item_des": "励志片名言T恤",
-    "icon": 0,
+    "icon": 2008,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -190,13 +246,14 @@
     "id": 4005,
     "zh_cn_name": "战争片勋章",
     "zh_cn_item_des": "战争片勋章",
-    "icon": 0,
+    "icon": 2009,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -213,13 +270,14 @@
     "id": 4006,
     "zh_cn_name": "冒险片牛仔帽",
     "zh_cn_item_des": "冒险片牛仔帽",
-    "icon": 0,
+    "icon": 2010,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -236,13 +294,14 @@
     "id": 4007,
     "zh_cn_name": "古装片铠甲",
     "zh_cn_item_des": "古装片铠甲",
-    "icon": 0,
+    "icon": 2011,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -259,13 +318,14 @@
     "id": 4008,
     "zh_cn_name": "犯罪片头套",
     "zh_cn_item_des": "犯罪片头套",
-    "icon": 0,
+    "icon": 2012,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -282,13 +342,14 @@
     "id": 4009,
     "zh_cn_name": "谍战片墨镜",
     "zh_cn_item_des": "谍战片墨镜",
-    "icon": 0,
+    "icon": 2013,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -305,13 +366,14 @@
     "id": 4010,
     "zh_cn_name": "灾难片手电筒",
     "zh_cn_item_des": "灾难片手电筒",
-    "icon": 0,
+    "icon": 2014,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -328,13 +390,14 @@
     "id": 4011,
     "zh_cn_name": "叙事片明信片",
     "zh_cn_item_des": "叙事片明信片",
-    "icon": 0,
+    "icon": 2015,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -351,13 +414,14 @@
     "id": 4012,
     "zh_cn_name": "喜剧片气球",
     "zh_cn_item_des": "喜剧片气球",
-    "icon": 0,
+    "icon": 2016,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -374,13 +438,14 @@
     "id": 4013,
     "zh_cn_name": "动作片沙袋",
     "zh_cn_item_des": "动作片沙袋",
-    "icon": 0,
+    "icon": 2017,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -397,13 +462,14 @@
     "id": 4014,
     "zh_cn_name": "爱情片海报",
     "zh_cn_item_des": "爱情片海报",
-    "icon": 0,
+    "icon": 2018,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -420,13 +486,14 @@
     "id": 4015,
     "zh_cn_name": "动画片音乐CD",
     "zh_cn_item_des": "动画片音乐CD",
-    "icon": 0,
+    "icon": 2019,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -443,13 +510,14 @@
     "id": 4016,
     "zh_cn_name": "悬疑片手铐",
     "zh_cn_item_des": "悬疑片手铐",
-    "icon": 0,
+    "icon": 2020,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -466,13 +534,14 @@
     "id": 4017,
     "zh_cn_name": "恐怖片面具",
     "zh_cn_item_des": "恐怖片面具",
-    "icon": 0,
+    "icon": 2021,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -489,13 +558,14 @@
     "id": 4018,
     "zh_cn_name": "动画片公仔",
     "zh_cn_item_des": "动画片公仔",
-    "icon": 0,
+    "icon": 2022,
     "star": 0,
     "type": 4,
     "max_num": 9999,
     "get_way": [
       6
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -512,7 +582,7 @@
     "id": 6101,
     "zh_cn_name": "1星潮流耳机",
     "zh_cn_item_des": "1星潮流耳机",
-    "icon": 0,
+    "icon": 2023,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -520,6 +590,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -536,7 +607,7 @@
     "id": 6102,
     "zh_cn_name": "1星雕塑",
     "zh_cn_item_des": "1星雕塑",
-    "icon": 0,
+    "icon": 2024,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -544,6 +615,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -560,7 +632,7 @@
     "id": 6103,
     "zh_cn_name": "1星瓷器",
     "zh_cn_item_des": "1星瓷器",
-    "icon": 0,
+    "icon": 2025,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -568,6 +640,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -584,7 +657,7 @@
     "id": 6104,
     "zh_cn_name": "1星领带",
     "zh_cn_item_des": "1星领带",
-    "icon": 0,
+    "icon": 2026,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -592,6 +665,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -608,7 +682,7 @@
     "id": 6105,
     "zh_cn_name": "1星手提包",
     "zh_cn_item_des": "1星手提包",
-    "icon": 0,
+    "icon": 2027,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -616,6 +690,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -632,7 +707,7 @@
     "id": 6106,
     "zh_cn_name": "1星运动鞋",
     "zh_cn_item_des": "1星运动鞋",
-    "icon": 0,
+    "icon": 2028,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -640,6 +715,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -656,7 +732,7 @@
     "id": 6107,
     "zh_cn_name": "1星单反相机",
     "zh_cn_item_des": "1星单反相机",
-    "icon": 0,
+    "icon": 2029,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -664,6 +740,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -680,7 +757,7 @@
     "id": 6108,
     "zh_cn_name": "1星油画",
     "zh_cn_item_des": "1星油画",
-    "icon": 0,
+    "icon": 2030,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -688,6 +765,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -704,7 +782,7 @@
     "id": 6109,
     "zh_cn_name": "1星茶具",
     "zh_cn_item_des": "1星茶具",
-    "icon": 0,
+    "icon": 2031,
     "star": 1,
     "type": 6,
     "max_num": 9999,
@@ -712,6 +790,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -728,7 +807,7 @@
     "id": 6201,
     "zh_cn_name": "2星潮流耳机",
     "zh_cn_item_des": "2星潮流耳机",
-    "icon": 0,
+    "icon": 2023,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -736,6 +815,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -752,7 +832,7 @@
     "id": 6202,
     "zh_cn_name": "2星雕塑",
     "zh_cn_item_des": "2星雕塑",
-    "icon": 0,
+    "icon": 2024,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -760,6 +840,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -776,7 +857,7 @@
     "id": 6203,
     "zh_cn_name": "2星瓷器",
     "zh_cn_item_des": "2星瓷器",
-    "icon": 0,
+    "icon": 2025,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -784,6 +865,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -800,7 +882,7 @@
     "id": 6204,
     "zh_cn_name": "2星领带",
     "zh_cn_item_des": "2星领带",
-    "icon": 0,
+    "icon": 2026,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -808,6 +890,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -824,7 +907,7 @@
     "id": 6205,
     "zh_cn_name": "2星手提包",
     "zh_cn_item_des": "2星手提包",
-    "icon": 0,
+    "icon": 2027,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -832,6 +915,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -848,7 +932,7 @@
     "id": 6206,
     "zh_cn_name": "2星运动鞋",
     "zh_cn_item_des": "2星运动鞋",
-    "icon": 0,
+    "icon": 2028,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -856,6 +940,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -872,7 +957,7 @@
     "id": 6207,
     "zh_cn_name": "2星单反相机",
     "zh_cn_item_des": "2星单反相机",
-    "icon": 0,
+    "icon": 2029,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -880,6 +965,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -896,7 +982,7 @@
     "id": 6208,
     "zh_cn_name": "2星油画",
     "zh_cn_item_des": "2星油画",
-    "icon": 0,
+    "icon": 2030,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -904,6 +990,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -920,7 +1007,7 @@
     "id": 6209,
     "zh_cn_name": "2星茶具",
     "zh_cn_item_des": "2星茶具",
-    "icon": 0,
+    "icon": 2031,
     "star": 2,
     "type": 6,
     "max_num": 9999,
@@ -928,6 +1015,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -944,7 +1032,7 @@
     "id": 6301,
     "zh_cn_name": "3星潮流耳机",
     "zh_cn_item_des": "3星潮流耳机",
-    "icon": 0,
+    "icon": 2023,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -952,6 +1040,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -968,7 +1057,7 @@
     "id": 6302,
     "zh_cn_name": "3星雕塑",
     "zh_cn_item_des": "3星雕塑",
-    "icon": 0,
+    "icon": 2024,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -976,6 +1065,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -992,7 +1082,7 @@
     "id": 6303,
     "zh_cn_name": "3星瓷器",
     "zh_cn_item_des": "3星瓷器",
-    "icon": 0,
+    "icon": 2025,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1000,6 +1090,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1016,7 +1107,7 @@
     "id": 6304,
     "zh_cn_name": "3星领带",
     "zh_cn_item_des": "3星领带",
-    "icon": 0,
+    "icon": 2026,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1024,6 +1115,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1040,7 +1132,7 @@
     "id": 6305,
     "zh_cn_name": "3星手提包",
     "zh_cn_item_des": "3星手提包",
-    "icon": 0,
+    "icon": 2027,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1048,6 +1140,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1064,7 +1157,7 @@
     "id": 6306,
     "zh_cn_name": "3星运动鞋",
     "zh_cn_item_des": "3星运动鞋",
-    "icon": 0,
+    "icon": 2028,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1072,6 +1165,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1088,7 +1182,7 @@
     "id": 6307,
     "zh_cn_name": "3星单反相机",
     "zh_cn_item_des": "3星单反相机",
-    "icon": 0,
+    "icon": 2029,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1096,6 +1190,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1112,7 +1207,7 @@
     "id": 6308,
     "zh_cn_name": "3星油画",
     "zh_cn_item_des": "3星油画",
-    "icon": 0,
+    "icon": 2030,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1120,6 +1215,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1136,7 +1232,7 @@
     "id": 6309,
     "zh_cn_name": "3星茶具",
     "zh_cn_item_des": "3星茶具",
-    "icon": 0,
+    "icon": 2031,
     "star": 3,
     "type": 6,
     "max_num": 9999,
@@ -1144,6 +1240,7 @@
       3,
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1160,7 +1257,7 @@
     "id": 9001,
     "zh_cn_name": "砖头",
     "zh_cn_item_des": "砖头",
-    "icon": 0,
+    "icon": 2032,
     "star": 0,
     "type": 9,
     "max_num": 9999,
@@ -1169,6 +1266,7 @@
       12,
       15
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1185,7 +1283,7 @@
     "id": 9002,
     "zh_cn_name": "玻璃",
     "zh_cn_item_des": "玻璃",
-    "icon": 0,
+    "icon": 2033,
     "star": 0,
     "type": 9,
     "max_num": 9999,
@@ -1194,6 +1292,7 @@
       12,
       14
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1210,7 +1309,7 @@
     "id": 9003,
     "zh_cn_name": "水泥",
     "zh_cn_item_des": "水泥",
-    "icon": 0,
+    "icon": 2034,
     "star": 0,
     "type": 9,
     "max_num": 9999,
@@ -1218,6 +1317,7 @@
       3,
       11
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1234,13 +1334,14 @@
     "id": 9004,
     "zh_cn_name": "木材",
     "zh_cn_item_des": "木材",
-    "icon": 0,
+    "icon": 2035,
     "star": 0,
     "type": 9,
     "max_num": 9999,
     "get_way": [
       7
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1257,13 +1358,14 @@
     "id": 5001,
     "zh_cn_name": "培养卡",
     "zh_cn_item_des": "培养卡",
-    "icon": 0,
+    "icon": 2036,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1280,13 +1382,14 @@
     "id": 5002,
     "zh_cn_name": "邀请函",
     "zh_cn_item_des": "邀请函",
-    "icon": 0,
+    "icon": 2037,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1303,13 +1406,14 @@
     "id": 5003,
     "zh_cn_name": "忠诚卡",
     "zh_cn_item_des": "忠诚卡",
-    "icon": 0,
+    "icon": 2038,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1326,13 +1430,14 @@
     "id": 5004,
     "zh_cn_name": "进修券",
     "zh_cn_item_des": "进修券",
-    "icon": 0,
+    "icon": 2039,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1349,13 +1454,14 @@
     "id": 5005,
     "zh_cn_name": "宣传册",
     "zh_cn_item_des": "宣传册",
-    "icon": 0,
+    "icon": 2040,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1372,13 +1478,14 @@
     "id": 5006,
     "zh_cn_name": "喇叭",
     "zh_cn_item_des": "喇叭",
-    "icon": 0,
+    "icon": 2041,
     "star": 0,
     "type": 5,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": false,
     "use_type": 0,
     "reward": [
       {
@@ -1391,17 +1498,42 @@
     "actor_id": 0,
     "actor_num": 0
   },
+  "5007": {
+    "id": 5007,
+    "zh_cn_name": "星探卡",
+    "zh_cn_item_des": "星探卡",
+    "icon": 0,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0
+  },
   "8001": {
     "id": 8001,
     "zh_cn_name": "一星资产礼包",
     "zh_cn_item_des": "一星资产礼包",
-    "icon": 0,
+    "icon": 2042,
     "star": 0,
     "type": 8,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": true,
     "use_type": 2,
     "reward": [
       {
@@ -1451,13 +1583,14 @@
     "id": 8002,
     "zh_cn_name": "二星资产礼包",
     "zh_cn_item_des": "二星资产礼包",
-    "icon": 0,
+    "icon": 2042,
     "star": 0,
     "type": 8,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": true,
     "use_type": 2,
     "reward": [
       {
@@ -1507,13 +1640,14 @@
     "id": 8003,
     "zh_cn_name": "三星资产礼包",
     "zh_cn_item_des": "三星资产礼包",
-    "icon": 0,
+    "icon": 2042,
     "star": 0,
     "type": 8,
     "max_num": 9999,
     "get_way": [
       0
     ],
+    "can_use": true,
     "use_type": 2,
     "reward": [
       {

@@ -1,4 +1,75 @@
 ﻿int	string	string	string	string	string	string	string	string
 ID	英文名称	中文名称	半身像	小图标	碎片图标	模型_皮肤	模型_骨骼	场景_图片
-id	en_name	cn_name	icon	mini_icon	piece_icon	model_skin	model_bones	bg_pic
-1001	Superman	超人	abc/001	abc/001	abc/001	abc/001	abc/001	
+id	en_name	zh_cn_name	icon	mini_icon	piece_icon	model_skin	model_bones	bg_pic
+1		有所耳闻						
+2		翘首以待						
+3		万众瞩目						
+4		一票难求						
+9998	NPCMale	男NPC	PlayerBodyIcon/npc1			Npc/Man_02/2003_Male	Bones/Man_02	
+9999	NPCFemale	女NPC	PlayerBodyIcon/npc2			Npc/Female_01/2004_Famle	Bones/Female_01	
+1001	Sven	美队	ActorBodyIcon/Sven	ActorHeadIcon/Sven		Actor/Man_01/1001_Sven	Bones/Man_01	
+2001		钻石		ItemIcon/icon_1				
+2002		金币		ItemIcon/icon_2				
+2003		美元		ItemIcon/icon_3				
+2004		拍摄许可证		ItemIcon/icon_4				
+2005		科幻片激光器		ItemIcon/icon_4001				
+2006		奇幻片魔法剑		ItemIcon/icon_4002				
+2007		现代片钢笔		ItemIcon/icon_4003				
+2008		励志片名言T恤		ItemIcon/icon_4004				
+2009		战争片勋章		ItemIcon/icon_4005				
+2010		冒险片牛仔帽		ItemIcon/icon_4006				
+2011		古装片铠甲		ItemIcon/icon_4007				
+2012		犯罪片头套		ItemIcon/icon_4008				
+2013		谍战片墨镜		ItemIcon/icon_4009				
+2014		灾难片手电筒		ItemIcon/icon_4010				
+2015		叙事片明信片		ItemIcon/icon_4011				
+2016		喜剧片气球		ItemIcon/icon_4012				
+2017		动作片沙袋		ItemIcon/icon_4013				
+2018		爱情片海报		ItemIcon/icon_4014				
+2019		动画片音乐CD		ItemIcon/icon_4015				
+2020		悬疑片手铐		ItemIcon/icon_4016				
+2021		恐怖片面具		ItemIcon/icon_4017				
+2022		动画片公仔		ItemIcon/icon_4018				
+2023		潮流耳机		ItemIcon/icon_6001				
+2024		雕塑		ItemIcon/icon_6002				
+2025		瓷器		ItemIcon/icon_6003				
+2026		领带		ItemIcon/icon_6004				
+2027		手提包		ItemIcon/icon_6005				
+2028		运动鞋		ItemIcon/icon_6006				
+2029		单反相机		ItemIcon/icon_6007				
+2030		油画		ItemIcon/icon_6008				
+2031		茶具		ItemIcon/icon_6009				
+2032		砖头		ItemIcon/icon_9001				
+2033		玻璃		ItemIcon/icon_9002				
+2034		水泥		ItemIcon/icon_9003				
+2035		木材		ItemIcon/icon_9004				
+2036		培养卡		ItemIcon/icon_5001				
+2037		邀请函		ItemIcon/icon_5002				
+2038		忠诚卡		ItemIcon/icon_5003				
+2039		进修券		ItemIcon/icon_5004				
+2040		宣传册		ItemIcon/icon_5005				
+2041		喇叭		ItemIcon/icon_5006				
+2042		资产礼包		ItemIcon/icon_8001				
+3001		万达影城						
+3002		锦豪影城						
+3003		良才院线						
+3004		小钥影院						
+3005		阿宇影院						
+3006		双木影院						
+3007		凡威影院						
+3008		RINZ影院						
+3009		立秋院线						
+3010		春茂影院						
+3011		三茂影城						
+3012		璐璐影院						
+3013		昕昕影院						
+3014		艾米院线						
+3015		天行影城						
+3016		宙斯影城						
+3017		万达影城						
+3018		值尚院线						
+4001		街区						
+4002		城镇						
+4003		州省						
+4004		全国						
+4005		世界						

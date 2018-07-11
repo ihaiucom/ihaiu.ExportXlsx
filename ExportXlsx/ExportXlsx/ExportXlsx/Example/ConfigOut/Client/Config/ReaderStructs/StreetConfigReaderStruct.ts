@@ -32,7 +32,7 @@ namespace configs
 			config.publicize_schedule = csvGetInt(csv,  this.GetHeadIndex(  "publicize_schedule"  )   );
 			config.publicize_cost = csvGetInt(csv,  this.GetHeadIndex(  "publicize_cost"  )   );
 			config.once_reward = csvGetInt(csv,  this.GetHeadIndex(  "once_reward"  )   );
-			config.finale_reward = csvGetInt(csv,  this.GetHeadIndex(  "finale_reward"  )   );
+			config.finale_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "finale_reward"  )   )   );
 			config.expect = csvGetInt(csv,  this.GetHeadIndex(  "expect"  )   );
 			config.pre_id = csvGetInt(csv,  this.GetHeadIndex(  "pre_id"  )   );
 			config.next_stage = csvGetInt(csv,  this.GetHeadIndex(  "next_stage"  )   );

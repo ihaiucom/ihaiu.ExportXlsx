@@ -1,32 +1,32 @@
-﻿int	string	string	string	int	int	boolean	int	int	int	int[]
-id	功能名称	图标	模块名称	层级	关闭其他面板	是否关闭主界面	缓存时间	加载面板类型	test	test2
-id	zh_cn_name	icon	moduleName	layer	closeOtherType	closeHomeWindow	cacheTime	loaderId	101	102
-1	主界面		Main	2	0	0	0	4	1	1;2
-2	放映								2	2;4
-3	拍摄		War	3	0	0	0	4	3	1;2
-4	艺人		ArtistList	3	0	0	0	4	4	
-5	星探								5	
-6	生产								6	
-7	市场		Market	3	0	0	0	4	7	
-8	日程									
-9	每日目标									
-10	仓库		Bag	3	0	0	0	4		
-11	订单									
-12	合作									
-13	公务									
-14	粉丝									
-15	会议									
-16	财务兑换									
-17	训练									
-18	宝物									
-19	街区		Block							
-20	角色信息		PlayerInfo	3	0	0	0	4		
-101	登录		Login	3	3	1	0	2		
-102	创建角色		CreateRole	3	3	1	0	2		
-401	艺人详情		ArtistDetail	3	0	0	0	4		
-402	艺人介绍		ActorDetail	3	0	0	0	4		
-403	艺人雪藏		ArtistFrozen	3	0	0	0	4		
-404	艺人招募		ArtistScoutResult	3	0	0	0	4		
-405	艺人招募成功		ArtistScoutSuccess	5	0	0	0	4		
-406	艺人培训		ArtistTrain	3	0	0	0	4		
-407	艺人培训结果		ArtistTrainResult	5	0	0	0			
+﻿int	string	string	string	int	int	boolean	int	int
+id	功能名称	图标	模块名称	层级	关闭其他面板	是否关闭主界面	缓存时间	加载面板类型
+id	zh_cn_name	icon	moduleName	layer	closeOtherType	closeHomeWindow	cacheTime	loaderId
+1	主界面		Main	2	0	0	0	4
+2	放映							
+3	拍摄		War	3	0	0	0	4
+4	艺人		ArtistList	3	0	0	0	4
+5	星探							
+6	生产							
+7	市场		Market	3	0	0	0	4
+8	日程							
+9	每日目标							
+10	仓库		Bag	3	0	0	0	4
+11	订单							
+12	合作							
+13	公务							
+14	粉丝							
+15	会议							
+16	财务兑换							
+17	训练							
+18	宝物							
+19	街区		Block					
+20	角色信息		PlayerInfo	3	0	0	0	4
+101	登录		Login	3	3	1	0	2
+102	创建角色		CreateRole	3	3	1	0	2
+401	艺人详情		ArtistDetail	3	0	0	0	4
+402	艺人介绍		ActorDetail	3	0	0	0	4
+403	艺人雪藏		ArtistFrozen	3	0	0	0	4
+404	艺人招募		ArtistScoutResult	3	0	0	0	4
+405	艺人招募成功		ArtistScoutSuccess	5	0	0	0	4
+406	艺人培训		ArtistTrain	3	0	0	0	4
+407	艺人培训结果		ArtistTrainResult	5	0	0	0	

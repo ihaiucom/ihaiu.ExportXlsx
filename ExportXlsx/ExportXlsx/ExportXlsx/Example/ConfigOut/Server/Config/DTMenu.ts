@@ -16,7 +16,5 @@ namespace configs
 		closeHomeWindow : boolean;
 		cacheTime : number;
 		loaderId : number;
-		101 : number;
-		102 : number[];
 	}
 }

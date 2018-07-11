@@ -37,7 +37,7 @@ namespace configs
 			config.male_percent = csvGetInt(csv,  this.GetHeadIndex(  "male_percent"  )   );
 			config.female_percent = csvGetInt(csv,  this.GetHeadIndex(  "female_percent"  )   );
 			config.child_percent = csvGetInt(csv,  this.GetHeadIndex(  "child_percent"  )   );
-			config.reward =  DTStoryEffect.parse(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.reward =  DTStoryEffect.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.sequel_mark = csvGetBoolean(csv,  this.GetHeadIndex(  "sequel_mark"  )   );
 			config.interviews_bottom = csvGetInt(csv,  this.GetHeadIndex(  "interviews_bottom"  )   );
 			config.interviews_top = csvGetInt(csv,  this.GetHeadIndex(  "interviews_top"  )   );

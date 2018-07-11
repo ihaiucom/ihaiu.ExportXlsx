@@ -561,45 +561,94 @@
   },
   "1097": {
     "id": 1097,
-    "key": "",
+    "key": "null_id",
     "module": "合作",
     "name": "id无效",
     "zh_cn_notice": "无效的id"
   },
   "1098": {
     "id": 1098,
-    "key": "",
+    "key": "cooperated_player",
     "module": "合作",
     "name": "目标玩家已合作",
     "zh_cn_notice": "该玩家已有合作伙伴！"
   },
   "1099": {
     "id": 1099,
-    "key": "",
+    "key": "no_cooperation_num",
     "module": "合作",
     "name": "本周合作次数不足",
     "zh_cn_notice": "本周合作伙伴太多了，请等待下周吧！"
   },
   "1100": {
     "id": 1100,
-    "key": "",
+    "key": "no_cooperation_orders",
     "module": "合作",
     "name": "没有未完成的订单",
     "zh_cn_notice": "没有未完成的订单"
   },
   "1101": {
     "id": 1101,
-    "key": "",
+    "key": "relieve_cooperation",
     "module": "合作",
     "name": "解除合作",
     "zh_cn_notice": "是否解除合作关系？\\n注意：每周只能和三家不同的公司进行合作"
   },
   "1102": {
     "id": 1102,
-    "key": "",
+    "key": "repetition_cooperation",
     "module": "合作",
     "name": "重复邀请",
     "zh_cn_notice": "邀请已发送，请等待对方回应"
+  },
+  "1103": {
+    "id": 1103,
+    "key": "null_actor_send",
+    "module": "仓库",
+    "name": "赠送资产",
+    "zh_cn_notice": "请选择艺人"
+  },
+  "1104": {
+    "id": 1104,
+    "key": "build_confirm",
+    "module": "建筑",
+    "name": "建造确认",
+    "zh_cn_notice": "是否建造{0}？"
+  },
+  "1105": {
+    "id": 1105,
+    "key": "non_material",
+    "module": "建筑",
+    "name": "材料不足",
+    "zh_cn_notice": "{0}数量不足"
+  },
+  "1106": {
+    "id": 1106,
+    "key": "non_level",
+    "module": "建筑",
+    "name": "等级不足",
+    "zh_cn_notice": "需要公司等级{0}"
+  },
+  "1107": {
+    "id": 1107,
+    "key": "non_prebuilding",
+    "module": "建筑",
+    "name": "没有前置建筑",
+    "zh_cn_notice": "需要建造{0}"
+  },
+  "1108": {
+    "id": 1108,
+    "key": "non_block",
+    "module": "建筑",
+    "name": "街区档次不足",
+    "zh_cn_notice": "需要提升到{0}"
+  },
+  "1109": {
+    "id": 1109,
+    "key": "be_builded",
+    "module": "建筑",
+    "name": "房间已建造提示",
+    "zh_cn_notice": "已建造"
   },
   "2022": {
     "id": 2022,
@@ -698,6 +747,27 @@
     "module": "市场",
     "name": "艺人数值不达标",
     "zh_cn_notice": "我的能力没达到要求，无法担此重任"
+  },
+  "2051": {
+    "id": 2051,
+    "key": "market_envoy_wrong5",
+    "module": "市场",
+    "name": "艺人性别不对",
+    "zh_cn_notice": "我的性别不符合要求，无法担此重任"
+  },
+  "2052": {
+    "id": 2052,
+    "key": "market_dollar_less",
+    "module": "市场",
+    "name": "美元不足",
+    "zh_cn_notice": "美元不足"
+  },
+  "2053": {
+    "id": 2053,
+    "key": "market_show_failure",
+    "module": "市场",
+    "name": "路演失败",
+    "zh_cn_notice": "路演失败，请升级艺人"
   },
   "2036": {
     "id": 2036,

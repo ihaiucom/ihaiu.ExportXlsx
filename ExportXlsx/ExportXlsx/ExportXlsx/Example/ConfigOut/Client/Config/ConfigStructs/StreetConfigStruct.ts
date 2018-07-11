@@ -25,7 +25,7 @@ namespace configs
 		publicize_schedule : number;
 		publicize_cost : number;
 		once_reward : number;
-		finale_reward : number;
+		finale_reward : DTItemNum[];
 		expect : number;
 		pre_id : number;
 		next_stage : number;

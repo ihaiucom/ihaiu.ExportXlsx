@@ -62,7 +62,8 @@
     "character": "1902:3:1601;1904:2:1601;1907:2:1602;1919:3:1602;1926:2:1603;1937:2:1603;1948:3:1603",
     "surprise": 1902,
     "cost": {
-      "itemId": 50000
+      "itemId": 6,
+      "itemNum": 50000
     },
     "recruit_reward": [
       {
@@ -75,7 +76,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 5000
+      "itemId": 6,
+      "itemNum": 5000
     },
     "random_value": 100,
     "exp": 0,
@@ -83,8 +85,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "安吉丽娜·朱莉（Angelina Jolie） [1]  ，本名安吉丽娜·朱莉·沃伊特，1975年6月4日出生于美国洛杉矶，毕业于李·斯特拉斯伯格戏剧与电影研究所和纽约大学电影学院，好莱坞电影明星、社会活动家、联合国难民署高级专员特使，英国伦敦政治经济学院“实践客座教授”。",
-    "cn_tips": "5"
+    "en_tips": "0",
+    "cn_tips": "安吉丽娜·朱莉（Angelina Jolie） [1]  ，本名安吉丽娜·朱莉·沃伊特，1975年6月4日出生于美国洛杉矶，毕业于李·斯特拉斯伯格戏剧与电影研究所和纽约大学电影学院，好莱坞电影明星、社会活动家、联合国难民署高级专员特使，英国伦敦政治经济学院“实践客座教授”。"
   },
   "1002": {
     "id": 1002,
@@ -108,7 +110,8 @@
     "character": "1901:2:1601;1907:3:1601;1910:2:1602;1913:3:1602;1919:2:1603;1926:3:1603;1928:2:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 50000
+      "itemId": 6,
+      "itemNum": 50000
     },
     "recruit_reward": [
       {
@@ -121,7 +124,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 5000
+      "itemId": 6,
+      "itemNum": 5000
     },
     "random_value": 100,
     "exp": 0,
@@ -129,8 +133,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "2011年，克里斯·埃文斯主演漫改电影《美国队长：复仇者先锋》，片中饰演“美国队长”斯蒂夫·罗杰斯 [8]  ，其后在多部漫威电影出品的作品中饰演该角色。",
-    "cn_tips": "5"
+    "en_tips": "0",
+    "cn_tips": "2011年，克里斯·埃文斯主演漫改电影《美国队长：复仇者先锋》，片中饰演“美国队长”斯蒂夫·罗杰斯 [8]  ，其后在多部漫威电影出品的作品中饰演该角色。"
   },
   "1003": {
     "id": 1003,
@@ -154,7 +158,8 @@
     "character": "1926:2:1601;1934:2:1601;1907:2:1601;1914:2:1601;1948:2:1601;1937:2:1601;1949:2:1601",
     "surprise": 1902,
     "cost": {
-      "itemId": 50000
+      "itemId": 6,
+      "itemNum": 50000
     },
     "recruit_reward": [
       {
@@ -167,7 +172,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 5000
+      "itemId": 6,
+      "itemNum": 5000
     },
     "random_value": 100,
     "exp": 0,
@@ -175,8 +181,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "成龙，1954年4月7日出生于香港中西区，祖籍安徽省芜湖，中国香港男演员、导演、动作指导、制作人、编剧、歌手。",
-    "cn_tips": "5"
+    "en_tips": "0",
+    "cn_tips": "成龙，1954年4月7日出生于香港中西区，祖籍安徽省芜湖，中国香港男演员、导演、动作指导、制作人、编剧、歌手。"
   },
   "1004": {
     "id": 1004,
@@ -200,7 +206,8 @@
     "character": "1902:2:1601;1908:2:1602;1935:1:1603;1913:2:1601;1942:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 15000
+      "itemId": 6,
+      "itemNum": 15000
     },
     "recruit_reward": [
       {
@@ -213,7 +220,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1500
     },
     "random_value": 100,
     "exp": 0,
@@ -221,8 +229,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "艾玛·斯通（Emma Stone），1988年11月6日出生于美国亚利桑那州斯科茨代尔，美国女演员。",
-    "cn_tips": "4"
+    "en_tips": "0",
+    "cn_tips": "艾玛·斯通（Emma Stone），1988年11月6日出生于美国亚利桑那州斯科茨代尔，美国女演员。"
   },
   "1005": {
     "id": 1005,
@@ -246,7 +254,8 @@
     "character": "1923:1:1601;1930:1:1602;1911:2:1603;1922:2:1601;1931:1:1603",
     "surprise": 1902,
     "cost": {
-      "itemId": 15000
+      "itemId": 6,
+      "itemNum": 15000
     },
     "recruit_reward": [
       {
@@ -259,7 +268,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1500
     },
     "random_value": 100,
     "exp": 0,
@@ -267,8 +277,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "麦德斯·米科尔森（Mads Mikkelsen），1965年11月22日出生于哥本哈根，丹麦男演员。他被誉为“丹麦最性感的男人” [1]  。",
-    "cn_tips": "4"
+    "en_tips": "0",
+    "cn_tips": "麦德斯·米科尔森（Mads Mikkelsen），1965年11月22日出生于哥本哈根，丹麦男演员。他被誉为“丹麦最性感的男人” [1]  。"
   },
   "1006": {
     "id": 1006,
@@ -281,9 +291,9 @@
     "show_type": 1401,
     "age_type": 1502,
     "avatar": 1006,
-    "spectacle": 8,
+    "spectacle": 16,
     "perform": 8,
-    "plot": 16,
+    "plot": 8,
     "art": 8,
     "entertainment": 0,
     "skill": "1001:31;1002:101;1003:201",
@@ -292,7 +302,8 @@
     "character": "1949:2:1601;1902:2:1602;1942:1:1603;1909:1:1601;1933:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 15000
+      "itemId": 6,
+      "itemNum": 15000
     },
     "recruit_reward": [
       {
@@ -305,7 +316,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1500
     },
     "random_value": 100,
     "exp": 0,
@@ -313,8 +325,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "巩俐（Gong Li），1965年12月31日出生于辽宁省沈阳市，祖籍山东省济南市，新加坡籍华裔女演员，毕业于中央戏剧学院，联合国促进和平艺术家，联合国全球环境保护大使。",
-    "cn_tips": "4"
+    "en_tips": "0",
+    "cn_tips": "巩俐（Gong Li），1965年12月31日出生于辽宁省沈阳市，祖籍山东省济南市，新加坡籍华裔女演员，毕业于中央戏剧学院，联合国促进和平艺术家，联合国全球环境保护大使。"
   },
   "1007": {
     "id": 1007,
@@ -338,7 +350,8 @@
     "character": "1901:1:1601;1934:2:1602;1911:2:1603;1936:2:1601",
     "surprise": 1902,
     "cost": {
-      "itemId": 2000
+      "itemId": 6,
+      "itemNum": 2000
     },
     "recruit_reward": [
       {
@@ -351,7 +364,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 200
+      "itemId": 6,
+      "itemNum": 200
     },
     "random_value": 100,
     "exp": 0,
@@ -359,8 +373,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "尼古拉斯·凯奇（Nicolas Cage），1964年1月7日出生于美国加利福利亚州，美国演员。",
-    "cn_tips": "3"
+    "en_tips": "0",
+    "cn_tips": "尼古拉斯·凯奇（Nicolas Cage），1964年1月7日出生于美国加利福利亚州，美国演员。"
   },
   "1008": {
     "id": 1008,
@@ -384,7 +398,8 @@
     "character": "1932:2:1601;1909:1:1602;1910:2:1603;1943:2:1603",
     "surprise": 1902,
     "cost": {
-      "itemId": 2000
+      "itemId": 6,
+      "itemNum": 2000
     },
     "recruit_reward": [
       {
@@ -397,7 +412,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 200
+      "itemId": 6,
+      "itemNum": 200
     },
     "random_value": 100,
     "exp": 0,
@@ -405,8 +421,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "艾米莉亚·克拉克（Emilia Clarke），全名艾米莉亚·伊莎贝尔·尤菲米娅·萝丝·克拉克‬（Emilia Isabelle Euphemia Rose Clarke） [1]  ，1986年10月23日出生于英国伦敦，英国女演员。",
-    "cn_tips": "3"
+    "en_tips": "0",
+    "cn_tips": "艾米莉亚·克拉克（Emilia Clarke），全名艾米莉亚·伊莎贝尔·尤菲米娅·萝丝·克拉克‬（Emilia Isabelle Euphemia Rose Clarke） [1]  ，1986年10月23日出生于英国伦敦，英国女演员。"
   },
   "1009": {
     "id": 1009,
@@ -430,7 +446,8 @@
     "character": "1932:2:1601;1926:2:1602;1916:1:1603;1948:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 2000
+      "itemId": 6,
+      "itemNum": 2000
     },
     "recruit_reward": [
       {
@@ -443,7 +460,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 200
+      "itemId": 6,
+      "itemNum": 200
     },
     "random_value": 100,
     "exp": 0,
@@ -451,8 +469,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "章子怡，1979年2月9日出生于北京市，华语影视女演员、制片人，毕业于中央戏剧学院表演系。",
-    "cn_tips": "3"
+    "en_tips": "0",
+    "cn_tips": "章子怡，1979年2月9日出生于北京市，华语影视女演员、制片人，毕业于中央戏剧学院表演系。"
   },
   "1010": {
     "id": 1010,
@@ -476,7 +494,8 @@
     "character": "1937:1:1601;1911:1:1602;1930:2:1603",
     "surprise": 1902,
     "cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1000
     },
     "recruit_reward": [
       {
@@ -489,7 +508,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 100
+      "itemId": 6,
+      "itemNum": 100
     },
     "random_value": 100,
     "exp": 0,
@@ -497,8 +517,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "阿什顿库彻（Christopher Ashton Kutcher），1978年2月7号出生于美国爱荷华州锡达拉皮兹，美国演员、制作人。",
-    "cn_tips": "2"
+    "en_tips": "0",
+    "cn_tips": "阿什顿库彻（Christopher Ashton Kutcher），1978年2月7号出生于美国爱荷华州锡达拉皮兹，美国演员、制作人。"
   },
   "1011": {
     "id": 1011,
@@ -522,7 +542,8 @@
     "character": "1902:2:1601;1917:1:1603;1941:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1000
     },
     "recruit_reward": [
       {
@@ -535,7 +556,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 100
+      "itemId": 6,
+      "itemNum": 100
     },
     "random_value": 100,
     "exp": 0,
@@ -543,8 +565,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "尼尔·帕特里克·哈里斯（Neil Patrick Harris），1973年6月15日出生于新墨西哥州，美国影视演员、主持人。",
-    "cn_tips": "2"
+    "en_tips": "0",
+    "cn_tips": "尼尔·帕特里克·哈里斯（Neil Patrick Harris），1973年6月15日出生于新墨西哥州，美国影视演员、主持人。"
   },
   "1012": {
     "id": 1012,
@@ -568,7 +590,8 @@
     "character": "1909:1:1601;1940:2:1602;1932:1:1603",
     "surprise": 1902,
     "cost": {
-      "itemId": 1000
+      "itemId": 6,
+      "itemNum": 1000
     },
     "recruit_reward": [
       {
@@ -581,7 +604,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 100
+      "itemId": 6,
+      "itemNum": 100
     },
     "random_value": 100,
     "exp": 0,
@@ -589,8 +613,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "范冰冰，1981年9月16日出生于山东青岛，华语影视女演员、制片人、流行歌手，毕业于上海师范大学谢晋影视艺术学院。",
-    "cn_tips": "2"
+    "en_tips": "0",
+    "cn_tips": "范冰冰，1981年9月16日出生于山东青岛，华语影视女演员、制片人、流行歌手，毕业于上海师范大学谢晋影视艺术学院。"
   },
   "1013": {
     "id": 1013,
@@ -614,7 +638,8 @@
     "character": "1937:1:1601;1910:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 500
+      "itemId": 6,
+      "itemNum": 500
     },
     "recruit_reward": [
       {
@@ -627,7 +652,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 50
+      "itemId": 6,
+      "itemNum": 50
     },
     "random_value": 100,
     "exp": 0,
@@ -635,8 +661,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "《特工卡特》（Marvel's Agent Carter，或简称：Agent Carter）是漫威电视联合ABC电视台推出的一部科幻电视连续剧，是漫威电影宇宙的一部分",
-    "cn_tips": "1"
+    "en_tips": "0",
+    "cn_tips": "《特工卡特》（Marvel's Agent Carter，或简称：Agent Carter）是漫威电视联合ABC电视台推出的一部科幻电视连续剧，是漫威电影宇宙的一部分"
   },
   "1014": {
     "id": 1014,
@@ -660,7 +686,8 @@
     "character": "1908:1:1601;1902:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 500
+      "itemId": 6,
+      "itemNum": 500
     },
     "recruit_reward": [
       {
@@ -673,7 +700,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 50
+      "itemId": 6,
+      "itemNum": 50
     },
     "random_value": 100,
     "exp": 0,
@@ -681,8 +709,8 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "扎克·埃夫隆（Zac Efron），1987年10月18日出生于美国加利福尼亚州圣路易斯奥比斯波，美国影视男演员。",
-    "cn_tips": "1"
+    "en_tips": "0",
+    "cn_tips": "扎克·埃夫隆（Zac Efron），1987年10月18日出生于美国加利福尼亚州圣路易斯奥比斯波，美国影视男演员。"
   },
   "1015": {
     "id": 1015,
@@ -706,7 +734,8 @@
     "character": "1934:2:1601;1910:1:1602",
     "surprise": 1902,
     "cost": {
-      "itemId": 500
+      "itemId": 6,
+      "itemNum": 500
     },
     "recruit_reward": [
       {
@@ -719,7 +748,8 @@
       }
     ],
     "enable_cost": {
-      "itemId": 50
+      "itemId": 6,
+      "itemNum": 50
     },
     "random_value": 100,
     "exp": 0,
@@ -727,7 +757,7 @@
     "stamina": 100,
     "culture": 30,
     "assets": 100,
-    "en_tips": "孔刘（Gong Yoo），1979年7月10日出生于釜山，韩国男演员，朝鲜汉字孔地哲（공지철)，孔刘艺名是来自父母姓氏，曾被译为孔侑、孔兪、 孔俞、 孔宥、 孔郁、 孔柳、孔佑、公兪、 公柳等等 [1]  。",
-    "cn_tips": "1"
+    "en_tips": "0",
+    "cn_tips": "孔刘（Gong Yoo），1979年7月10日出生于釜山，韩国男演员，朝鲜汉字孔地哲（공지철)，孔刘艺名是来自父母姓氏，曾被译为孔侑、孔兪、 孔俞、 孔宥、 孔郁、 孔柳、孔佑、公兪、 公柳等等 [1]  。"
   }
 }

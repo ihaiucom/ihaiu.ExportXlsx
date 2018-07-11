@@ -13,8 +13,7 @@ namespace configs
 		name_tips : string;
 		syn_item : number;
 		num_req : number;
-		split_item : number;
-		split_num : number;
+		split_list : DTItemNum[];
 
 
 

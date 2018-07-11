@@ -1,13 +1,13 @@
 ﻿{
   "1": {
-    "level": 1,
+    "id": 1,
     "fans": 1000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -16,18 +16,19 @@
     ],
     "order_num": 5,
     "train_max": 0,
-    "actor_max": 0,
-    "hide_max": 0
+    "actor_max": 3,
+    "hide_max": 6,
+    "day_max": 11
   },
   "2": {
-    "level": 2,
+    "id": 2,
     "fans": 2000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -36,18 +37,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "3": {
-    "level": 3,
+    "id": 3,
     "fans": 3000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -56,18 +58,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "4": {
-    "level": 4,
+    "id": 4,
     "fans": 4000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -76,18 +79,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "5": {
-    "level": 5,
+    "id": 5,
     "fans": 5000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -96,18 +100,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "6": {
-    "level": 6,
+    "id": 6,
     "fans": 6000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -116,18 +121,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "7": {
-    "level": 7,
+    "id": 7,
     "fans": 7000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -136,18 +142,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "8": {
-    "level": 8,
+    "id": 8,
     "fans": 8000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -156,18 +163,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "9": {
-    "level": 9,
+    "id": 9,
     "fans": 9000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -176,18 +184,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "10": {
-    "level": 10,
+    "id": 10,
     "fans": 10000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -197,17 +206,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "11": {
-    "level": 11,
+    "id": 11,
     "fans": 11000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -216,18 +226,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "12": {
-    "level": 12,
+    "id": 12,
     "fans": 12000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -236,18 +247,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "13": {
-    "level": 13,
+    "id": 13,
     "fans": 13000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -256,18 +268,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "14": {
-    "level": 14,
+    "id": 14,
     "fans": 14000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -276,18 +289,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "15": {
-    "level": 15,
+    "id": 15,
     "fans": 15000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -296,18 +310,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "16": {
-    "level": 16,
+    "id": 16,
     "fans": 16000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -316,18 +331,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "17": {
-    "level": 17,
+    "id": 17,
     "fans": 17000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -336,18 +352,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "18": {
-    "level": 18,
+    "id": 18,
     "fans": 18000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -356,18 +373,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "19": {
-    "level": 19,
+    "id": 19,
     "fans": 19000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -376,18 +394,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "20": {
-    "level": 20,
+    "id": 20,
     "fans": 20000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -397,17 +416,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "21": {
-    "level": 21,
+    "id": 21,
     "fans": 21000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -416,18 +436,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "22": {
-    "level": 22,
+    "id": 22,
     "fans": 22000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -436,18 +457,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "23": {
-    "level": 23,
+    "id": 23,
     "fans": 23000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -456,18 +478,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "24": {
-    "level": 24,
+    "id": 24,
     "fans": 24000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -476,18 +499,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "25": {
-    "level": 25,
+    "id": 25,
     "fans": 25000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -496,18 +520,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "26": {
-    "level": 26,
+    "id": 26,
     "fans": 26000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -516,18 +541,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "27": {
-    "level": 27,
+    "id": 27,
     "fans": 27000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -536,18 +562,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "28": {
-    "level": 28,
+    "id": 28,
     "fans": 28000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -556,18 +583,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "29": {
-    "level": 29,
+    "id": 29,
     "fans": 29000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -576,18 +604,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "30": {
-    "level": 30,
+    "id": 30,
     "fans": 30000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -597,17 +626,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "31": {
-    "level": 31,
+    "id": 31,
     "fans": 31000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -616,18 +646,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "32": {
-    "level": 32,
+    "id": 32,
     "fans": 32000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -636,18 +667,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "33": {
-    "level": 33,
+    "id": 33,
     "fans": 33000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -656,18 +688,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "34": {
-    "level": 34,
+    "id": 34,
     "fans": 34000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -676,18 +709,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "35": {
-    "level": 35,
+    "id": 35,
     "fans": 35000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -696,18 +730,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "36": {
-    "level": 36,
+    "id": 36,
     "fans": 36000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -716,18 +751,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "37": {
-    "level": 37,
+    "id": 37,
     "fans": 37000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -736,18 +772,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "38": {
-    "level": 38,
+    "id": 38,
     "fans": 38000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -756,18 +793,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "39": {
-    "level": 39,
+    "id": 39,
     "fans": 39000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -776,18 +814,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "40": {
-    "level": 40,
+    "id": 40,
     "fans": 40000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -797,17 +836,18 @@
     "order_num": 8,
     "train_max": 1,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "41": {
-    "level": 41,
+    "id": 41,
     "fans": 41000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -816,18 +856,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "42": {
-    "level": 42,
+    "id": 42,
     "fans": 42000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -836,18 +877,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "43": {
-    "level": 43,
+    "id": 43,
     "fans": 43000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -856,18 +898,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "44": {
-    "level": 44,
+    "id": 44,
     "fans": 44000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -876,18 +919,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "45": {
-    "level": 45,
+    "id": 45,
     "fans": 45000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -896,18 +940,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "46": {
-    "level": 46,
+    "id": 46,
     "fans": 46000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -916,18 +961,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "47": {
-    "level": 47,
+    "id": 47,
     "fans": 47000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -936,18 +982,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "48": {
-    "level": 48,
+    "id": 48,
     "fans": 48000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -956,18 +1003,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "49": {
-    "level": 49,
+    "id": 49,
     "fans": 49000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -976,18 +1024,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "50": {
-    "level": 50,
+    "id": 50,
     "fans": 50000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -997,17 +1046,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "51": {
-    "level": 51,
+    "id": 51,
     "fans": 51000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1016,18 +1066,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "52": {
-    "level": 52,
+    "id": 52,
     "fans": 52000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1036,18 +1087,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "53": {
-    "level": 53,
+    "id": 53,
     "fans": 53000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1056,18 +1108,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "54": {
-    "level": 54,
+    "id": 54,
     "fans": 54000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1076,18 +1129,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "55": {
-    "level": 55,
+    "id": 55,
     "fans": 55000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1096,18 +1150,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "56": {
-    "level": 56,
+    "id": 56,
     "fans": 56000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1116,18 +1171,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "57": {
-    "level": 57,
+    "id": 57,
     "fans": 57000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1136,18 +1192,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "58": {
-    "level": 58,
+    "id": 58,
     "fans": 58000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1156,18 +1213,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "59": {
-    "level": 59,
+    "id": 59,
     "fans": 59000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1176,18 +1234,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "60": {
-    "level": 60,
+    "id": 60,
     "fans": 60000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1197,17 +1256,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "61": {
-    "level": 61,
+    "id": 61,
     "fans": 61000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1216,18 +1276,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "62": {
-    "level": 62,
+    "id": 62,
     "fans": 62000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1236,18 +1297,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "63": {
-    "level": 63,
+    "id": 63,
     "fans": 63000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1256,18 +1318,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "64": {
-    "level": 64,
+    "id": 64,
     "fans": 64000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1276,18 +1339,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "65": {
-    "level": 65,
+    "id": 65,
     "fans": 65000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1296,18 +1360,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "66": {
-    "level": 66,
+    "id": 66,
     "fans": 66000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1316,18 +1381,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "67": {
-    "level": 67,
+    "id": 67,
     "fans": 67000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1336,18 +1402,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "68": {
-    "level": 68,
+    "id": 68,
     "fans": 68000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1356,18 +1423,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "69": {
-    "level": 69,
+    "id": 69,
     "fans": 69000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1376,18 +1444,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "70": {
-    "level": 70,
+    "id": 70,
     "fans": 70000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1397,17 +1466,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "71": {
-    "level": 71,
+    "id": 71,
     "fans": 71000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1416,18 +1486,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "72": {
-    "level": 72,
+    "id": 72,
     "fans": 72000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1436,18 +1507,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "73": {
-    "level": 73,
+    "id": 73,
     "fans": 73000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1456,18 +1528,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "74": {
-    "level": 74,
+    "id": 74,
     "fans": 74000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1476,18 +1549,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "75": {
-    "level": 75,
+    "id": 75,
     "fans": 75000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1496,18 +1570,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "76": {
-    "level": 76,
+    "id": 76,
     "fans": 76000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1516,18 +1591,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "77": {
-    "level": 77,
+    "id": 77,
     "fans": 77000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1536,18 +1612,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "78": {
-    "level": 78,
+    "id": 78,
     "fans": 78000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1556,18 +1633,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "79": {
-    "level": 79,
+    "id": 79,
     "fans": 79000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1576,18 +1654,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "80": {
-    "level": 80,
+    "id": 80,
     "fans": 80000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1597,17 +1676,18 @@
     "order_num": 8,
     "train_max": 1,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "81": {
-    "level": 81,
+    "id": 81,
     "fans": 81000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1616,18 +1696,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "82": {
-    "level": 82,
+    "id": 82,
     "fans": 82000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1636,18 +1717,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "83": {
-    "level": 83,
+    "id": 83,
     "fans": 83000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1656,18 +1738,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "84": {
-    "level": 84,
+    "id": 84,
     "fans": 84000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1676,18 +1759,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "85": {
-    "level": 85,
+    "id": 85,
     "fans": 85000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1696,18 +1780,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "86": {
-    "level": 86,
+    "id": 86,
     "fans": 86000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1716,18 +1801,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "87": {
-    "level": 87,
+    "id": 87,
     "fans": 87000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1736,18 +1822,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "88": {
-    "level": 88,
+    "id": 88,
     "fans": 88000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1756,18 +1843,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "89": {
-    "level": 89,
+    "id": 89,
     "fans": 89000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1776,18 +1864,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "90": {
-    "level": 90,
+    "id": 90,
     "fans": 90000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1797,17 +1886,18 @@
     "order_num": 8,
     "train_max": 0,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   },
   "91": {
-    "level": 91,
+    "id": 91,
     "fans": 91000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1816,18 +1906,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "92": {
-    "level": 92,
+    "id": 92,
     "fans": 92000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1836,18 +1927,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "93": {
-    "level": 93,
+    "id": 93,
     "fans": 93000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1856,18 +1948,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "94": {
-    "level": 94,
+    "id": 94,
     "fans": 94000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1876,18 +1969,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "95": {
-    "level": 95,
+    "id": 95,
     "fans": 95000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1896,18 +1990,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 1,
+    "day_max": 1
   },
   "96": {
-    "level": 96,
+    "id": 96,
     "fans": 96000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1916,18 +2011,19 @@
     ],
     "order_num": 8,
     "train_max": 1,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "97": {
-    "level": 97,
+    "id": 97,
     "fans": 97000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1936,18 +2032,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "98": {
-    "level": 98,
+    "id": 98,
     "fans": 98000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1956,18 +2053,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "99": {
-    "level": 99,
+    "id": 99,
     "fans": 99000,
     "story": {
       "itemId": 1302,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1976,18 +2074,19 @@
     ],
     "order_num": 8,
     "train_max": 0,
-    "actor_max": 1,
-    "hide_max": 1
+    "actor_max": 0,
+    "hide_max": 0,
+    "day_max": 0
   },
   "100": {
-    "level": 100,
+    "id": 100,
     "fans": 100000,
     "story": {
       "itemId": 1303,
       "itemNum": 1
     },
     "gold": 1000,
-    "diamond": 1000,
+    "diamond": 10,
     "order_qua": [
       100,
       50,
@@ -1997,6 +2096,7 @@
     "order_num": 8,
     "train_max": 1,
     "actor_max": 1,
-    "hide_max": 1
+    "hide_max": 1,
+    "day_max": 1
   }
 }

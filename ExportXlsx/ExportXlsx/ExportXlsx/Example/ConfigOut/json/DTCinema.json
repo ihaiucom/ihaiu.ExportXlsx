@@ -1,40 +1,900 @@
 ﻿{
-  "1": {
-    "id": 1,
+  "1001": {
+    "id": 1001,
     "zh_cn_name": "万达影城",
     "sign_level": 1,
-    "pic": 1,
+    "pic": 3001,
     "num": 10,
     "proportion": 0.150000005960464,
     "favorite_actor": 5,
     "increase": 110
   },
-  "2": {
-    "id": 2,
+  "1002": {
+    "id": 1002,
     "zh_cn_name": "万达影城",
     "sign_level": 2,
-    "pic": 1,
+    "pic": 3001,
     "num": 20,
     "proportion": 0.300000011920929,
     "favorite_actor": 5,
     "increase": 110
   },
-  "3": {
-    "id": 3,
+  "1003": {
+    "id": 1003,
     "zh_cn_name": "万达影城",
     "sign_level": 3,
-    "pic": 1,
+    "pic": 3001,
     "num": 30,
     "proportion": 0.5,
     "favorite_actor": 5,
     "increase": 120
   },
-  "4": {
-    "id": 4,
+  "1004": {
+    "id": 1004,
     "zh_cn_name": "万达影城",
     "sign_level": 4,
-    "pic": 1,
+    "pic": 3001,
     "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "1005": {
+    "id": 1005,
+    "zh_cn_name": "万达影城",
+    "sign_level": 5,
+    "pic": 3001,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "2001": {
+    "id": 2001,
+    "zh_cn_name": "锦豪影城",
+    "sign_level": 1,
+    "pic": 3002,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "2002": {
+    "id": 2002,
+    "zh_cn_name": "锦豪影城",
+    "sign_level": 2,
+    "pic": 3002,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "2003": {
+    "id": 2003,
+    "zh_cn_name": "锦豪影城",
+    "sign_level": 3,
+    "pic": 3002,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "2004": {
+    "id": 2004,
+    "zh_cn_name": "锦豪影城",
+    "sign_level": 4,
+    "pic": 3002,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "2005": {
+    "id": 2005,
+    "zh_cn_name": "锦豪影城",
+    "sign_level": 5,
+    "pic": 3002,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "3001": {
+    "id": 3001,
+    "zh_cn_name": "良才院线",
+    "sign_level": 1,
+    "pic": 3003,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "3002": {
+    "id": 3002,
+    "zh_cn_name": "良才院线",
+    "sign_level": 2,
+    "pic": 3003,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "3003": {
+    "id": 3003,
+    "zh_cn_name": "良才院线",
+    "sign_level": 3,
+    "pic": 3003,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "3004": {
+    "id": 3004,
+    "zh_cn_name": "良才院线",
+    "sign_level": 4,
+    "pic": 3003,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "3005": {
+    "id": 3005,
+    "zh_cn_name": "良才院线",
+    "sign_level": 5,
+    "pic": 3003,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "4001": {
+    "id": 4001,
+    "zh_cn_name": "小钥影院",
+    "sign_level": 1,
+    "pic": 3004,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "4002": {
+    "id": 4002,
+    "zh_cn_name": "小钥影院",
+    "sign_level": 2,
+    "pic": 3004,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "4003": {
+    "id": 4003,
+    "zh_cn_name": "小钥影院",
+    "sign_level": 3,
+    "pic": 3004,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "4004": {
+    "id": 4004,
+    "zh_cn_name": "小钥影院",
+    "sign_level": 4,
+    "pic": 3004,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "4005": {
+    "id": 4005,
+    "zh_cn_name": "小钥影院",
+    "sign_level": 5,
+    "pic": 3004,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "5001": {
+    "id": 5001,
+    "zh_cn_name": "阿宇影院",
+    "sign_level": 1,
+    "pic": 3005,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "5002": {
+    "id": 5002,
+    "zh_cn_name": "阿宇影院",
+    "sign_level": 2,
+    "pic": 3005,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "5003": {
+    "id": 5003,
+    "zh_cn_name": "阿宇影院",
+    "sign_level": 3,
+    "pic": 3005,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "5004": {
+    "id": 5004,
+    "zh_cn_name": "阿宇影院",
+    "sign_level": 4,
+    "pic": 3005,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "5005": {
+    "id": 5005,
+    "zh_cn_name": "阿宇影院",
+    "sign_level": 5,
+    "pic": 3005,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "6001": {
+    "id": 6001,
+    "zh_cn_name": "双木影院",
+    "sign_level": 1,
+    "pic": 3006,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "6002": {
+    "id": 6002,
+    "zh_cn_name": "双木影院",
+    "sign_level": 2,
+    "pic": 3006,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "6003": {
+    "id": 6003,
+    "zh_cn_name": "双木影院",
+    "sign_level": 3,
+    "pic": 3006,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "6004": {
+    "id": 6004,
+    "zh_cn_name": "双木影院",
+    "sign_level": 4,
+    "pic": 3006,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "6005": {
+    "id": 6005,
+    "zh_cn_name": "双木影院",
+    "sign_level": 5,
+    "pic": 3006,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "7001": {
+    "id": 7001,
+    "zh_cn_name": "凡威影院",
+    "sign_level": 1,
+    "pic": 3007,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "7002": {
+    "id": 7002,
+    "zh_cn_name": "凡威影院",
+    "sign_level": 2,
+    "pic": 3007,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "7003": {
+    "id": 7003,
+    "zh_cn_name": "凡威影院",
+    "sign_level": 3,
+    "pic": 3007,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "7004": {
+    "id": 7004,
+    "zh_cn_name": "凡威影院",
+    "sign_level": 4,
+    "pic": 3007,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "7005": {
+    "id": 7005,
+    "zh_cn_name": "凡威影院",
+    "sign_level": 5,
+    "pic": 3007,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "8001": {
+    "id": 8001,
+    "zh_cn_name": "RINZ影院",
+    "sign_level": 1,
+    "pic": 3008,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "8002": {
+    "id": 8002,
+    "zh_cn_name": "RINZ影院",
+    "sign_level": 2,
+    "pic": 3008,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "8003": {
+    "id": 8003,
+    "zh_cn_name": "RINZ影院",
+    "sign_level": 3,
+    "pic": 3008,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "8004": {
+    "id": 8004,
+    "zh_cn_name": "RINZ影院",
+    "sign_level": 4,
+    "pic": 3008,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "8005": {
+    "id": 8005,
+    "zh_cn_name": "RINZ影院",
+    "sign_level": 5,
+    "pic": 3008,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "9001": {
+    "id": 9001,
+    "zh_cn_name": "立秋院线",
+    "sign_level": 1,
+    "pic": 3009,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "9002": {
+    "id": 9002,
+    "zh_cn_name": "立秋院线",
+    "sign_level": 2,
+    "pic": 3009,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "9003": {
+    "id": 9003,
+    "zh_cn_name": "立秋院线",
+    "sign_level": 3,
+    "pic": 3009,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "9004": {
+    "id": 9004,
+    "zh_cn_name": "立秋院线",
+    "sign_level": 4,
+    "pic": 3009,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "9005": {
+    "id": 9005,
+    "zh_cn_name": "立秋院线",
+    "sign_level": 5,
+    "pic": 3009,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "10001": {
+    "id": 10001,
+    "zh_cn_name": "春茂影院",
+    "sign_level": 1,
+    "pic": 3010,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "10002": {
+    "id": 10002,
+    "zh_cn_name": "春茂影院",
+    "sign_level": 2,
+    "pic": 3010,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "10003": {
+    "id": 10003,
+    "zh_cn_name": "春茂影院",
+    "sign_level": 3,
+    "pic": 3010,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "10004": {
+    "id": 10004,
+    "zh_cn_name": "春茂影院",
+    "sign_level": 4,
+    "pic": 3010,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "10005": {
+    "id": 10005,
+    "zh_cn_name": "春茂影院",
+    "sign_level": 5,
+    "pic": 3010,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "11001": {
+    "id": 11001,
+    "zh_cn_name": "三茂影城",
+    "sign_level": 1,
+    "pic": 3011,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "11002": {
+    "id": 11002,
+    "zh_cn_name": "三茂影城",
+    "sign_level": 2,
+    "pic": 3011,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "11003": {
+    "id": 11003,
+    "zh_cn_name": "三茂影城",
+    "sign_level": 3,
+    "pic": 3011,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "11004": {
+    "id": 11004,
+    "zh_cn_name": "三茂影城",
+    "sign_level": 4,
+    "pic": 3011,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "11005": {
+    "id": 11005,
+    "zh_cn_name": "三茂影城",
+    "sign_level": 5,
+    "pic": 3011,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "12001": {
+    "id": 12001,
+    "zh_cn_name": "璐璐影院",
+    "sign_level": 1,
+    "pic": 3012,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "12002": {
+    "id": 12002,
+    "zh_cn_name": "璐璐影院",
+    "sign_level": 2,
+    "pic": 3012,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "12003": {
+    "id": 12003,
+    "zh_cn_name": "璐璐影院",
+    "sign_level": 3,
+    "pic": 3012,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "12004": {
+    "id": 12004,
+    "zh_cn_name": "璐璐影院",
+    "sign_level": 4,
+    "pic": 3012,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "12005": {
+    "id": 12005,
+    "zh_cn_name": "璐璐影院",
+    "sign_level": 5,
+    "pic": 3012,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "13001": {
+    "id": 13001,
+    "zh_cn_name": "昕昕影院",
+    "sign_level": 1,
+    "pic": 3013,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "13002": {
+    "id": 13002,
+    "zh_cn_name": "昕昕影院",
+    "sign_level": 2,
+    "pic": 3013,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "13003": {
+    "id": 13003,
+    "zh_cn_name": "昕昕影院",
+    "sign_level": 3,
+    "pic": 3013,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "13004": {
+    "id": 13004,
+    "zh_cn_name": "昕昕影院",
+    "sign_level": 4,
+    "pic": 3013,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "13005": {
+    "id": 13005,
+    "zh_cn_name": "昕昕影院",
+    "sign_level": 5,
+    "pic": 3013,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "14001": {
+    "id": 14001,
+    "zh_cn_name": "艾米院线",
+    "sign_level": 1,
+    "pic": 3014,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "14002": {
+    "id": 14002,
+    "zh_cn_name": "艾米院线",
+    "sign_level": 2,
+    "pic": 3014,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "14003": {
+    "id": 14003,
+    "zh_cn_name": "艾米院线",
+    "sign_level": 3,
+    "pic": 3014,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "14004": {
+    "id": 14004,
+    "zh_cn_name": "艾米院线",
+    "sign_level": 4,
+    "pic": 3014,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "14005": {
+    "id": 14005,
+    "zh_cn_name": "艾米院线",
+    "sign_level": 5,
+    "pic": 3014,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "15001": {
+    "id": 15001,
+    "zh_cn_name": "天行影城",
+    "sign_level": 1,
+    "pic": 3015,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "15002": {
+    "id": 15002,
+    "zh_cn_name": "天行影城",
+    "sign_level": 2,
+    "pic": 3015,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "15003": {
+    "id": 15003,
+    "zh_cn_name": "天行影城",
+    "sign_level": 3,
+    "pic": 3015,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "15004": {
+    "id": 15004,
+    "zh_cn_name": "天行影城",
+    "sign_level": 4,
+    "pic": 3015,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "15005": {
+    "id": 15005,
+    "zh_cn_name": "天行影城",
+    "sign_level": 5,
+    "pic": 3015,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "16001": {
+    "id": 16001,
+    "zh_cn_name": "宙斯影城",
+    "sign_level": 1,
+    "pic": 3016,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "16002": {
+    "id": 16002,
+    "zh_cn_name": "宙斯影城",
+    "sign_level": 2,
+    "pic": 3016,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "16003": {
+    "id": 16003,
+    "zh_cn_name": "宙斯影城",
+    "sign_level": 3,
+    "pic": 3016,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "16004": {
+    "id": 16004,
+    "zh_cn_name": "宙斯影城",
+    "sign_level": 4,
+    "pic": 3016,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "16005": {
+    "id": 16005,
+    "zh_cn_name": "宙斯影城",
+    "sign_level": 5,
+    "pic": 3016,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "17001": {
+    "id": 17001,
+    "zh_cn_name": "万达影城",
+    "sign_level": 1,
+    "pic": 3017,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "17002": {
+    "id": 17002,
+    "zh_cn_name": "万达影城",
+    "sign_level": 2,
+    "pic": 3017,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "17003": {
+    "id": 17003,
+    "zh_cn_name": "万达影城",
+    "sign_level": 3,
+    "pic": 3017,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "17004": {
+    "id": 17004,
+    "zh_cn_name": "万达影城",
+    "sign_level": 4,
+    "pic": 3017,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "17005": {
+    "id": 17005,
+    "zh_cn_name": "万达影城",
+    "sign_level": 5,
+    "pic": 3017,
+    "num": 50,
+    "proportion": 1.0,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "18001": {
+    "id": 18001,
+    "zh_cn_name": "值尚院线",
+    "sign_level": 1,
+    "pic": 3018,
+    "num": 10,
+    "proportion": 0.150000005960464,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "18002": {
+    "id": 18002,
+    "zh_cn_name": "值尚院线",
+    "sign_level": 2,
+    "pic": 3018,
+    "num": 20,
+    "proportion": 0.300000011920929,
+    "favorite_actor": 5,
+    "increase": 110
+  },
+  "18003": {
+    "id": 18003,
+    "zh_cn_name": "值尚院线",
+    "sign_level": 3,
+    "pic": 3018,
+    "num": 30,
+    "proportion": 0.5,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "18004": {
+    "id": 18004,
+    "zh_cn_name": "值尚院线",
+    "sign_level": 4,
+    "pic": 3018,
+    "num": 40,
+    "proportion": 0.800000011920929,
+    "favorite_actor": 5,
+    "increase": 120
+  },
+  "18005": {
+    "id": 18005,
+    "zh_cn_name": "值尚院线",
+    "sign_level": 5,
+    "pic": 3018,
+    "num": 50,
     "proportion": 1.0,
     "favorite_actor": 5,
     "increase": 120

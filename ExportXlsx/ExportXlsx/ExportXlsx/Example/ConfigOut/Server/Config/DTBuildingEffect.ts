@@ -9,6 +9,7 @@ namespace configs
 	{
 		id : number;
 		tips : string;
+		level : number;
 		zh_cn_effect_des : string;
 		effect : number;
 		par1 : number;

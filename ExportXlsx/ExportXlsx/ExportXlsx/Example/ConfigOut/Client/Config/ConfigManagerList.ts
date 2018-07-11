@@ -68,6 +68,7 @@ namespace configs
         orderComplete  : OrderCompleteConfigReader = new OrderCompleteConfigReader();
         oscar  : OscarConfigReader = new OscarConfigReader();
         perform  : PerformConfigReader = new PerformConfigReader();
+        playerDefault  : PlayerDefaultConfigReader = new PlayerDefaultConfigReader();
         playerLevel  : PlayerLevelConfigReader = new PlayerLevelConfigReader();
         position  : PositionConfigReader = new PositionConfigReader();
         produce  : ProduceConfigReader = new ProduceConfigReader();
@@ -168,6 +169,7 @@ namespace configs
             this.renders.push(this.orderComplete);
             this.renders.push(this.oscar);
             this.renders.push(this.perform);
+            this.renders.push(this.playerDefault);
             this.renders.push(this.playerLevel);
             this.renders.push(this.position);
             this.renders.push(this.produce);

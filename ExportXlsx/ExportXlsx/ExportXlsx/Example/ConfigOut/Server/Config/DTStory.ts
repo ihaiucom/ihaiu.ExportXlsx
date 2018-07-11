@@ -28,7 +28,7 @@ namespace configs
 		male_percent : number;
 		female_percent : number;
 		child_percent : number;
-		reward : DTStoryEffect;
+		reward : DTStoryEffect[];
 		sequel_mark : boolean;
 		interviews_bottom : number;
 		interviews_top : number;

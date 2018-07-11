@@ -107,6 +107,9 @@ namespace ExportXlsx.Sources
                 string[] files = Directory.GetFiles(dir, "*.xlsx", SearchOption.AllDirectories);
                 foreach(string file in files)
                 {
+                    if (Path.GetFileName(file).StartsWith("~$"))
+                        continue;
+
                     if(!fileList.Contains(file))
                     {
                         fileList.Add(file);

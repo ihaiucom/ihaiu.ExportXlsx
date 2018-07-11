@@ -1,25 +1,38 @@
 ﻿{
   "11001": {
     "id": 11001,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 16,
+    "zh_cn_name": "街道1",
+    "city_schedule": 34,
     "position": {
       "x": 0.200000002980232,
       "y": 0.100000001490116
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 1102,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 0,
+    "spokesperson_scene": 1,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 34,
+    "publicize_cost": 500,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 10
+      }
+    ],
     "expect": 5,
     "pre_id": 0,
     "next_stage": 11002,
@@ -27,25 +40,38 @@
   },
   "11002": {
     "id": 11002,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道2",
+    "city_schedule": 34,
     "position": {
-      "x": 0.400000005960464,
-      "y": 0.200000002980232
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
-    "spokesperson_art": 0,
+    "spokesperson_art": 2,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 25,
+    "publicize_cost": 600,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 10
+      }
+    ],
     "expect": 5,
     "pre_id": 11001,
     "next_stage": 11003,
@@ -53,25 +79,38 @@
   },
   "11003": {
     "id": 11003,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道3",
+    "city_schedule": 34,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
     "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
+    "spokesperson_type": 1401,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
-    "spokesperson_performance": 23,
-    "spokesperson_plot": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 3,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 20,
+    "publicize_cost": 700,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 10
+      }
+    ],
     "expect": 5,
     "pre_id": 11002,
     "next_stage": 11004,
@@ -79,103 +118,155 @@
   },
   "11004": {
     "id": 11004,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11003,
-    "next_stage": 11005,
-    "city": 1101
-  },
-  "11005": {
-    "id": 11005,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11004,
-    "next_stage": 11006,
-    "city": 1101
-  },
-  "11006": {
-    "id": 11006,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 20,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11005,
-    "next_stage": 11007,
-    "city": 1101
-  },
-  "11007": {
-    "id": 11007,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 16,
+    "zh_cn_name": "街道1",
+    "city_schedule": 25,
     "position": {
       "x": 0.200000002980232,
       "y": 0.100000001490116
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 6,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 34,
+    "publicize_cost": 800,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 11
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11003,
+    "next_stage": 11005,
+    "city": 1102
+  },
+  "11005": {
+    "id": 11005,
+    "zh_cn_name": "街道2",
+    "city_schedule": 25,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 1102,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
+    "spokesperson_art": 6,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 900,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 11
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11004,
+    "next_stage": 11006,
+    "city": 1102
+  },
+  "11006": {
+    "id": 11006,
+    "zh_cn_name": "街道3",
+    "city_schedule": 25,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 7,
+    "publicize_schedule": 20,
+    "publicize_cost": 1000,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 11
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11005,
+    "next_stage": 11007,
+    "city": 1102
+  },
+  "11007": {
+    "id": 11007,
+    "zh_cn_name": "街道4",
+    "city_schedule": 25,
+    "position": {
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 9,
+    "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 17,
+    "publicize_cost": 1100,
+    "once_reward": 30,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 11
+      }
+    ],
     "expect": 5,
     "pre_id": 11006,
     "next_stage": 11008,
@@ -183,1000 +274,2040 @@
   },
   "11008": {
     "id": 11008,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道1",
+    "city_schedule": 25,
     "position": {
-      "x": 0.400000005960464,
-      "y": 0.200000002980232
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_Continents": 1202,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
+    "spokesperson_plot": 11,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 34,
+    "publicize_cost": 1200,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 12
+      }
+    ],
     "expect": 5,
     "pre_id": 11007,
     "next_stage": 11009,
-    "city": 1102
+    "city": 1103
   },
   "11009": {
     "id": 11009,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道2",
+    "city_schedule": 25,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
     "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
+    "spokesperson_type": 1402,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
-    "spokesperson_art": 0,
+    "spokesperson_art": 12,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 25,
+    "publicize_cost": 1300,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 12
+      }
+    ],
     "expect": 5,
     "pre_id": 11008,
     "next_stage": 11010,
-    "city": 1102
+    "city": 1103
   },
   "11010": {
     "id": 11010,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道3",
+    "city_schedule": 25,
     "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
     },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_scene": 13,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 20,
+    "publicize_cost": 1400,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 12
+      }
+    ],
     "expect": 5,
     "pre_id": 11009,
     "next_stage": 11011,
-    "city": 1102
+    "city": 1103
   },
   "11011": {
     "id": 11011,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
+    "zh_cn_name": "街道4",
+    "city_schedule": 25,
     "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 14,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 17,
+    "publicize_cost": 1500,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 12
+      }
+    ],
     "expect": 5,
     "pre_id": 11010,
     "next_stage": 11012,
-    "city": 1102
+    "city": 1103
   },
   "11012": {
     "id": 11012,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 20,
+    "zh_cn_name": "街道1",
+    "city_schedule": 25,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
     "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
+    "spokesperson_type": 1402,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
-    "spokesperson_art": 0,
+    "spokesperson_art": 15,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 34,
+    "publicize_cost": 1750,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 13
+      }
+    ],
     "expect": 5,
     "pre_id": 11011,
     "next_stage": 11013,
-    "city": 1102
+    "city": 1104
   },
   "11013": {
     "id": 11013,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 16,
+    "zh_cn_name": "街道2",
+    "city_schedule": 25,
     "position": {
-      "x": 0.200000002980232,
-      "y": 0.100000001490116
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
     },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 0,
+    "spokesperson_scene": 16,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 25,
+    "publicize_cost": 2020,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 13
+      }
+    ],
     "expect": 5,
     "pre_id": 11012,
     "next_stage": 11014,
-    "city": 1103
+    "city": 1104
   },
   "11014": {
     "id": 11014,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道3",
+    "city_schedule": 25,
     "position": {
       "x": 0.400000005960464,
-      "y": 0.200000002980232
+      "y": 0.800000011920929
     },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "spokesperson_entertainment": 17,
+    "publicize_schedule": 20,
+    "publicize_cost": 2310,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 13
+      }
+    ],
     "expect": 5,
     "pre_id": 11013,
     "next_stage": 11015,
-    "city": 1103
+    "city": 1104
   },
   "11015": {
     "id": 11015,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道4",
+    "city_schedule": 25,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
-    "spokesperson_age": 0,
+    "spokesperson_age": 1502,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
+    "spokesperson_plot": 18,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 17,
+    "publicize_cost": 2500,
+    "once_reward": 50,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 13
+      }
+    ],
     "expect": 5,
     "pre_id": 11014,
     "next_stage": 11016,
-    "city": 1103
+    "city": 1104
   },
   "11016": {
     "id": 11016,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道1",
+    "city_schedule": 25,
     "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
     },
     "spokesperson_sex": 0,
     "spokesperson_Continents": 1201,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
-    "spokesperson_art": 0,
+    "spokesperson_art": 19,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 34,
+    "publicize_cost": 2600,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 14
+      }
+    ],
     "expect": 5,
     "pre_id": 11015,
     "next_stage": 11017,
-    "city": 1103
+    "city": 1105
   },
   "11017": {
     "id": 11017,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
+    "zh_cn_name": "街道2",
+    "city_schedule": 25,
     "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1502,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "spokesperson_entertainment": 22,
+    "publicize_schedule": 25,
+    "publicize_cost": 2800,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 14
+      }
+    ],
     "expect": 5,
     "pre_id": 11016,
     "next_stage": 11018,
-    "city": 1103
+    "city": 1105
   },
   "11018": {
     "id": 11018,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 10,
+    "zh_cn_name": "街道3",
+    "city_schedule": 25,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 1102,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
+    "spokesperson_performance": 22,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 20,
+    "publicize_cost": 3000,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 14
+      }
+    ],
     "expect": 5,
     "pre_id": 11017,
     "next_stage": 11019,
-    "city": 1103
+    "city": 1105
   },
   "11019": {
     "id": 11019,
-    "zh_cn_name": "End Avenue",
-    "city_schedule": 10,
+    "zh_cn_name": "街道4",
+    "city_schedule": 25,
     "position": {
-      "x": 0.400000005960464,
-      "y": 0.800000011920929
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
     },
-    "spokesperson_sex": 1101,
+    "spokesperson_sex": 0,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
-    "spokesperson_age": 0,
+    "spokesperson_age": 1502,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
-    "spokesperson_art": 0,
+    "spokesperson_art": 23,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 17,
+    "publicize_cost": 3500,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 1
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 14
+      }
+    ],
     "expect": 5,
     "pre_id": 11018,
     "next_stage": 11020,
-    "city": 1103
+    "city": 1105
   },
   "11020": {
     "id": 11020,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
+    "zh_cn_name": "街道1",
+    "city_schedule": 20,
     "position": {
       "x": 0.200000002980232,
       "y": 0.100000001490116
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
     "spokesperson_age": 0,
     "spokesperson_scene": 25,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 25,
+    "publicize_cost": 8500,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
     "expect": 5,
     "pre_id": 11019,
     "next_stage": 11021,
-    "city": 1104
+    "city": 1106
   },
   "11021": {
     "id": 11021,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道2",
+    "city_schedule": 20,
     "position": {
       "x": 0.400000005960464,
       "y": 0.200000002980232
     },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
     "spokesperson_scene": 0,
     "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
+    "spokesperson_plot": 26,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 25,
+    "publicize_cost": 8800,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
     "expect": 5,
     "pre_id": 11020,
     "next_stage": 11022,
-    "city": 1104
+    "city": 1106
   },
   "11022": {
     "id": 11022,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道3",
+    "city_schedule": 20,
     "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
     },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
     "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 26,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
     "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "publicize_schedule": 20,
+    "publicize_cost": 9100,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
     "expect": 5,
     "pre_id": 11021,
     "next_stage": 11023,
-    "city": 1104
+    "city": 1106
   },
   "11023": {
     "id": 11023,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 16,
+    "zh_cn_name": "街道4",
+    "city_schedule": 20,
     "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
     },
     "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
+    "spokesperson_Continents": 0,
     "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "spokesperson_entertainment": 27,
+    "publicize_schedule": 20,
+    "publicize_cost": 9400,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
     "expect": 5,
     "pre_id": 11022,
     "next_stage": 11024,
-    "city": 1104
+    "city": 1106
   },
   "11024": {
     "id": 11024,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11023,
-    "next_stage": 11025,
-    "city": 1104
-  },
-  "11025": {
-    "id": 11025,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11024,
-    "next_stage": 11026,
-    "city": 1104
-  },
-  "11026": {
-    "id": 11026,
-    "zh_cn_name": "End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.400000005960464,
-      "y": 0.800000011920929
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11025,
-    "next_stage": 11027,
-    "city": 1104
-  },
-  "11027": {
-    "id": 11027,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.0
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11026,
-    "next_stage": 11028,
-    "city": 1104
-  },
-  "11028": {
-    "id": 11028,
-    "zh_cn_name": "Avenue",
-    "city_schedule": 5,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.100000001490116
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11027,
-    "next_stage": 11029,
-    "city": 1105
-  },
-  "11029": {
-    "id": 11029,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
-    "position": {
-      "x": 0.400000005960464,
-      "y": 0.200000002980232
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11028,
-    "next_stage": 11030,
-    "city": 1105
-  },
-  "11030": {
-    "id": 11030,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 11,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11029,
-    "next_stage": 11031,
-    "city": 1105
-  },
-  "11031": {
-    "id": 11031,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11030,
-    "next_stage": 11032,
-    "city": 1105
-  },
-  "11032": {
-    "id": 11032,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11031,
-    "next_stage": 11033,
-    "city": 1105
-  },
-  "11033": {
-    "id": 11033,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11032,
-    "next_stage": 11034,
-    "city": 1105
-  },
-  "11034": {
-    "id": 11034,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.400000005960464,
-      "y": 0.800000011920929
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11033,
-    "next_stage": 11035,
-    "city": 1105
-  },
-  "11035": {
-    "id": 11035,
-    "zh_cn_name": "End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.0
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11034,
-    "next_stage": 11036,
-    "city": 1105
-  },
-  "11036": {
-    "id": 11036,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
-    "position": {
-      "x": 0.600000023841858,
-      "y": 0.899999976158142
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11035,
-    "next_stage": 11037,
-    "city": 1105
-  },
-  "11037": {
-    "id": 11037,
-    "zh_cn_name": "Avenue",
-    "city_schedule": 5,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.100000001490116
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11036,
-    "next_stage": 11038,
-    "city": 1106
-  },
-  "11038": {
-    "id": 11038,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
-    "position": {
-      "x": 0.400000005960464,
-      "y": 0.200000002980232
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11037,
-    "next_stage": 11039,
-    "city": 1106
-  },
-  "11039": {
-    "id": 11039,
-    "zh_cn_name": "Lexington Avenue",
-    "city_schedule": 11,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.300000011920929
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11038,
-    "next_stage": 11040,
-    "city": 1106
-  },
-  "11040": {
-    "id": 11040,
-    "zh_cn_name": "Park Avenue",
-    "city_schedule": 11,
-    "position": {
-      "x": 0.5,
-      "y": 0.400000005960464
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11039,
-    "next_stage": 11041,
-    "city": 1106
-  },
-  "11041": {
-    "id": 11041,
-    "zh_cn_name": "Madison Avenue",
-    "city_schedule": 11,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11040,
-    "next_stage": 11042,
-    "city": 1106
-  },
-  "11042": {
-    "id": 11042,
-    "zh_cn_name": "Riverside Drive",
-    "city_schedule": 16,
-    "position": {
-      "x": 0.699999988079071,
-      "y": 0.600000023841858
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11041,
-    "next_stage": 11043,
-    "city": 1106
-  },
-  "11043": {
-    "id": 11043,
-    "zh_cn_name": "West End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.400000005960464,
-      "y": 0.800000011920929
-    },
-    "spokesperson_sex": 1101,
-    "spokesperson_Continents": 0,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 0,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11042,
-    "next_stage": 11044,
-    "city": 1106
-  },
-  "11044": {
-    "id": 11044,
-    "zh_cn_name": "End Avenue",
-    "city_schedule": 10,
-    "position": {
-      "x": 0.200000002980232,
-      "y": 0.0
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11043,
-    "next_stage": 11045,
-    "city": 1106
-  },
-  "11045": {
-    "id": 11045,
-    "zh_cn_name": "Broadway",
-    "city_schedule": 8,
-    "position": {
-      "x": 0.600000023841858,
-      "y": 0.899999976158142
-    },
-    "spokesperson_sex": 0,
-    "spokesperson_Continents": 1201,
-    "spokesperson_type": 0,
-    "spokesperson_age": 0,
-    "spokesperson_scene": 25,
-    "spokesperson_performance": 0,
-    "spokesperson_plot": 0,
-    "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
-    "expect": 5,
-    "pre_id": 11044,
-    "next_stage": 11046,
-    "city": 1106
-  },
-  "11046": {
-    "id": 11046,
-    "zh_cn_name": "Park",
-    "city_schedule": 10,
+    "zh_cn_name": "街道5",
+    "city_schedule": 20,
     "position": {
       "x": 0.899999976158142,
       "y": 0.899999976158142
     },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 28,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 9700,
+    "once_reward": 80,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 16
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11023,
+    "next_stage": 11025,
+    "city": 1106
+  },
+  "11025": {
+    "id": 11025,
+    "zh_cn_name": "街道1",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 31,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 11000,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 17
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11024,
+    "next_stage": 11026,
+    "city": 1107
+  },
+  "11026": {
+    "id": 11026,
+    "zh_cn_name": "街道2",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 31,
+    "publicize_schedule": 25,
+    "publicize_cost": 11200,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 17
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11025,
+    "next_stage": 11027,
+    "city": 1107
+  },
+  "11027": {
+    "id": 11027,
+    "zh_cn_name": "街道3",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 32,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 11400,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 17
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11026,
+    "next_stage": 11028,
+    "city": 1107
+  },
+  "11028": {
+    "id": 11028,
+    "zh_cn_name": "街道4",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 33,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 11600,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 17
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11027,
+    "next_stage": 11029,
+    "city": 1107
+  },
+  "11029": {
+    "id": 11029,
+    "zh_cn_name": "街道5",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 34,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 12000,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 17
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11028,
+    "next_stage": 11030,
+    "city": 1107
+  },
+  "11030": {
+    "id": 11030,
+    "zh_cn_name": "街道1",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 36,
+    "publicize_schedule": 25,
+    "publicize_cost": 12500,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11029,
+    "next_stage": 11031,
+    "city": 1108
+  },
+  "11031": {
+    "id": 11031,
+    "zh_cn_name": "街道2",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 37,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 12800,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11030,
+    "next_stage": 11032,
+    "city": 1108
+  },
+  "11032": {
+    "id": 11032,
+    "zh_cn_name": "街道3",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 38,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 13100,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11031,
+    "next_stage": 11033,
+    "city": 1108
+  },
+  "11033": {
+    "id": 11033,
+    "zh_cn_name": "街道4",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 39,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 13400,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11032,
+    "next_stage": 11034,
+    "city": 1108
+  },
+  "11034": {
+    "id": 11034,
+    "zh_cn_name": "街道5",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 40,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 13700,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 18
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11033,
+    "next_stage": 11035,
+    "city": 1108
+  },
+  "11035": {
+    "id": 11035,
+    "zh_cn_name": "街道1",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 41,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 14500,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 19
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11034,
+    "next_stage": 11036,
+    "city": 1109
+  },
+  "11036": {
+    "id": 11036,
+    "zh_cn_name": "街道2",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 42,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 15000,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 19
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11035,
+    "next_stage": 11037,
+    "city": 1109
+  },
+  "11037": {
+    "id": 11037,
+    "zh_cn_name": "街道3",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 43,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 15300,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 19
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11036,
+    "next_stage": 11038,
+    "city": 1109
+  },
+  "11038": {
+    "id": 11038,
+    "zh_cn_name": "街道4",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 44,
+    "publicize_schedule": 20,
+    "publicize_cost": 15600,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 19
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11037,
+    "next_stage": 11039,
+    "city": 1109
+  },
+  "11039": {
+    "id": 11039,
+    "zh_cn_name": "街道5",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 45,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 15900,
+    "once_reward": 100,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 19
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11038,
+    "next_stage": 11040,
+    "city": 1109
+  },
+  "11040": {
+    "id": 11040,
+    "zh_cn_name": "街道1",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 46,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 16800,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11039,
+    "next_stage": 11041,
+    "city": 1110
+  },
+  "11041": {
+    "id": 11041,
+    "zh_cn_name": "街道2",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 47,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 16968,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11040,
+    "next_stage": 11042,
+    "city": 1110
+  },
+  "11042": {
+    "id": 11042,
+    "zh_cn_name": "街道3",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 48,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 17100,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11041,
+    "next_stage": 11043,
+    "city": 1110
+  },
+  "11043": {
+    "id": 11043,
+    "zh_cn_name": "街道4",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.600000023841858,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 50,
+    "publicize_schedule": 20,
+    "publicize_cost": 17300,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11042,
+    "next_stage": 11044,
+    "city": 1110
+  },
+  "11044": {
+    "id": 11044,
+    "zh_cn_name": "街道5",
+    "city_schedule": 20,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 50,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 17500,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 2
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 20
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11043,
+    "next_stage": 11045,
+    "city": 1110
+  },
+  "11045": {
+    "id": 11045,
+    "zh_cn_name": "街道1",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 51,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 22000,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11044,
+    "next_stage": 11046,
+    "city": 1111
+  },
+  "11046": {
+    "id": 11046,
+    "zh_cn_name": "街道2",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 52,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 22220,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11045,
+    "next_stage": 11047,
+    "city": 1111
+  },
+  "11047": {
+    "id": 11047,
+    "zh_cn_name": "街道3",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 53,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 22442,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11046,
+    "next_stage": 11048,
+    "city": 1111
+  },
+  "11048": {
+    "id": 11048,
+    "zh_cn_name": "街道4",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 54,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 22666,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11047,
+    "next_stage": 11049,
+    "city": 1111
+  },
+  "11049": {
+    "id": 11049,
+    "zh_cn_name": "街道5",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 55,
+    "publicize_schedule": 17,
+    "publicize_cost": 22893,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11048,
+    "next_stage": 11050,
+    "city": 1111
+  },
+  "11050": {
+    "id": 11050,
+    "zh_cn_name": "街道6",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 55,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 23122,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 22
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11049,
+    "next_stage": 11051,
+    "city": 1111
+  },
+  "11051": {
+    "id": 11051,
+    "zh_cn_name": "街道1",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 56,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 24000,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11050,
+    "next_stage": 11052,
+    "city": 1112
+  },
+  "11052": {
+    "id": 11052,
+    "zh_cn_name": "街道2",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 57,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 24240,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11051,
+    "next_stage": 11053,
+    "city": 1112
+  },
+  "11053": {
+    "id": 11053,
+    "zh_cn_name": "街道3",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 58,
+    "publicize_schedule": 20,
+    "publicize_cost": 24482,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11052,
+    "next_stage": 11054,
+    "city": 1112
+  },
+  "11054": {
+    "id": 11054,
+    "zh_cn_name": "街道4",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 59,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 24727,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11053,
+    "next_stage": 11055,
+    "city": 1112
+  },
+  "11055": {
+    "id": 11055,
+    "zh_cn_name": "街道5",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 59,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 24974,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11054,
+    "next_stage": 11056,
+    "city": 1112
+  },
+  "11056": {
+    "id": 11056,
+    "zh_cn_name": "街道6",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 59,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 25224,
+    "once_reward": 200,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 23
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11055,
+    "next_stage": 11057,
+    "city": 1112
+  },
+  "11057": {
+    "id": 11057,
+    "zh_cn_name": "街道1",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 60,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 26000,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11056,
+    "next_stage": 11058,
+    "city": 1113
+  },
+  "11058": {
+    "id": 11058,
+    "zh_cn_name": "街道2",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 62,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 26260,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11057,
+    "next_stage": 11059,
+    "city": 1113
+  },
+  "11059": {
+    "id": 11059,
+    "zh_cn_name": "街道3",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 62,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 26523,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11058,
+    "next_stage": 11060,
+    "city": 1113
+  },
+  "11060": {
+    "id": 11060,
+    "zh_cn_name": "街道4",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
     "spokesperson_sex": 1101,
     "spokesperson_Continents": 0,
     "spokesperson_type": 0,
@@ -1185,14 +2316,5058 @@
     "spokesperson_performance": 0,
     "spokesperson_plot": 0,
     "spokesperson_art": 0,
-    "spokesperson_entertainment": 0,
-    "publicize_schedule": 10,
-    "publicize_cost": 300,
-    "once_reward": 200,
-    "finale_reward": 1500,
+    "spokesperson_entertainment": 63,
+    "publicize_schedule": 17,
+    "publicize_cost": 26788,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
     "expect": 5,
-    "pre_id": 11045,
+    "pre_id": 11059,
+    "next_stage": 11061,
+    "city": 1113
+  },
+  "11061": {
+    "id": 11061,
+    "zh_cn_name": "街道5",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 64,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 27056,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11060,
+    "next_stage": 11062,
+    "city": 1113
+  },
+  "11062": {
+    "id": 11062,
+    "zh_cn_name": "街道6",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 65,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 27327,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 24
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11061,
+    "next_stage": 11063,
+    "city": 1113
+  },
+  "11063": {
+    "id": 11063,
+    "zh_cn_name": "街道1",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 66,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 27000,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11062,
+    "next_stage": 11064,
+    "city": 1114
+  },
+  "11064": {
+    "id": 11064,
+    "zh_cn_name": "街道2",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 67,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 27270,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11063,
+    "next_stage": 11065,
+    "city": 1114
+  },
+  "11065": {
+    "id": 11065,
+    "zh_cn_name": "街道3",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 68,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 27543,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11064,
+    "next_stage": 11066,
+    "city": 1114
+  },
+  "11066": {
+    "id": 11066,
+    "zh_cn_name": "街道4",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 69,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 27818,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11065,
+    "next_stage": 11067,
+    "city": 1114
+  },
+  "11067": {
+    "id": 11067,
+    "zh_cn_name": "街道5",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 69,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 28096,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11066,
+    "next_stage": 11068,
+    "city": 1114
+  },
+  "11068": {
+    "id": 11068,
+    "zh_cn_name": "街道6",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 70,
+    "publicize_schedule": 15,
+    "publicize_cost": 28377,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 25
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11067,
+    "next_stage": 11069,
+    "city": 1114
+  },
+  "11069": {
+    "id": 11069,
+    "zh_cn_name": "街道1",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 71,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 29000,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11068,
+    "next_stage": 11070,
+    "city": 1115
+  },
+  "11070": {
+    "id": 11070,
+    "zh_cn_name": "街道2",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 72,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 29290,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11069,
+    "next_stage": 11071,
+    "city": 1115
+  },
+  "11071": {
+    "id": 11071,
+    "zh_cn_name": "街道3",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 73,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 29583,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11070,
+    "next_stage": 11072,
+    "city": 1115
+  },
+  "11072": {
+    "id": 11072,
+    "zh_cn_name": "街道4",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 73,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 29879,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11071,
+    "next_stage": 11073,
+    "city": 1115
+  },
+  "11073": {
+    "id": 11073,
+    "zh_cn_name": "街道5",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 74,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 30178,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11072,
+    "next_stage": 11074,
+    "city": 1115
+  },
+  "11074": {
+    "id": 11074,
+    "zh_cn_name": "街道6",
+    "city_schedule": 17,
+    "position": {
+      "x": 0.899999976158142,
+      "y": 0.899999976158142
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 75,
+    "publicize_schedule": 15,
+    "publicize_cost": 30480,
+    "once_reward": 300,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 3
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 26
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11073,
+    "next_stage": 11075,
+    "city": 1115
+  },
+  "11075": {
+    "id": 11075,
+    "zh_cn_name": "街道1",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 76,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 44000,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11074,
+    "next_stage": 11076,
+    "city": 1116
+  },
+  "11076": {
+    "id": 11076,
+    "zh_cn_name": "街道2",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 77,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 44440,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11075,
+    "next_stage": 11077,
+    "city": 1116
+  },
+  "11077": {
+    "id": 11077,
+    "zh_cn_name": "街道3",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 78,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 44884,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11076,
+    "next_stage": 11078,
+    "city": 1116
+  },
+  "11078": {
+    "id": 11078,
+    "zh_cn_name": "街道4",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 79,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 45333,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11077,
+    "next_stage": 11079,
+    "city": 1116
+  },
+  "11079": {
+    "id": 11079,
+    "zh_cn_name": "街道5",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 79,
+    "publicize_schedule": 17,
+    "publicize_cost": 45786,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11078,
+    "next_stage": 11080,
+    "city": 1116
+  },
+  "11080": {
+    "id": 11080,
+    "zh_cn_name": "街道6",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 79,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 46244,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11079,
+    "next_stage": 11081,
+    "city": 1116
+  },
+  "11081": {
+    "id": 11081,
+    "zh_cn_name": "街道7",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 80,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 46706,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 28
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11080,
+    "next_stage": 11082,
+    "city": 1116
+  },
+  "11082": {
+    "id": 11082,
+    "zh_cn_name": "街道1",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 81,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 46000,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11081,
+    "next_stage": 11083,
+    "city": 1117
+  },
+  "11083": {
+    "id": 11083,
+    "zh_cn_name": "街道2",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 82,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 46460,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11082,
+    "next_stage": 11084,
+    "city": 1117
+  },
+  "11084": {
+    "id": 11084,
+    "zh_cn_name": "街道3",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 82,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 46925,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11083,
+    "next_stage": 11085,
+    "city": 1117
+  },
+  "11085": {
+    "id": 11085,
+    "zh_cn_name": "街道4",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 83,
+    "publicize_schedule": 17,
+    "publicize_cost": 47394,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11084,
+    "next_stage": 11086,
+    "city": 1117
+  },
+  "11086": {
+    "id": 11086,
+    "zh_cn_name": "街道5",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 84,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 47868,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11085,
+    "next_stage": 11087,
+    "city": 1117
+  },
+  "11087": {
+    "id": 11087,
+    "zh_cn_name": "街道6",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 85,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 48347,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11086,
+    "next_stage": 11088,
+    "city": 1117
+  },
+  "11088": {
+    "id": 11088,
+    "zh_cn_name": "街道7",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 85,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 48830,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 29
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11087,
+    "next_stage": 11089,
+    "city": 1117
+  },
+  "11089": {
+    "id": 11089,
+    "zh_cn_name": "街道1",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 86,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 51000,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11088,
+    "next_stage": 11090,
+    "city": 1118
+  },
+  "11090": {
+    "id": 11090,
+    "zh_cn_name": "街道2",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 86,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 51510,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11089,
+    "next_stage": 11091,
+    "city": 1118
+  },
+  "11091": {
+    "id": 11091,
+    "zh_cn_name": "街道3",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 87,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 52025,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11090,
+    "next_stage": 11092,
+    "city": 1118
+  },
+  "11092": {
+    "id": 11092,
+    "zh_cn_name": "街道4",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 88,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 52545,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11091,
+    "next_stage": 11093,
+    "city": 1118
+  },
+  "11093": {
+    "id": 11093,
+    "zh_cn_name": "街道5",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 89,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 53070,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11092,
+    "next_stage": 11094,
+    "city": 1118
+  },
+  "11094": {
+    "id": 11094,
+    "zh_cn_name": "街道6",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 89,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 53601,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11093,
+    "next_stage": 11095,
+    "city": 1118
+  },
+  "11095": {
+    "id": 11095,
+    "zh_cn_name": "街道7",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 90,
+    "publicize_schedule": 13,
+    "publicize_cost": 54137,
+    "once_reward": 400,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 30
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11094,
+    "next_stage": 11096,
+    "city": 1118
+  },
+  "11096": {
+    "id": 11096,
+    "zh_cn_name": "街道1",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 91,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 57000,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11095,
+    "next_stage": 11097,
+    "city": 1119
+  },
+  "11097": {
+    "id": 11097,
+    "zh_cn_name": "街道2",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 92,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 57570,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11096,
+    "next_stage": 11098,
+    "city": 1119
+  },
+  "11098": {
+    "id": 11098,
+    "zh_cn_name": "街道3",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 92,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 58146,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11097,
+    "next_stage": 11099,
+    "city": 1119
+  },
+  "11099": {
+    "id": 11099,
+    "zh_cn_name": "街道4",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 93,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 58727,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11098,
+    "next_stage": 11100,
+    "city": 1119
+  },
+  "11100": {
+    "id": 11100,
+    "zh_cn_name": "街道5",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 94,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 59314,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11099,
+    "next_stage": 11101,
+    "city": 1119
+  },
+  "11101": {
+    "id": 11101,
+    "zh_cn_name": "街道6",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 94,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 59907,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11100,
+    "next_stage": 11102,
+    "city": 1119
+  },
+  "11102": {
+    "id": 11102,
+    "zh_cn_name": "街道7",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 95,
+    "publicize_schedule": 13,
+    "publicize_cost": 60506,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 31
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11101,
+    "next_stage": 11103,
+    "city": 1119
+  },
+  "11103": {
+    "id": 11103,
+    "zh_cn_name": "街道1",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 96,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 62000,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11102,
+    "next_stage": 11104,
+    "city": 1120
+  },
+  "11104": {
+    "id": 11104,
+    "zh_cn_name": "街道2",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 96,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 62620,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11103,
+    "next_stage": 11105,
+    "city": 1120
+  },
+  "11105": {
+    "id": 11105,
+    "zh_cn_name": "街道3",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 97,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 63246,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11104,
+    "next_stage": 11106,
+    "city": 1120
+  },
+  "11106": {
+    "id": 11106,
+    "zh_cn_name": "街道4",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 97,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 63878,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11105,
+    "next_stage": 11107,
+    "city": 1120
+  },
+  "11107": {
+    "id": 11107,
+    "zh_cn_name": "街道5",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 98,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 64517,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11106,
+    "next_stage": 11108,
+    "city": 1120
+  },
+  "11108": {
+    "id": 11108,
+    "zh_cn_name": "街道6",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 98,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 65162,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11107,
+    "next_stage": 11109,
+    "city": 1120
+  },
+  "11109": {
+    "id": 11109,
+    "zh_cn_name": "街道7",
+    "city_schedule": 15,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 99,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 65814,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 4
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 32
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11108,
+    "next_stage": 11110,
+    "city": 1120
+  },
+  "11110": {
+    "id": 11110,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 100,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 69000,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11109,
+    "next_stage": 11111,
+    "city": 1121
+  },
+  "11111": {
+    "id": 11111,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 100,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 69690,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11110,
+    "next_stage": 11112,
+    "city": 1121
+  },
+  "11112": {
+    "id": 11112,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 101,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 70387,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11111,
+    "next_stage": 11113,
+    "city": 1121
+  },
+  "11113": {
+    "id": 11113,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 102,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 71091,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11112,
+    "next_stage": 11114,
+    "city": 1121
+  },
+  "11114": {
+    "id": 11114,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 102,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 71802,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11113,
+    "next_stage": 11115,
+    "city": 1121
+  },
+  "11115": {
+    "id": 11115,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 103,
+    "publicize_schedule": 17,
+    "publicize_cost": 72520,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11114,
+    "next_stage": 11116,
+    "city": 1121
+  },
+  "11116": {
+    "id": 11116,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 104,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 73245,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11115,
+    "next_stage": 11117,
+    "city": 1121
+  },
+  "11117": {
+    "id": 11117,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 104,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 73977,
+    "once_reward": 500,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 35
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11116,
+    "next_stage": 11118,
+    "city": 1121
+  },
+  "11118": {
+    "id": 11118,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 105,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 71000,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11117,
+    "next_stage": 11119,
+    "city": 1122
+  },
+  "11119": {
+    "id": 11119,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 106,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 71710,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11118,
+    "next_stage": 11120,
+    "city": 1122
+  },
+  "11120": {
+    "id": 11120,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 106,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 72427,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11119,
+    "next_stage": 11121,
+    "city": 1122
+  },
+  "11121": {
+    "id": 11121,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 106,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 73151,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11120,
+    "next_stage": 11122,
+    "city": 1122
+  },
+  "11122": {
+    "id": 11122,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 107,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 73883,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11121,
+    "next_stage": 11123,
+    "city": 1122
+  },
+  "11123": {
+    "id": 11123,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 109,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 74622,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11122,
+    "next_stage": 11124,
+    "city": 1122
+  },
+  "11124": {
+    "id": 11124,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 109,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 75368,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11123,
+    "next_stage": 11125,
+    "city": 1122
+  },
+  "11125": {
+    "id": 11125,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 109,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 76122,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 36
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11124,
+    "next_stage": 11126,
+    "city": 1122
+  },
+  "11126": {
+    "id": 11126,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 110,
+    "publicize_schedule": 25,
+    "publicize_cost": 74000,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11125,
+    "next_stage": 11127,
+    "city": 1123
+  },
+  "11127": {
+    "id": 11127,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 110,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 74740,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11126,
+    "next_stage": 11128,
+    "city": 1123
+  },
+  "11128": {
+    "id": 11128,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 110,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 75487,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11127,
+    "next_stage": 11129,
+    "city": 1123
+  },
+  "11129": {
+    "id": 11129,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 111,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 76242,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11128,
+    "next_stage": 11130,
+    "city": 1123
+  },
+  "11130": {
+    "id": 11130,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 113,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 77004,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11129,
+    "next_stage": 11131,
+    "city": 1123
+  },
+  "11131": {
+    "id": 11131,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 113,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 77774,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11130,
+    "next_stage": 11132,
+    "city": 1123
+  },
+  "11132": {
+    "id": 11132,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 114,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 78552,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11131,
+    "next_stage": 11133,
+    "city": 1123
+  },
+  "11133": {
+    "id": 11133,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 115,
+    "publicize_schedule": 13,
+    "publicize_cost": 79338,
+    "once_reward": 600,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 37
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11132,
+    "next_stage": 11134,
+    "city": 1123
+  },
+  "11134": {
+    "id": 11134,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 116,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 77000,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11133,
+    "next_stage": 11135,
+    "city": 1124
+  },
+  "11135": {
+    "id": 11135,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 117,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 77770,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11134,
+    "next_stage": 11136,
+    "city": 1124
+  },
+  "11136": {
+    "id": 11136,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 118,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 78548,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11135,
+    "next_stage": 11137,
+    "city": 1124
+  },
+  "11137": {
+    "id": 11137,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 119,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 79333,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11136,
+    "next_stage": 11138,
+    "city": 1124
+  },
+  "11138": {
+    "id": 11138,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 119,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 80126,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11137,
+    "next_stage": 11139,
+    "city": 1124
+  },
+  "11139": {
+    "id": 11139,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 119,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 80927,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11138,
+    "next_stage": 11140,
+    "city": 1124
+  },
+  "11140": {
+    "id": 11140,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 120,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 81736,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11139,
+    "next_stage": 11141,
+    "city": 1124
+  },
+  "11141": {
+    "id": 11141,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 120,
+    "publicize_schedule": 13,
+    "publicize_cost": 82553,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 38
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11140,
+    "next_stage": 11142,
+    "city": 1124
+  },
+  "11142": {
+    "id": 11142,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 121,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 96000,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11141,
+    "next_stage": 11143,
+    "city": 1125
+  },
+  "11143": {
+    "id": 11143,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 122,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 96960,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11142,
+    "next_stage": 11144,
+    "city": 1125
+  },
+  "11144": {
+    "id": 11144,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 122,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 97930,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11143,
+    "next_stage": 11145,
+    "city": 1125
+  },
+  "11145": {
+    "id": 11145,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 123,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 98909,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11144,
+    "next_stage": 11146,
+    "city": 1125
+  },
+  "11146": {
+    "id": 11146,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 124,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 99898,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11145,
+    "next_stage": 11147,
+    "city": 1125
+  },
+  "11147": {
+    "id": 11147,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 124,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 100897,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11146,
+    "next_stage": 11148,
+    "city": 1125
+  },
+  "11148": {
+    "id": 11148,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 125,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 101906,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11147,
+    "next_stage": 11149,
+    "city": 1125
+  },
+  "11149": {
+    "id": 11149,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 125,
+    "publicize_schedule": 13,
+    "publicize_cost": 102925,
+    "once_reward": 700,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 5
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 40
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11148,
+    "next_stage": 11150,
+    "city": 1125
+  },
+  "11150": {
+    "id": 11150,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 126,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 108000,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11149,
+    "next_stage": 11151,
+    "city": 1126
+  },
+  "11151": {
+    "id": 11151,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 126,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 109080,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11150,
+    "next_stage": 11152,
+    "city": 1126
+  },
+  "11152": {
+    "id": 11152,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 127,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 110171,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11151,
+    "next_stage": 11153,
+    "city": 1126
+  },
+  "11153": {
+    "id": 11153,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 127,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 111273,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11152,
+    "next_stage": 11154,
+    "city": 1126
+  },
+  "11154": {
+    "id": 11154,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 128,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 112386,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11153,
+    "next_stage": 11155,
+    "city": 1126
+  },
+  "11155": {
+    "id": 11155,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 128,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 113510,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11154,
+    "next_stage": 11156,
+    "city": 1126
+  },
+  "11156": {
+    "id": 11156,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 129,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 114645,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11155,
+    "next_stage": 11157,
+    "city": 1126
+  },
+  "11157": {
+    "id": 11157,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 130,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 115791,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 41
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11156,
+    "next_stage": 11158,
+    "city": 1126
+  },
+  "11158": {
+    "id": 11158,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 131,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 120000,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11157,
+    "next_stage": 11159,
+    "city": 1127
+  },
+  "11159": {
+    "id": 11159,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 131,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 121200,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11158,
+    "next_stage": 11160,
+    "city": 1127
+  },
+  "11160": {
+    "id": 11160,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 132,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 122412,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11159,
+    "next_stage": 11161,
+    "city": 1127
+  },
+  "11161": {
+    "id": 11161,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 132,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 123636,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11160,
+    "next_stage": 11162,
+    "city": 1127
+  },
+  "11162": {
+    "id": 11162,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 133,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 124872,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11161,
+    "next_stage": 11163,
+    "city": 1127
+  },
+  "11163": {
+    "id": 11163,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 134,
+    "publicize_schedule": 17,
+    "publicize_cost": 126121,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11162,
+    "next_stage": 11164,
+    "city": 1127
+  },
+  "11164": {
+    "id": 11164,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 134,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 127382,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11163,
+    "next_stage": 11165,
+    "city": 1127
+  },
+  "11165": {
+    "id": 11165,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 135,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 128656,
+    "once_reward": 800,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 42
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11164,
+    "next_stage": 11166,
+    "city": 1127
+  },
+  "11166": {
+    "id": 11166,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 136,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 132000,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11165,
+    "next_stage": 11167,
+    "city": 1128
+  },
+  "11167": {
+    "id": 11167,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 136,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 133320,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11166,
+    "next_stage": 11168,
+    "city": 1128
+  },
+  "11168": {
+    "id": 11168,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 136,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 134653,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11167,
+    "next_stage": 11169,
+    "city": 1128
+  },
+  "11169": {
+    "id": 11169,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 137,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 136000,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11168,
+    "next_stage": 11170,
+    "city": 1128
+  },
+  "11170": {
+    "id": 11170,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 138,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 137360,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11169,
+    "next_stage": 11171,
+    "city": 1128
+  },
+  "11171": {
+    "id": 11171,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 138,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 138734,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11170,
+    "next_stage": 11172,
+    "city": 1128
+  },
+  "11172": {
+    "id": 11172,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 139,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 140121,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11171,
+    "next_stage": 11173,
+    "city": 1128
+  },
+  "11173": {
+    "id": 11173,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 139,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 141522,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 44
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11172,
+    "next_stage": 11174,
+    "city": 1128
+  },
+  "11174": {
+    "id": 11174,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 140,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 144000,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11173,
+    "next_stage": 11175,
+    "city": 1129
+  },
+  "11175": {
+    "id": 11175,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1202,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 141,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 145440,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11174,
+    "next_stage": 11176,
+    "city": 1129
+  },
+  "11176": {
+    "id": 11176,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1501,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 142,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 146894,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11175,
+    "next_stage": 11177,
+    "city": 1129
+  },
+  "11177": {
+    "id": 11177,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 142,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 148363,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11176,
+    "next_stage": 11178,
+    "city": 1129
+  },
+  "11178": {
+    "id": 11178,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 143,
+    "publicize_schedule": 17,
+    "publicize_cost": 149847,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11177,
+    "next_stage": 11179,
+    "city": 1129
+  },
+  "11179": {
+    "id": 11179,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 143,
+    "publicize_schedule": 17,
+    "publicize_cost": 151345,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11178,
+    "next_stage": 11180,
+    "city": 1129
+  },
+  "11180": {
+    "id": 11180,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 144,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 152858,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11179,
+    "next_stage": 11181,
+    "city": 1129
+  },
+  "11181": {
+    "id": 11181,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 1102,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 144,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 154387,
+    "once_reward": 900,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 45
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11180,
+    "next_stage": 11182,
+    "city": 1129
+  },
+  "11182": {
+    "id": 11182,
+    "zh_cn_name": "街道1",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.100000001490116
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 145,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 25,
+    "publicize_cost": 150000,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11181,
+    "next_stage": 11183,
+    "city": 1130
+  },
+  "11183": {
+    "id": 11183,
+    "zh_cn_name": "街道2",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.200000002980232
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1401,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 146,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 151500,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11182,
+    "next_stage": 11184,
+    "city": 1130
+  },
+  "11184": {
+    "id": 11184,
+    "zh_cn_name": "街道3",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.300000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 146,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 20,
+    "publicize_cost": 153015,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11183,
+    "next_stage": 11185,
+    "city": 1130
+  },
+  "11185": {
+    "id": 11185,
+    "zh_cn_name": "街道4",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.5,
+      "y": 0.400000005960464
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 1502,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 146,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 154545,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11184,
+    "next_stage": 11186,
+    "city": 1130
+  },
+  "11186": {
+    "id": 11186,
+    "zh_cn_name": "街道5",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 1101,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 147,
+    "publicize_schedule": 17,
+    "publicize_cost": 156090,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11185,
+    "next_stage": 11187,
+    "city": 1130
+  },
+  "11187": {
+    "id": 11187,
+    "zh_cn_name": "街道6",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.699999988079071,
+      "y": 0.600000023841858
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 1201,
+    "spokesperson_type": 0,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 148,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 17,
+    "publicize_cost": 157651,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11186,
+    "next_stage": 11188,
+    "city": 1130
+  },
+  "11188": {
+    "id": 11188,
+    "zh_cn_name": "街道7",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.400000005960464,
+      "y": 0.800000011920929
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 0,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 148,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 15,
+    "publicize_cost": 159228,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11187,
+    "next_stage": 11189,
+    "city": 1130
+  },
+  "11189": {
+    "id": 11189,
+    "zh_cn_name": "街道8",
+    "city_schedule": 13,
+    "position": {
+      "x": 0.200000002980232,
+      "y": 0.0
+    },
+    "spokesperson_sex": 0,
+    "spokesperson_Continents": 0,
+    "spokesperson_type": 1402,
+    "spokesperson_age": 0,
+    "spokesperson_scene": 0,
+    "spokesperson_performance": 149,
+    "spokesperson_plot": 0,
+    "spokesperson_art": 0,
+    "spokesperson_entertainment": 0,
+    "publicize_schedule": 13,
+    "publicize_cost": 160820,
+    "once_reward": 1000,
+    "finale_reward": [
+      {
+        "itemId": 3,
+        "itemNum": 5
+      },
+      {
+        "itemId": 9001,
+        "itemNum": 6
+      },
+      {
+        "itemId": 5005,
+        "itemNum": 46
+      }
+    ],
+    "expect": 5,
+    "pre_id": 11188,
     "next_stage": 0,
-    "city": 1106
+    "city": 1130
   }
 }

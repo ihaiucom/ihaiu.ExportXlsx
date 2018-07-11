@@ -3,7 +3,7 @@
 id	type	field	enName	zh_cn_name	icon	tip
 1101	1	lady	Lady	女		
 1102	1	man	Man	男		
-1201	2	usa	Usa	美国		
+1201	2	usa	NA	北美		
 1202	2	europe	Europe	欧洲		
 1203	2	asia	Asia	亚洲		
 1301	3	1	1	1		剧本，演员，物品的星级
@@ -120,8 +120,8 @@ id	type	field	enName	zh_cn_name	icon	tip
 2208	12	suspense	Suspense	悬疑		
 2301	13	secondary_property	Secondary_property	次要属性		
 2302	13	main_property	Main_property	主要属性		
-1401	14	odd_number	Odd_number	奇数升级		
-1402	14	even_numbers	Even_numbers	偶数升级		
+2401	14	odd_number	Odd_number	奇数升级		
+2402	14	even_numbers	Even_numbers	偶数升级		
 2501	15	test095	Test095	街区1档		
 2502	15	test096	Test096	街区2档		
 2503	15	test097	Test097	街区3档		

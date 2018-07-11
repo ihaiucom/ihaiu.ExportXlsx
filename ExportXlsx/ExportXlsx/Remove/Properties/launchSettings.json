@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Remove": {
+      "commandName": "Project",
+      "commandLineArgs": "--path=./test"
+    }
+  }
+}

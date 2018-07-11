@@ -8,12 +8,6 @@ namespace configs
 	export class MenuConfigStruct extends BaseConfig
 	{
 	
-		// 101 : number;
-		static KEY_101 = "101";
-
-		// 102 : number[];
-		static KEY_102 = "102";
-
 
 		id : number;
 		zh_cn_name : string;

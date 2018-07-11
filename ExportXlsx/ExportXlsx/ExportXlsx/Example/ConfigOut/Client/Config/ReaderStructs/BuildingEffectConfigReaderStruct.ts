@@ -18,6 +18,7 @@ namespace configs
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
+			config.level = csvGetInt(csv,  this.GetHeadIndex(  "level"  )   );
 			config.zh_cn_effect_des = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_effect_des"  )   );
 			config.effect = csvGetInt(csv,  this.GetHeadIndex(  "effect"  )   );
 			config.par1 = csvGetFloat(csv,  this.GetHeadIndex(  "par1"  )   );
