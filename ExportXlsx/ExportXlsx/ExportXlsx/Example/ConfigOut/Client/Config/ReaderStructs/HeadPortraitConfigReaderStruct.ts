@@ -19,7 +19,7 @@ namespace configs
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
-			config.unlock =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "unlock"  )   )   );
+			config.unlock =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "unlock"  )   )   );
 			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );
 
 			

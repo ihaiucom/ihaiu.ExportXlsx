@@ -10,15 +10,16 @@ namespace configs
 		id : number;
 		zh_cn_name : string;
 		type : number;
-		function_open : number[];
 		level : number;
 		cost : DTItemNum[];
 		level_req : number;
 		type_level : DTBuildingReq[];
 		block_req : number;
+		function_open : number[];
 		UI : boolean;
 		effect_id : number[];
-		effect_tips : string;
-		level_tips : string;
+		zh_cn_effect_tips : string;
+		zh_cn_level_tips : string;
+		building_small : number;
 	}
 }

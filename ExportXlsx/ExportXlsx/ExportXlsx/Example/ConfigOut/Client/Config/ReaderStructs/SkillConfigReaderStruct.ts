@@ -24,7 +24,7 @@ namespace configs
 			config.cn_name = csvGetString(csv,  this.GetHeadIndex(  "cn_name"  )   );
 			config.en_tips = csvGetString(csv,  this.GetHeadIndex(  "en_tips"  )   );
 			config.cn_tips = csvGetString(csv,  this.GetHeadIndex(  "cn_tips"  )   );
-			config.icon = csvGetString(csv,  this.GetHeadIndex(  "icon"  )   );
+			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.trigger =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "trigger"  )   )   );
 			config.effect = csvGetInt(csv,  this.GetHeadIndex(  "effect"  )   );
 			config.value = csvGetFloat(csv,  this.GetHeadIndex(  "value"  )   );

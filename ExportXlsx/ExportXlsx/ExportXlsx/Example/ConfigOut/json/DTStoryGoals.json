@@ -1,92 +1,5122 @@
 ﻿{
-  "1001": {
-    "id": 1001,
-    "rank": 1,
+  "15011001": {
+    "id": 15011001,
+    "storyid": 1501,
+    "rank": 1001,
     "property1": 1603,
-    "value1": 100,
+    "value1": 117,
     "property2": 1604,
-    "value2": 100,
+    "value2": 88,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6101,
+        "itemNum": 1
       }
     ],
     "cn": "情多深雨多濛（1001）"
   },
-  "1002": {
-    "id": 1002,
-    "rank": 1,
-    "property1": 1601,
-    "value1": 100,
-    "property2": 1603,
-    "value2": 100,
+  "15011002": {
+    "id": 15011002,
+    "storyid": 1501,
+    "rank": 1002,
+    "property1": 1603,
+    "value1": 358,
+    "property2": 1604,
+    "value2": 279,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011003": {
+    "id": 15011003,
+    "storyid": 1501,
+    "rank": 1003,
+    "property1": 1603,
+    "value1": 590,
+    "property2": 1604,
+    "value2": 468,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011004": {
+    "id": 15011004,
+    "storyid": 1501,
+    "rank": 1004,
+    "property1": 1603,
+    "value1": 881,
+    "property2": 1604,
+    "value2": 710,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011005": {
+    "id": 15011005,
+    "storyid": 1501,
+    "rank": 1005,
+    "property1": 1603,
+    "value1": 1230,
+    "property2": 1604,
+    "value2": 1001,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011006": {
+    "id": 15011006,
+    "storyid": 1501,
+    "rank": 1006,
+    "property1": 1603,
+    "value1": 1641,
+    "property2": 1604,
+    "value2": 1343,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011007": {
+    "id": 15011007,
+    "storyid": 1501,
+    "rank": 1007,
+    "property1": 1603,
+    "value1": 2110,
+    "property2": 1604,
+    "value2": 1733,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011008": {
+    "id": 15011008,
+    "storyid": 1501,
+    "rank": 1008,
+    "property1": 1603,
+    "value1": 3313,
+    "property2": 1604,
+    "value2": 2724,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011009": {
+    "id": 15011009,
+    "storyid": 1501,
+    "rank": 1009,
+    "property1": 1603,
+    "value1": 4054,
+    "property2": 1604,
+    "value2": 3334,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15011010": {
+    "id": 15011010,
+    "storyid": 1501,
+    "rank": 1010,
+    "property1": 1603,
+    "value1": 4868,
+    "property2": 1604,
+    "value2": 4008,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012001": {
+    "id": 15012001,
+    "storyid": 1501,
+    "rank": 2001,
+    "property1": 1603,
+    "value1": 7670,
+    "property2": 1604,
+    "value2": 6322,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012002": {
+    "id": 15012002,
+    "storyid": 1501,
+    "rank": 2002,
+    "property1": 1603,
+    "value1": 8957,
+    "property2": 1604,
+    "value2": 7386,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012003": {
+    "id": 15012003,
+    "storyid": 1501,
+    "rank": 2003,
+    "property1": 1603,
+    "value1": 10339,
+    "property2": 1604,
+    "value2": 8530,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012004": {
+    "id": 15012004,
+    "storyid": 1501,
+    "rank": 2004,
+    "property1": 1603,
+    "value1": 11818,
+    "property2": 1604,
+    "value2": 9760,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012005": {
+    "id": 15012005,
+    "storyid": 1501,
+    "rank": 2005,
+    "property1": 1603,
+    "value1": 15143,
+    "property2": 1604,
+    "value2": 12510,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012006": {
+    "id": 15012006,
+    "storyid": 1501,
+    "rank": 2006,
+    "property1": 1603,
+    "value1": 16108,
+    "property2": 1604,
+    "value2": 13308,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012007": {
+    "id": 15012007,
+    "storyid": 1501,
+    "rank": 2007,
+    "property1": 1603,
+    "value1": 17103,
+    "property2": 1604,
+    "value2": 14128,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012008": {
+    "id": 15012008,
+    "storyid": 1501,
+    "rank": 2008,
+    "property1": 1603,
+    "value1": 18127,
+    "property2": 1604,
+    "value2": 14981,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012009": {
+    "id": 15012009,
+    "storyid": 1501,
+    "rank": 2009,
+    "property1": 1603,
+    "value1": 19183,
+    "property2": 1604,
+    "value2": 15854,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15012010": {
+    "id": 15012010,
+    "storyid": 1501,
+    "rank": 2010,
+    "property1": 1603,
+    "value1": 20262,
+    "property2": 1604,
+    "value2": 16752,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "情多深雨多濛（1001）"
+  },
+  "15031001": {
+    "id": 15031001,
+    "storyid": 1503,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 106,
+    "property2": 1603,
+    "value2": 106,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
       }
     ],
     "cn": "神力女超人（1003）"
   },
-  "1003": {
-    "id": 1003,
-    "rank": 1,
-    "property1": 1603,
-    "value1": 100,
-    "property2": 1604,
-    "value2": 100,
+  "15031002": {
+    "id": 15031002,
+    "storyid": 1503,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 323,
+    "property2": 1603,
+    "value2": 323,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031003": {
+    "id": 15031003,
+    "storyid": 1503,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 528,
+    "property2": 1603,
+    "value2": 528,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031004": {
+    "id": 15031004,
+    "storyid": 1503,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 790,
+    "property2": 1603,
+    "value2": 790,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031005": {
+    "id": 15031005,
+    "storyid": 1503,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 1107,
+    "property2": 1603,
+    "value2": 1107,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031006": {
+    "id": 15031006,
+    "storyid": 1503,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1475,
+    "property2": 1603,
+    "value2": 1474,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031007": {
+    "id": 15031007,
+    "storyid": 1503,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1900,
+    "property2": 1603,
+    "value2": 1900,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031008": {
+    "id": 15031008,
+    "storyid": 1503,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2982,
+    "property2": 1603,
+    "value2": 2982,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031009": {
+    "id": 15031009,
+    "storyid": 1503,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3646,
+    "property2": 1603,
+    "value2": 3646,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15031010": {
+    "id": 15031010,
+    "storyid": 1503,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 4379,
+    "property2": 1603,
+    "value2": 4379,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032001": {
+    "id": 15032001,
+    "storyid": 1503,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 5178,
+    "property2": 1603,
+    "value2": 5177,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032002": {
+    "id": 15032002,
+    "storyid": 1503,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 6043,
+    "property2": 1603,
+    "value2": 6042,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032003": {
+    "id": 15032003,
+    "storyid": 1503,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 6975,
+    "property2": 1603,
+    "value2": 6975,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032004": {
+    "id": 15032004,
+    "storyid": 1503,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 7976,
+    "property2": 1603,
+    "value2": 7976,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032005": {
+    "id": 15032005,
+    "storyid": 1503,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 10219,
+    "property2": 1603,
+    "value2": 10219,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032006": {
+    "id": 15032006,
+    "storyid": 1503,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 10868,
+    "property2": 1603,
+    "value2": 10868,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032007": {
+    "id": 15032007,
+    "storyid": 1503,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 11540,
+    "property2": 1603,
+    "value2": 11540,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032008": {
+    "id": 15032008,
+    "storyid": 1503,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 12234,
+    "property2": 1603,
+    "value2": 12233,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032009": {
+    "id": 15032009,
+    "storyid": 1503,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 12942,
+    "property2": 1603,
+    "value2": 12942,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15032010": {
+    "id": 15032010,
+    "storyid": 1503,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 13672,
+    "property2": 1603,
+    "value2": 13672,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "神力女超人（1003）"
+  },
+  "15051001": {
+    "id": 15051001,
+    "storyid": 1505,
+    "rank": 1001,
+    "property1": 1603,
+    "value1": 170,
+    "property2": 1604,
+    "value2": 31,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
       }
     ],
     "cn": "寄生少年(1005)"
   },
-  "1004": {
-    "id": 1004,
-    "rank": 1,
-    "property1": 1601,
-    "value1": 100,
-    "property2": 1602,
-    "value2": 100,
+  "15051002": {
+    "id": 15051002,
+    "storyid": 1505,
+    "rank": 1002,
+    "property1": 1603,
+    "value1": 517,
+    "property2": 1604,
+    "value2": 97,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051003": {
+    "id": 15051003,
+    "storyid": 1505,
+    "rank": 1003,
+    "property1": 1603,
+    "value1": 849,
+    "property2": 1604,
+    "value2": 163,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051004": {
+    "id": 15051004,
+    "storyid": 1505,
+    "rank": 1004,
+    "property1": 1603,
+    "value1": 1269,
+    "property2": 1604,
+    "value2": 247,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051005": {
+    "id": 15051005,
+    "storyid": 1505,
+    "rank": 1005,
+    "property1": 1603,
+    "value1": 1777,
+    "property2": 1604,
+    "value2": 349,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051006": {
+    "id": 15051006,
+    "storyid": 1505,
+    "rank": 1006,
+    "property1": 1603,
+    "value1": 2367,
+    "property2": 1604,
+    "value2": 467,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051007": {
+    "id": 15051007,
+    "storyid": 1505,
+    "rank": 1007,
+    "property1": 1603,
+    "value1": 3054,
+    "property2": 1604,
+    "value2": 603,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051008": {
+    "id": 15051008,
+    "storyid": 1505,
+    "rank": 1008,
+    "property1": 1603,
+    "value1": 4790,
+    "property2": 1604,
+    "value2": 946,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051009": {
+    "id": 15051009,
+    "storyid": 1505,
+    "rank": 1009,
+    "property1": 1603,
+    "value1": 5856,
+    "property2": 1604,
+    "value2": 1160,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15051010": {
+    "id": 15051010,
+    "storyid": 1505,
+    "rank": 1010,
+    "property1": 1603,
+    "value1": 7035,
+    "property2": 1604,
+    "value2": 1394,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052001": {
+    "id": 15052001,
+    "storyid": 1505,
+    "rank": 2001,
+    "property1": 1603,
+    "value1": 8320,
+    "property2": 1604,
+    "value2": 1649,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052002": {
+    "id": 15052002,
+    "storyid": 1505,
+    "rank": 2002,
+    "property1": 1603,
+    "value1": 9709,
+    "property2": 1604,
+    "value2": 1927,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052003": {
+    "id": 15052003,
+    "storyid": 1505,
+    "rank": 2003,
+    "property1": 1603,
+    "value1": 11211,
+    "property2": 1604,
+    "value2": 2226,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052004": {
+    "id": 15052004,
+    "storyid": 1505,
+    "rank": 2004,
+    "property1": 1603,
+    "value1": 12819,
+    "property2": 1604,
+    "value2": 2546,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052005": {
+    "id": 15052005,
+    "storyid": 1505,
+    "rank": 2005,
+    "property1": 1603,
+    "value1": 16421,
+    "property2": 1604,
+    "value2": 3263,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052006": {
+    "id": 15052006,
+    "storyid": 1505,
+    "rank": 2006,
+    "property1": 1603,
+    "value1": 17463,
+    "property2": 1604,
+    "value2": 3471,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052007": {
+    "id": 15052007,
+    "storyid": 1505,
+    "rank": 2007,
+    "property1": 1603,
+    "value1": 18545,
+    "property2": 1604,
+    "value2": 3686,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052008": {
+    "id": 15052008,
+    "storyid": 1505,
+    "rank": 2008,
+    "property1": 1603,
+    "value1": 19660,
+    "property2": 1604,
+    "value2": 3907,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052009": {
+    "id": 15052009,
+    "storyid": 1505,
+    "rank": 2009,
+    "property1": 1603,
+    "value1": 20799,
+    "property2": 1604,
+    "value2": 4136,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15052010": {
+    "id": 15052010,
+    "storyid": 1505,
+    "rank": 2010,
+    "property1": 1603,
+    "value1": 21970,
+    "property2": 1604,
+    "value2": 4369,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "寄生少年(1005)"
+  },
+  "15061001": {
+    "id": 15061001,
+    "storyid": 1506,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 103,
+    "property2": 1602,
+    "value2": 125,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
       }
     ],
     "cn": "暗藏危机（1006）"
   },
-  "1005": {
-    "id": 1005,
-    "rank": 1,
+  "15061002": {
+    "id": 15061002,
+    "storyid": 1506,
+    "rank": 1002,
     "property1": 1601,
-    "value1": 100,
-    "property2": 1603,
-    "value2": 100,
+    "value1": 319,
+    "property2": 1602,
+    "value2": 404,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061003": {
+    "id": 15061003,
+    "storyid": 1506,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 526,
+    "property2": 1602,
+    "value2": 678,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061004": {
+    "id": 15061004,
+    "storyid": 1506,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 784,
+    "property2": 1602,
+    "value2": 1029,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061005": {
+    "id": 15061005,
+    "storyid": 1506,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 1096,
+    "property2": 1602,
+    "value2": 1450,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061006": {
+    "id": 15061006,
+    "storyid": 1506,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1463,
+    "property2": 1602,
+    "value2": 1945,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061007": {
+    "id": 15061007,
+    "storyid": 1506,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1882,
+    "property2": 1602,
+    "value2": 2510,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061008": {
+    "id": 15061008,
+    "storyid": 1506,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2953,
+    "property2": 1602,
+    "value2": 3947,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061009": {
+    "id": 15061009,
+    "storyid": 1506,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3615,
+    "property2": 1602,
+    "value2": 4831,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15061010": {
+    "id": 15061010,
+    "storyid": 1506,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 4340,
+    "property2": 1602,
+    "value2": 5809,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062001": {
+    "id": 15062001,
+    "storyid": 1506,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 6838,
+    "property2": 1602,
+    "value2": 9162,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062002": {
+    "id": 15062002,
+    "storyid": 1506,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 7986,
+    "property2": 1602,
+    "value2": 10704,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062003": {
+    "id": 15062003,
+    "storyid": 1506,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 9219,
+    "property2": 1602,
+    "value2": 12362,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062004": {
+    "id": 15062004,
+    "storyid": 1506,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 10536,
+    "property2": 1602,
+    "value2": 14144,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062005": {
+    "id": 15062005,
+    "storyid": 1506,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 13501,
+    "property2": 1602,
+    "value2": 18129,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062006": {
+    "id": 15062006,
+    "storyid": 1506,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 14361,
+    "property2": 1602,
+    "value2": 19286,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062007": {
+    "id": 15062007,
+    "storyid": 1506,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 15248,
+    "property2": 1602,
+    "value2": 20476,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062008": {
+    "id": 15062008,
+    "storyid": 1506,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 16162,
+    "property2": 1602,
+    "value2": 21711,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062009": {
+    "id": 15062009,
+    "storyid": 1506,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 17103,
+    "property2": 1602,
+    "value2": 22975,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15062010": {
+    "id": 15062010,
+    "storyid": 1506,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 18065,
+    "property2": 1602,
+    "value2": 24276,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "暗藏危机（1006）"
+  },
+  "15081001": {
+    "id": 15081001,
+    "storyid": 1508,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 92,
+    "property2": 1603,
+    "value2": 178,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
       }
     ],
     "cn": "废材少年（1008）"
   },
-  "1006": {
-    "id": 1006,
-    "rank": 1,
-    "property1": 1602,
-    "value1": 100,
-    "property2": 1604,
-    "value2": 100,
+  "15081002": {
+    "id": 15081002,
+    "storyid": 1508,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 282,
+    "property2": 1603,
+    "value2": 547,
     "reward": [
       {
-        "itemId": 1,
-        "itemNum": 1000
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081003": {
+    "id": 15081003,
+    "storyid": 1508,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 465,
+    "property2": 1603,
+    "value2": 900,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081004": {
+    "id": 15081004,
+    "storyid": 1508,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 693,
+    "property2": 1603,
+    "value2": 1343,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081005": {
+    "id": 15081005,
+    "storyid": 1508,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 968,
+    "property2": 1603,
+    "value2": 1877,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081006": {
+    "id": 15081006,
+    "storyid": 1508,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1292,
+    "property2": 1603,
+    "value2": 2504,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081007": {
+    "id": 15081007,
+    "storyid": 1508,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1661,
+    "property2": 1603,
+    "value2": 3220,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081008": {
+    "id": 15081008,
+    "storyid": 1508,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2608,
+    "property2": 1603,
+    "value2": 5056,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081009": {
+    "id": 15081009,
+    "storyid": 1508,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3191,
+    "property2": 1603,
+    "value2": 6187,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15081010": {
+    "id": 15081010,
+    "storyid": 1508,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 3832,
+    "property2": 1603,
+    "value2": 7428,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082001": {
+    "id": 15082001,
+    "storyid": 1508,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 4528,
+    "property2": 1603,
+    "value2": 8779,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082002": {
+    "id": 15082002,
+    "storyid": 1508,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 5288,
+    "property2": 1603,
+    "value2": 10252,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082003": {
+    "id": 15082003,
+    "storyid": 1508,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 6104,
+    "property2": 1603,
+    "value2": 11833,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082004": {
+    "id": 15082004,
+    "storyid": 1508,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 6977,
+    "property2": 1603,
+    "value2": 13526,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082005": {
+    "id": 15082005,
+    "storyid": 1508,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 8940,
+    "property2": 1603,
+    "value2": 17333,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082006": {
+    "id": 15082006,
+    "storyid": 1508,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 9510,
+    "property2": 1603,
+    "value2": 18437,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082007": {
+    "id": 15082007,
+    "storyid": 1508,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 10097,
+    "property2": 1603,
+    "value2": 19576,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082008": {
+    "id": 15082008,
+    "storyid": 1508,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 10702,
+    "property2": 1603,
+    "value2": 20747,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082009": {
+    "id": 15082009,
+    "storyid": 1508,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 11325,
+    "property2": 1603,
+    "value2": 21956,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15082010": {
+    "id": 15082010,
+    "storyid": 1508,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 11962,
+    "property2": 1603,
+    "value2": 23192,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "废材少年（1008）"
+  },
+  "15101001": {
+    "id": 15101001,
+    "storyid": 1510,
+    "rank": 1001,
+    "property1": 1602,
+    "value1": 112,
+    "property2": 1604,
+    "value2": 186,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
       }
     ],
     "cn": "穿山甲说了什么（1010）"
+  },
+  "15101002": {
+    "id": 15101002,
+    "storyid": 1510,
+    "rank": 1002,
+    "property1": 1602,
+    "value1": 364,
+    "property2": 1604,
+    "value2": 606,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101003": {
+    "id": 15101003,
+    "storyid": 1510,
+    "rank": 1003,
+    "property1": 1602,
+    "value1": 611,
+    "property2": 1604,
+    "value2": 1018,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101004": {
+    "id": 15101004,
+    "storyid": 1510,
+    "rank": 1004,
+    "property1": 1602,
+    "value1": 926,
+    "property2": 1604,
+    "value2": 1543,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101005": {
+    "id": 15101005,
+    "storyid": 1510,
+    "rank": 1005,
+    "property1": 1602,
+    "value1": 1304,
+    "property2": 1604,
+    "value2": 2173,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101006": {
+    "id": 15101006,
+    "storyid": 1510,
+    "rank": 1006,
+    "property1": 1602,
+    "value1": 1750,
+    "property2": 1604,
+    "value2": 2916,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101007": {
+    "id": 15101007,
+    "storyid": 1510,
+    "rank": 1007,
+    "property1": 1602,
+    "value1": 2259,
+    "property2": 1604,
+    "value2": 3764,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101008": {
+    "id": 15101008,
+    "storyid": 1510,
+    "rank": 1008,
+    "property1": 1602,
+    "value1": 3553,
+    "property2": 1604,
+    "value2": 5921,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101009": {
+    "id": 15101009,
+    "storyid": 1510,
+    "rank": 1009,
+    "property1": 1602,
+    "value1": 4347,
+    "property2": 1604,
+    "value2": 7245,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15101010": {
+    "id": 15101010,
+    "storyid": 1510,
+    "rank": 1010,
+    "property1": 1602,
+    "value1": 5229,
+    "property2": 1604,
+    "value2": 8715,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102001": {
+    "id": 15102001,
+    "storyid": 1510,
+    "rank": 2001,
+    "property1": 1602,
+    "value1": 6184,
+    "property2": 1604,
+    "value2": 10306,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102002": {
+    "id": 15102002,
+    "storyid": 1510,
+    "rank": 2002,
+    "property1": 1602,
+    "value1": 7226,
+    "property2": 1604,
+    "value2": 12043,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102003": {
+    "id": 15102003,
+    "storyid": 1510,
+    "rank": 2003,
+    "property1": 1602,
+    "value1": 8346,
+    "property2": 1604,
+    "value2": 13908,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102004": {
+    "id": 15102004,
+    "storyid": 1510,
+    "rank": 2004,
+    "property1": 1602,
+    "value1": 9547,
+    "property2": 1604,
+    "value2": 15912,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102005": {
+    "id": 15102005,
+    "storyid": 1510,
+    "rank": 2005,
+    "property1": 1602,
+    "value1": 12237,
+    "property2": 1604,
+    "value2": 20395,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102006": {
+    "id": 15102006,
+    "storyid": 1510,
+    "rank": 2006,
+    "property1": 1602,
+    "value1": 13017,
+    "property2": 1604,
+    "value2": 21694,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102007": {
+    "id": 15102007,
+    "storyid": 1510,
+    "rank": 2007,
+    "property1": 1602,
+    "value1": 13822,
+    "property2": 1604,
+    "value2": 23036,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102008": {
+    "id": 15102008,
+    "storyid": 1510,
+    "rank": 2008,
+    "property1": 1602,
+    "value1": 14655,
+    "property2": 1604,
+    "value2": 24424,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102009": {
+    "id": 15102009,
+    "storyid": 1510,
+    "rank": 2009,
+    "property1": 1602,
+    "value1": 15508,
+    "property2": 1604,
+    "value2": 25846,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15102010": {
+    "id": 15102010,
+    "storyid": 1510,
+    "rank": 2010,
+    "property1": 1602,
+    "value1": 16385,
+    "property2": 1604,
+    "value2": 27308,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "穿山甲说了什么（1010）"
+  },
+  "15121001": {
+    "id": 15121001,
+    "storyid": 1512,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 112,
+    "property2": 1603,
+    "value2": 90,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121002": {
+    "id": 15121002,
+    "storyid": 1512,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 341,
+    "property2": 1603,
+    "value2": 277,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121003": {
+    "id": 15121003,
+    "storyid": 1512,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 558,
+    "property2": 1603,
+    "value2": 452,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121004": {
+    "id": 15121004,
+    "storyid": 1512,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 836,
+    "property2": 1603,
+    "value2": 678,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121005": {
+    "id": 15121005,
+    "storyid": 1512,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 1170,
+    "property2": 1603,
+    "value2": 948,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121006": {
+    "id": 15121006,
+    "storyid": 1512,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1559,
+    "property2": 1603,
+    "value2": 1266,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121007": {
+    "id": 15121007,
+    "storyid": 1512,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 2009,
+    "property2": 1603,
+    "value2": 1630,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121008": {
+    "id": 15121008,
+    "storyid": 1512,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 3153,
+    "property2": 1603,
+    "value2": 2559,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121009": {
+    "id": 15121009,
+    "storyid": 1512,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3854,
+    "property2": 1603,
+    "value2": 3126,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15121010": {
+    "id": 15121010,
+    "storyid": 1512,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 4629,
+    "property2": 1603,
+    "value2": 3754,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122001": {
+    "id": 15122001,
+    "storyid": 1512,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 5473,
+    "property2": 1603,
+    "value2": 4437,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122002": {
+    "id": 15122002,
+    "storyid": 1512,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 6388,
+    "property2": 1603,
+    "value2": 5179,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122003": {
+    "id": 15122003,
+    "storyid": 1512,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 7374,
+    "property2": 1603,
+    "value2": 5977,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122004": {
+    "id": 15122004,
+    "storyid": 1512,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 8432,
+    "property2": 1603,
+    "value2": 6836,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122005": {
+    "id": 15122005,
+    "storyid": 1512,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 10804,
+    "property2": 1603,
+    "value2": 8761,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122006": {
+    "id": 15122006,
+    "storyid": 1512,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 11489,
+    "property2": 1603,
+    "value2": 9318,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122007": {
+    "id": 15122007,
+    "storyid": 1512,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 12200,
+    "property2": 1603,
+    "value2": 9892,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122008": {
+    "id": 15122008,
+    "storyid": 1512,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 12933,
+    "property2": 1603,
+    "value2": 10485,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122009": {
+    "id": 15122009,
+    "storyid": 1512,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 13682,
+    "property2": 1603,
+    "value2": 11095,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15122010": {
+    "id": 15122010,
+    "storyid": 1512,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 14453,
+    "property2": 1603,
+    "value2": 11719,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "江湖险恶（1012）"
+  },
+  "15131001": {
+    "id": 15131001,
+    "storyid": 1513,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 97,
+    "property2": 1602,
+    "value2": 125,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131002": {
+    "id": 15131002,
+    "storyid": 1513,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 297,
+    "property2": 1602,
+    "value2": 388,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131003": {
+    "id": 15131003,
+    "storyid": 1513,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 491,
+    "property2": 1602,
+    "value2": 648,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131004": {
+    "id": 15131004,
+    "storyid": 1513,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 731,
+    "property2": 1602,
+    "value2": 987,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131005": {
+    "id": 15131005,
+    "storyid": 1513,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 1019,
+    "property2": 1602,
+    "value2": 1390,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131006": {
+    "id": 15131006,
+    "storyid": 1513,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1363,
+    "property2": 1602,
+    "value2": 1861,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131007": {
+    "id": 15131007,
+    "storyid": 1513,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1753,
+    "property2": 1602,
+    "value2": 2400,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131008": {
+    "id": 15131008,
+    "storyid": 1513,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2751,
+    "property2": 1602,
+    "value2": 3774,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131009": {
+    "id": 15131009,
+    "storyid": 1513,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3366,
+    "property2": 1602,
+    "value2": 4617,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15131010": {
+    "id": 15131010,
+    "storyid": 1513,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 4040,
+    "property2": 1602,
+    "value2": 5551,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132001": {
+    "id": 15132001,
+    "storyid": 1513,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 4774,
+    "property2": 1602,
+    "value2": 6567,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132002": {
+    "id": 15132002,
+    "storyid": 1513,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 5576,
+    "property2": 1602,
+    "value2": 7673,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132003": {
+    "id": 15132003,
+    "storyid": 1513,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 6437,
+    "property2": 1602,
+    "value2": 8862,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132004": {
+    "id": 15132004,
+    "storyid": 1513,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 7358,
+    "property2": 1602,
+    "value2": 10135,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132005": {
+    "id": 15132005,
+    "storyid": 1513,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 9428,
+    "property2": 1602,
+    "value2": 12989,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132006": {
+    "id": 15132006,
+    "storyid": 1513,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 10029,
+    "property2": 1602,
+    "value2": 13823,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132007": {
+    "id": 15132007,
+    "storyid": 1513,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 10646,
+    "property2": 1602,
+    "value2": 14680,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132008": {
+    "id": 15132008,
+    "storyid": 1513,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 11284,
+    "property2": 1602,
+    "value2": 15560,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132009": {
+    "id": 15132009,
+    "storyid": 1513,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 11942,
+    "property2": 1602,
+    "value2": 16463,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15132010": {
+    "id": 15132010,
+    "storyid": 1513,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 12616,
+    "property2": 1602,
+    "value2": 17397,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "让子弹再飞一会（1013）"
+  },
+  "15151001": {
+    "id": 15151001,
+    "storyid": 1515,
+    "rank": 1001,
+    "property1": 1602,
+    "value1": 112,
+    "property2": 1603,
+    "value2": 210,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151002": {
+    "id": 15151002,
+    "storyid": 1515,
+    "rank": 1002,
+    "property1": 1602,
+    "value1": 364,
+    "property2": 1603,
+    "value2": 646,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151003": {
+    "id": 15151003,
+    "storyid": 1515,
+    "rank": 1003,
+    "property1": 1602,
+    "value1": 611,
+    "property2": 1603,
+    "value2": 1066,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151004": {
+    "id": 15151004,
+    "storyid": 1515,
+    "rank": 1004,
+    "property1": 1602,
+    "value1": 926,
+    "property2": 1603,
+    "value2": 1591,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151005": {
+    "id": 15151005,
+    "storyid": 1515,
+    "rank": 1005,
+    "property1": 1602,
+    "value1": 1304,
+    "property2": 1603,
+    "value2": 2221,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151006": {
+    "id": 15151006,
+    "storyid": 1515,
+    "rank": 1006,
+    "property1": 1602,
+    "value1": 1750,
+    "property2": 1603,
+    "value2": 2965,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151007": {
+    "id": 15151007,
+    "storyid": 1515,
+    "rank": 1007,
+    "property1": 1602,
+    "value1": 2259,
+    "property2": 1603,
+    "value2": 3812,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151008": {
+    "id": 15151008,
+    "storyid": 1515,
+    "rank": 1008,
+    "property1": 1602,
+    "value1": 3553,
+    "property2": 1603,
+    "value2": 5985,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151009": {
+    "id": 15151009,
+    "storyid": 1515,
+    "rank": 1009,
+    "property1": 1602,
+    "value1": 4347,
+    "property2": 1603,
+    "value2": 7326,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15151010": {
+    "id": 15151010,
+    "storyid": 1515,
+    "rank": 1010,
+    "property1": 1602,
+    "value1": 5229,
+    "property2": 1603,
+    "value2": 8796,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152001": {
+    "id": 15152001,
+    "storyid": 1515,
+    "rank": 2001,
+    "property1": 1602,
+    "value1": 6184,
+    "property2": 1603,
+    "value2": 10395,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152002": {
+    "id": 15152002,
+    "storyid": 1515,
+    "rank": 2002,
+    "property1": 1602,
+    "value1": 7226,
+    "property2": 1603,
+    "value2": 12139,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152003": {
+    "id": 15152003,
+    "storyid": 1515,
+    "rank": 2003,
+    "property1": 1602,
+    "value1": 8346,
+    "property2": 1603,
+    "value2": 14013,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152004": {
+    "id": 15152004,
+    "storyid": 1515,
+    "rank": 2004,
+    "property1": 1602,
+    "value1": 9547,
+    "property2": 1603,
+    "value2": 16017,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152005": {
+    "id": 15152005,
+    "storyid": 1515,
+    "rank": 2005,
+    "property1": 1602,
+    "value1": 12237,
+    "property2": 1603,
+    "value2": 20523,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152006": {
+    "id": 15152006,
+    "storyid": 1515,
+    "rank": 2006,
+    "property1": 1602,
+    "value1": 13017,
+    "property2": 1603,
+    "value2": 21832,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152007": {
+    "id": 15152007,
+    "storyid": 1515,
+    "rank": 2007,
+    "property1": 1602,
+    "value1": 13822,
+    "property2": 1603,
+    "value2": 23181,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152008": {
+    "id": 15152008,
+    "storyid": 1515,
+    "rank": 2008,
+    "property1": 1602,
+    "value1": 14655,
+    "property2": 1603,
+    "value2": 24570,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152009": {
+    "id": 15152009,
+    "storyid": 1515,
+    "rank": 2009,
+    "property1": 1602,
+    "value1": 15508,
+    "property2": 1603,
+    "value2": 25999,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15152010": {
+    "id": 15152010,
+    "storyid": 1515,
+    "rank": 2010,
+    "property1": 1602,
+    "value1": 16385,
+    "property2": 1603,
+    "value2": 27462,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "中村下等兵（1015）"
+  },
+  "15161001": {
+    "id": 15161001,
+    "storyid": 1516,
+    "rank": 1001,
+    "property1": 1602,
+    "value1": 186,
+    "property2": 1603,
+    "value2": 210,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161002": {
+    "id": 15161002,
+    "storyid": 1516,
+    "rank": 1002,
+    "property1": 1602,
+    "value1": 606,
+    "property2": 1603,
+    "value2": 646,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161003": {
+    "id": 15161003,
+    "storyid": 1516,
+    "rank": 1003,
+    "property1": 1602,
+    "value1": 1018,
+    "property2": 1603,
+    "value2": 1066,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161004": {
+    "id": 15161004,
+    "storyid": 1516,
+    "rank": 1004,
+    "property1": 1602,
+    "value1": 1543,
+    "property2": 1603,
+    "value2": 1591,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161005": {
+    "id": 15161005,
+    "storyid": 1516,
+    "rank": 1005,
+    "property1": 1602,
+    "value1": 2173,
+    "property2": 1603,
+    "value2": 2221,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161006": {
+    "id": 15161006,
+    "storyid": 1516,
+    "rank": 1006,
+    "property1": 1602,
+    "value1": 2916,
+    "property2": 1603,
+    "value2": 2965,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161007": {
+    "id": 15161007,
+    "storyid": 1516,
+    "rank": 1007,
+    "property1": 1602,
+    "value1": 3764,
+    "property2": 1603,
+    "value2": 3812,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161008": {
+    "id": 15161008,
+    "storyid": 1516,
+    "rank": 1008,
+    "property1": 1602,
+    "value1": 5921,
+    "property2": 1603,
+    "value2": 5985,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161009": {
+    "id": 15161009,
+    "storyid": 1516,
+    "rank": 1009,
+    "property1": 1602,
+    "value1": 7245,
+    "property2": 1603,
+    "value2": 7326,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15161010": {
+    "id": 15161010,
+    "storyid": 1516,
+    "rank": 1010,
+    "property1": 1602,
+    "value1": 8715,
+    "property2": 1603,
+    "value2": 8796,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162001": {
+    "id": 15162001,
+    "storyid": 1516,
+    "rank": 2001,
+    "property1": 1602,
+    "value1": 10307,
+    "property2": 1603,
+    "value2": 10395,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162002": {
+    "id": 15162002,
+    "storyid": 1516,
+    "rank": 2002,
+    "property1": 1602,
+    "value1": 12043,
+    "property2": 1603,
+    "value2": 12139,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162003": {
+    "id": 15162003,
+    "storyid": 1516,
+    "rank": 2003,
+    "property1": 1602,
+    "value1": 13909,
+    "property2": 1603,
+    "value2": 14013,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162004": {
+    "id": 15162004,
+    "storyid": 1516,
+    "rank": 2004,
+    "property1": 1602,
+    "value1": 15912,
+    "property2": 1603,
+    "value2": 16017,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162005": {
+    "id": 15162005,
+    "storyid": 1516,
+    "rank": 2005,
+    "property1": 1602,
+    "value1": 20395,
+    "property2": 1603,
+    "value2": 20523,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162006": {
+    "id": 15162006,
+    "storyid": 1516,
+    "rank": 2006,
+    "property1": 1602,
+    "value1": 21695,
+    "property2": 1603,
+    "value2": 21832,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162007": {
+    "id": 15162007,
+    "storyid": 1516,
+    "rank": 2007,
+    "property1": 1602,
+    "value1": 23036,
+    "property2": 1603,
+    "value2": 23181,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162008": {
+    "id": 15162008,
+    "storyid": 1516,
+    "rank": 2008,
+    "property1": 1602,
+    "value1": 24425,
+    "property2": 1603,
+    "value2": 24570,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162009": {
+    "id": 15162009,
+    "storyid": 1516,
+    "rank": 2009,
+    "property1": 1602,
+    "value1": 25847,
+    "property2": 1603,
+    "value2": 25999,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15162010": {
+    "id": 15162010,
+    "storyid": 1516,
+    "rank": 2010,
+    "property1": 1602,
+    "value1": 27309,
+    "property2": 1603,
+    "value2": 27462,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "再见无期（1016）"
+  },
+  "15171001": {
+    "id": 15171001,
+    "storyid": 1517,
+    "rank": 1001,
+    "property1": 1602,
+    "value1": 84,
+    "property2": 1603,
+    "value2": 174,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171002": {
+    "id": 15171002,
+    "storyid": 1517,
+    "rank": 1002,
+    "property1": 1602,
+    "value1": 263,
+    "property2": 1603,
+    "value2": 537,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171003": {
+    "id": 15171003,
+    "storyid": 1517,
+    "rank": 1003,
+    "property1": 1602,
+    "value1": 441,
+    "property2": 1603,
+    "value2": 888,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171004": {
+    "id": 15171004,
+    "storyid": 1517,
+    "rank": 1004,
+    "property1": 1602,
+    "value1": 672,
+    "property2": 1603,
+    "value2": 1324,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171005": {
+    "id": 15171005,
+    "storyid": 1517,
+    "rank": 1005,
+    "property1": 1602,
+    "value1": 945,
+    "property2": 1603,
+    "value2": 1849,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171006": {
+    "id": 15171006,
+    "storyid": 1517,
+    "rank": 1006,
+    "property1": 1602,
+    "value1": 1265,
+    "property2": 1603,
+    "value2": 2472,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171007": {
+    "id": 15171007,
+    "storyid": 1517,
+    "rank": 1007,
+    "property1": 1602,
+    "value1": 1633,
+    "property2": 1603,
+    "value2": 3178,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171008": {
+    "id": 15171008,
+    "storyid": 1517,
+    "rank": 1008,
+    "property1": 1602,
+    "value1": 2567,
+    "property2": 1603,
+    "value2": 4988,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171009": {
+    "id": 15171009,
+    "storyid": 1517,
+    "rank": 1009,
+    "property1": 1602,
+    "value1": 3140,
+    "property2": 1603,
+    "value2": 6106,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15171010": {
+    "id": 15171010,
+    "storyid": 1517,
+    "rank": 1010,
+    "property1": 1602,
+    "value1": 3776,
+    "property2": 1603,
+    "value2": 7330,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172001": {
+    "id": 15172001,
+    "storyid": 1517,
+    "rank": 2001,
+    "property1": 1602,
+    "value1": 4468,
+    "property2": 1603,
+    "value2": 8663,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172002": {
+    "id": 15172002,
+    "storyid": 1517,
+    "rank": 2002,
+    "property1": 1602,
+    "value1": 5219,
+    "property2": 1603,
+    "value2": 10116,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172003": {
+    "id": 15172003,
+    "storyid": 1517,
+    "rank": 2003,
+    "property1": 1602,
+    "value1": 6027,
+    "property2": 1603,
+    "value2": 11680,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172004": {
+    "id": 15172004,
+    "storyid": 1517,
+    "rank": 2004,
+    "property1": 1602,
+    "value1": 6894,
+    "property2": 1603,
+    "value2": 13347,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172005": {
+    "id": 15172005,
+    "storyid": 1517,
+    "rank": 2005,
+    "property1": 1602,
+    "value1": 8837,
+    "property2": 1603,
+    "value2": 17103,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172006": {
+    "id": 15172006,
+    "storyid": 1517,
+    "rank": 2006,
+    "property1": 1602,
+    "value1": 9403,
+    "property2": 1603,
+    "value2": 18193,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172007": {
+    "id": 15172007,
+    "storyid": 1517,
+    "rank": 2007,
+    "property1": 1602,
+    "value1": 9985,
+    "property2": 1603,
+    "value2": 19316,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172008": {
+    "id": 15172008,
+    "storyid": 1517,
+    "rank": 2008,
+    "property1": 1602,
+    "value1": 10584,
+    "property2": 1603,
+    "value2": 20475,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172009": {
+    "id": 15172009,
+    "storyid": 1517,
+    "rank": 2009,
+    "property1": 1602,
+    "value1": 11199,
+    "property2": 1603,
+    "value2": 21666,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15172010": {
+    "id": 15172010,
+    "storyid": 1517,
+    "rank": 2010,
+    "property1": 1602,
+    "value1": 11834,
+    "property2": 1603,
+    "value2": 22886,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "飞檐走壁高中生（1017）"
+  },
+  "15191001": {
+    "id": 15191001,
+    "storyid": 1519,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 117,
+    "property2": 1603,
+    "value2": 162,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191002": {
+    "id": 15191002,
+    "storyid": 1519,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 358,
+    "property2": 1603,
+    "value2": 497,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191003": {
+    "id": 15191003,
+    "storyid": 1519,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 590,
+    "property2": 1603,
+    "value2": 816,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191004": {
+    "id": 15191004,
+    "storyid": 1519,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 881,
+    "property2": 1603,
+    "value2": 1219,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191005": {
+    "id": 15191005,
+    "storyid": 1519,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 1230,
+    "property2": 1603,
+    "value2": 1705,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191006": {
+    "id": 15191006,
+    "storyid": 1519,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1641,
+    "property2": 1603,
+    "value2": 2274,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191007": {
+    "id": 15191007,
+    "storyid": 1519,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 2110,
+    "property2": 1603,
+    "value2": 2924,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191008": {
+    "id": 15191008,
+    "storyid": 1519,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 3313,
+    "property2": 1603,
+    "value2": 4592,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191009": {
+    "id": 15191009,
+    "storyid": 1519,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 4054,
+    "property2": 1603,
+    "value2": 5618,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15191010": {
+    "id": 15191010,
+    "storyid": 1519,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 4868,
+    "property2": 1603,
+    "value2": 6745,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192001": {
+    "id": 15192001,
+    "storyid": 1519,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 4205,
+    "property2": 1603,
+    "value2": 7165,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192002": {
+    "id": 15192002,
+    "storyid": 1519,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 4911,
+    "property2": 1603,
+    "value2": 8365,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192003": {
+    "id": 15192003,
+    "storyid": 1519,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 5668,
+    "property2": 1603,
+    "value2": 9652,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192004": {
+    "id": 15192004,
+    "storyid": 1519,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 6479,
+    "property2": 1603,
+    "value2": 11036,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192005": {
+    "id": 15192005,
+    "storyid": 1519,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 8302,
+    "property2": 1603,
+    "value2": 14143,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192006": {
+    "id": 15192006,
+    "storyid": 1519,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 8831,
+    "property2": 1603,
+    "value2": 15042,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192007": {
+    "id": 15192007,
+    "storyid": 1519,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 9376,
+    "property2": 1603,
+    "value2": 15971,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192008": {
+    "id": 15192008,
+    "storyid": 1519,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 9937,
+    "property2": 1603,
+    "value2": 16924,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192009": {
+    "id": 15192009,
+    "storyid": 1519,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 10516,
+    "property2": 1603,
+    "value2": 17912,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15192010": {
+    "id": 15192010,
+    "storyid": 1519,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 11108,
+    "property2": 1603,
+    "value2": 18922,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "海上小子"
+  },
+  "15211001": {
+    "id": 15211001,
+    "storyid": 1521,
+    "rank": 1001,
+    "property1": 1603,
+    "value1": 98,
+    "property2": 1604,
+    "value2": 67,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211002": {
+    "id": 15211002,
+    "storyid": 1521,
+    "rank": 1002,
+    "property1": 1603,
+    "value1": 299,
+    "property2": 1604,
+    "value2": 211,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211003": {
+    "id": 15211003,
+    "storyid": 1521,
+    "rank": 1003,
+    "property1": 1603,
+    "value1": 490,
+    "property2": 1604,
+    "value2": 356,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211004": {
+    "id": 15211004,
+    "storyid": 1521,
+    "rank": 1004,
+    "property1": 1603,
+    "value1": 734,
+    "property2": 1604,
+    "value2": 538,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211005": {
+    "id": 15211005,
+    "storyid": 1521,
+    "rank": 1005,
+    "property1": 1603,
+    "value1": 1026,
+    "property2": 1604,
+    "value2": 760,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211006": {
+    "id": 15211006,
+    "storyid": 1521,
+    "rank": 1006,
+    "property1": 1603,
+    "value1": 1370,
+    "property2": 1604,
+    "value2": 1016,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211007": {
+    "id": 15211007,
+    "storyid": 1521,
+    "rank": 1007,
+    "property1": 1603,
+    "value1": 1766,
+    "property2": 1604,
+    "value2": 1313,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211008": {
+    "id": 15211008,
+    "storyid": 1521,
+    "rank": 1008,
+    "property1": 1603,
+    "value1": 2770,
+    "property2": 1604,
+    "value2": 2062,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211009": {
+    "id": 15211009,
+    "storyid": 1521,
+    "rank": 1009,
+    "property1": 1603,
+    "value1": 3385,
+    "property2": 1604,
+    "value2": 2526,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15211010": {
+    "id": 15211010,
+    "storyid": 1521,
+    "rank": 1010,
+    "property1": 1603,
+    "value1": 4066,
+    "property2": 1604,
+    "value2": 3036,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212001": {
+    "id": 15212001,
+    "storyid": 1521,
+    "rank": 2001,
+    "property1": 1603,
+    "value1": 4806,
+    "property2": 1604,
+    "value2": 3592,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212002": {
+    "id": 15212002,
+    "storyid": 1521,
+    "rank": 2002,
+    "property1": 1603,
+    "value1": 5610,
+    "property2": 1604,
+    "value2": 4197,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212003": {
+    "id": 15212003,
+    "storyid": 1521,
+    "rank": 2003,
+    "property1": 1603,
+    "value1": 6477,
+    "property2": 1604,
+    "value2": 4848,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212004": {
+    "id": 15212004,
+    "storyid": 1521,
+    "rank": 2004,
+    "property1": 1603,
+    "value1": 7405,
+    "property2": 1604,
+    "value2": 5545,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212005": {
+    "id": 15212005,
+    "storyid": 1521,
+    "rank": 2005,
+    "property1": 1603,
+    "value1": 9490,
+    "property2": 1604,
+    "value2": 7106,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212006": {
+    "id": 15212006,
+    "storyid": 1521,
+    "rank": 2006,
+    "property1": 1603,
+    "value1": 10092,
+    "property2": 1604,
+    "value2": 7560,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212007": {
+    "id": 15212007,
+    "storyid": 1521,
+    "rank": 2007,
+    "property1": 1603,
+    "value1": 10716,
+    "property2": 1604,
+    "value2": 8028,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212008": {
+    "id": 15212008,
+    "storyid": 1521,
+    "rank": 2008,
+    "property1": 1603,
+    "value1": 11359,
+    "property2": 1604,
+    "value2": 8510,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212009": {
+    "id": 15212009,
+    "storyid": 1521,
+    "rank": 2009,
+    "property1": 1603,
+    "value1": 12019,
+    "property2": 1604,
+    "value2": 9006,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15212010": {
+    "id": 15212010,
+    "storyid": 1521,
+    "rank": 2010,
+    "property1": 1603,
+    "value1": 12695,
+    "property2": 1604,
+    "value2": 9517,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "翡翠之城遇到你"
+  },
+  "15231001": {
+    "id": 15231001,
+    "storyid": 1523,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 74,
+    "property2": 1603,
+    "value2": 96,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231002": {
+    "id": 15231002,
+    "storyid": 1523,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 226,
+    "property2": 1603,
+    "value2": 293,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231003": {
+    "id": 15231003,
+    "storyid": 1523,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 368,
+    "property2": 1603,
+    "value2": 481,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231004": {
+    "id": 15231004,
+    "storyid": 1523,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 551,
+    "property2": 1603,
+    "value2": 719,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231005": {
+    "id": 15231005,
+    "storyid": 1523,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 772,
+    "property2": 1603,
+    "value2": 1007,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231006": {
+    "id": 15231006,
+    "storyid": 1523,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1029,
+    "property2": 1603,
+    "value2": 1342,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231007": {
+    "id": 15231007,
+    "storyid": 1523,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1323,
+    "property2": 1603,
+    "value2": 1730,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231008": {
+    "id": 15231008,
+    "storyid": 1523,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2079,
+    "property2": 1603,
+    "value2": 2715,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231009": {
+    "id": 15231009,
+    "storyid": 1523,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 2541,
+    "property2": 1603,
+    "value2": 3319,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15231010": {
+    "id": 15231010,
+    "storyid": 1523,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 3050,
+    "property2": 1603,
+    "value2": 3987,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232001": {
+    "id": 15232001,
+    "storyid": 1523,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 3607,
+    "property2": 1603,
+    "value2": 4715,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232002": {
+    "id": 15232002,
+    "storyid": 1523,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 4210,
+    "property2": 1603,
+    "value2": 5502,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232003": {
+    "id": 15232003,
+    "storyid": 1523,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 4857,
+    "property2": 1603,
+    "value2": 6353,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232004": {
+    "id": 15232004,
+    "storyid": 1523,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 5555,
+    "property2": 1603,
+    "value2": 7264,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232005": {
+    "id": 15232005,
+    "storyid": 1523,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 7119,
+    "property2": 1603,
+    "value2": 9305,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232006": {
+    "id": 15232006,
+    "storyid": 1523,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 7570,
+    "property2": 1603,
+    "value2": 9896,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232007": {
+    "id": 15232007,
+    "storyid": 1523,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 8038,
+    "property2": 1603,
+    "value2": 10509,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232008": {
+    "id": 15232008,
+    "storyid": 1523,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 8521,
+    "property2": 1603,
+    "value2": 11141,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232009": {
+    "id": 15232009,
+    "storyid": 1523,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 9014,
+    "property2": 1603,
+    "value2": 11786,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15232010": {
+    "id": 15232010,
+    "storyid": 1523,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 9523,
+    "property2": 1603,
+    "value2": 12450,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "四十米大掌"
+  },
+  "15281001": {
+    "id": 15281001,
+    "storyid": 1528,
+    "rank": 1001,
+    "property1": 1601,
+    "value1": 94,
+    "property2": 1603,
+    "value2": 130,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281002": {
+    "id": 15281002,
+    "storyid": 1528,
+    "rank": 1002,
+    "property1": 1601,
+    "value1": 287,
+    "property2": 1603,
+    "value2": 401,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281003": {
+    "id": 15281003,
+    "storyid": 1528,
+    "rank": 1003,
+    "property1": 1601,
+    "value1": 474,
+    "property2": 1603,
+    "value2": 664,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281004": {
+    "id": 15281004,
+    "storyid": 1528,
+    "rank": 1004,
+    "property1": 1601,
+    "value1": 707,
+    "property2": 1603,
+    "value2": 989,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281005": {
+    "id": 15281005,
+    "storyid": 1528,
+    "rank": 1005,
+    "property1": 1601,
+    "value1": 987,
+    "property2": 1603,
+    "value2": 1381,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281006": {
+    "id": 15281006,
+    "storyid": 1528,
+    "rank": 1006,
+    "property1": 1601,
+    "value1": 1318,
+    "property2": 1603,
+    "value2": 1845,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281007": {
+    "id": 15281007,
+    "storyid": 1528,
+    "rank": 1007,
+    "property1": 1601,
+    "value1": 1695,
+    "property2": 1603,
+    "value2": 2373,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281008": {
+    "id": 15281008,
+    "storyid": 1528,
+    "rank": 1008,
+    "property1": 1601,
+    "value1": 2660,
+    "property2": 1603,
+    "value2": 3724,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281009": {
+    "id": 15281009,
+    "storyid": 1528,
+    "rank": 1009,
+    "property1": 1601,
+    "value1": 3257,
+    "property2": 1603,
+    "value2": 4559,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15281010": {
+    "id": 15281010,
+    "storyid": 1528,
+    "rank": 1010,
+    "property1": 1601,
+    "value1": 3910,
+    "property2": 1603,
+    "value2": 5473,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282001": {
+    "id": 15282001,
+    "storyid": 1528,
+    "rank": 2001,
+    "property1": 1601,
+    "value1": 4620,
+    "property2": 1603,
+    "value2": 6468,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282002": {
+    "id": 15282002,
+    "storyid": 1528,
+    "rank": 2002,
+    "property1": 1601,
+    "value1": 5396,
+    "property2": 1603,
+    "value2": 7554,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282003": {
+    "id": 15282003,
+    "storyid": 1528,
+    "rank": 2003,
+    "property1": 1601,
+    "value1": 6229,
+    "property2": 1603,
+    "value2": 8721,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282004": {
+    "id": 15282004,
+    "storyid": 1528,
+    "rank": 2004,
+    "property1": 1601,
+    "value1": 7119,
+    "property2": 1603,
+    "value2": 9966,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282005": {
+    "id": 15282005,
+    "storyid": 1528,
+    "rank": 2005,
+    "property1": 1601,
+    "value1": 9122,
+    "property2": 1603,
+    "value2": 12770,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282006": {
+    "id": 15282006,
+    "storyid": 1528,
+    "rank": 2006,
+    "property1": 1601,
+    "value1": 9704,
+    "property2": 1603,
+    "value2": 13584,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282007": {
+    "id": 15282007,
+    "storyid": 1528,
+    "rank": 2007,
+    "property1": 1601,
+    "value1": 10303,
+    "property2": 1603,
+    "value2": 14423,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282008": {
+    "id": 15282008,
+    "storyid": 1528,
+    "rank": 2008,
+    "property1": 1601,
+    "value1": 10920,
+    "property2": 1603,
+    "value2": 15288,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282009": {
+    "id": 15282009,
+    "storyid": 1528,
+    "rank": 2009,
+    "property1": 1601,
+    "value1": 11556,
+    "property2": 1603,
+    "value2": 16178,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15282010": {
+    "id": 15282010,
+    "storyid": 1528,
+    "rank": 2010,
+    "property1": 1601,
+    "value1": 12206,
+    "property2": 1603,
+    "value2": 17088,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "警察传说"
+  },
+  "15301001": {
+    "id": 15301001,
+    "storyid": 1530,
+    "rank": 1001,
+    "property1": 1602,
+    "value1": 133,
+    "property2": 1603,
+    "value2": 130,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301002": {
+    "id": 15301002,
+    "storyid": 1530,
+    "rank": 1002,
+    "property1": 1602,
+    "value1": 431,
+    "property2": 1603,
+    "value2": 401,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301003": {
+    "id": 15301003,
+    "storyid": 1530,
+    "rank": 1003,
+    "property1": 1602,
+    "value1": 724,
+    "property2": 1603,
+    "value2": 664,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301004": {
+    "id": 15301004,
+    "storyid": 1530,
+    "rank": 1004,
+    "property1": 1602,
+    "value1": 1098,
+    "property2": 1603,
+    "value2": 989,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301005": {
+    "id": 15301005,
+    "storyid": 1530,
+    "rank": 1005,
+    "property1": 1602,
+    "value1": 1546,
+    "property2": 1603,
+    "value2": 1381,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301006": {
+    "id": 15301006,
+    "storyid": 1530,
+    "rank": 1006,
+    "property1": 1602,
+    "value1": 2074,
+    "property2": 1603,
+    "value2": 1845,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301007": {
+    "id": 15301007,
+    "storyid": 1530,
+    "rank": 1007,
+    "property1": 1602,
+    "value1": 2677,
+    "property2": 1603,
+    "value2": 2373,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301008": {
+    "id": 15301008,
+    "storyid": 1530,
+    "rank": 1008,
+    "property1": 1602,
+    "value1": 4211,
+    "property2": 1603,
+    "value2": 3724,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301009": {
+    "id": 15301009,
+    "storyid": 1530,
+    "rank": 1009,
+    "property1": 1602,
+    "value1": 5152,
+    "property2": 1603,
+    "value2": 4559,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15301010": {
+    "id": 15301010,
+    "storyid": 1530,
+    "rank": 1010,
+    "property1": 1602,
+    "value1": 6198,
+    "property2": 1603,
+    "value2": 5473,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302001": {
+    "id": 15302001,
+    "storyid": 1530,
+    "rank": 2001,
+    "property1": 1602,
+    "value1": 7329,
+    "property2": 1603,
+    "value2": 6468,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302002": {
+    "id": 15302002,
+    "storyid": 1530,
+    "rank": 2002,
+    "property1": 1602,
+    "value1": 8564,
+    "property2": 1603,
+    "value2": 7554,
+    "reward": [
+      {
+        "itemId": 6106,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302003": {
+    "id": 15302003,
+    "storyid": 1530,
+    "rank": 2003,
+    "property1": 1602,
+    "value1": 9891,
+    "property2": 1603,
+    "value2": 8721,
+    "reward": [
+      {
+        "itemId": 6107,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302004": {
+    "id": 15302004,
+    "storyid": 1530,
+    "rank": 2004,
+    "property1": 1602,
+    "value1": 11315,
+    "property2": 1603,
+    "value2": 9966,
+    "reward": [
+      {
+        "itemId": 6108,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302005": {
+    "id": 15302005,
+    "storyid": 1530,
+    "rank": 2005,
+    "property1": 1602,
+    "value1": 14503,
+    "property2": 1603,
+    "value2": 12770,
+    "reward": [
+      {
+        "itemId": 6109,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302006": {
+    "id": 15302006,
+    "storyid": 1530,
+    "rank": 2006,
+    "property1": 1602,
+    "value1": 15428,
+    "property2": 1603,
+    "value2": 13584,
+    "reward": [
+      {
+        "itemId": 6101,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302007": {
+    "id": 15302007,
+    "storyid": 1530,
+    "rank": 2007,
+    "property1": 1602,
+    "value1": 16382,
+    "property2": 1603,
+    "value2": 14423,
+    "reward": [
+      {
+        "itemId": 6102,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302008": {
+    "id": 15302008,
+    "storyid": 1530,
+    "rank": 2008,
+    "property1": 1602,
+    "value1": 17369,
+    "property2": 1603,
+    "value2": 15288,
+    "reward": [
+      {
+        "itemId": 6103,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302009": {
+    "id": 15302009,
+    "storyid": 1530,
+    "rank": 2009,
+    "property1": 1602,
+    "value1": 18380,
+    "property2": 1603,
+    "value2": 16178,
+    "reward": [
+      {
+        "itemId": 6104,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
+  },
+  "15302010": {
+    "id": 15302010,
+    "storyid": 1530,
+    "rank": 2010,
+    "property1": 1602,
+    "value1": 19420,
+    "property2": 1603,
+    "value2": 17088,
+    "reward": [
+      {
+        "itemId": 6105,
+        "itemNum": 1
+      }
+    ],
+    "cn": "爱情游戏"
   }
 }

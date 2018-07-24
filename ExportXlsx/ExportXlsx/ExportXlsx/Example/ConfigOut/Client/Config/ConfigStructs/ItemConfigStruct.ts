@@ -25,6 +25,7 @@ namespace configs
 		syn_id : number;
 		actor_id : number;
 		actor_num : number;
+		zh_cn_get_way_explain : string;
 
 
 
@@ -38,6 +39,10 @@ namespace configs
 		get item_des()
 		{
 			return this.zh_cn_item_des
+		}
+		get get_way_explain()
+		{
+			return this.zh_cn_get_way_explain
 		}
 	}
 

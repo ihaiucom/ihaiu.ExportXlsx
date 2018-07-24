@@ -12,6 +12,7 @@ namespace configs
 		zh_cn_name : string;
 		city_num : number;
 		icon : number;
+		flag : number;
 		reward : DTItemNum[];
 		pre_id : number;
 		next_country : number;

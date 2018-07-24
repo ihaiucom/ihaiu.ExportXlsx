@@ -64,10 +64,10 @@
   },
   "1009": {
     "id": 1009,
-    "key": "produce_one-click",
+    "key": "produce_one_click",
     "module": "生产",
     "name": "一键生产",
-    "zh_cn_notice": "一共增加了X个生产队列"
+    "zh_cn_notice": "一共增加了{0}个生产队列"
   },
   "1010": {
     "id": 1010,
@@ -155,21 +155,21 @@
   },
   "1022": {
     "id": 1022,
-    "key": "non_suitable_actor",
+    "key": "movie_non_suitable_actor",
     "module": "拍摄",
     "name": "没有符合条件的艺人",
-    "zh_cn_notice": "此角色需要"
+    "zh_cn_notice": "此角色没有合适的艺人扮演"
   },
   "1023": {
     "id": 1023,
-    "key": "non_enough_actor",
+    "key": "movie_non_enough_actor",
     "module": "拍摄",
     "name": "没有足够数量的艺人",
-    "zh_cn_notice": "此角色需要艺人扮演"
+    "zh_cn_notice": "您需要更多的艺人扮演此角色"
   },
   "1024": {
     "id": 1024,
-    "key": "actor_recruit",
+    "key": "movie_actor_recruit",
     "module": "拍摄",
     "name": "艺人招募提示",
     "zh_cn_notice": "可在“星探”招募更多艺人"
@@ -186,7 +186,7 @@
     "key": "movie_stop_tips",
     "module": "拍摄",
     "name": "提前下映提示",
-    "zh_cn_notice": "提前结束只能领取剩余时间[color=#FF0000]{0}[/color]收益，您确定要提前结束吗？"
+    "zh_cn_notice": "提前结束只能领取剩余时间{0}%收益，您确定要提前结束吗？"
   },
   "1027": {
     "id": 1027,
@@ -221,7 +221,7 @@
     "key": "trophy_tips",
     "module": "街区",
     "name": "奖杯获取提示",
-    "zh_cn_notice": "每天22点傲视卡可获得奖杯"
+    "zh_cn_notice": "每天22点奥斯卡可获得奖杯"
   },
   "1032": {
     "id": 1032,
@@ -288,38 +288,38 @@
   },
   "1041": {
     "id": 1041,
-    "key": "movie_licence_tips",
+    "key": "movie_story_coordination",
     "module": "拍摄",
-    "name": "许可证回复提示",
-    "zh_cn_notice": "今天的许可证已发放完毕，{0}后将会继续发放"
+    "name": "剧本契合提示",
+    "zh_cn_notice": "剧本不算难，应该可以演好"
   },
   "1042": {
     "id": 1042,
-    "key": "movie_shoot_great",
+    "key": "movie_character_coordination",
     "module": "拍摄",
-    "name": "剧本和拍摄类型契合度优",
-    "zh_cn_notice": "天作之合"
+    "name": "角色契合提示",
+    "zh_cn_notice": "看同事演过这样的角色，应该没有问题"
   },
   "1043": {
     "id": 1043,
-    "key": "movie_shoot_good",
+    "key": "movie_story_character_coordination",
     "module": "拍摄",
-    "name": "剧本和拍摄类型契合度良",
-    "zh_cn_notice": "观众应该会喜欢吧"
+    "name": "剧本角色契合提示",
+    "zh_cn_notice": "剧本和角色看起来并不算难，应该不会出岔子"
   },
   "1044": {
     "id": 1044,
-    "key": "movie_shoot_normal",
+    "key": "movie_none_coordination",
     "module": "拍摄",
-    "name": "剧本和拍摄类型契合度中",
-    "zh_cn_notice": "应该还有更好的选择"
+    "name": "剧本角色无契合",
+    "zh_cn_notice": "第一次拍摄这样的电影，好紧张好期待啊！"
   },
-  "1045": {
-    "id": 1045,
-    "key": "movie_shoot_bad",
+  "1049": {
+    "id": 1049,
+    "key": "movie_drop_tips",
     "module": "拍摄",
-    "name": "剧本和拍摄类型契合度差",
-    "zh_cn_notice": "完全不适合该剧本，会造成负面影响"
+    "name": "电影掉落提示",
+    "zh_cn_notice": "这部电影票房{0}，我们获得了："
   },
   "1050": {
     "id": 1050,
@@ -617,38 +617,318 @@
   },
   "1105": {
     "id": 1105,
-    "key": "non_material",
+    "key": "build_non_material",
     "module": "建筑",
     "name": "材料不足",
     "zh_cn_notice": "{0}数量不足"
   },
   "1106": {
     "id": 1106,
-    "key": "non_level",
+    "key": "build_non_level",
     "module": "建筑",
     "name": "等级不足",
     "zh_cn_notice": "需要公司等级{0}"
   },
   "1107": {
     "id": 1107,
-    "key": "non_prebuilding",
+    "key": "build_non_prebuilding",
     "module": "建筑",
     "name": "没有前置建筑",
-    "zh_cn_notice": "需要建造{0}"
+    "zh_cn_notice": "需要建造{0}{1}"
   },
   "1108": {
     "id": 1108,
-    "key": "non_block",
+    "key": "build_non_block",
     "module": "建筑",
     "name": "街区档次不足",
     "zh_cn_notice": "需要提升到{0}"
   },
   "1109": {
     "id": 1109,
-    "key": "be_builded",
+    "key": "build_be_builded",
     "module": "建筑",
     "name": "房间已建造提示",
     "zh_cn_notice": "已建造"
+  },
+  "1110": {
+    "id": 1110,
+    "key": "movie_market_bad1",
+    "module": "拍摄",
+    "name": "剧本与市场观众对比差1",
+    "zh_cn_notice": "目前关于我们要拍摄的《{0}》的消息转发数量并不多，感觉题材和观众喜好有点不匹配"
+  },
+  "1111": {
+    "id": 1111,
+    "key": "movie_market_bad2",
+    "module": "拍摄",
+    "name": "剧本与市场观众对比差2",
+    "zh_cn_notice": "对我们准备拍摄的《{0}》的报道有点少，感觉和当前关注想看的有点偏差……"
+  },
+  "1112": {
+    "id": 1112,
+    "key": "movie_market_good1",
+    "module": "拍摄",
+    "name": "剧本和市场观众对比好1",
+    "zh_cn_notice": "很多观众打电话和我们确认是不是真的要拍《{0}》，感觉大家都很期待这个题材的电影！"
+  },
+  "1113": {
+    "id": 1113,
+    "key": "movie_market_good2",
+    "module": "拍摄",
+    "name": "剧本和市场观众对比好2",
+    "zh_cn_notice": "人气调查显示《{0}》的故事非常受欢迎！一定会大卖的！"
+  },
+  "1114": {
+    "id": 1114,
+    "key": "movie_actor_pay",
+    "module": "拍摄",
+    "name": "电影艺人报酬提示",
+    "zh_cn_notice": "拍摄《{0}》需要支付艺人薪酬："
+  },
+  "1115": {
+    "id": 1115,
+    "key": "movie_mediavisit_tips",
+    "module": "拍摄",
+    "name": "艺人参加媒体访问提示",
+    "zh_cn_notice": "{0}  参加 {1} ，电影期待值增加 {2}"
+  },
+  "1116": {
+    "id": 1116,
+    "key": "movie_type_addition",
+    "module": "拍摄",
+    "name": "电影熟练度加成",
+    "zh_cn_notice": "{0}电影熟练度"
+  },
+  "1117": {
+    "id": 1117,
+    "key": "movie_cinema_tips",
+    "module": "拍摄",
+    "name": "签约院线提示",
+    "zh_cn_notice": "您是本院线的{0}级合作伙伴，可以在我们旗下的{1}加影院上映"
+  },
+  "1118": {
+    "id": 1118,
+    "key": "movie_unlock_cinema_tips",
+    "module": "拍摄",
+    "name": "未签约院线提示",
+    "zh_cn_notice": "您没有与我们签约，不能在本院线上映（需提升至{0}）"
+  },
+  "1119": {
+    "id": 1119,
+    "key": "movie_market_feedback",
+    "module": "拍摄",
+    "name": "下映后市场反馈",
+    "zh_cn_notice": "当前市场喜好导致{0}票房提升"
+  },
+  "1120": {
+    "id": 1120,
+    "key": "movie_story_feedback",
+    "module": "拍摄",
+    "name": "下映后剧本反馈",
+    "zh_cn_notice": "有超过{0}的观众喜欢这个故事"
+  },
+  "1121": {
+    "id": 1121,
+    "key": "movie_shoottype_feedback",
+    "module": "拍摄",
+    "name": "下映后拍摄类型反馈",
+    "zh_cn_notice": "有{0}还认为{1}非常适合此故事"
+  },
+  "1122": {
+    "id": 1122,
+    "key": "movie_licence_finish_tips",
+    "module": "拍摄",
+    "name": "许可证回复提示",
+    "zh_cn_notice": "今天的许可证已发放完毕，{0}后将会继续发放"
+  },
+  "1123": {
+    "id": 1123,
+    "key": "movie_type_tips",
+    "module": "拍摄",
+    "name": "拍摄类型提示",
+    "zh_cn_notice": "选择的类型：{0}"
+  },
+  "1124": {
+    "id": 1124,
+    "key": "movie_state_tips1",
+    "module": "拍摄",
+    "name": "拍摄1阶段提示",
+    "zh_cn_notice": "选择类型"
+  },
+  "1125": {
+    "id": 1125,
+    "key": "movie_state_tips2",
+    "module": "拍摄",
+    "name": "拍摄2阶段提示",
+    "zh_cn_notice": "媒体采访"
+  },
+  "1126": {
+    "id": 1126,
+    "key": "movie_state_tips3",
+    "module": "拍摄",
+    "name": "拍摄3阶段提示",
+    "zh_cn_notice": "杀青"
+  },
+  "1150": {
+    "id": 1150,
+    "key": "bag_own_actor_tips",
+    "module": "仓库",
+    "name": "拥有艺人提示",
+    "zh_cn_notice": "您已拥有此艺人！"
+  },
+  "1151": {
+    "id": 1151,
+    "key": "bag_no_compound_tips",
+    "module": "仓库",
+    "name": "合成物品不足提示",
+    "zh_cn_notice": "物品不足，还需要{0}个才能合成"
+  },
+  "1152": {
+    "id": 1152,
+    "key": "bag_no_compound_choose_tips",
+    "module": "仓库",
+    "name": "未选择合成提示",
+    "zh_cn_notice": "请选择要合成的数量"
+  },
+  "1153": {
+    "id": 1153,
+    "key": "bag_no_send_choose_tips",
+    "module": "仓库",
+    "name": "未选择赠送提示",
+    "zh_cn_notice": "请选择要赠送的数量"
+  },
+  "1154": {
+    "id": 1154,
+    "key": "bag_no_split_choose_tips",
+    "module": "仓库",
+    "name": "未选择拆分提示",
+    "zh_cn_notice": "请选择要拆分的数量"
+  },
+  "1155": {
+    "id": 1155,
+    "key": "bag_no_sell_choose_tips",
+    "module": "仓库",
+    "name": "未选择出售提示",
+    "zh_cn_notice": "请选择要出售的数量"
+  },
+  "1156": {
+    "id": 1156,
+    "key": "oscar_presentation_title",
+    "module": "奥斯卡",
+    "name": "奥斯卡获奖发言标题",
+    "zh_cn_notice": "恭喜您摘得{0}，请发表获奖感言"
+  },
+  "1157": {
+    "id": 1157,
+    "key": "oscar_default_presentation1",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言1",
+    "zh_cn_notice": "感谢大家的认可，请相信我们的实力，请投资我们的公司！"
+  },
+  "1158": {
+    "id": 1158,
+    "key": "oscar_default_presentation2",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言2",
+    "zh_cn_notice": "我一开始就坚信一定是我会得奖！而且下一次也会是我！"
+  },
+  "1159": {
+    "id": 1159,
+    "key": "oscar_default_presentation3",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言3",
+    "zh_cn_notice": "感谢各种TV，感谢主持人，感谢观众的支持，我还会回来的！"
+  },
+  "1160": {
+    "id": 1160,
+    "key": "movie_day",
+    "module": "拍摄",
+    "name": "上映第N天",
+    "zh_cn_notice": "第{0}天: +{1}"
+  },
+  "1161": {
+    "id": 1161,
+    "key": "movie_remaining_days",
+    "module": "拍摄",
+    "name": "上映天数",
+    "zh_cn_notice": "还将上映{0}天"
+  },
+  "1162": {
+    "id": 1162,
+    "key": "movie_story_times",
+    "module": "拍摄",
+    "name": "剧本时长",
+    "zh_cn_notice": "{0}分钟"
+  },
+  "1163": {
+    "id": 1163,
+    "key": "movie_character_coordination_tips",
+    "module": "拍摄",
+    "name": "角色契合",
+    "zh_cn_notice": "角色契合"
+  },
+  "1164": {
+    "id": 1164,
+    "key": "movie_story_coordination_tips",
+    "module": "拍摄",
+    "name": "剧本契合提示",
+    "zh_cn_notice": "剧本契合"
+  },
+  "1165": {
+    "id": 1165,
+    "key": "bag_send_no_target",
+    "module": "仓库",
+    "name": "没有可赠送资产的艺人",
+    "zh_cn_notice": "暂无合适的艺人可赠送"
+  },
+  "1166": {
+    "id": 1166,
+    "key": "movie_off_line_remaining_time",
+    "module": "拍摄",
+    "name": "电影下映收益时间提示",
+    "zh_cn_notice": "还可以持续收益：{0}"
+  },
+  "1167": {
+    "id": 1167,
+    "key": "movie_off_line_gain_tips",
+    "module": "拍摄",
+    "name": "电影下映收益提示",
+    "zh_cn_notice": "+{0}/分钟"
+  },
+  "1168": {
+    "id": 1168,
+    "key": "movie_licence_limit_tips",
+    "module": "拍摄",
+    "name": "许可证上限提示",
+    "zh_cn_notice": "您的许可证数量太多了！"
+  },
+  "1169": {
+    "id": 1169,
+    "key": "movie_city_unlock_tips",
+    "module": "拍摄",
+    "name": "城市收益解锁提示",
+    "zh_cn_notice": "需要市场部达到2级"
+  },
+  "1170": {
+    "id": 1170,
+    "key": "movie_off_line_gain_evaluation",
+    "module": "拍摄",
+    "name": "电影下映收益评价",
+    "zh_cn_notice": "收益评价：{0}/分钟"
+  },
+  "1171": {
+    "id": 1171,
+    "key": "movie_off_line_tips",
+    "module": "拍摄",
+    "name": "电影下映收益提示",
+    "zh_cn_notice": "该电影在下映后的{0}分钟内还能持续带来收益"
+  },
+  "1172": {
+    "id": 1172,
+    "key": "movie_confirm",
+    "module": "拍摄",
+    "name": "确认拍摄",
+    "zh_cn_notice": "联系了几个编剧，先来挑选剧本吧！"
   },
   "2022": {
     "id": 2022,
@@ -662,7 +942,7 @@
     "key": "order_complete",
     "module": "订单",
     "name": "查看未解锁的订单完成度",
-    "zh_cn_notice": "完成X次订单可打开"
+    "zh_cn_notice": "完成{0}次订单可打开"
   },
   "2024": {
     "id": 2024,
@@ -676,14 +956,14 @@
     "key": "order_npc_default",
     "module": "订单",
     "name": "npc默认提示",
-    "zh_cn_notice": "所有订单都有时间限制的/n所以收到订单要赶快完成哦"
+    "zh_cn_notice": "所有订单都有时间限制的\\n所以收到订单要赶快完成哦"
   },
   "2026": {
     "id": 2026,
     "key": "business_countdown",
     "module": "公务",
     "name": "公务倒计时",
-    "zh_cn_notice": "新公务将在X秒后出现"
+    "zh_cn_notice": "新公务将在{0}秒后出现"
   },
   "2027": {
     "id": 2027,
@@ -704,7 +984,7 @@
     "key": "visit_countdown",
     "module": "探班",
     "name": "探班倒计时",
-    "zh_cn_notice": "一大波粉丝将在X秒后抵达"
+    "zh_cn_notice": "一大波粉丝将在{0}秒后抵达"
   },
   "2030": {
     "id": 2030,
@@ -750,24 +1030,24 @@
   },
   "2051": {
     "id": 2051,
-    "key": "market_envoy_wrong5",
-    "module": "市场",
-    "name": "艺人性别不对",
-    "zh_cn_notice": "我的性别不符合要求，无法担此重任"
+    "key": "produce_down",
+    "module": "生产",
+    "name": "立即完成时档位提示",
+    "zh_cn_notice": "需提升到街区3档"
   },
   "2052": {
     "id": 2052,
-    "key": "market_dollar_less",
-    "module": "市场",
-    "name": "美元不足",
-    "zh_cn_notice": "美元不足"
+    "key": "produce_produce_limit",
+    "module": "生产",
+    "name": "升级生产线建筑等级不够",
+    "zh_cn_notice": "需要{0}达到{0}级"
   },
   "2053": {
     "id": 2053,
-    "key": "market_show_failure",
-    "module": "市场",
-    "name": "路演失败",
-    "zh_cn_notice": "路演失败，请升级艺人"
+    "key": "player_id",
+    "module": "设置",
+    "name": "玩家ID",
+    "zh_cn_notice": "我的ID：{0}"
   },
   "2036": {
     "id": 2036,
@@ -872,6 +1152,293 @@
     "key": "shop_period",
     "module": "商城",
     "name": "购买非时间段内商品",
-    "zh_cn_notice": "请在X时间段内购买该商品"
+    "zh_cn_notice": "请在{0}时间段内购买该商品"
+  },
+  "2054": {
+    "id": 2054,
+    "key": "version_num",
+    "module": "设置",
+    "name": "版本号",
+    "zh_cn_notice": "版本号：{0}"
+  },
+  "2055": {
+    "id": 2055,
+    "key": "choose_language",
+    "module": "设置",
+    "name": "选择语言",
+    "zh_cn_notice": "选择语言"
+  },
+  "2056": {
+    "id": 2056,
+    "key": "CHS",
+    "module": "设置",
+    "name": "简中",
+    "zh_cn_notice": "简体中文"
+  },
+  "2057": {
+    "id": 2057,
+    "key": "CHT",
+    "module": "设置",
+    "name": "繁中",
+    "zh_cn_notice": "繁体中文"
+  },
+  "2058": {
+    "id": 2058,
+    "key": "EN",
+    "module": "设置",
+    "name": "英语",
+    "zh_cn_notice": "English"
+  },
+  "2059": {
+    "id": 2059,
+    "key": "choose_language_confirm",
+    "module": "设置",
+    "name": "切换语言确认",
+    "zh_cn_notice": "将语言切换为简体中文，是否确认？"
+  },
+  "2060": {
+    "id": 2060,
+    "key": "feedback_title",
+    "module": "设置",
+    "name": "反馈",
+    "zh_cn_notice": "反馈和建议"
+  },
+  "2061": {
+    "id": 2061,
+    "key": "feedback_words",
+    "module": "设置",
+    "name": "反馈文字",
+    "zh_cn_notice": "游戏遇到任何问题都可以和我们联系"
+  },
+  "2062": {
+    "id": 2062,
+    "key": "Qgroup",
+    "module": "设置",
+    "name": "Q群",
+    "zh_cn_notice": "官方QQ群：123456"
+  },
+  "2063": {
+    "id": 2063,
+    "key": "Wechat",
+    "module": "设置",
+    "name": "微信",
+    "zh_cn_notice": "微信公众号：电影大亨"
+  },
+  "2064": {
+    "id": 2064,
+    "key": "Weibo",
+    "module": "设置",
+    "name": "微博",
+    "zh_cn_notice": "官方微博：电影大亨"
+  },
+  "2065": {
+    "id": 2065,
+    "key": "mailbox",
+    "module": "设置",
+    "name": "邮箱",
+    "zh_cn_notice": "官方邮箱：132@321.com"
+  },
+  "2066": {
+    "id": 2066,
+    "key": "exchange_title",
+    "module": "设置",
+    "name": "兑换标题",
+    "zh_cn_notice": "礼包兑换"
+  },
+  "2067": {
+    "id": 2067,
+    "key": "exchange_input",
+    "module": "设置",
+    "name": "兑换码输入框",
+    "zh_cn_notice": "请输入礼包兑换码"
+  },
+  "2068": {
+    "id": 2068,
+    "key": "exhange_button",
+    "module": "设置",
+    "name": "兑换按钮",
+    "zh_cn_notice": "兑换"
+  },
+  "2069": {
+    "id": 2069,
+    "key": "setting_title",
+    "module": "设置",
+    "name": "设置标题",
+    "zh_cn_notice": "设置"
+  },
+  "2070": {
+    "id": 2070,
+    "key": "setting_notice",
+    "module": "设置",
+    "name": "设置提示",
+    "zh_cn_notice": "此账号已绑定{0}服，换服请注册新账号"
+  },
+  "2071": {
+    "id": 2071,
+    "key": "meeting_wait",
+    "module": "会议",
+    "name": "会议开始对话",
+    "zh_cn_notice": "{0}公司的谈判代表已经等候多时了"
+  },
+  "2072": {
+    "id": 2072,
+    "key": "meeting_goal1",
+    "module": "会议",
+    "name": "会议目的1",
+    "zh_cn_notice": "我们希望和贵公司达成合作"
+  },
+  "2073": {
+    "id": 2073,
+    "key": "meeting_goal2",
+    "module": "会议",
+    "name": "会议目的2",
+    "zh_cn_notice": "上次有些细节还没有谈拢"
+  },
+  "2074": {
+    "id": 2074,
+    "key": "meeting_goal3",
+    "module": "会议",
+    "name": "会议目的3",
+    "zh_cn_notice": "我觉得我们一起合作大有可为"
+  },
+  "2075": {
+    "id": 2075,
+    "key": "meeting_goal4",
+    "module": "会议",
+    "name": "会议目的4",
+    "zh_cn_notice": "有些事情还可以继续商定一下"
+  },
+  "2076": {
+    "id": 2076,
+    "key": "meeting_fair",
+    "module": "会议",
+    "name": "平局",
+    "zh_cn_notice": "不要伤了和气，就按原价吧"
+  },
+  "2077": {
+    "id": 2077,
+    "key": "meeting_win",
+    "module": "会议",
+    "name": "胜利",
+    "zh_cn_notice": "算你狠，你赢了"
+  },
+  "2078": {
+    "id": 2078,
+    "key": "meeting_lose1",
+    "module": "会议",
+    "name": "失败，谈判破裂",
+    "zh_cn_notice": "我们的谈判就到此位置吧"
+  },
+  "2079": {
+    "id": 2079,
+    "key": "meeting_lose2",
+    "module": "会议",
+    "name": "失败，奖励减半",
+    "zh_cn_notice": "你必须付出代价"
+  },
+  "2080": {
+    "id": 2080,
+    "key": "story_stack_locked",
+    "module": "剧本库",
+    "name": "剧本库未解锁",
+    "zh_cn_notice": "需要拍摄过的电影超过五个"
+  },
+  "2081": {
+    "id": 2081,
+    "key": "produce_lock",
+    "module": "生产",
+    "name": "生产线解锁条件不够",
+    "zh_cn_notice": "需提升到公司等级{0}\\n需要建造{0}"
+  },
+  "2082": {
+    "id": 2082,
+    "key": "meeting_goal",
+    "module": "会议",
+    "name": "会议弹窗文字",
+    "zh_cn_notice": "{0}公司的会议代表已在门外等候多时，是否马上接见"
+  },
+  "2083": {
+    "id": 2083,
+    "key": "meeting_battle",
+    "module": "会议",
+    "name": "会议比试文字",
+    "zh_cn_notice": "那就来一场对决吧"
+  },
+  "2084": {
+    "id": 2084,
+    "key": "meeting_boss_hello",
+    "module": "会议",
+    "name": "会议主管开场白",
+    "zh_cn_notice": "你好！"
+  },
+  "2085": {
+    "id": 2085,
+    "key": "meeting_client_hello1",
+    "module": "会议",
+    "name": "会议客户开场白1",
+    "zh_cn_notice": "我喜欢你们的会议室！"
+  },
+  "2086": {
+    "id": 2086,
+    "key": "meeting_client_hello2",
+    "module": "会议",
+    "name": "会议客户开场白2",
+    "zh_cn_notice": "我喜欢你们的装修风格！"
+  },
+  "2087": {
+    "id": 2087,
+    "key": "meeting_bargain1_boss",
+    "module": "会议",
+    "name": "讨价还价主管台词",
+    "zh_cn_notice": "你开的条件我觉得有些问题！"
+  },
+  "2088": {
+    "id": 2088,
+    "key": "meeting_bargain1_client",
+    "module": "会议",
+    "name": "讨价还价客户台词",
+    "zh_cn_notice": "细节可以慢慢谈嘛！"
+  },
+  "2089": {
+    "id": 2089,
+    "key": "meeting_bargain2_boss",
+    "module": "会议",
+    "name": "漫天要价主管台词",
+    "zh_cn_notice": "你开的条件太差了！"
+  },
+  "2090": {
+    "id": 2090,
+    "key": "meeting_bargain2_client",
+    "module": "会议",
+    "name": "漫天要价客户台词",
+    "zh_cn_notice": "这是漫天要价，你真的想谈判么？"
+  },
+  "2091": {
+    "id": 2091,
+    "key": "meeting_bargain_not_fail_boss",
+    "module": "会议",
+    "name": "谈判成功/平局主管台词",
+    "zh_cn_notice": "合作愉快！"
+  },
+  "2092": {
+    "id": 2092,
+    "key": "meeting_bargain_not_fail_client",
+    "module": "会议",
+    "name": "谈判成功/平局客户台词",
+    "zh_cn_notice": "真高兴谈判成功！"
+  },
+  "2093": {
+    "id": 2093,
+    "key": "meeting_bargain_fail_boss",
+    "module": "会议",
+    "name": "谈判失败主管台词",
+    "zh_cn_notice": "你们太没有诚意了"
+  },
+  "2094": {
+    "id": 2094,
+    "key": "meeting_bargain_fail_client",
+    "module": "会议",
+    "name": "谈判失败客户台词",
+    "zh_cn_notice": "这么什么好谈的，再见"
   }
 }

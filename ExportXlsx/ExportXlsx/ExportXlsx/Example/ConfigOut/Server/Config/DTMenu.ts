@@ -9,12 +9,14 @@ namespace configs
 	{
 		id : number;
 		zh_cn_name : string;
-		icon : string;
+		icon : number;
 		moduleName : string;
 		layer : number;
 		closeOtherType : number;
 		closeHomeWindow : boolean;
 		cacheTime : number;
 		loaderId : number;
+		barType : number;
+		barIndex : number;
 	}
 }

@@ -1,0 +1,37 @@
+﻿{
+  "1": {
+    "id": 1,
+    "name": "契合优秀",
+    "adaptation_min": 120,
+    "adaptation_max": 141,
+    "zh_cn_msg": "天作之合"
+  },
+  "2": {
+    "id": 2,
+    "name": "契合良好",
+    "adaptation_min": 101,
+    "adaptation_max": 120,
+    "zh_cn_msg": "这类型和剧本实在是太合适了"
+  },
+  "3": {
+    "id": 3,
+    "name": "契合一般",
+    "adaptation_min": 100,
+    "adaptation_max": 101,
+    "zh_cn_msg": "这个类型的电影还可以，观众应该会喜欢吧"
+  },
+  "4": {
+    "id": 4,
+    "name": "契合较差",
+    "adaptation_min": 80,
+    "adaptation_max": 100,
+    "zh_cn_msg": "应该还有更好的选择"
+  },
+  "5": {
+    "id": 5,
+    "name": "契合极差",
+    "adaptation_min": 60,
+    "adaptation_max": 80,
+    "zh_cn_msg": "完全不适合该剧本，会造成负面影响"
+  }
+}

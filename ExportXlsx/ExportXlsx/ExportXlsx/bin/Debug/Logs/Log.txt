@@ -351,3 +351,176 @@
 2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:DTVector2
 2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:Activities
 2018-07-02 18:34:36.4308   (ExportClientTS.cs:25) ExportClientTS:Actor
+2018-07-20 16:17:26.6726   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:17:26.9496   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:17:27.0596   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:17:27.1536   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:17:27.1646   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:17:27.1646   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:17:27.1746   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:17:27.1746   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:17:27.1746   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:17:27.1896   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:17:27.1896   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:17:27.1896   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:17:27.2046   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:17:27.2046   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:17:27.2046   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:17:27.2226   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:17:27.2226   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:17:27.2226   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:17:27.3676   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:18:22.5028   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:18:22.7478   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:18:22.7588   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:18:22.8388   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:18:22.8498   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:18:22.8498   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:18:22.8498   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:18:22.8498   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:18:22.8698   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:18:22.8698   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:18:22.8698   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:18:22.8838   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:18:22.8838   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:18:22.8838   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:18:22.8998   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:18:22.8998   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:18:22.8998   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:18:22.9148   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:20:06.1367   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:21:42.3032   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:21:42.5442   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:21:42.5532   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:21:42.6252   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:21:42.6252   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:21:42.6412   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:21:42.6412   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:21:42.6412   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:21:42.6562   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:21:42.6562   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:21:42.6562   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:21:42.6732   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:21:42.6732   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:21:42.6732   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:21:42.6902   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:21:42.6902   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:21:42.6902   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:21:42.7052   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:21:42.8372   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:22:54.4633   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:22:54.6993   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:22:54.6993   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:22:54.7803   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:22:54.7953   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:22:54.7953   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:22:54.8053   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:22:54.8053   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:22:54.8053   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:22:54.8233   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:22:54.8233   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:22:54.8233   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:22:54.8393   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:22:54.8393   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:22:54.8393   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:22:54.8553   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:22:54.8553   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:22:54.8553   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:22:55.0343   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:23:19.6417   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:23:19.8928   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:23:19.8928   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:23:19.9698   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:23:19.9698   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:23:19.9868   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:23:19.9868   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:23:19.9868   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:23:20.0018   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:23:20.0018   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:23:20.0018   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:23:20.0158   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:23:20.0158   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:23:20.0158   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:23:20.0158   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:23:20.0338   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:23:20.0338   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:23:20.0338   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:23:20.3298   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:24:07.4035   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:24:07.6525   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:24:07.6605   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:24:07.7245   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:24:07.7385   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:24:07.7385   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:24:07.7385   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:24:07.7525   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:24:07.7525   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:24:07.7525   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:24:07.7525   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:24:07.7715   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:24:07.7715   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:24:07.7715   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:24:07.7875   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:24:07.7875   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:24:07.7875   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:24:07.8005   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:24:08.0845   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:24:27.4106   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:24:27.9637   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:24:27.9727   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:24:28.0567   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:24:28.0697   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:24:28.0697   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:24:28.0787   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:24:28.0787   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:24:28.0787   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:24:28.0947   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:24:28.0947   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:24:28.0947   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:24:28.0947   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:24:28.1137   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:24:28.1137   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:24:28.1137   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:24:28.1277   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:24:28.1277   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:38:07.3235   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:07.5705   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:07.5705   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:38:23.8025   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:24.0875   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:24.0875   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:38:24.1655   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:38:24.1655   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:38:24.1815   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:38:24.1815   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:38:24.1815   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:38:24.1815   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:38:24.2005   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:38:24.2005   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:38:24.2005   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:38:24.2145   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:38:24.2145   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:38:24.2145   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:38:24.2285   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:38:24.2285   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:38:24.2285   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:38:24.3735   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:38:57.4504   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:57.7114   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-20 16:38:57.7214   (TableReader.cs:37) 读取配置表 Msg
+2018-07-20 16:38:57.8074   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2018-07-20 16:38:57.8184   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2018-07-20 16:38:57.8184   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2018-07-20 16:38:57.8184   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2018-07-20 16:38:57.8364   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2018-07-20 16:38:57.8364   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2018-07-20 16:38:57.8474   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2018-07-20 16:38:57.8474   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2018-07-20 16:38:57.8474   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2018-07-20 16:38:57.8644   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2018-07-20 16:38:57.8644   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2018-07-20 16:38:57.8644   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2018-07-20 16:38:57.8814   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2018-07-20 16:38:57.8814   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2018-07-20 16:38:57.8814   (ExportClientTS.cs:25) ExportClientTS:Msg
+2018-07-20 16:38:58.0284   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx

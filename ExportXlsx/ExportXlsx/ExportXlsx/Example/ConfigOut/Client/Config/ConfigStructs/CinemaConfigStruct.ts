@@ -11,6 +11,7 @@ namespace configs
 
 		id : number;
 		zh_cn_name : string;
+		level : number;
 		sign_level : number;
 		pic : number;
 		num : number;

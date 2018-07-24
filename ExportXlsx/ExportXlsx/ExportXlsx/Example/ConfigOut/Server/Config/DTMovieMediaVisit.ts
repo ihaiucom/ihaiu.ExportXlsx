@@ -8,6 +8,7 @@ namespace configs
 	export class DTMovieMediaVisit
 	{
 		id : number;
+		mediaId : number;
 		level : number;
 		zh_cn_name : string;
 		levelup_req : number;
@@ -16,6 +17,5 @@ namespace configs
 		min_expection : number;
 		max_expection : number;
 		pic : number;
-		big_pic : number;
 	}
 }

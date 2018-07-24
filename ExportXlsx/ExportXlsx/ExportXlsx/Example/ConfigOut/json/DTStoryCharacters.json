@@ -1,7 +1,7 @@
 ﻿{
-  "1001": {
-    "id": 1001,
-    "story_id": 1001,
+  "2001": {
+    "id": 2001,
+    "story_id": 1501,
     "character_num": 1,
     "zh_cn_name": "陆伊萍",
     "type": 2103,
@@ -20,9 +20,9 @@
     ],
     "zh_cn_introduction": "陆伊萍（女主角）出生于富贵之家，从小被陆家赶出家门，生活清贫，在舞厅当歌女，为复仇决定利用何疏桓却发动了真情。"
   },
-  "1002": {
-    "id": 1002,
-    "story_id": 1001,
+  "2002": {
+    "id": 2002,
+    "story_id": 1501,
     "character_num": 2,
     "zh_cn_name": "何疏桓",
     "type": 2102,
@@ -42,9 +42,9 @@
     ],
     "zh_cn_introduction": "何疏桓（男主角）报社记者，深情款款，才高志坚，与陆伊萍相恋，最后有情人终成眷属。"
   },
-  "1003": {
-    "id": 1003,
-    "story_id": 1001,
+  "2003": {
+    "id": 2003,
+    "story_id": 1501,
     "character_num": 3,
     "zh_cn_name": "陆心萍",
     "type": 2104,
@@ -64,9 +64,9 @@
     ],
     "zh_cn_introduction": "陆心萍（配角）大学生，知书达理，长相甜美，温柔贴心，对爱情非常执着。"
   },
-  "1004": {
-    "id": 1004,
-    "story_id": 1001,
+  "2004": {
+    "id": 2004,
+    "story_id": 1501,
     "character_num": 4,
     "zh_cn_name": "杜辉",
     "type": 2104,
@@ -86,9 +86,9 @@
     ],
     "zh_cn_introduction": "杜辉（配角）报社记者，头脑机灵，虽然知道陆心萍喜欢何疏桓也不曾放弃，最终成功俘获美人心"
   },
-  "1005": {
-    "id": 1005,
-    "story_id": 1002,
+  "2005": {
+    "id": 2005,
+    "story_id": 1502,
     "character_num": 1,
     "zh_cn_name": "阿杰",
     "type": 2101,
@@ -108,9 +108,9 @@
     ],
     "zh_cn_introduction": "阿杰（主角）当地农民，为人爽朗正直，勇猛异常，极富正义感，被选入黑衣人阻止。配备武器：灭害灵手枪。"
   },
-  "1006": {
-    "id": 1006,
-    "story_id": 1002,
+  "2006": {
+    "id": 2006,
+    "story_id": 1502,
     "character_num": 2,
     "zh_cn_name": "老开",
     "type": 2101,
@@ -130,9 +130,9 @@
     ],
     "zh_cn_introduction": "老开（主角）黑衣人组织中精干老练的特警，为人严肃，刚正不阿，曾多次挽救地球于危难之中。配备武器：敌敌畏大炮。"
   },
-  "1007": {
-    "id": 1007,
-    "story_id": 1002,
+  "2007": {
+    "id": 2007,
+    "story_id": 1502,
     "character_num": 3,
     "zh_cn_name": "艾德根",
     "type": 2107,
@@ -152,9 +152,9 @@
     ],
     "zh_cn_introduction": "艾德根（反派）邪恶的地心人，化身人形的虫科生物，处心积虑想夺走能量源“银河”掌控宇宙。"
   },
-  "1008": {
-    "id": 1008,
-    "story_id": 1003,
+  "2008": {
+    "id": 2008,
+    "story_id": 1503,
     "character_num": 1,
     "zh_cn_name": "盖·朵",
     "type": 2103,
@@ -174,9 +174,9 @@
     ],
     "zh_cn_introduction": "盖·朵（女主角）从小练就非凡武艺，从家里偷出全套神装，来到外面的世界对抗邪恶……"
   },
-  "1009": {
-    "id": 1009,
-    "story_id": 1003,
+  "2009": {
+    "id": 2009,
+    "story_id": 1503,
     "character_num": 2,
     "zh_cn_name": "史蒂夫",
     "type": 2101,
@@ -196,9 +196,9 @@
     ],
     "zh_cn_introduction": "史蒂夫（主角）潜伏在敌人内部窃取机密的特工"
   },
-  "1010": {
-    "id": 1010,
-    "story_id": 1003,
+  "2010": {
+    "id": 2010,
+    "story_id": 1503,
     "character_num": 3,
     "zh_cn_name": "战神",
     "type": 2107,
@@ -219,9 +219,9 @@
     ],
     "zh_cn_introduction": "战神（反派）上古神祇在人间的化身，通过挑起战争获得力量"
   },
-  "1011": {
-    "id": 1011,
-    "story_id": 1004,
+  "2011": {
+    "id": 2011,
+    "story_id": 1504,
     "character_num": 1,
     "zh_cn_name": "李诚功",
     "type": 2101,
@@ -240,9 +240,9 @@
     ],
     "zh_cn_introduction": "李诚功（主角）独立创业的小老板，有钱有闲，有妻儿有情人，在成功人生不知所措的时候，此次的归家之旅也得到了答案。"
   },
-  "1012": {
-    "id": 1012,
-    "story_id": 1004,
+  "2012": {
+    "id": 2012,
+    "story_id": 1504,
     "character_num": 2,
     "zh_cn_name": "牛耿直",
     "type": 2101,
@@ -261,9 +261,9 @@
     ],
     "zh_cn_introduction": "牛耿直（主角）从小与父母走失的民工，耿直坚持，乐观积极，一直相信未来充满希望"
   },
-  "1013": {
-    "id": 1013,
-    "story_id": 1004,
+  "2013": {
+    "id": 2013,
+    "story_id": 1504,
     "character_num": 3,
     "zh_cn_name": "梅莉",
     "type": 2104,
@@ -281,9 +281,9 @@
     ],
     "zh_cn_introduction": "梅莉（配角）李诚功在老家的妻子，温柔贤妻，孝敬父母，一直默默保卫这整个家庭"
   },
-  "1014": {
-    "id": 1014,
-    "story_id": 1005,
+  "2014": {
+    "id": 2014,
+    "story_id": 1505,
     "character_num": 1,
     "zh_cn_name": "泉贤一",
     "type": 2102,
@@ -302,9 +302,9 @@
     ],
     "zh_cn_introduction": "泉贤一（男主角）平凡的高中生，单纯善良，母亲被杀害后性情大变，被寄生后拥有超越超人的能力。"
   },
-  "1015": {
-    "id": 1015,
-    "story_id": 1005,
+  "2015": {
+    "id": 2015,
+    "story_id": 1505,
     "character_num": 2,
     "zh_cn_name": "小佑",
     "type": 2101,
@@ -323,9 +323,9 @@
     ],
     "zh_cn_introduction": "小佑（主角）寄生在贤一右手的寄生兽，拥有强大的力量，和贤一成为相互信任的伙伴，一起对抗其他寄生兽。"
   },
-  "1016": {
-    "id": 1016,
-    "story_id": 1005,
+  "2016": {
+    "id": 2016,
+    "story_id": 1505,
     "character_num": 3,
     "zh_cn_name": "田宫凌子",
     "type": 2106,
@@ -344,9 +344,9 @@
     ],
     "zh_cn_introduction": "田宫凌子（女配角）在与人类的接触中慢慢被改变的寄生兽，拥有强大的能力，但不喜欢杀戮，一直想了解人类和寄生生物之间和平相处的方法。"
   },
-  "1017": {
-    "id": 1017,
-    "story_id": 1005,
+  "2017": {
+    "id": 2017,
+    "story_id": 1505,
     "character_num": 4,
     "zh_cn_name": "春野里美",
     "type": 2104,
@@ -365,9 +365,9 @@
     ],
     "zh_cn_introduction": "春野里美（女配角）平凡的女高中生，勇敢善良，贤一的青梅竹马，对贤一有好感。"
   },
-  "1018": {
-    "id": 1018,
-    "story_id": 1006,
+  "2018": {
+    "id": 2018,
+    "story_id": 1506,
     "character_num": 1,
     "zh_cn_name": "杰姆斯",
     "type": 2102,
@@ -386,9 +386,9 @@
     ],
     "zh_cn_introduction": "杰姆斯（男主角）出色的间谍，风度翩翩，举止文雅体面"
   },
-  "1019": {
-    "id": 1019,
-    "story_id": 1006,
+  "2019": {
+    "id": 2019,
+    "story_id": 1506,
     "character_num": 2,
     "zh_cn_name": "马迪琳",
     "type": 2103,
@@ -408,9 +408,9 @@
     ],
     "zh_cn_introduction": "马迪琳（女主角）漂亮聪明的医生，争强好胜掌握幽灵党的秘密信息。"
   },
-  "1020": {
-    "id": 1020,
-    "story_id": 1006,
+  "2020": {
+    "id": 2020,
+    "story_id": 1506,
     "character_num": 3,
     "zh_cn_name": "露希亚",
     "type": 2104,
@@ -429,9 +429,9 @@
     ],
     "zh_cn_introduction": "露希亚（配角)冷若冰霜，深藏不露，暗中密谋，失去丈夫后担心自己遭受同样的而已。"
   },
-  "1021": {
-    "id": 1021,
-    "story_id": 1006,
+  "2021": {
+    "id": 2021,
+    "story_id": 1506,
     "character_num": 4,
     "zh_cn_name": "布莱福",
     "type": 2107,
@@ -451,9 +451,9 @@
     ],
     "zh_cn_introduction": "布莱福（反派）双重身份，幽灵党的真正反派头目。"
   },
-  "1022": {
-    "id": 1022,
-    "story_id": 1007,
+  "2022": {
+    "id": 2022,
+    "story_id": 1507,
     "character_num": 1,
     "zh_cn_name": "麦克",
     "type": 2101,
@@ -471,9 +471,9 @@
     ],
     "zh_cn_introduction": "麦克（男主角），三位进入森林的大学生之一。"
   },
-  "1023": {
-    "id": 1023,
-    "story_id": 1007,
+  "2023": {
+    "id": 2023,
+    "story_id": 1507,
     "character_num": 2,
     "zh_cn_name": "伊瑟",
     "type": 2101,
@@ -491,9 +491,9 @@
     ],
     "zh_cn_introduction": "伊瑟（女主角），三位进入森林的大学生之一。"
   },
-  "1024": {
-    "id": 1024,
-    "story_id": 1007,
+  "2024": {
+    "id": 2024,
+    "story_id": 1507,
     "character_num": 3,
     "zh_cn_name": "奇什",
     "type": 2101,
@@ -511,9 +511,9 @@
     ],
     "zh_cn_introduction": "奇什（男主角），三位进入森林的大学生之一。"
   },
-  "1025": {
-    "id": 1025,
-    "story_id": 1008,
+  "2025": {
+    "id": 2025,
+    "story_id": 1508,
     "character_num": 1,
     "zh_cn_name": "萧火火",
     "type": 2101,
@@ -534,9 +534,9 @@
     ],
     "zh_cn_introduction": "萧火火（主角）天资卓越的少年，坚韧不屈，豪放洒脱，经过不懈的努力和磨练成最强之人"
   },
-  "1026": {
-    "id": 1026,
-    "story_id": 1008,
+  "2026": {
+    "id": 2026,
+    "story_id": 1508,
     "character_num": 2,
     "zh_cn_name": "药闹",
     "type": 2101,
@@ -556,9 +556,9 @@
     ],
     "zh_cn_introduction": "药闹（配角）炼药师，萧火火的导师，以灵魂形态存在，斗尊巅峰最强者"
   },
-  "1027": {
-    "id": 1027,
-    "story_id": 1008,
+  "2027": {
+    "id": 2027,
+    "story_id": 1508,
     "character_num": 3,
     "zh_cn_name": "萧香儿",
     "type": 2104,
@@ -578,9 +578,9 @@
     ],
     "zh_cn_introduction": "萧香儿（配角）古族族长千金，天赋异禀，清纯可人，冰雪聪明，最终与萧火火历经艰险修成正果"
   },
-  "1028": {
-    "id": 1028,
-    "story_id": 1008,
+  "2028": {
+    "id": 2028,
+    "story_id": 1508,
     "character_num": 4,
     "zh_cn_name": "纳兰伊然",
     "type": 2104,
@@ -599,9 +599,9 @@
     ],
     "zh_cn_introduction": "纳兰伊然（配角）萧火火未婚妻，美丽冷艳，傲气盛人，认为萧火火无法胜任其丈夫登门退婚。"
   },
-  "1029": {
-    "id": 1029,
-    "story_id": 1009,
+  "2029": {
+    "id": 2029,
+    "story_id": 1509,
     "character_num": 1,
     "zh_cn_name": "丁豹",
     "type": 2101,
@@ -621,9 +621,9 @@
     ],
     "zh_cn_introduction": "丁豹（主角）一个退休军官特工，六十岁的身体素质却强过许多年轻人。但是年纪过大，记忆衰退，经常健忘。"
   },
-  "1030": {
-    "id": 1030,
-    "story_id": 1009,
+  "2030": {
+    "id": 2030,
+    "story_id": 1509,
     "character_num": 2,
     "zh_cn_name": "春花",
     "type": 2101,
@@ -642,9 +642,9 @@
     ],
     "zh_cn_introduction": "春花（主角）乐观的小姑娘，天真无邪。母亲离家出走，父亲惹是生非，非常不幸。"
   },
-  "1031": {
-    "id": 1031,
-    "story_id": 1009,
+  "2031": {
+    "id": 2031,
+    "story_id": 1509,
     "character_num": 3,
     "zh_cn_name": "李振久",
     "type": 2104,
@@ -664,9 +664,9 @@
     ],
     "zh_cn_introduction": "李振久（配角）嗜赌成性且脾气暴躁，赌博、盗窃。一次被卷入黑道混战。"
   },
-  "1032": {
-    "id": 1032,
-    "story_id": 1010,
+  "2032": {
+    "id": 2032,
+    "story_id": 1510,
     "character_num": 1,
     "zh_cn_name": "小马",
     "type": 2101,
@@ -685,9 +685,9 @@
     ],
     "zh_cn_introduction": "小马（主角）职业是鉴黄师，凭借职业敏感一眼就发现了伪装成饶舌歌手的大木老师"
   },
-  "1033": {
-    "id": 1033,
-    "story_id": 1010,
+  "2033": {
+    "id": 2033,
+    "story_id": 1510,
     "character_num": 2,
     "zh_cn_name": "大木",
     "type": 2101,
@@ -706,9 +706,9 @@
     ],
     "zh_cn_introduction": "大木（主角）长相酷似饶舌歌手的表演艺术家，成就是千人斩"
   },
-  "1034": {
-    "id": 1034,
-    "story_id": 1010,
+  "2034": {
+    "id": 2034,
+    "story_id": 1510,
     "character_num": 3,
     "zh_cn_name": "蜜桃",
     "type": 2104,
@@ -726,5 +726,3322 @@
       1602
     ],
     "zh_cn_introduction": "蜜桃（配角）习惯性便秘的合气道高手，苦苦追寻穿山甲到底说了什么"
+  },
+  "2035": {
+    "id": 2035,
+    "story_id": 1511,
+    "character_num": 1,
+    "zh_cn_name": "罗利",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907,
+      1934
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "罗利（男主角）机器战士驾驶员，有丰富的作战经验。哥哥去世后一直在悲恸中无法解脱"
+  },
+  "2036": {
+    "id": 2036,
+    "story_id": 1511,
+    "character_num": 2,
+    "zh_cn_name": "真子",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1926,
+      1902
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "真子（女主角）罗利的搭档，作战经验不足，但是有高超的格斗技术。"
+  },
+  "2037": {
+    "id": 2037,
+    "story_id": 1511,
+    "character_num": 3,
+    "zh_cn_name": "潘特克斯",
+    "type": 2105,
+    "type_pic": 2,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1901,
+      1921
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "潘特克斯（配角）环太平洋防御总队最高指挥官，第一代机甲驾驶员。"
+  },
+  "2038": {
+    "id": 2038,
+    "story_id": 1512,
+    "character_num": 1,
+    "zh_cn_name": "令傅聪",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 1203,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1910,
+      1926
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "令傅聪（男主角）华山派大弟子，武功高强，放荡不羁，并与东方不败产生感情"
+  },
+  "2039": {
+    "id": 2039,
+    "story_id": 1512,
+    "character_num": 2,
+    "zh_cn_name": "东方不败",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1920
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "东方不败（反派）日月神教教主，武功高强，野心勃勃，修炼葵花宝典后外表变成貌美的姑娘，被令傅聪潇洒不羁所吸引。"
+  },
+  "2040": {
+    "id": 2040,
+    "story_id": 1512,
+    "character_num": 3,
+    "zh_cn_name": "任茵茵",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 1402,
+    "age_type": 1501,
+    "tags": [
+      1904,
+      1926
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "任茵茵（女主角）年轻貌美，发现东方不败的谋反之意后决定和令傅聪一起营救父亲。之后与令傅聪互相产生好感。"
+  },
+  "2041": {
+    "id": 2041,
+    "story_id": 1512,
+    "character_num": 4,
+    "zh_cn_name": "岳菱姗",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1948
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "岳菱姗（配角）令傅聪的青梅竹马，冰雪聪明，最后跟随令傅聪一起浪迹天涯。"
+  },
+  "2042": {
+    "id": 2042,
+    "story_id": 1513,
+    "character_num": 1,
+    "zh_cn_name": "乔邦德",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 1203,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1903,
+      1927
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "乔邦德（男主角），因为受到土匪袭击而自称师爷的真县长。"
+  },
+  "2043": {
+    "id": 2043,
+    "story_id": 1513,
+    "character_num": 2,
+    "zh_cn_name": "张慕之",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 1203,
+    "show_type": 1401,
+    "age_type": 1502,
+    "tags": [
+      1910,
+      1934
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "张慕之（男主角），受到乔邦德怂恿而扮作县长的土匪。"
+  },
+  "2044": {
+    "id": 2044,
+    "story_id": 1513,
+    "character_num": 3,
+    "zh_cn_name": "黄四狼",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1943
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "黄四狼（南反派），县城恶霸。"
+  },
+  "2045": {
+    "id": 2045,
+    "story_id": 1513,
+    "character_num": 4,
+    "zh_cn_name": "县长夫人",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1001,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1904
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "县长夫人（女主角），和丈夫一起上任，却差点死于土匪之手。"
+  },
+  "2046": {
+    "id": 2046,
+    "story_id": 1514,
+    "character_num": 1,
+    "zh_cn_name": "克特",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907,
+      1913
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "克特（男主角）一名记者，出生于氪金星，年幼时被送往地球，长相平凡，体格强健，拥有超越地球的能力"
+  },
+  "2047": {
+    "id": 2047,
+    "story_id": 1514,
+    "character_num": 2,
+    "zh_cn_name": "莱安",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1947
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "莱安（女主角）记者，年轻美丽，克特的梦中情人，非常喜欢超人但不太喜欢克特。"
+  },
+  "2048": {
+    "id": 2048,
+    "story_id": 1514,
+    "character_num": 3,
+    "zh_cn_name": "克鲁萨",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1201,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1943
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "克鲁萨（反派）疯狂邪恶的天才科学家，克鲁萨集团董事长，一直想证明自己比超人更优秀四处作恶。"
+  },
+  "2049": {
+    "id": 2049,
+    "story_id": 1515,
+    "character_num": 1,
+    "zh_cn_name": "郭叔",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 1203,
+    "show_type": 1402,
+    "age_type": 1502,
+    "tags": [
+      1928,
+      1926
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "郭叔（主角）中国农民，地下交通员，机智勇敢，与鬼子周旋，全歼了鬼子小分队，成功保护国家文物。"
+  },
+  "2050": {
+    "id": 2050,
+    "story_id": 1515,
+    "character_num": 2,
+    "zh_cn_name": "中村下等兵",
+    "type": 2101,
+    "type_pic": 1,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 1402,
+    "age_type": 1502,
+    "tags": [
+      1923,
+      1917
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "中村下等兵（主角）鬼子兵，个子矮，罗圈腿，水桶腰，智商低，经常做出令人捧腹的动作，在二战中未死但已经精神失常。"
+  },
+  "2051": {
+    "id": 2051,
+    "story_id": 1515,
+    "character_num": 3,
+    "zh_cn_name": "轮椅太君",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1923
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "轮椅太君（反派）陆军军官，意图在抗日战争末期将一尊佛头像偷运回日本。后随他的队伍一起呗歼灭。"
+  },
+  "2052": {
+    "id": 2052,
+    "story_id": 1516,
+    "character_num": 1,
+    "zh_cn_name": "马昊瀚",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1910
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "马昊瀚（主角）敢于冒险的理想青年，希望能在外闯出成就，然而一次次失败开始淹没着他的理想。"
+  },
+  "2053": {
+    "id": 2053,
+    "story_id": 1516,
+    "character_num": 2,
+    "zh_cn_name": "姜河",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1945,
+      1933
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "姜河（主角）颓废的文艺青年，一名教师，纯洁善良，精神主义者。"
+  },
+  "2054": {
+    "id": 2054,
+    "story_id": 1516,
+    "character_num": 3,
+    "zh_cn_name": "吕良",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1924,
+      1903
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "吕良（配角）骑摩托车旅行的骑士旅行者，是个话痨，似乎对妻子用情至深，最后开走了马昊瀚的车溜走。"
+  },
+  "2055": {
+    "id": 2055,
+    "story_id": 1517,
+    "character_num": 1,
+    "zh_cn_name": "皮克",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1908,
+      1913
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "皮克（男主角）高中生，从小暗恋隔壁的玛丽安，获得超能力后骄傲自大，致使亲人被杀害后悔不已。"
+  },
+  "2056": {
+    "id": 2056,
+    "story_id": 1517,
+    "character_num": 2,
+    "zh_cn_name": "玛丽安",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1908
+    ],
+    "effect": [
+      1604,
+      1603
+    ],
+    "zh_cn_introduction": "玛丽安（配角）高中生，年轻漂亮，希望成为演员，深爱着皮克，无奈其一直没有表示。"
+  },
+  "2057": {
+    "id": 2057,
+    "story_id": 1517,
+    "character_num": 3,
+    "zh_cn_name": "哈雷",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "哈雷（配角）高中生，皮克最好的朋友，生性纯良的富二代，玛丽安的男友。"
+  },
+  "2058": {
+    "id": 2058,
+    "story_id": 1517,
+    "character_num": 4,
+    "zh_cn_name": "诺曼斯",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1202,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1930
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "诺曼斯（反派）科学家，拥有亿万财富的集团CEO，因尝试未研发药剂变成绿魔，迷失心智，杀人作恶。"
+  },
+  "2059": {
+    "id": 2059,
+    "story_id": 1518,
+    "character_num": 1,
+    "zh_cn_name": "武松",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1934
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "武松（主角），喝醉后不听人劝，非要半夜翻山，却没想到真会遇到老虎。"
+  },
+  "2060": {
+    "id": 2060,
+    "story_id": 1518,
+    "character_num": 2,
+    "zh_cn_name": "老虎",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1930
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "老虎（反派），路过的野生老虎一只。"
+  },
+  "2061": {
+    "id": 2061,
+    "story_id": 1519,
+    "character_num": 1,
+    "zh_cn_name": "路的",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1910
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "路的（主角）性格积极乐观，爱憎分明且十分重视伙伴，对任何危险的事物都超感兴趣。看似白痴，却是一个大智若愚型的无愧船长之职的人。和其他传统的海贼所不同的是，他并不会为了追求财富而无故杀戮，而是享受着身为海贼的冒险。"
+  },
+  "2062": {
+    "id": 2062,
+    "story_id": 1519,
+    "character_num": 2,
+    "zh_cn_name": "索泷",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1916,
+      1919
+    ],
+    "effect": [
+      1604,
+      1603
+    ],
+    "zh_cn_introduction": "索泷（配角）为了小时候与挚友的约定而踏上了前往世界第一剑士的道路，随后成为路飞出海后遇到的第一个伙伴。在初次败给世界第一剑士“鹰眼米霍克”后向路飞发誓永不再败，并且更加努力的锻炼自己。两年后的他成功与伙伴们汇合，并且为了实现自己的梦想，奔赴强者如云的新世界。"
+  },
+  "2063": {
+    "id": 2063,
+    "story_id": 1519,
+    "character_num": 3,
+    "zh_cn_name": "娜丽",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1940,
+      1903
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "娜丽（配角）头脑聪明又机灵，精通气象学和航海术，擅长偷术，能用身体感知天气，完美指示航路，是个能精确画出航海图的天才航海士。本质上是个细心、善良、重视感情、嫉恶如仇、偶尔有些温柔的能干的女性。最喜欢钱和橘子，梦想是要画出全世界的地图。"
+  },
+  "2064": {
+    "id": 2064,
+    "story_id": 1519,
+    "character_num": 4,
+    "zh_cn_name": "鸟索普",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "鸟索普（配角）小时候是出名的吹牛大王，和村里的几个孩子组成“乌索普海贼团”，自称乌索普船长。发现克洛船长的阴谋后，立志要保护村里的人，和路飞并肩作战。梦想是要成为勇敢的海上战士。"
+  },
+  "2065": {
+    "id": 2065,
+    "story_id": 1520,
+    "character_num": 1,
+    "zh_cn_name": "兰婷",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "兰婷（女主角），网络小说作家，与父亲关系很差，却因为父亲拥有的一副古地图而被绑架。"
+  },
+  "2066": {
+    "id": 2066,
+    "story_id": 1520,
+    "character_num": 2,
+    "zh_cn_name": "乔费",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1903,
+      1916
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "乔费（男主角），打击盗墓走私的青年侠客，和兰婷父亲很熟。"
+  },
+  "2067": {
+    "id": 2067,
+    "story_id": 1520,
+    "character_num": 3,
+    "zh_cn_name": "庚谷",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "庚谷（配角），一心想从古城获取宝藏而绑架兰婷并组织了探险队。"
+  },
+  "2068": {
+    "id": 2068,
+    "story_id": 1520,
+    "character_num": 4,
+    "zh_cn_name": "华叔",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "华叔（配角），多年前曾经去过古城，因此对古城的信息了如指掌。"
+  },
+  "2069": {
+    "id": 2069,
+    "story_id": 1521,
+    "character_num": 1,
+    "zh_cn_name": "温洁洁",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1940
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "温洁洁（女主角），前往西雅图产子的拜金女。"
+  },
+  "2070": {
+    "id": 2070,
+    "story_id": 1521,
+    "character_num": 2,
+    "zh_cn_name": "郝之",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1939
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "郝之（男主角），因故落魄到美国的名医，在温洁洁需要帮助的时候伸出了援手。"
+  },
+  "2071": {
+    "id": 2071,
+    "story_id": 1521,
+    "character_num": 3,
+    "zh_cn_name": "女儿",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1903
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "女儿（配角），郝之和前妻的女儿，有郝之独自抚养。"
+  },
+  "2072": {
+    "id": 2072,
+    "story_id": 1522,
+    "character_num": 1,
+    "zh_cn_name": "萧景寒",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1914,
+      1934
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "萧景寒（男主角），香港的缉私特警，一方面要守住文物一方面要保护住家庭完整。"
+  },
+  "2073": {
+    "id": 2073,
+    "story_id": 1522,
+    "character_num": 2,
+    "zh_cn_name": "王雪箐",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1937,
+      1904
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "王雪箐（女主角），实为日方女间谍，一直尝试接近萧景寒。"
+  },
+  "2074": {
+    "id": 2074,
+    "story_id": 1522,
+    "character_num": 3,
+    "zh_cn_name": "岸本",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "岸本（反派），为了夺取富春山居图不惜一切代价。"
+  },
+  "2075": {
+    "id": 2075,
+    "story_id": 1523,
+    "character_num": 1,
+    "zh_cn_name": "亚星",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1927,
+      1917
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "亚星（男主角）无可救药的小混混，能说会道，一事无成，梦想加入当时势力最大的锄头帮，并成为黑道上的大人物。最后参悟绝技如来神掌。"
+  },
+  "2076": {
+    "id": 2076,
+    "story_id": 1523,
+    "character_num": 2,
+    "zh_cn_name": "深哥",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "深哥（反派）锄头帮大当家，野心勃勃，心狠手辣，无恶不作，一心想要除掉“猪笼城寨”。"
+  },
+  "2077": {
+    "id": 2077,
+    "story_id": 1523,
+    "character_num": 3,
+    "zh_cn_name": "火焰邪神",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 1203,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1930,
+      1948
+    ],
+    "effect": [
+      1601,
+      1604
+    ],
+    "zh_cn_introduction": "火焰邪神（反派）一代武学奇才，为求一败四处与人比武，对武学极其疯狂的武痴。"
+  },
+  "2078": {
+    "id": 2078,
+    "story_id": 1523,
+    "character_num": 4,
+    "zh_cn_name": "包租婆",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1948
+    ],
+    "effect": [
+      1602,
+      1605
+    ],
+    "zh_cn_introduction": "包租婆（配角）泼辣爱财的包租婆，凶狠霸道，绝技狮吼功，江湖号称小龙女。"
+  },
+  "2079": {
+    "id": 2079,
+    "story_id": 1524,
+    "character_num": 1,
+    "zh_cn_name": "关羽",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1934
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "关羽（主角）蜀国将军，听闻刘备仍在世的消息后不顾曹操（反派）再三阻拦，毅然回归。"
+  },
+  "2080": {
+    "id": 2080,
+    "story_id": 1524,
+    "character_num": 2,
+    "zh_cn_name": "曹操",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1934,
+      1923
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "曹操（反派）魏国丞相，希望将关羽留在自己身边，不断派出手下进行围追堵截。"
+  },
+  "2081": {
+    "id": 2081,
+    "story_id": 1525,
+    "character_num": 1,
+    "zh_cn_name": "陈旬",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1902
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "陈旬（男主角）阳光帅气的男孩，天性聪明，乐于助人，是个走到哪都受人瞩目的人气王。与方蕙的爱情千回百转"
+  },
+  "2082": {
+    "id": 2082,
+    "story_id": 1525,
+    "character_num": 2,
+    "zh_cn_name": "方蕙",
+    "type": 2107,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1902,
+      1904
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "方蕙（女主角）温柔文静的女生，内向沉默，喜欢画画，看似柔弱但实际内心坚强，是家长与老师眼中的乖乖女、好学生。"
+  },
+  "2083": {
+    "id": 2083,
+    "story_id": 1525,
+    "character_num": 3,
+    "zh_cn_name": "赵也",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1908
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "赵也（配角）校篮球队队员，是个仗义、冲动，喜欢意气用事但也热血的少年。喜欢“女汉子”林墨嘉，喜欢搞怪，是朋友圈中的开心果。"
+  },
+  "2084": {
+    "id": 2084,
+    "story_id": 1525,
+    "character_num": 4,
+    "zh_cn_name": "林墨嘉",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1402,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1908
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "林墨嘉（配角）方蕙的好友，美丽大方、敢爱敢恨、为人仗义又有男人缘，是个固执的可爱的小女孩。"
+  },
+  "2085": {
+    "id": 2085,
+    "story_id": 1526,
+    "character_num": 1,
+    "zh_cn_name": "悟空",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1926
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "孙悟空（主角）法术高强，看到妖怪后选择了直接打死，但却因此造成了三藏法师的不信任。"
+  },
+  "2086": {
+    "id": 2086,
+    "story_id": 1526,
+    "character_num": 2,
+    "zh_cn_name": "三藏法师",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1910,
+      1946
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "三藏法师（配角），看到了化身少女的白骨精被击杀的瞬间，因而对悟空产生了怀疑。"
+  },
+  "2087": {
+    "id": 2087,
+    "story_id": 1526,
+    "character_num": 3,
+    "zh_cn_name": "白骨精",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1904
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "白骨精（反派），懂变化之术的妖怪，虽然弱于无力，但非常擅长阴谋诡计，喜欢变化成少女角色引人上当。"
+  },
+  "2088": {
+    "id": 2088,
+    "story_id": 1526,
+    "character_num": 4,
+    "zh_cn_name": "猪八戒",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1502,
+    "tags": [
+      1929,
+      1905
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "猪八戒（配角）被白骨精美貌蛊惑，赞同三藏法师的说法进而刺激悟空的离开。后又因三藏法师被抓住去求悟空。"
+  },
+  "2089": {
+    "id": 2089,
+    "story_id": 1527,
+    "character_num": 1,
+    "zh_cn_name": "扎克",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1906
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "扎克（男主角），贫穷画家，在开船前的最后时刻赌博 赢得了船票。"
+  },
+  "2090": {
+    "id": 2090,
+    "story_id": 1527,
+    "character_num": 2,
+    "zh_cn_name": "肉丝",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1902
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "丽丝（女主角），落魄贵族之女，与未婚夫一起参与这次旅行。"
+  },
+  "2091": {
+    "id": 2091,
+    "story_id": 1528,
+    "character_num": 1,
+    "zh_cn_name": "陈家举",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1914,
+      1934
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "陈家举（男主角）警察，英勇善斗，个性冲动，为人耿直，直言不讳，因为不满上司放走重大嫌疑的大毒枭朱陶愤然辞职"
+  },
+  "2092": {
+    "id": 2092,
+    "story_id": 1528,
+    "character_num": 2,
+    "zh_cn_name": "张美",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 1402,
+    "age_type": 0,
+    "tags": [
+      1904
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "张美（女主角）陈家举的女友，青春美丽，温柔善良，曾多次因为陈家举因工作疏忽自己分分合合。"
+  },
+  "2093": {
+    "id": 2093,
+    "story_id": 1528,
+    "character_num": 3,
+    "zh_cn_name": "朱陶",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1920
+    ],
+    "effect": [
+      1605,
+      1603
+    ],
+    "zh_cn_introduction": "朱陶（反派）大毒枭，心狠手辣，诡计多端，因为被陈家举将其拘留怀恨在心设计报复"
+  },
+  "2094": {
+    "id": 2094,
+    "story_id": 1529,
+    "character_num": 1,
+    "zh_cn_name": "小女孩",
+    "type": 2101,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1942
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "小女孩（主角）天真可爱的小女孩，长长的金卷发，穿着破旧的衣服和一双很大的写，依靠买火柴为生。"
+  },
+  "2095": {
+    "id": 2095,
+    "story_id": 1529,
+    "character_num": 2,
+    "zh_cn_name": "奶奶",
+    "type": 2104,
+    "type_pic": 2,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1941
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "奶奶（配角）小女孩的奶奶，和蔼慈祥，勤劳善良，生前非常疼爱小女孩。"
+  },
+  "2096": {
+    "id": 2096,
+    "story_id": 1530,
+    "character_num": 1,
+    "zh_cn_name": "尹孜",
+    "type": 2103,
+    "type_pic": 2,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "尹孜（女主角）一个节目的编导，对曾经有一面之缘的余斐一见钟情，在重逢后，更是经历了大喜到大杯，依然不气馁为爱奋斗"
+  },
+  "2097": {
+    "id": 2097,
+    "story_id": 1530,
+    "character_num": 2,
+    "zh_cn_name": "余斐",
+    "type": 2102,
+    "type_pic": 1,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1905,
+      1932
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "余斐（男主角）红极一时的明星，叱咤情场，在多方的注重下，开启了异常轰轰烈烈的爱情故事。"
+  },
+  "2098": {
+    "id": 2098,
+    "story_id": 1530,
+    "character_num": 3,
+    "zh_cn_name": "李翔赫",
+    "type": 2107,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "李翔赫（男配角）余斐的好友，不是和尹孜约会气氛暧昧，就是跟余斐针锋相对，感觉他应该更喜欢余斐。"
+  },
+  "1001": {
+    "id": 1001,
+    "story_id": 1003,
+    "character_num": 1,
+    "zh_cn_name": "巴克",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1901,
+      1907,
+      1934,
+      1910,
+      1926
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "退伍老兵巴克（主角）是一支特种兵的领队，其麾下云集了克里斯（主角）和杰伊（配角）等一众高手，这天，一位神秘雇主L（主角）联系到巴克，雇用他们前往一座私人小岛去解决一个名叫尼克（反派）的商业巨亨。"
+  },
+  "1002": {
+    "id": 1002,
+    "story_id": 1003,
+    "character_num": 2,
+    "zh_cn_name": "神秘雇主L",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1949,
+      1901,
+      1907,
+      1934,
+      1926
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "退伍老兵巴克（主角）是一支特种兵的领队，其麾下云集了克里斯（主角）和杰伊（配角）等一众高手，这天，一位神秘雇主L（主角）联系到巴克，雇用他们前往一座私人小岛去解决一个名叫尼克（反派）的商业巨亨。"
+  },
+  "1003": {
+    "id": 1003,
+    "story_id": 1003,
+    "character_num": 3,
+    "zh_cn_name": "克里斯",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1919,
+      1926,
+      1925,
+      1907,
+      1911
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "退伍老兵巴克（主角）是一支特种兵的领队，其麾下云集了克里斯（主角）和杰伊（配角）等一众高手，这天，一位神秘雇主L（主角）联系到巴克，雇用他们前往一座私人小岛去解决一个名叫尼克（反派）的商业巨亨。"
+  },
+  "1004": {
+    "id": 1004,
+    "story_id": 1003,
+    "character_num": 4,
+    "zh_cn_name": "杰伊",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1919,
+      1926,
+      1925,
+      1907,
+      1911
+    ],
+    "effect": [
+      1601,
+      1604
+    ],
+    "zh_cn_introduction": "退伍老兵巴克（主角）是一支特种兵的领队，其麾下云集了克里斯（主角）和杰伊（配角）等一众高手，这天，一位神秘雇主L（主角）联系到巴克，雇用他们前往一座私人小岛去解决一个名叫尼克（反派）的商业巨亨。"
+  },
+  "1005": {
+    "id": 1005,
+    "story_id": 1003,
+    "character_num": 5,
+    "zh_cn_name": "尼克",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1943,
+      1920,
+      1907,
+      1923,
+      1930
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "退伍老兵巴克（主角）是一支特种兵的领队，其麾下云集了克里斯（主角）和杰伊（配角）等一众高手，这天，一位神秘雇主L（主角）联系到巴克，雇用他们前往一座私人小岛去解决一个名叫尼克（反派）的商业巨亨。"
+  },
+  "1006": {
+    "id": 1006,
+    "story_id": 1008,
+    "character_num": 1,
+    "zh_cn_name": "阿尔",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 1201,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1903,
+      1935,
+      1944,
+      1931
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "小镇男孩阿尔（主角）的父亲在集市上买回了一匹小马——乔（主角），阿尔与乔一同长大，然而好景不长，战争开打，乔被作为战马征用，依次被军官（配角），农夫与女孩拥有，但它一直在寻找的是阿尔，阿尔也一直在寻找着它。"
+  },
+  "1007": {
+    "id": 1007,
+    "story_id": 1008,
+    "character_num": 2,
+    "zh_cn_name": "乔",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1928,
+      1903,
+      1907,
+      1921,
+      1934
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "小镇男孩阿尔（主角）的父亲在集市上买回了一匹小马——乔（主角），阿尔与乔一同长大，然而好景不长，战争开打，乔被作为战马征用，依次被军官（配角），农夫与女孩拥有，但它一直在寻找的是阿尔，阿尔也一直在寻找着它。"
+  },
+  "1008": {
+    "id": 1008,
+    "story_id": 1008,
+    "character_num": 3,
+    "zh_cn_name": "军官",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1901,
+      1909,
+      1910,
+      1934,
+      1925
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "小镇男孩阿尔（主角）的父亲在集市上买回了一匹小马——乔（主角），阿尔与乔一同长大，然而好景不长，战争开打，乔被作为战马征用，依次被军官（配角），农夫与女孩拥有，但它一直在寻找的是阿尔，阿尔也一直在寻找着它。"
+  },
+  "1009": {
+    "id": 1009,
+    "story_id": 1009,
+    "character_num": 1,
+    "zh_cn_name": "麦克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1901,
+      1925,
+      1934,
+      1935,
+      1921
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "战场上的节节败退让士兵麦克（主角）心灰意冷，为了再见情人艾琳（主角），他逃离军营踏上归家路，而艾琳在父亲去世后生活也十分艰难，在农村女孩妮娜的帮助下，艾琳渐渐适应了艰苦的生活并一直期待麦克的归来。 麦克终于回到了家乡，可没有享受多久重逢的喜悦，他就在与强盗克莱登的决斗中被杀害…"
+  },
+  "1010": {
+    "id": 1010,
+    "story_id": 1009,
+    "character_num": 2,
+    "zh_cn_name": "艾琳",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1904,
+      1945,
+      1932,
+      1909
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "战场上的节节败退让士兵麦克（主角）心灰意冷，为了再见情人艾琳（主角），他逃离军营踏上归家路，而艾琳在父亲去世后生活也十分艰难，在农村女孩妮娜的帮助下，艾琳渐渐适应了艰苦的生活并一直期待麦克的归来。 麦克终于回到了家乡，可没有享受多久重逢的喜悦，他就在与强盗克莱登的决斗中被杀害…"
+  },
+  "1011": {
+    "id": 1011,
+    "story_id": 1021,
+    "character_num": 1,
+    "zh_cn_name": "理查德",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1946,
+      1922,
+      1907,
+      1921,
+      1931
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "一个风景秀丽的小岛上，一对情侣下海游泳，女孩不幸被大白鲨袭击，支离破碎的尸体令人惨不忍睹。当地官员却不愿意封场调查，怕影响旅游收入。于是请来了生物学家理查德（主角）进行评估。理查德断定这是只非比寻常的巨大白鲨。但当地官员忽视了他的警告，直到越来越多的人葬身鲨口，事态已经十分严重，当地一个熟练捕鱼手汉克（配角）、警察杰姆（配角）和理查德三人决心要捕杀大白鲨，凶险重重的搏斗开始了，谁才是最后的胜者？要获得这场战斗的胜利，又要付出怎样的代价？"
+  },
+  "1012": {
+    "id": 1012,
+    "story_id": 1021,
+    "character_num": 2,
+    "zh_cn_name": "汉克",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1926,
+      1934,
+      1907,
+      1921,
+      1945
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "一个风景秀丽的小岛上，一对情侣下海游泳，女孩不幸被大白鲨袭击，支离破碎的尸体令人惨不忍睹。当地官员却不愿意封场调查，怕影响旅游收入。于是请来了生物学家理查德（主角）进行评估。理查德断定这是只非比寻常的巨大白鲨。但当地官员忽视了他的警告，直到越来越多的人葬身鲨口，事态已经十分严重，当地一个熟练捕鱼手汉克（配角）、警察杰姆（配角）和理查德三人决心要捕杀大白鲨，凶险重重的搏斗开始了，谁才是最后的胜者？要获得这场战斗的胜利，又要付出怎样的代价？"
+  },
+  "1013": {
+    "id": 1013,
+    "story_id": 1021,
+    "character_num": 3,
+    "zh_cn_name": "杰姆",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1914,
+      1928,
+      1934,
+      1907,
+      1921
+    ],
+    "effect": [
+      1605,
+      1602
+    ],
+    "zh_cn_introduction": "一个风景秀丽的小岛上，一对情侣下海游泳，女孩不幸被大白鲨袭击，支离破碎的尸体令人惨不忍睹。当地官员却不愿意封场调查，怕影响旅游收入。于是请来了生物学家理查德（主角）进行评估。理查德断定这是只非比寻常的巨大白鲨。但当地官员忽视了他的警告，直到越来越多的人葬身鲨口，事态已经十分严重，当地一个熟练捕鱼手汉克（配角）、警察杰姆（配角）和理查德三人决心要捕杀大白鲨，凶险重重的搏斗开始了，谁才是最后的胜者？要获得这场战斗的胜利，又要付出怎样的代价？"
+  },
+  "1014": {
+    "id": 1014,
+    "story_id": 1025,
+    "character_num": 1,
+    "zh_cn_name": "马库斯",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908,
+      1902,
+      1907,
+      1929,
+      1934
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "在一个明媚的日子里，几个大学同学马库斯（主角）、内特（主角）、安娜（主角）以及克里斯（主角）等5人驱车前往位于深山老林的小木屋中度假。他们不知道的是，自己的一举一动都在一个神秘机构的监视之下，甚至会不自觉的被引诱进某些陷阱。“无意”之中，安娜用拉丁文念出一段咒语，在此之后，长眠泥土之下的丧尸爬了出来，对年轻人们展开血腥大屠杀。而镜头的另一边，神秘机构的成员正在饶有兴致的观赏他们的“表演”。"
+  },
+  "1015": {
+    "id": 1015,
+    "story_id": 1025,
+    "character_num": 2,
+    "zh_cn_name": "内特",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908,
+      1902,
+      1922,
+      1942,
+      1928
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "在一个明媚的日子里，几个大学同学马库斯（主角）、内特（主角）、安娜（主角）以及克里斯（主角）等5人驱车前往位于深山老林的小木屋中度假。他们不知道的是，自己的一举一动都在一个神秘机构的监视之下，甚至会不自觉的被引诱进某些陷阱。“无意”之中，安娜用拉丁文念出一段咒语，在此之后，长眠泥土之下的丧尸爬了出来，对年轻人们展开血腥大屠杀。而镜头的另一边，神秘机构的成员正在饶有兴致的观赏他们的“表演”。"
+  },
+  "1016": {
+    "id": 1016,
+    "story_id": 1025,
+    "character_num": 3,
+    "zh_cn_name": "安娜",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908,
+      1902,
+      1932,
+      1904,
+      1935
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "在一个明媚的日子里，几个大学同学马库斯（主角）、内特（主角）、安娜（主角）以及克里斯（主角）等5人驱车前往位于深山老林的小木屋中度假。他们不知道的是，自己的一举一动都在一个神秘机构的监视之下，甚至会不自觉的被引诱进某些陷阱。“无意”之中，安娜用拉丁文念出一段咒语，在此之后，长眠泥土之下的丧尸爬了出来，对年轻人们展开血腥大屠杀。而镜头的另一边，神秘机构的成员正在饶有兴致的观赏他们的“表演”。"
+  },
+  "1017": {
+    "id": 1017,
+    "story_id": 1025,
+    "character_num": 4,
+    "zh_cn_name": "克里斯",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1908,
+      1902,
+      1932,
+      1904,
+      1940
+    ],
+    "effect": [
+      1602,
+      1605
+    ],
+    "zh_cn_introduction": "在一个明媚的日子里，几个大学同学马库斯（主角）、内特（主角）、安娜（主角）以及克里斯（主角）等5人驱车前往位于深山老林的小木屋中度假。他们不知道的是，自己的一举一动都在一个神秘机构的监视之下，甚至会不自觉的被引诱进某些陷阱。“无意”之中，安娜用拉丁文念出一段咒语，在此之后，长眠泥土之下的丧尸爬了出来，对年轻人们展开血腥大屠杀。而镜头的另一边，神秘机构的成员正在饶有兴致的观赏他们的“表演”。"
+  },
+  "1018": {
+    "id": 1018,
+    "story_id": 1028,
+    "character_num": 1,
+    "zh_cn_name": "汤姆",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1931,
+      1921,
+      1945,
+      1905,
+      1917
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "妻子度假期间，丈夫汤姆（主角）因为一次花盆事件，结识了邻居露娜（主角）。露娜的举手投足都深深吸引着汤姆，他求教于心理医生杰瑞（配角），对方指出他的病症，引诱他付高价诊治。汤姆没有理会，但露娜因为天气炎热希望能来他家里吹空调，由此闹出一系列故事..."
+  },
+  "1019": {
+    "id": 1019,
+    "story_id": 1028,
+    "character_num": 2,
+    "zh_cn_name": "露娜",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1932,
+      1902,
+      1917,
+      1909
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "妻子度假期间，丈夫汤姆（主角）因为一次花盆事件，结识了邻居露娜（主角）。露娜的举手投足都深深吸引着汤姆，他求教于心理医生杰瑞（配角），对方指出他的病症，引诱他付高价诊治。汤姆没有理会，但露娜因为天气炎热希望能来他家里吹空调，由此闹出一系列故事..."
+  },
+  "1020": {
+    "id": 1020,
+    "story_id": 1028,
+    "character_num": 3,
+    "zh_cn_name": "杰瑞",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1939,
+      1943,
+      1927,
+      1940,
+      1946
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "妻子度假期间，丈夫汤姆（主角）因为一次花盆事件，结识了邻居露娜（主角）。露娜的举手投足都深深吸引着汤姆，他求教于心理医生杰瑞（配角），对方指出他的病症，引诱他付高价诊治。汤姆没有理会，但露娜因为天气炎热希望能来他家里吹空调，由此闹出一系列故事..."
+  },
+  "1021": {
+    "id": 1021,
+    "story_id": 1033,
+    "character_num": 1,
+    "zh_cn_name": "维多利亚",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1905,
+      1902,
+      1922,
+      1931,
+      1943
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "著名影星维多利亚（主角）的演艺事业正当红，一天她来到一家书店并邂逅了刚刚失恋的老板瑞克（主角）。瑞克认出了维多利亚，同时也发现自己被她所吸引。两人随着相处时间增多逐渐坠入爱河，但这一恋情却被狗仔队文森（配角）所发现并曝光。他们的关系也面临着考验。"
+  },
+  "1022": {
+    "id": 1022,
+    "story_id": 1033,
+    "character_num": 2,
+    "zh_cn_name": "瑞克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1402,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1932,
+      1935,
+      1942,
+      1909
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "著名影星维多利亚（主角）的演艺事业正当红，一天她来到一家书店并邂逅了刚刚失恋的老板瑞克（主角）。瑞克认出了维多利亚，同时也发现自己被她所吸引。两人随着相处时间增多逐渐坠入爱河，但这一恋情却被狗仔队文森（配角）所发现并曝光。他们的关系也面临着考验。"
+  },
+  "1023": {
+    "id": 1023,
+    "story_id": 1033,
+    "character_num": 3,
+    "zh_cn_name": "文森",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1947,
+      1936,
+      1940,
+      1903,
+      1917
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "著名影星维多利亚（主角）的演艺事业正当红，一天她来到一家书店并邂逅了刚刚失恋的老板瑞克（主角）。瑞克认出了维多利亚，同时也发现自己被她所吸引。两人随着相处时间增多逐渐坠入爱河，但这一恋情却被狗仔队文森（配角）所发现并曝光。他们的关系也面临着考验。"
+  },
+  "1024": {
+    "id": 1024,
+    "story_id": 1034,
+    "character_num": 1,
+    "zh_cn_name": "塔克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 1202,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1924,
+      1930,
+      1921,
+      1901,
+      1925
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "塔克（主角）从退伍之后一直开出租车为生，战争的后遗症加上目睹的社会黑暗让他变得愤世嫉俗。在追求一位漂亮的女秘书贝蒂（配角）失败后，塔克决定去刺杀总统来证明自己的男子气魄。但在准备行刺的过程中他遇上了被逼卖淫的少女爱丽丝（主角）。塔克一怒之下把逼迫爱丽丝卖淫的那帮人都干掉了，本以为会被通缉，没想到媒体却把他形容为端掉了卖淫团伙的英雄…"
+  },
+  "1025": {
+    "id": 1025,
+    "story_id": 1034,
+    "character_num": 2,
+    "zh_cn_name": "贝蒂",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1949,
+      1902,
+      1932,
+      1940,
+      1920
+    ],
+    "effect": [
+      1601,
+      1604
+    ],
+    "zh_cn_introduction": "塔克（主角）从退伍之后一直开出租车为生，战争的后遗症加上目睹的社会黑暗让他变得愤世嫉俗。在追求一位漂亮的女秘书贝蒂（配角）失败后，塔克决定去刺杀总统来证明自己的男子气魄。但在准备行刺的过程中他遇上了被逼卖淫的少女爱丽丝（主角）。塔克一怒之下把逼迫爱丽丝卖淫的那帮人都干掉了，本以为会被通缉，没想到媒体却把他形容为端掉了卖淫团伙的英雄…"
+  },
+  "1026": {
+    "id": 1026,
+    "story_id": 1034,
+    "character_num": 3,
+    "zh_cn_name": "爱丽丝",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1930,
+      1931,
+      1932,
+      1945,
+      1921
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "塔克（主角）从退伍之后一直开出租车为生，战争的后遗症加上目睹的社会黑暗让他变得愤世嫉俗。在追求一位漂亮的女秘书贝蒂（配角）失败后，塔克决定去刺杀总统来证明自己的男子气魄。但在准备行刺的过程中他遇上了被逼卖淫的少女爱丽丝（主角）。塔克一怒之下把逼迫爱丽丝卖淫的那帮人都干掉了，本以为会被通缉，没想到媒体却把他形容为端掉了卖淫团伙的英雄…"
+  },
+  "1027": {
+    "id": 1027,
+    "story_id": 1041,
+    "character_num": 1,
+    "zh_cn_name": "爱丽",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 1202,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1945,
+      1921,
+      1902,
+      1909,
+      1931
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "来自于小镇的年轻女孩爱丽（主角）应聘成为了一名看护，她所要照顾的对象，是一位名叫卡尔（主角）的男子。曾经的卡尔喜欢周游世界寻求冒险，然而，一场意外车祸使他下半身瘫痪，只能靠着护工威廉（配角）的照料在轮椅上度过余生。爱丽在照顾卡尔的过程中慢慢为他所吸引，而卡尔也被爱丽的热情开朗与对生活的信心所感染，开始认真思考起了未来…"
+  },
+  "1028": {
+    "id": 1028,
+    "story_id": 1041,
+    "character_num": 2,
+    "zh_cn_name": "卡尔",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1904,
+      1935,
+      1903,
+      1942
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "来自于小镇的年轻女孩爱丽（主角）应聘成为了一名看护，她所要照顾的对象，是一位名叫卡尔（主角）的男子。曾经的卡尔喜欢周游世界寻求冒险，然而，一场意外车祸使他下半身瘫痪，只能靠着护工威廉（配角）的照料在轮椅上度过余生。爱丽在照顾卡尔的过程中慢慢为他所吸引，而卡尔也被爱丽的热情开朗与对生活的信心所感染，开始认真思考起了未来…"
+  },
+  "1029": {
+    "id": 1029,
+    "story_id": 1041,
+    "character_num": 3,
+    "zh_cn_name": "威廉",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1904,
+      1935,
+      1903,
+      1942
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "来自于小镇的年轻女孩爱丽（主角）应聘成为了一名看护，她所要照顾的对象，是一位名叫卡尔（主角）的男子。曾经的卡尔喜欢周游世界寻求冒险，然而，一场意外车祸使他下半身瘫痪，只能靠着护工威廉（配角）的照料在轮椅上度过余生。爱丽在照顾卡尔的过程中慢慢为他所吸引，而卡尔也被爱丽的热情开朗与对生活的信心所感染，开始认真思考起了未来…"
+  },
+  "1030": {
+    "id": 1030,
+    "story_id": 1045,
+    "character_num": 1,
+    "zh_cn_name": "保罗",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1931,
+      1945,
+      1930,
+      1921,
+      1920
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "在一个荒无人烟的小岛上，不善于和人沟通的保罗（主角）对人生早已绝望，决定亲手了结自己的性命。但关键时刻，一具尸体漂到沙滩上。这具尸体仿佛有生命一般，帮他解决了诸如砍树，射箭等现实问题。保罗大喜过望，给尸体取名为丹（主角）。丹的出现让保罗又有了生活下去的希望，这对奇妙的朋友将要踏上的会是怎样的旅程呢？"
+  },
+  "1031": {
+    "id": 1031,
+    "story_id": 1045,
+    "character_num": 2,
+    "zh_cn_name": "丹",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1907,
+      1917,
+      1942,
+      1930
+    ],
+    "effect": [
+      1605,
+      1603
+    ],
+    "zh_cn_introduction": "在一个荒无人烟的小岛上，不善于和人沟通的保罗（主角）对人生早已绝望，决定亲手了结自己的性命。但关键时刻，一具尸体漂到沙滩上。这具尸体仿佛有生命一般，帮他解决了诸如砍树，射箭等现实问题。保罗大喜过望，给尸体取名为丹（主角）。丹的出现让保罗又有了生活下去的希望，这对奇妙的朋友将要踏上的会是怎样的旅程呢？"
+  },
+  "1032": {
+    "id": 1032,
+    "story_id": 1049,
+    "character_num": 1,
+    "zh_cn_name": "迈克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1902,
+      1907,
+      1908,
+      1921
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "17岁的迈克（主角）是校园风云人物，在一次关键性的篮球冠军赛上，他决定放弃前途，向怀有身孕的女友萨曼莎求婚。20年后，人到中年的迈克生活事业两失意，妻子决定与迈克分居，儿女也十分疏远他，迈克只好搬入铁哥们内特（配角）家暂住。迈克回想自己的人生轨迹，遗憾自己当年做出的选择。当他在漫步时突然遭到冲击，醒来发现自己竟然回到了17岁的身体！现在，上天给了他一次重新选择的机会，他会如何抉择呢？"
+  },
+  "1033": {
+    "id": 1033,
+    "story_id": 1049,
+    "character_num": 2,
+    "zh_cn_name": "内特",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1932,
+      1902,
+      1940,
+      1945
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "17岁的迈克（主角）是校园风云人物，在一次关键性的篮球冠军赛上，他决定放弃前途，向怀有身孕的女友萨曼莎求婚。20年后，人到中年的迈克生活事业两失意，妻子决定与迈克分居，儿女也十分疏远他，迈克只好搬入铁哥们内特（配角）家暂住。迈克回想自己的人生轨迹，遗憾自己当年做出的选择。当他在漫步时突然遭到冲击，醒来发现自己竟然回到了17岁的身体！现在，上天给了他一次重新选择的机会，他会如何抉择呢？"
+  },
+  "1034": {
+    "id": 1034,
+    "story_id": 1053,
+    "character_num": 1,
+    "zh_cn_name": "拉尔夫",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1907,
+      1926,
+      1934,
+      1920
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "拉尔夫（主角）的母亲怀孕时被吸血鬼咬伤了，生下他后就去世了，由此他带上了一半吸血鬼的血，却没有一般吸血鬼的弱点。拉尔夫自幼在武器专家阿尔文（配角）家长大，阿尔文为他打造威力最强大的对付吸血鬼的武器并为他注射药物以免他变为吸血鬼。 在拉尔夫一次次猎杀吸血鬼保护人类之后，吸血鬼王斯蒂芬（反派）发誓要除掉这个心头大患。他劝说拉尔夫加入吸血鬼阵营失败之后便想出了新的阴谋，而拉尔夫在战斗中受到了致命伤，为了疗伤，他不得不做出抉择——要不要直接吸活人的血液？"
+  },
+  "1035": {
+    "id": 1035,
+    "story_id": 1053,
+    "character_num": 2,
+    "zh_cn_name": "阿尔文",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1928,
+      1922,
+      1946,
+      1927,
+      1933
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "拉尔夫（主角）的母亲怀孕时被吸血鬼咬伤了，生下他后就去世了，由此他带上了一半吸血鬼的血，却没有一般吸血鬼的弱点。拉尔夫自幼在武器专家阿尔文（配角）家长大，阿尔文为他打造威力最强大的对付吸血鬼的武器并为他注射药物以免他变为吸血鬼。 在拉尔夫一次次猎杀吸血鬼保护人类之后，吸血鬼王斯蒂芬（反派）发誓要除掉这个心头大患。他劝说拉尔夫加入吸血鬼阵营失败之后便想出了新的阴谋，而拉尔夫在战斗中受到了致命伤，为了疗伤，他不得不做出抉择——要不要直接吸活人的血液？"
+  },
+  "1036": {
+    "id": 1036,
+    "story_id": 1053,
+    "character_num": 3,
+    "zh_cn_name": "斯蒂芬",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1913,
+      1926,
+      1930,
+      1920
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "拉尔夫（主角）的母亲怀孕时被吸血鬼咬伤了，生下他后就去世了，由此他带上了一半吸血鬼的血，却没有一般吸血鬼的弱点。拉尔夫自幼在武器专家阿尔文（配角）家长大，阿尔文为他打造威力最强大的对付吸血鬼的武器并为他注射药物以免他变为吸血鬼。 在拉尔夫一次次猎杀吸血鬼保护人类之后，吸血鬼王斯蒂芬（反派）发誓要除掉这个心头大患。他劝说拉尔夫加入吸血鬼阵营失败之后便想出了新的阴谋，而拉尔夫在战斗中受到了致命伤，为了疗伤，他不得不做出抉择——要不要直接吸活人的血液？"
+  },
+  "1037": {
+    "id": 1037,
+    "story_id": 1059,
+    "character_num": 1,
+    "zh_cn_name": "希瑟",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1902,
+      1903,
+      1908,
+      1922,
+      1910
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "维京岛国的少年希瑟（主角）是部落统领的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒添麻烦。在又一次的战斗中，希瑟用射龙器击伤了一只黑龙，找到它之后希瑟却不忍心伤害它，而是给它疗伤，喂食，慢慢的与黑龙成为了朋友，还给它起名“库洛”（主角）。但希瑟的秘密被部族中的女孩莉丝（主角）发现了，希瑟带她体验了骑在龙背上飞翔的快感，并寄希望于说服自己的父亲让大家能够接受与龙和平共处。然而就在此时，一场由邪恶的熔岩龙（反派）引发的大危机发生了…"
+  },
+  "1038": {
+    "id": 1038,
+    "story_id": 1059,
+    "character_num": 2,
+    "zh_cn_name": "莉丝",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1903,
+      1944,
+      1918,
+      1907
+    ],
+    "effect": [
+      1604,
+      1603
+    ],
+    "zh_cn_introduction": "维京岛国的少年希瑟（主角）是部落统领的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒添麻烦。在又一次的战斗中，希瑟用射龙器击伤了一只黑龙，找到它之后希瑟却不忍心伤害它，而是给它疗伤，喂食，慢慢的与黑龙成为了朋友，还给它起名“库洛”（主角）。但希瑟的秘密被部族中的女孩莉丝（主角）发现了，希瑟带她体验了骑在龙背上飞翔的快感，并寄希望于说服自己的父亲让大家能够接受与龙和平共处。然而就在此时，一场由邪恶的熔岩龙（反派）引发的大危机发生了…"
+  },
+  "1039": {
+    "id": 1039,
+    "story_id": 1059,
+    "character_num": 3,
+    "zh_cn_name": "库洛",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1917,
+      1929,
+      1934,
+      1918
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "维京岛国的少年希瑟（主角）是部落统领的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒添麻烦。在又一次的战斗中，希瑟用射龙器击伤了一只黑龙，找到它之后希瑟却不忍心伤害它，而是给它疗伤，喂食，慢慢的与黑龙成为了朋友，还给它起名“库洛”（主角）。但希瑟的秘密被部族中的女孩莉丝（主角）发现了，希瑟带她体验了骑在龙背上飞翔的快感，并寄希望于说服自己的父亲让大家能够接受与龙和平共处。然而就在此时，一场由邪恶的熔岩龙（反派）引发的大危机发生了…"
+  },
+  "1040": {
+    "id": 1040,
+    "story_id": 1059,
+    "character_num": 4,
+    "zh_cn_name": "熔岩龙",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1930,
+      1943,
+      1907,
+      1920
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "维京岛国的少年希瑟（主角）是部落统领的儿子，他非常想像自己的父亲一样亲手屠龙——这些飞龙是岛上维京人放牧羊群的主要天敌——但他每次出现在部落屠龙的战斗中都只给大家徒添麻烦。在又一次的战斗中，希瑟用射龙器击伤了一只黑龙，找到它之后希瑟却不忍心伤害它，而是给它疗伤，喂食，慢慢的与黑龙成为了朋友，还给它起名“库洛”（主角）。但希瑟的秘密被部族中的女孩莉丝（主角）发现了，希瑟带她体验了骑在龙背上飞翔的快感，并寄希望于说服自己的父亲让大家能够接受与龙和平共处。然而就在此时，一场由邪恶的熔岩龙（反派）引发的大危机发生了…"
+  },
+  "1041": {
+    "id": 1041,
+    "story_id": 1068,
+    "character_num": 1,
+    "zh_cn_name": "沃尔特",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1926,
+      1917,
+      1930,
+      1913,
+      1919
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "特种兵沃尔特（主角）得了不治之症，为了能跟女友莎拉（主角）继续厮守而自愿加入“X计划”获得了快速自愈能力。然而这却造成了他的毁容，并且被计划负责人斯坦（反派）当做失败品而肆意折磨。在终于成功逃脱之后，沃尔特在老朋友格兰特（配角）的帮助下开始了他的复仇之旅。"
+  },
+  "1042": {
+    "id": 1042,
+    "story_id": 1068,
+    "character_num": 2,
+    "zh_cn_name": "莎拉",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1932,
+      1935,
+      1904,
+      1928
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "特种兵沃尔特（主角）得了不治之症，为了能跟女友莎拉（主角）继续厮守而自愿加入“X计划”获得了快速自愈能力。然而这却造成了他的毁容，并且被计划负责人斯坦（反派）当做失败品而肆意折磨。在终于成功逃脱之后，沃尔特在老朋友格兰特（配角）的帮助下开始了他的复仇之旅。"
+  },
+  "1043": {
+    "id": 1043,
+    "story_id": 1068,
+    "character_num": 3,
+    "zh_cn_name": "格兰特",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1913,
+      1902,
+      1903,
+      1908,
+      1926
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "特种兵沃尔特（主角）得了不治之症，为了能跟女友莎拉（主角）继续厮守而自愿加入“X计划”获得了快速自愈能力。然而这却造成了他的毁容，并且被计划负责人斯坦（反派）当做失败品而肆意折磨。在终于成功逃脱之后，沃尔特在老朋友格兰特（配角）的帮助下开始了他的复仇之旅。"
+  },
+  "1044": {
+    "id": 1044,
+    "story_id": 1068,
+    "character_num": 4,
+    "zh_cn_name": "斯坦",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1919,
+      1934,
+      1907,
+      1923,
+      1926
+    ],
+    "effect": [
+      1605,
+      1601
+    ],
+    "zh_cn_introduction": "特种兵沃尔特（主角）得了不治之症，为了能跟女友莎拉（主角）继续厮守而自愿加入“X计划”获得了快速自愈能力。然而这却造成了他的毁容，并且被计划负责人斯坦（反派）当做失败品而肆意折磨。在终于成功逃脱之后，沃尔特在老朋友格兰特（配角）的帮助下开始了他的复仇之旅。"
+  },
+  "1045": {
+    "id": 1045,
+    "story_id": 1071,
+    "character_num": 1,
+    "zh_cn_name": "卡尔",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 1202,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1926,
+      1907,
+      1934,
+      1911,
+      1913
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "卡尔（主角）自小目睹自己的父亲阿里（配角）杀了自己的母亲，并因此在阴影下长大。成人后的卡尔因自己的罪行被宣判死刑，正当死刑准备执行之际不明组织救下了他，把他带到了一个秘密的实验基地。露西（主角）告诉他，为了实现人类的终极和平，她和实验负责人卢克（反派）希望能找到一件名为伊甸苹果的神器，而借助卡尔的血源他们也许能够获得关于这件神器的下落的线索。卡尔进行了实验，却在实验过程中慢慢的了解到整件事背后的阴谋。"
+  },
+  "1046": {
+    "id": 1046,
+    "story_id": 1071,
+    "character_num": 2,
+    "zh_cn_name": "露西",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1932,
+      1935,
+      1922,
+      1946
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "卡尔（主角）自小目睹自己的父亲阿里（配角）杀了自己的母亲，并因此在阴影下长大。成人后的卡尔因自己的罪行被宣判死刑，正当死刑准备执行之际不明组织救下了他，把他带到了一个秘密的实验基地。露西（主角）告诉他，为了实现人类的终极和平，她和实验负责人卢克（反派）希望能找到一件名为伊甸苹果的神器，而借助卡尔的血源他们也许能够获得关于这件神器的下落的线索。卡尔进行了实验，却在实验过程中慢慢的了解到整件事背后的阴谋。"
+  },
+  "1047": {
+    "id": 1047,
+    "story_id": 1071,
+    "character_num": 3,
+    "zh_cn_name": "阿里",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907,
+      1934,
+      1926,
+      1937,
+      1911
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "卡尔（主角）自小目睹自己的父亲阿里（配角）杀了自己的母亲，并因此在阴影下长大。成人后的卡尔因自己的罪行被宣判死刑，正当死刑准备执行之际不明组织救下了他，把他带到了一个秘密的实验基地。露西（主角）告诉他，为了实现人类的终极和平，她和实验负责人卢克（反派）希望能找到一件名为伊甸苹果的神器，而借助卡尔的血源他们也许能够获得关于这件神器的下落的线索。卡尔进行了实验，却在实验过程中慢慢的了解到整件事背后的阴谋。"
+  },
+  "1048": {
+    "id": 1048,
+    "story_id": 1071,
+    "character_num": 4,
+    "zh_cn_name": "卢克",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1943,
+      1930,
+      1910,
+      1915
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "卡尔（主角）自小目睹自己的父亲阿里（配角）杀了自己的母亲，并因此在阴影下长大。成人后的卡尔因自己的罪行被宣判死刑，正当死刑准备执行之际不明组织救下了他，把他带到了一个秘密的实验基地。露西（主角）告诉他，为了实现人类的终极和平，她和实验负责人卢克（反派）希望能找到一件名为伊甸苹果的神器，而借助卡尔的血源他们也许能够获得关于这件神器的下落的线索。卡尔进行了实验，却在实验过程中慢慢的了解到整件事背后的阴谋。"
+  },
+  "1049": {
+    "id": 1049,
+    "story_id": 1081,
+    "character_num": 1,
+    "zh_cn_name": "罗伊斯",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1931,
+      1934,
+      1921,
+      1910,
+      1930
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "一个迷恋酒精、女人、可卡因的电工罗伊斯（主角）发现自己竟然患上了艾滋病，为了活命，他在医生萨曼莎（主角）和异装癖同性恋杰瑞（主角）的帮助下穿越国界冒险运送违禁药品，并且将之分发帮助更多人，包括他曾经极端厌恶的同性恋者。慢慢的，这群处在边缘的为自己的生命而战的人群建立起了一个续命俱乐部…"
+  },
+  "1050": {
+    "id": 1050,
+    "story_id": 1081,
+    "character_num": 2,
+    "zh_cn_name": "萨曼莎",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1939,
+      1922,
+      1946,
+      1932,
+      1904
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "一个迷恋酒精、女人、可卡因的电工罗伊斯（主角）发现自己竟然患上了艾滋病，为了活命，他在医生萨曼莎（主角）和异装癖同性恋杰瑞（主角）的帮助下穿越国界冒险运送违禁药品，并且将之分发帮助更多人，包括他曾经极端厌恶的同性恋者。慢慢的，这群处在边缘的为自己的生命而战的人群建立起了一个续命俱乐部…"
+  },
+  "1051": {
+    "id": 1051,
+    "story_id": 1081,
+    "character_num": 3,
+    "zh_cn_name": "杰瑞",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1930,
+      1931,
+      1945,
+      1920,
+      1921
+    ],
+    "effect": [
+      1603,
+      1604
+    ],
+    "zh_cn_introduction": "一个迷恋酒精、女人、可卡因的电工罗伊斯（主角）发现自己竟然患上了艾滋病，为了活命，他在医生萨曼莎（主角）和异装癖同性恋杰瑞（主角）的帮助下穿越国界冒险运送违禁药品，并且将之分发帮助更多人，包括他曾经极端厌恶的同性恋者。慢慢的，这群处在边缘的为自己的生命而战的人群建立起了一个续命俱乐部…"
+  },
+  "1052": {
+    "id": 1052,
+    "story_id": 1084,
+    "character_num": 1,
+    "zh_cn_name": "弗兰克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1941,
+      1921,
+      1922,
+      1931,
+      1934
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "弗兰克（主角）穷困潦倒，妻子海伦（配角）最终选择离开。从此他带着女儿妮娜（主角）相依为命。弗兰克四处寻找，终于用自己的机敏在证券公司董事长库曼（配角）面前为自己争取到了一个在证券公司实习的机会。即使生活面对种种困难，他仍然怀抱希望，相信幸福就在明天。"
+  },
+  "1053": {
+    "id": 1053,
+    "story_id": 1084,
+    "character_num": 2,
+    "zh_cn_name": "妮娜",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1944,
+      1908,
+      1942,
+      1902,
+      1903
+    ],
+    "effect": [
+      1604,
+      1602
+    ],
+    "zh_cn_introduction": "弗兰克（主角）穷困潦倒，妻子海伦（配角）最终选择离开。从此他带着女儿妮娜（主角）相依为命。弗兰克四处寻找，终于用自己的机敏在证券公司董事长库曼（配角）面前为自己争取到了一个在证券公司实习的机会。即使生活面对种种困难，他仍然怀抱希望，相信幸福就在明天。"
+  },
+  "1054": {
+    "id": 1054,
+    "story_id": 1084,
+    "character_num": 3,
+    "zh_cn_name": "库曼",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1915,
+      1921,
+      1940,
+      1943
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "弗兰克（主角）穷困潦倒，妻子海伦（配角）最终选择离开。从此他带着女儿妮娜（主角）相依为命。弗兰克四处寻找，终于用自己的机敏在证券公司董事长库曼（配角）面前为自己争取到了一个在证券公司实习的机会。即使生活面对种种困难，他仍然怀抱希望，相信幸福就在明天。"
+  },
+  "1055": {
+    "id": 1055,
+    "story_id": 1084,
+    "character_num": 4,
+    "zh_cn_name": "海伦",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1920,
+      1945,
+      1940,
+      1931
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "弗兰克（主角）穷困潦倒，妻子海伦（配角）最终选择离开。从此他带着女儿妮娜（主角）相依为命。弗兰克四处寻找，终于用自己的机敏在证券公司董事长库曼（配角）面前为自己争取到了一个在证券公司实习的机会。即使生活面对种种困难，他仍然怀抱希望，相信幸福就在明天。"
+  },
+  "1056": {
+    "id": 1056,
+    "story_id": 1085,
+    "character_num": 1,
+    "zh_cn_name": "乔治",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1502,
+    "tags": [
+      1949,
+      1927,
+      1909,
+      1910,
+      1921
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "约克郡公爵乔治（主角）因患口吃，无法在公众面前发表演讲，这令他接连在大型仪式上丢丑。贤惠的妻子伊莎贝尔（主角）为了帮助丈夫，到处寻访名医，但是传统的方法总不奏效。一次偶然的机会，她结识了语言治疗师杰弗逊（主角），并寄希望于杰弗逊能够帮助治疗乔治的口吃。乔治并不信任杰弗逊，但慢慢发现杰弗逊的方法并非胡来。随着旧王驾崩，乔治的哥哥爱德华（配角）本应即位，却为了迎娶一位寡妇——汤普森夫人而放弃了江山。乔治临危受命，他能否克服自己的口吃，完成这次重要的演讲？"
+  },
+  "1057": {
+    "id": 1057,
+    "story_id": 1085,
+    "character_num": 2,
+    "zh_cn_name": "杰弗逊",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1939,
+      1922,
+      1927,
+      1946,
+      1928
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "约克郡公爵乔治（主角）因患口吃，无法在公众面前发表演讲，这令他接连在大型仪式上丢丑。贤惠的妻子伊莎贝尔（主角）为了帮助丈夫，到处寻访名医，但是传统的方法总不奏效。一次偶然的机会，她结识了语言治疗师杰弗逊（主角），并寄希望于杰弗逊能够帮助治疗乔治的口吃。乔治并不信任杰弗逊，但慢慢发现杰弗逊的方法并非胡来。随着旧王驾崩，乔治的哥哥爱德华（配角）本应即位，却为了迎娶一位寡妇——汤普森夫人而放弃了江山。乔治临危受命，他能否克服自己的口吃，完成这次重要的演讲？"
+  },
+  "1058": {
+    "id": 1058,
+    "story_id": 1085,
+    "character_num": 3,
+    "zh_cn_name": "伊莎贝尔",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1904,
+      1928,
+      1909,
+      1935,
+      1932
+    ],
+    "effect": [
+      1603,
+      1601
+    ],
+    "zh_cn_introduction": "约克郡公爵乔治（主角）因患口吃，无法在公众面前发表演讲，这令他接连在大型仪式上丢丑。贤惠的妻子伊莎贝尔（主角）为了帮助丈夫，到处寻访名医，但是传统的方法总不奏效。一次偶然的机会，她结识了语言治疗师杰弗逊（主角），并寄希望于杰弗逊能够帮助治疗乔治的口吃。乔治并不信任杰弗逊，但慢慢发现杰弗逊的方法并非胡来。随着旧王驾崩，乔治的哥哥爱德华（配角）本应即位，却为了迎娶一位寡妇——汤普森夫人而放弃了江山。乔治临危受命，他能否克服自己的口吃，完成这次重要的演讲？"
+  },
+  "1059": {
+    "id": 1059,
+    "story_id": 1085,
+    "character_num": 4,
+    "zh_cn_name": "爱德华",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1909,
+      1915,
+      1941,
+      1935,
+      1905
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "约克郡公爵乔治（主角）因患口吃，无法在公众面前发表演讲，这令他接连在大型仪式上丢丑。贤惠的妻子伊莎贝尔（主角）为了帮助丈夫，到处寻访名医，但是传统的方法总不奏效。一次偶然的机会，她结识了语言治疗师杰弗逊（主角），并寄希望于杰弗逊能够帮助治疗乔治的口吃。乔治并不信任杰弗逊，但慢慢发现杰弗逊的方法并非胡来。随着旧王驾崩，乔治的哥哥爱德华（配角）本应即位，却为了迎娶一位寡妇——汤普森夫人而放弃了江山。乔治临危受命，他能否克服自己的口吃，完成这次重要的演讲？"
+  },
+  "1060": {
+    "id": 1060,
+    "story_id": 1088,
+    "character_num": 1,
+    "zh_cn_name": "林克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1907,
+      1922,
+      1934,
+      1938,
+      1902
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "林克（主角）和卡拉（主角）以为他们生活在一个与世隔绝的社区里。据科学家说，地面已经被放射物质所污染，而他们是地球最后一批存活的人类。他们可以通过抽签的方式去往唯一一个世外桃源的小岛自由自在的生活，但在此之前，他们必须先接受严格的生活管控。可当林克与卡拉终于获选来到外部世界，才发现一切都是一个巨大的谎言，他们都不过是某人的克隆体，用来给本体提供需要的移植器官…得知真相的林克与卡拉毅然决定逃亡，可注定不会一帆风顺。"
+  },
+  "1061": {
+    "id": 1061,
+    "story_id": 1088,
+    "character_num": 2,
+    "zh_cn_name": "卡拉",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1938,
+      1904,
+      1932,
+      1935
+    ],
+    "effect": [
+      1602,
+      1605
+    ],
+    "zh_cn_introduction": "林克（主角）和卡拉（主角）以为他们生活在一个与世隔绝的社区里。据科学家说，地面已经被放射物质所污染，而他们是地球最后一批存活的人类。他们可以通过抽签的方式去往唯一一个世外桃源的小岛自由自在的生活，但在此之前，他们必须先接受严格的生活管控。可当林克与卡拉终于获选来到外部世界，才发现一切都是一个巨大的谎言，他们都不过是某人的克隆体，用来给本体提供需要的移植器官…得知真相的林克与卡拉毅然决定逃亡，可注定不会一帆风顺。"
+  },
+  "1062": {
+    "id": 1062,
+    "story_id": 1095,
+    "character_num": 1,
+    "zh_cn_name": "莉迪亚公主",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1949,
+      1909,
+      1902,
+      1904,
+      1910
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "遥远星系发生叛乱，银河共和国被推翻，奥兰德星的莉迪亚公主（主角）领导抵抗组织对抗银河帝国，却被银河帝国的维德勋爵（反派）所俘。机器人R1-D3携带帝国最新武器的结构图与同伴翻译机器人C-2OP逃至图塔因星，却在途中被抓住卖给青年路克（主角）的叔父。在路克的帮助下，众人阴错阳差找到了隐居的绝地武士欧文（主角）。欧文教导了路克绝地之道，并雇佣走私者罗素（配角）的猎鹰号飞船前往奥兰德…"
+  },
+  "1063": {
+    "id": 1063,
+    "story_id": 1095,
+    "character_num": 2,
+    "zh_cn_name": "欧文",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1926,
+      1913,
+      1941,
+      1922,
+      1928
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "遥远星系发生叛乱，银河共和国被推翻，奥兰德星的莉迪亚公主（主角）领导抵抗组织对抗银河帝国，却被银河帝国的维德勋爵（反派）所俘。机器人R1-D3携带帝国最新武器的结构图与同伴翻译机器人C-2OP逃至图塔因星，却在途中被抓住卖给青年路克（主角）的叔父。在路克的帮助下，众人阴错阳差找到了隐居的绝地武士欧文（主角）。欧文教导了路克绝地之道，并雇佣走私者罗素（配角）的猎鹰号飞船前往奥兰德…"
+  },
+  "1064": {
+    "id": 1064,
+    "story_id": 1095,
+    "character_num": 3,
+    "zh_cn_name": "路克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 1501,
+    "tags": [
+      1902,
+      1903,
+      1908,
+      1944,
+      1913
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "遥远星系发生叛乱，银河共和国被推翻，奥兰德星的莉迪亚公主（主角）领导抵抗组织对抗银河帝国，却被银河帝国的维德勋爵（反派）所俘。机器人R1-D3携带帝国最新武器的结构图与同伴翻译机器人C-2OP逃至图塔因星，却在途中被抓住卖给青年路克（主角）的叔父。在路克的帮助下，众人阴错阳差找到了隐居的绝地武士欧文（主角）。欧文教导了路克绝地之道，并雇佣走私者罗素（配角）的猎鹰号飞船前往奥兰德…"
+  },
+  "1065": {
+    "id": 1065,
+    "story_id": 1095,
+    "character_num": 4,
+    "zh_cn_name": "罗素",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 1401,
+    "age_type": 0,
+    "tags": [
+      1919,
+      1907,
+      1934,
+      1916,
+      1941
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "遥远星系发生叛乱，银河共和国被推翻，奥兰德星的莉迪亚公主（主角）领导抵抗组织对抗银河帝国，却被银河帝国的维德勋爵（反派）所俘。机器人R1-D3携带帝国最新武器的结构图与同伴翻译机器人C-2OP逃至图塔因星，却在途中被抓住卖给青年路克（主角）的叔父。在路克的帮助下，众人阴错阳差找到了隐居的绝地武士欧文（主角）。欧文教导了路克绝地之道，并雇佣走私者罗素（配角）的猎鹰号飞船前往奥兰德…"
+  },
+  "1066": {
+    "id": 1066,
+    "story_id": 1095,
+    "character_num": 5,
+    "zh_cn_name": "维德勋爵",
+    "type": 2107,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1923,
+      1913,
+      1943,
+      1926,
+      1930
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "遥远星系发生叛乱，银河共和国被推翻，奥兰德星的莉迪亚公主（主角）领导抵抗组织对抗银河帝国，却被银河帝国的维德勋爵（反派）所俘。机器人R1-D3携带帝国最新武器的结构图与同伴翻译机器人C-2OP逃至图塔因星，却在途中被抓住卖给青年路克（主角）的叔父。在路克的帮助下，众人阴错阳差找到了隐居的绝地武士欧文（主角）。欧文教导了路克绝地之道，并雇佣走私者罗素（配角）的猎鹰号飞船前往奥兰德…"
+  },
+  "1067": {
+    "id": 1067,
+    "story_id": 1102,
+    "character_num": 1,
+    "zh_cn_name": "蒙特",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1946,
+      1921,
+      1907,
+      1934
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "在一次太空科考中宇航员蒙特（主角）由于意外没有及时登上飞船撤离，被孤零零地留在了火星。科研小队队长桑德拉（主角）与队员利维（配角）等都认为他已经葬身太空，蒙特却以极低的概率活了下来。他必须想方设法孤身一人在火星生存下来，与此同时，地球方面也发现了他生还的事实，桑德拉为自己的失误愧疚不已，并决心一定要救回蒙特。但宇航局的局长奈特（配角）对救援行动却有所迟疑。另一方面，火星任务四年才执行一次，茫茫太空中，蒙特能否支撑到救援的到来？"
+  },
+  "1068": {
+    "id": 1068,
+    "story_id": 1102,
+    "character_num": 2,
+    "zh_cn_name": "桑德拉",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1904,
+      1910,
+      1902,
+      1927
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "在一次太空科考中宇航员蒙特（主角）由于意外没有及时登上飞船撤离，被孤零零地留在了火星。科研小队队长桑德拉（主角）与队员利维（配角）等都认为他已经葬身太空，蒙特却以极低的概率活了下来。他必须想方设法孤身一人在火星生存下来，与此同时，地球方面也发现了他生还的事实，桑德拉为自己的失误愧疚不已，并决心一定要救回蒙特。但宇航局的局长奈特（配角）对救援行动却有所迟疑。另一方面，火星任务四年才执行一次，茫茫太空中，蒙特能否支撑到救援的到来？"
+  },
+  "1069": {
+    "id": 1069,
+    "story_id": 1102,
+    "character_num": 3,
+    "zh_cn_name": "利维",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1946,
+      1902,
+      1903,
+      1904
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "在一次太空科考中宇航员蒙特（主角）由于意外没有及时登上飞船撤离，被孤零零地留在了火星。科研小队队长桑德拉（主角）与队员利维（配角）等都认为他已经葬身太空，蒙特却以极低的概率活了下来。他必须想方设法孤身一人在火星生存下来，与此同时，地球方面也发现了他生还的事实，桑德拉为自己的失误愧疚不已，并决心一定要救回蒙特。但宇航局的局长奈特（配角）对救援行动却有所迟疑。另一方面，火星任务四年才执行一次，茫茫太空中，蒙特能否支撑到救援的到来？"
+  },
+  "1070": {
+    "id": 1070,
+    "story_id": 1102,
+    "character_num": 4,
+    "zh_cn_name": "奈特",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1922,
+      1907,
+      1934,
+      1946,
+      1921
+    ],
+    "effect": [
+      1601,
+      1605
+    ],
+    "zh_cn_introduction": "在一次太空科考中宇航员蒙特（主角）由于意外没有及时登上飞船撤离，被孤零零地留在了火星。科研小队队长桑德拉（主角）与队员利维（配角）等都认为他已经葬身太空，蒙特却以极低的概率活了下来。他必须想方设法孤身一人在火星生存下来，与此同时，地球方面也发现了他生还的事实，桑德拉为自己的失误愧疚不已，并决心一定要救回蒙特。但宇航局的局长奈特（配角）对救援行动却有所迟疑。另一方面，火星任务四年才执行一次，茫茫太空中，蒙特能否支撑到救援的到来？"
+  },
+  "1071": {
+    "id": 1071,
+    "story_id": 1107,
+    "character_num": 1,
+    "zh_cn_name": "狄克",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1925,
+      1926,
+      1907,
+      1914,
+      1931
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "未来世界，机器人已经能够代替人类完成大部分工作，它们被称作复制人。但随着一次复制人暴乱，地球宣布复制人违法并决定消灭他们。特勤小组——银刃杀手受命侦查任何入侵复制人，并予以击毙。狄克（主角）就是银刃杀手之一，某天，他奉命追踪复制人罗杰（配角）、索拉（配角）等在逃复制人，和他搭档的是复制人蕾拉（主角）。在追踪的过程中，他和蕾拉产生了感情，明白了复制人们为了延长自身机器寿命而做出的努力，也渐渐地开始反思人类的命运。"
+  },
+  "1072": {
+    "id": 1072,
+    "story_id": 1107,
+    "character_num": 2,
+    "zh_cn_name": "蕾拉",
+    "type": 2103,
+    "type_pic": 1,
+    "sex": 1101,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1903,
+      1904,
+      1932,
+      1935
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "未来世界，机器人已经能够代替人类完成大部分工作，它们被称作复制人。但随着一次复制人暴乱，地球宣布复制人违法并决定消灭他们。特勤小组——银刃杀手受命侦查任何入侵复制人，并予以击毙。狄克（主角）就是银刃杀手之一，某天，他奉命追踪复制人罗杰（配角）、索拉（配角）等在逃复制人，和他搭档的是复制人蕾拉（主角）。在追踪的过程中，他和蕾拉产生了感情，明白了复制人们为了延长自身机器寿命而做出的努力，也渐渐地开始反思人类的命运。"
+  },
+  "1073": {
+    "id": 1073,
+    "story_id": 1107,
+    "character_num": 3,
+    "zh_cn_name": "罗杰",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911,
+      1907,
+      1926,
+      1930,
+      1919
+    ],
+    "effect": [
+      1601,
+      1602
+    ],
+    "zh_cn_introduction": "未来世界，机器人已经能够代替人类完成大部分工作，它们被称作复制人。但随着一次复制人暴乱，地球宣布复制人违法并决定消灭他们。特勤小组——银刃杀手受命侦查任何入侵复制人，并予以击毙。狄克（主角）就是银刃杀手之一，某天，他奉命追踪复制人罗杰（配角）、索拉（配角）等在逃复制人，和他搭档的是复制人蕾拉（主角）。在追踪的过程中，他和蕾拉产生了感情，明白了复制人们为了延长自身机器寿命而做出的努力，也渐渐地开始反思人类的命运。"
+  },
+  "1074": {
+    "id": 1074,
+    "story_id": 1107,
+    "character_num": 4,
+    "zh_cn_name": "索拉",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1911,
+      1907,
+      1926,
+      1930,
+      1919
+    ],
+    "effect": [
+      1601,
+      1604
+    ],
+    "zh_cn_introduction": "未来世界，机器人已经能够代替人类完成大部分工作，它们被称作复制人。但随着一次复制人暴乱，地球宣布复制人违法并决定消灭他们。特勤小组——银刃杀手受命侦查任何入侵复制人，并予以击毙。狄克（主角）就是银刃杀手之一，某天，他奉命追踪复制人罗杰（配角）、索拉（配角）等在逃复制人，和他搭档的是复制人蕾拉（主角）。在追踪的过程中，他和蕾拉产生了感情，明白了复制人们为了延长自身机器寿命而做出的努力，也渐渐地开始反思人类的命运。"
+  },
+  "1075": {
+    "id": 1075,
+    "story_id": 1108,
+    "character_num": 1,
+    "zh_cn_name": "沃特",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 1202,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1931,
+      1945,
+      1917,
+      1929,
+      1921
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "每个人都曾经历过懊恼糟糕的早晨，而沃特（主角）的这个早上可谓衰运当头，政府已经决定拆掉他的房子，好友德里克（配角）承认自己是个外星人，最耸人听闻的是，外星人正在建造银河系高速公路，而地球是阻挡工程进展的障碍物，外星人即将摧毁地球。在德里克的帮助下，沃特在地球被毁灭前的最后一刻搭上了一艘路过地球的外星人的太空船，远离了地球这个伤心之地。在太空之旅中，他遇到了酷爱吟诗的船长华莱士（配角）和忧郁的小机器人康纳（配角）。沃特发现毛巾是宇宙里最有用的东西，并明白了所有问题的终极答案其实是一个数字，更惊讶的发现他需要了解的一切都写在了一本名叫《宇宙漫游指南》的书中。"
+  },
+  "1076": {
+    "id": 1076,
+    "story_id": 1108,
+    "character_num": 2,
+    "zh_cn_name": "德里克",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1928,
+      1930,
+      1929,
+      1945,
+      1917
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "每个人都曾经历过懊恼糟糕的早晨，而沃特（主角）的这个早上可谓衰运当头，政府已经决定拆掉他的房子，好友德里克（配角）承认自己是个外星人，最耸人听闻的是，外星人正在建造银河系高速公路，而地球是阻挡工程进展的障碍物，外星人即将摧毁地球。在德里克的帮助下，沃特在地球被毁灭前的最后一刻搭上了一艘路过地球的外星人的太空船，远离了地球这个伤心之地。在太空之旅中，他遇到了酷爱吟诗的船长华莱士（配角）和忧郁的小机器人康纳（配角）。沃特发现毛巾是宇宙里最有用的东西，并明白了所有问题的终极答案其实是一个数字，更惊讶的发现他需要了解的一切都写在了一本名叫《宇宙漫游指南》的书中。"
+  },
+  "1077": {
+    "id": 1077,
+    "story_id": 1108,
+    "character_num": 3,
+    "zh_cn_name": "华莱士",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1930,
+      1917,
+      1910,
+      1919,
+      1945
+    ],
+    "effect": [
+      1603,
+      1605
+    ],
+    "zh_cn_introduction": "每个人都曾经历过懊恼糟糕的早晨，而沃特（主角）的这个早上可谓衰运当头，政府已经决定拆掉他的房子，好友德里克（配角）承认自己是个外星人，最耸人听闻的是，外星人正在建造银河系高速公路，而地球是阻挡工程进展的障碍物，外星人即将摧毁地球。在德里克的帮助下，沃特在地球被毁灭前的最后一刻搭上了一艘路过地球的外星人的太空船，远离了地球这个伤心之地。在太空之旅中，他遇到了酷爱吟诗的船长华莱士（配角）和忧郁的小机器人康纳（配角）。沃特发现毛巾是宇宙里最有用的东西，并明白了所有问题的终极答案其实是一个数字，更惊讶的发现他需要了解的一切都写在了一本名叫《宇宙漫游指南》的书中。"
+  },
+  "1078": {
+    "id": 1078,
+    "story_id": 1108,
+    "character_num": 4,
+    "zh_cn_name": "康纳",
+    "type": 2104,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1917,
+      1921,
+      1931,
+      1945,
+      1938
+    ],
+    "effect": [
+      1601,
+      1603
+    ],
+    "zh_cn_introduction": "每个人都曾经历过懊恼糟糕的早晨，而沃特（主角）的这个早上可谓衰运当头，政府已经决定拆掉他的房子，好友德里克（配角）承认自己是个外星人，最耸人听闻的是，外星人正在建造银河系高速公路，而地球是阻挡工程进展的障碍物，外星人即将摧毁地球。在德里克的帮助下，沃特在地球被毁灭前的最后一刻搭上了一艘路过地球的外星人的太空船，远离了地球这个伤心之地。在太空之旅中，他遇到了酷爱吟诗的船长华莱士（配角）和忧郁的小机器人康纳（配角）。沃特发现毛巾是宇宙里最有用的东西，并明白了所有问题的终极答案其实是一个数字，更惊讶的发现他需要了解的一切都写在了一本名叫《宇宙漫游指南》的书中。"
+  },
+  "1079": {
+    "id": 1079,
+    "story_id": 1118,
+    "character_num": 1,
+    "zh_cn_name": "妮可",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1902,
+      1904,
+      1935,
+      1932,
+      1903
+    ],
+    "effect": [
+      1602,
+      1603
+    ],
+    "zh_cn_introduction": "少女妮可（主角）因家境贫寒来到画家维克托（主角）家中作为女仆，在与画家的朝夕相处中她展现出了自己对于艺术的天赋，也与画家暗生情愫。然而这份感情注定不会有结果，画家亲手为她戴上了珍珠耳环，为她画像，留下了此刻的永恒，也结束了一切未曾发生的故事。"
+  },
+  "1080": {
+    "id": 1080,
+    "story_id": 1118,
+    "character_num": 2,
+    "zh_cn_name": "维克托",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1946,
+      1906,
+      1909,
+      1935,
+      1931
+    ],
+    "effect": [
+      1601,
+      1604
+    ],
+    "zh_cn_introduction": "少女妮可（主角）因家境贫寒来到画家维克托（主角）家中作为女仆，在与画家的朝夕相处中她展现出了自己对于艺术的天赋，也与画家暗生情愫。然而这份感情注定不会有结果，画家亲手为她戴上了珍珠耳环，为她画像，留下了此刻的永恒，也结束了一切未曾发生的故事。"
+  },
+  "1081": {
+    "id": 1081,
+    "story_id": 1120,
+    "character_num": 1,
+    "zh_cn_name": "玛丽",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1909,
+      1943,
+      1920,
+      1904,
+      1932
+    ],
+    "effect": [
+      1602,
+      1604
+    ],
+    "zh_cn_introduction": "少女玛丽（主角）的父亲为了贪图荣华富贵，将玛丽献给了国王亨利八世（配角）作为情妇。可另一方面，玛丽的妹妹安（主角）却也对权力与地位心生渴望，她不顾自己的姐姐腹中已经有了国王的孩子而用尽手段勾引国王。这对姐妹的命运究竟会如何？"
+  },
+  "1082": {
+    "id": 1082,
+    "story_id": 1120,
+    "character_num": 2,
+    "zh_cn_name": "亨利八世",
+    "type": 2102,
+    "type_pic": 2,
+    "sex": 1102,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1909,
+      1910,
+      1902,
+      1931,
+      1945
+    ],
+    "effect": [
+      1603,
+      1602
+    ],
+    "zh_cn_introduction": "少女玛丽（主角）的父亲为了贪图荣华富贵，将玛丽献给了国王亨利八世（配角）作为情妇。可另一方面，玛丽的妹妹安（主角）却也对权力与地位心生渴望，她不顾自己的姐姐腹中已经有了国王的孩子而用尽手段勾引国王。这对姐妹的命运究竟会如何？"
+  },
+  "1083": {
+    "id": 1083,
+    "story_id": 1120,
+    "character_num": 3,
+    "zh_cn_name": "安",
+    "type": 2101,
+    "type_pic": 0,
+    "sex": 0,
+    "country": 0,
+    "show_type": 0,
+    "age_type": 0,
+    "tags": [
+      1909,
+      1943,
+      1920,
+      1904,
+      1932
+    ],
+    "effect": [
+      1602,
+      1601
+    ],
+    "zh_cn_introduction": "少女玛丽（主角）的父亲为了贪图荣华富贵，将玛丽献给了国王亨利八世（配角）作为情妇。可另一方面，玛丽的妹妹安（主角）却也对权力与地位心生渴望，她不顾自己的姐姐腹中已经有了国王的孩子而用尽手段勾引国王。这对姐妹的命运究竟会如何？"
   }
 }

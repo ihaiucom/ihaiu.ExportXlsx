@@ -17,6 +17,7 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
+			config.storyid = csvGetInt(csv,  this.GetHeadIndex(  "storyid"  )   );
 			config.rank = csvGetInt(csv,  this.GetHeadIndex(  "rank"  )   );
 			config.property1 = csvGetInt(csv,  this.GetHeadIndex(  "property1"  )   );
 			config.value1 = csvGetInt(csv,  this.GetHeadIndex(  "value1"  )   );

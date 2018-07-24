@@ -15,6 +15,8 @@ namespace configs
 		upgrade_reward : DTItemNum[];
 		daily_reward : DTItemNum;
 		cinema : number[];
+		storysearchcost : DTItemNum;
+		storysearchdollar : number;
 		level_multiple : number;
 		level_con : number;
 		theater_level_con : number;

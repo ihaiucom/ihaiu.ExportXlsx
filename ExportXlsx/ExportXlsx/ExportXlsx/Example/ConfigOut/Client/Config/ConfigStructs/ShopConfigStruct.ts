@@ -13,10 +13,9 @@ namespace configs
 		type : number;
 		zh_cn_name : string;
 		item : DTItemNum[];
-		cost : number;
+		cost : DTItemNum;
 		period : string;
-		daily_limit : number;
-		weekly_limit : number;
+		limit : DTItemNum;
 		row : number;
 		columns : number;
 

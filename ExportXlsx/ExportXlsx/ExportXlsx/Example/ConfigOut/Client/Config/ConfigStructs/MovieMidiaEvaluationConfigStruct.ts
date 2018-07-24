@@ -16,7 +16,7 @@ namespace configs
 		min_score : number;
 		max_score : number;
 		zh_cn_content : string;
-		praise : number;
+		praise : number[];
 		pic : number;
 
 

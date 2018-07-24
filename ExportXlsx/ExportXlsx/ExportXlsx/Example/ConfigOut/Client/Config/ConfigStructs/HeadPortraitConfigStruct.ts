@@ -12,7 +12,7 @@ namespace configs
 		id : number;
 		zh_cn_name : string;
 		sex : number;
-		unlock : DTItemNum[];
+		unlock : DTItemNum;
 		icon : number;
 
 

@@ -11,14 +11,21 @@ namespace configs
 
 		id : number;
 		key : string;
-		name : string;
-		default : boolean;
+		zh_cn_name : string;
+		icon : number;
+		default : number;
+		switch : boolean;
+		popup : string;
 
 
 
 
 
 		
+		get name()
+		{
+			return this.zh_cn_name
+		}
 	}
 
 

@@ -15,7 +15,7 @@ namespace configs
 		cn_name : string;
 		en_tips : string;
 		cn_tips : string;
-		icon : string;
+		icon : number;
 		trigger : number[];
 		effect : number;
 		value : number;

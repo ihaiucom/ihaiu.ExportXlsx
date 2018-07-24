@@ -24,14 +24,19 @@
     "cinema": [
       1001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 210
+    },
+    "storysearchdollar": 7600,
+    "level_multiple": 150,
+    "level_con": 100,
     "theater_level_con": 100,
-    "good": 3003,
-    "big_sell": 4004,
-    "great_sell": 5005,
-    "myth_sell": 6006,
-    "marvel_sell": 7007,
+    "good": 17262,
+    "big_sell": 23543,
+    "great_sell": 82096,
+    "myth_sell": 98713,
+    "marvel_sell": 117848,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包1"
@@ -66,14 +71,19 @@
     "cinema": [
       1002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 100,
-    "good": 3006,
-    "big_sell": 4008,
-    "great_sell": 5010,
-    "myth_sell": 6012,
-    "marvel_sell": 7014,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 215
+    },
+    "storysearchdollar": 15200,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 98,
+    "good": 37951,
+    "big_sell": 52650,
+    "great_sell": 195860,
+    "myth_sell": 237464,
+    "marvel_sell": 285652,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包2"
@@ -108,14 +118,19 @@
     "cinema": [
       1003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 100,
-    "good": 3009,
-    "big_sell": 4012,
-    "great_sell": 5015,
-    "myth_sell": 6018,
-    "marvel_sell": 7021,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 220
+    },
+    "storysearchdollar": 30400,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 96,
+    "good": 120169,
+    "big_sell": 168386,
+    "great_sell": 267516,
+    "myth_sell": 648952,
+    "marvel_sell": 790188,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包3"
@@ -150,14 +165,19 @@
     "cinema": [
       1004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 100,
-    "good": 3012,
-    "big_sell": 4016,
-    "great_sell": 5020,
-    "myth_sell": 6024,
-    "marvel_sell": 7028,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 235
+    },
+    "storysearchdollar": 60800,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 94,
+    "good": 189189,
+    "big_sell": 267372,
+    "great_sell": 429496,
+    "myth_sell": 1060909,
+    "marvel_sell": 1296199,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包4"
@@ -192,14 +212,19 @@
     "cinema": [
       1005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 100,
-    "good": 3015,
-    "big_sell": 4020,
-    "great_sell": 5025,
-    "myth_sell": 6030,
-    "marvel_sell": 7035,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 250
+    },
+    "storysearchdollar": 121600,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 92,
+    "good": 367999,
+    "big_sell": 517069,
+    "great_sell": 953967,
+    "myth_sell": 1636042,
+    "marvel_sell": 2179875,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包5"
@@ -235,14 +260,19 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 110,
-    "good": 3018,
-    "big_sell": 4024,
-    "great_sell": 5030,
-    "myth_sell": 6036,
-    "marvel_sell": 7042,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 265
+    },
+    "storysearchdollar": 243200,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 90,
+    "good": 610810,
+    "big_sell": 864399,
+    "great_sell": 1613150,
+    "myth_sell": 2790021,
+    "marvel_sell": 3731919,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包6"
@@ -278,14 +308,19 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 110,
-    "good": 3021,
-    "big_sell": 4028,
-    "great_sell": 5035,
-    "myth_sell": 6042,
-    "marvel_sell": 7049,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 290
+    },
+    "storysearchdollar": 486400,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 88,
+    "good": 1107756,
+    "big_sell": 1577293,
+    "great_sell": 2972096,
+    "myth_sell": 5176457,
+    "marvel_sell": 6946043,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包7"
@@ -321,14 +356,19 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 110,
-    "good": 3024,
-    "big_sell": 4032,
-    "great_sell": 5040,
-    "myth_sell": 6048,
-    "marvel_sell": 7056,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 315
+    },
+    "storysearchdollar": 729600,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 86,
+    "good": 2040000,
+    "big_sell": 2920141,
+    "great_sell": 6426530,
+    "myth_sell": 7409139,
+    "marvel_sell": 9719717,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包8"
@@ -364,14 +404,19 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 110,
-    "good": 3027,
-    "big_sell": 4036,
-    "great_sell": 5045,
-    "myth_sell": 6054,
-    "marvel_sell": 7063,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 340
+    },
+    "storysearchdollar": 972800,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 84,
+    "good": 3735041,
+    "big_sell": 5371382,
+    "great_sell": 11922420,
+    "myth_sell": 13763229,
+    "marvel_sell": 18096800,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包9"
@@ -407,14 +452,19 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 110,
-    "good": 3030,
-    "big_sell": 4040,
-    "great_sell": 5050,
-    "myth_sell": 6060,
-    "marvel_sell": 7070,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 375
+    },
+    "storysearchdollar": 1216000,
+    "level_multiple": 150,
+    "level_con": 100,
+    "theater_level_con": 82,
+    "good": 5635912,
+    "big_sell": 8138302,
+    "great_sell": 18198723,
+    "myth_sell": 21032187,
+    "marvel_sell": 27709110,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包10"
@@ -450,14 +500,19 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 120,
-    "good": 6003,
-    "big_sell": 8004,
-    "great_sell": 10005,
-    "myth_sell": 12006,
-    "marvel_sell": 14007,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 410
+    },
+    "storysearchdollar": 1459200,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 80,
+    "good": 8784791,
+    "big_sell": 12842884,
+    "great_sell": 29383157,
+    "myth_sell": 34078819,
+    "marvel_sell": 45183056,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包11"
@@ -493,14 +548,19 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 120,
-    "good": 6006,
-    "big_sell": 8008,
-    "great_sell": 10010,
-    "myth_sell": 12012,
-    "marvel_sell": 14014,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 445
+    },
+    "storysearchdollar": 1702400,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 78,
+    "good": 14448511,
+    "big_sell": 21192449,
+    "great_sell": 48767405,
+    "myth_sell": 56609124,
+    "marvel_sell": 75166338,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包12"
@@ -536,14 +596,19 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 120,
-    "good": 6009,
-    "big_sell": 8012,
-    "great_sell": 10015,
-    "myth_sell": 12018,
-    "marvel_sell": 14021,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 490
+    },
+    "storysearchdollar": 1945600,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 76,
+    "good": 23685108,
+    "big_sell": 34843083,
+    "great_sell": 80594425,
+    "myth_sell": 93624664,
+    "marvel_sell": 124479589,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包13"
@@ -579,14 +644,19 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 120,
-    "good": 6012,
-    "big_sell": 8016,
-    "great_sell": 10020,
-    "myth_sell": 12024,
-    "marvel_sell": 14028,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 535
+    },
+    "storysearchdollar": 2188800,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 74,
+    "good": 29029838,
+    "big_sell": 42819915,
+    "great_sell": 99504737,
+    "myth_sell": 115670356,
+    "marvel_sell": 153970770,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包14"
@@ -622,14 +692,19 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 120,
-    "good": 6015,
-    "big_sell": 8020,
-    "great_sell": 10025,
-    "myth_sell": 12030,
-    "marvel_sell": 14035,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 580
+    },
+    "storysearchdollar": 2432000,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 72,
+    "good": 35492515,
+    "big_sell": 52479758,
+    "great_sell": 122462376,
+    "myth_sell": 142443956,
+    "marvel_sell": 189808547,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包15"
@@ -665,14 +740,19 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
-    "good": 6018,
-    "big_sell": 8024,
-    "great_sell": 10030,
-    "myth_sell": 12036,
-    "marvel_sell": 14042,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 635
+    },
+    "storysearchdollar": 2675200,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 70,
+    "good": 43005148,
+    "big_sell": 63729001,
+    "great_sell": 149276614,
+    "myth_sell": 173728286,
+    "marvel_sell": 231714254,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包16"
@@ -708,14 +788,19 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
-    "good": 6021,
-    "big_sell": 8028,
-    "great_sell": 10035,
-    "myth_sell": 12042,
-    "marvel_sell": 14049,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 690
+    },
+    "storysearchdollar": 2918400,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 68,
+    "good": 56945706,
+    "big_sell": 84558752,
+    "great_sell": 198751568,
+    "myth_sell": 231422031,
+    "marvel_sell": 308929058,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包17"
@@ -751,14 +836,19 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
-    "good": 6024,
-    "big_sell": 8032,
-    "great_sell": 10040,
-    "myth_sell": 12048,
-    "marvel_sell": 14056,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 745
+    },
+    "storysearchdollar": 3161600,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 66,
+    "good": 80300581,
+    "big_sell": 119461045,
+    "great_sell": 281674751,
+    "myth_sell": 328124240,
+    "marvel_sell": 438359856,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包18"
@@ -794,14 +884,19 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
-    "good": 6027,
-    "big_sell": 8036,
-    "great_sell": 10045,
-    "myth_sell": 12054,
-    "marvel_sell": 14063,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 810
+    },
+    "storysearchdollar": 3404800,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 64,
+    "good": 96012552,
+    "big_sell": 143081327,
+    "great_sell": 338346859,
+    "myth_sell": 394304859,
+    "marvel_sell": 527149593,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包19"
@@ -837,14 +932,19 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
-    "good": 6030,
-    "big_sell": 8040,
-    "great_sell": 10050,
-    "myth_sell": 12060,
-    "marvel_sell": 14070,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 875
+    },
+    "storysearchdollar": 3648000,
+    "level_multiple": 160,
+    "level_con": 100,
+    "theater_level_con": 62,
+    "good": 109507343,
+    "big_sell": 163451869,
+    "great_sell": 387550057,
+    "myth_sell": 451817163,
+    "marvel_sell": 604433097,
     "zh_cn_current_msg": [
       "启动资金50万",
       "每日领取奖励礼包20"
@@ -880,9 +980,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 940
+    },
+    "storysearchdollar": 3891200,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 60,
     "good": 9003,
     "big_sell": 12004,
     "great_sell": 15005,
@@ -923,9 +1028,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1015
+    },
+    "storysearchdollar": 4134400,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 58,
     "good": 9006,
     "big_sell": 12008,
     "great_sell": 15010,
@@ -966,9 +1076,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1090
+    },
+    "storysearchdollar": 4377600,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 56,
     "good": 9009,
     "big_sell": 12012,
     "great_sell": 15015,
@@ -1009,9 +1124,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1165
+    },
+    "storysearchdollar": 4620800,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 54,
     "good": 9012,
     "big_sell": 12016,
     "great_sell": 15020,
@@ -1052,9 +1172,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1250
+    },
+    "storysearchdollar": 4864000,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 52,
     "good": 9015,
     "big_sell": 12020,
     "great_sell": 15025,
@@ -1095,9 +1220,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1335
+    },
+    "storysearchdollar": 5107200,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 50,
     "good": 9018,
     "big_sell": 12024,
     "great_sell": 15030,
@@ -1138,9 +1268,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1420
+    },
+    "storysearchdollar": 5350400,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 49,
     "good": 9021,
     "big_sell": 12028,
     "great_sell": 15035,
@@ -1181,9 +1316,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1515
+    },
+    "storysearchdollar": 5593600,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 48,
     "good": 9024,
     "big_sell": 12032,
     "great_sell": 15040,
@@ -1224,9 +1364,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1610
+    },
+    "storysearchdollar": 5836800,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 47,
     "good": 9027,
     "big_sell": 12036,
     "great_sell": 15045,
@@ -1267,9 +1412,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1705
+    },
+    "storysearchdollar": 6080000,
+    "level_multiple": 170,
+    "level_con": 100,
+    "theater_level_con": 46,
     "good": 9030,
     "big_sell": 12040,
     "great_sell": 15050,
@@ -1310,9 +1460,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1810
+    },
+    "storysearchdollar": 6323200,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 45,
     "good": 12003,
     "big_sell": 16004,
     "great_sell": 20005,
@@ -1353,9 +1508,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 1915
+    },
+    "storysearchdollar": 6566400,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 44,
     "good": 12006,
     "big_sell": 16008,
     "great_sell": 20010,
@@ -1396,9 +1556,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2020
+    },
+    "storysearchdollar": 6809600,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 43,
     "good": 12009,
     "big_sell": 16012,
     "great_sell": 20015,
@@ -1439,9 +1604,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2135
+    },
+    "storysearchdollar": 7052800,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 42,
     "good": 12012,
     "big_sell": 16016,
     "great_sell": 20020,
@@ -1482,9 +1652,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2250
+    },
+    "storysearchdollar": 7296000,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 41,
     "good": 12015,
     "big_sell": 16020,
     "great_sell": 20025,
@@ -1525,9 +1700,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2365
+    },
+    "storysearchdollar": 7539200,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 40,
     "good": 12018,
     "big_sell": 16024,
     "great_sell": 20030,
@@ -1568,9 +1748,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2490
+    },
+    "storysearchdollar": 7782400,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 39,
     "good": 12021,
     "big_sell": 16028,
     "great_sell": 20035,
@@ -1611,9 +1796,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2615
+    },
+    "storysearchdollar": 8025600,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 38,
     "good": 12024,
     "big_sell": 16032,
     "great_sell": 20040,
@@ -1654,9 +1844,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2740
+    },
+    "storysearchdollar": 8268800,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 37,
     "good": 12027,
     "big_sell": 16036,
     "great_sell": 20045,
@@ -1697,9 +1892,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 2875
+    },
+    "storysearchdollar": 8512000,
+    "level_multiple": 180,
+    "level_con": 100,
+    "theater_level_con": 36,
     "good": 12030,
     "big_sell": 16040,
     "great_sell": 20050,
@@ -1740,9 +1940,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3010
+    },
+    "storysearchdollar": 8755200,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 35,
     "good": 15003,
     "big_sell": 20004,
     "great_sell": 25005,
@@ -1783,9 +1988,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3145
+    },
+    "storysearchdollar": 8998400,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 34,
     "good": 15006,
     "big_sell": 20008,
     "great_sell": 25010,
@@ -1826,9 +2036,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3290
+    },
+    "storysearchdollar": 9241600,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 33,
     "good": 15009,
     "big_sell": 20012,
     "great_sell": 25015,
@@ -1869,9 +2084,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3435
+    },
+    "storysearchdollar": 9484800,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 32,
     "good": 15012,
     "big_sell": 20016,
     "great_sell": 25020,
@@ -1912,9 +2132,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3580
+    },
+    "storysearchdollar": 9728000,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 31,
     "good": 15015,
     "big_sell": 20020,
     "great_sell": 25025,
@@ -1955,9 +2180,14 @@
       2001,
       3001
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3735
+    },
+    "storysearchdollar": 9971200,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 30,
     "good": 15018,
     "big_sell": 20024,
     "great_sell": 25030,
@@ -1998,9 +2228,14 @@
       2002,
       3002
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 3890
+    },
+    "storysearchdollar": 10214400,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 29,
     "good": 15021,
     "big_sell": 20028,
     "great_sell": 25035,
@@ -2041,9 +2276,14 @@
       2003,
       3003
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 4045
+    },
+    "storysearchdollar": 10457600,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 28,
     "good": 15024,
     "big_sell": 20032,
     "great_sell": 25040,
@@ -2084,9 +2324,14 @@
       2004,
       3004
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 4210
+    },
+    "storysearchdollar": 10700800,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 27,
     "good": 15027,
     "big_sell": 20036,
     "great_sell": 25045,
@@ -2127,9 +2372,14 @@
       2005,
       3005
     ],
-    "level_multiple": 1,
-    "level_con": 1,
-    "theater_level_con": 130,
+    "storysearchcost": {
+      "itemId": 6,
+      "itemNum": 4375
+    },
+    "storysearchdollar": 10944000,
+    "level_multiple": 190,
+    "level_con": 100,
+    "theater_level_con": 26,
     "good": 15030,
     "big_sell": 20040,
     "great_sell": 25050,

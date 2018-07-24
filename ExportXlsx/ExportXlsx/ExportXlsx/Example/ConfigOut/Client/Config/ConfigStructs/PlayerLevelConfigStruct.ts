@@ -12,14 +12,19 @@ namespace configs
 		id : number;
 		fans : number;
 		story : DTItemNum;
-		gold : number;
-		diamond : number;
+		reward : DTItemNum[];
 		order_qua : number[];
 		order_num : number;
 		train_max : number;
+		train_count : number;
 		actor_max : number;
+		actor_count : number;
 		hide_max : number;
+		hide_count : number;
 		day_max : number;
+		day : number;
+		meeting_cd : number;
+		cost : DTItemNum;
 
 
 

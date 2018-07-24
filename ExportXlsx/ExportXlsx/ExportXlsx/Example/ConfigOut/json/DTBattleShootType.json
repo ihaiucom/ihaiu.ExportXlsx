@@ -2,57 +2,57 @@
   "2201": {
     "id": 2201,
     "name": "歌舞",
-    "man": 100,
-    "woman": 150,
-    "child": 100
+    "man": 80,
+    "woman": 80,
+    "child": 120
   },
   "2202": {
     "id": 2202,
     "name": "爱情",
-    "man": 75,
-    "woman": 100,
+    "man": 80,
+    "woman": 120,
     "child": 80
   },
   "2203": {
     "id": 2203,
     "name": "喜剧",
     "man": 80,
-    "woman": 100,
-    "child": 100
+    "woman": 120,
+    "child": 80
   },
   "2204": {
     "id": 2204,
     "name": "叙事",
     "man": 120,
     "woman": 80,
-    "child": 75
+    "child": 80
   },
   "2205": {
     "id": 2205,
     "name": "动作",
-    "man": 150,
-    "woman": 100,
+    "man": 120,
+    "woman": 80,
     "child": 80
   },
   "2206": {
     "id": 2206,
     "name": "恐怖",
-    "man": 100,
-    "woman": 75,
-    "child": 120
+    "man": 80,
+    "woman": 120,
+    "child": 80
   },
   "2207": {
     "id": 2207,
     "name": "动画",
-    "man": 100,
+    "man": 80,
     "woman": 80,
-    "child": 150
+    "child": 120
   },
   "2208": {
     "id": 2208,
     "name": "悬疑",
-    "man": 80,
-    "woman": 120,
-    "child": 100
+    "man": 120,
+    "woman": 80,
+    "child": 80
   }
 }

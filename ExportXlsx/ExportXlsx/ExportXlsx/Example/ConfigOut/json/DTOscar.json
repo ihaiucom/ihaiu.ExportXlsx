@@ -120,7 +120,7 @@
     "id": 1014,
     "oscar_type": 1,
     "compere_type": 3,
-    "content": "感谢各种TV，感谢主持人，感谢关注的支持，我还会回来的",
+    "content": "{0}",
     "content_duration": 5000,
     "act": "",
     "act_duration": 0
@@ -264,7 +264,7 @@
     "id": 2014,
     "oscar_type": 2,
     "compere_type": 3,
-    "content": "感谢各种TV，感谢主持人，感谢关注的支持，我还会回来的",
+    "content": "{0}",
     "content_duration": 5000,
     "act": "",
     "act_duration": 0
@@ -417,7 +417,7 @@
     "id": 3015,
     "oscar_type": 3,
     "compere_type": 3,
-    "content": "感谢嘻嘻提威，感谢我的表姐，感谢隔壁老王！",
+    "content": "{0}",
     "content_duration": 3000,
     "act": "",
     "act_duration": 0
@@ -434,6 +434,303 @@
   "3017": {
     "id": 3017,
     "oscar_type": 3,
+    "compere_type": 3,
+    "content": "金条的巨擘头条就是我了！",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4001": {
+    "id": 4001,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "备受关注的最佳艺术电影也即将揭晓",
+    "content_duration": 5000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4002": {
+    "id": 4002,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "获得奖项提名的有",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4003": {
+    "id": 4003,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "{0}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4004": {
+    "id": 4004,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "{1}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4005": {
+    "id": 4005,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "{2}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4006": {
+    "id": 4006,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "{3}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4007": {
+    "id": 4007,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "{4}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4008": {
+    "id": 4008,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "我觉得{0}挺不错的",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4009": {
+    "id": 4009,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "我认为{2}彩色最大的热门",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4010": {
+    "id": 4010,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "那么，最终得奖者是",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4011": {
+    "id": 4011,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "大屏幕即将展示得奖的艺人",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4012": {
+    "id": 4012,
+    "oscar_type": 4,
+    "compere_type": 1,
+    "content": "{5}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4013": {
+    "id": 4013,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "毫无疑问只会是你",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4014": {
+    "id": 4014,
+    "oscar_type": 4,
+    "compere_type": 3,
+    "content": "{0}",
+    "content_duration": 5000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4015": {
+    "id": 4015,
+    "oscar_type": 4,
+    "compere_type": 2,
+    "content": "你是最棒的！",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "4016": {
+    "id": 4016,
+    "oscar_type": 4,
+    "compere_type": 3,
+    "content": "堆特上的各位赶快转发吧！",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5001": {
+    "id": 5001,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "让我们来看看最受欢迎电影的提名",
+    "content_duration": 5000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5002": {
+    "id": 5002,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "获得奖项提名的有",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5003": {
+    "id": 5003,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "{0}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5004": {
+    "id": 5004,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "{1}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5005": {
+    "id": 5005,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "{2}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5006": {
+    "id": 5006,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "{3}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5007": {
+    "id": 5007,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "{4}",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5008": {
+    "id": 5008,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "恭喜你们",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5009": {
+    "id": 5009,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "我相信有{3}，其他人都是陪衬！",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5010": {
+    "id": 5010,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "被你毒奶之后，我开始觉得不可能了……",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5011": {
+    "id": 5011,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "让我们看下本次的结果……",
+    "content_duration": 4000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5012": {
+    "id": 5012,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "本次的获奖者就是……请看大屏幕",
+    "content_duration": 5000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5013": {
+    "id": 5013,
+    "oscar_type": 5,
+    "compere_type": 1,
+    "content": "《{5}》！",
+    "content_duration": 2000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5014": {
+    "id": 5014,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "非你莫属！",
+    "content_duration": 1000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5015": {
+    "id": 5015,
+    "oscar_type": 5,
+    "compere_type": 3,
+    "content": "{0}",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5016": {
+    "id": 5016,
+    "oscar_type": 5,
+    "compere_type": 2,
+    "content": "那么，我们准备进入下一环节……",
+    "content_duration": 3000,
+    "act": "",
+    "act_duration": 0
+  },
+  "5017": {
+    "id": 5017,
+    "oscar_type": 5,
     "compere_type": 3,
     "content": "金条的巨擘头条就是我了！",
     "content_duration": 2000,

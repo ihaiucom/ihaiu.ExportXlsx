@@ -12,7 +12,7 @@ namespace configs
 		id : number;
 		zh_cn_name : string;
 		sex : number;
-		pic : string;
+		pic : number;
 		tips : string;
 		min_score : number;
 		max_score : number;

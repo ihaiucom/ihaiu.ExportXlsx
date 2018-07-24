@@ -10,8 +10,8 @@ namespace configs
 		id : number;
 		en_name : string;
 		zh_cn_name : string;
+		body_icon : string;
 		icon : string;
-		mini_icon : string;
 		piece_icon : string;
 		model_skin : string;
 		model_bones : string;

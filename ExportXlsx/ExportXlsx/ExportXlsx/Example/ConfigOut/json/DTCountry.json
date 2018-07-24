@@ -4,15 +4,16 @@
     "number": 1,
     "zh_cn_name": "美国",
     "city_num": 40,
-    "icon": 1001,
+    "icon": 6003,
+    "flag": 6101,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 22
+        "itemNum": 1000
       },
       {
         "itemId": 2,
-        "itemNum": 10
+        "itemNum": 10000
       }
     ],
     "pre_id": 0,
@@ -21,17 +22,18 @@
   "102": {
     "id": 102,
     "number": 2,
-    "zh_cn_name": "China",
+    "zh_cn_name": "加拿大",
     "city_num": 40,
-    "icon": 1001,
+    "icon": 6003,
+    "flag": 6101,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 22
+        "itemNum": 2000
       },
       {
         "itemId": 2,
-        "itemNum": 11
+        "itemNum": 50000
       }
     ],
     "pre_id": 101,
@@ -40,20 +42,61 @@
   "103": {
     "id": 103,
     "number": 3,
-    "zh_cn_name": "Japan",
+    "zh_cn_name": "澳大利亚",
     "city_num": 40,
-    "icon": 1001,
+    "icon": 6003,
+    "flag": 6101,
     "reward": [
       {
         "itemId": 1,
-        "itemNum": 22
+        "itemNum": 3000
       },
       {
         "itemId": 2,
-        "itemNum": 12
+        "itemNum": 100000
       }
     ],
     "pre_id": 102,
+    "next_country": 104
+  },
+  "104": {
+    "id": 104,
+    "number": 4,
+    "zh_cn_name": "英国",
+    "city_num": 40,
+    "icon": 6003,
+    "flag": 6101,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 4000
+      },
+      {
+        "itemId": 2,
+        "itemNum": 150000
+      }
+    ],
+    "pre_id": 103,
+    "next_country": 105
+  },
+  "105": {
+    "id": 105,
+    "number": 5,
+    "zh_cn_name": "法国",
+    "city_num": 40,
+    "icon": 6003,
+    "flag": 6101,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 5000
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200000
+      }
+    ],
+    "pre_id": 104,
     "next_country": 0
   }
 }

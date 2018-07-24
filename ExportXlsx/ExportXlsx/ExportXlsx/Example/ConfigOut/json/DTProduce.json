@@ -2,11 +2,15 @@
   "100": {
     "id": 100,
     "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "item": 3,
+    "zh_cn_tip": "生产纪念品",
     "grade": 1,
     "unlock_level": 1,
     "unlock_building": 1001,
-    "unlock_gold": 0,
+    "unlock_gold": {
+      "itemId": 0,
+      "itemNum": 0
+    },
     "unlock_reward": {
       "itemId": 2,
       "itemNum": 2
@@ -22,41 +26,49 @@
   },
   "101": {
     "id": 101,
-    "zh_cn_name": "科幻激光枪",
-    "zh_cn_tip": "这是一把枪",
+    "zh_cn_name": "科幻片激光器",
+    "item": 4001,
+    "zh_cn_tip": "科幻片激光器",
     "grade": 1,
-    "unlock_level": 5,
-    "unlock_building": 1001,
-    "unlock_gold": 1500,
-    "unlock_reward": {
+    "unlock_level": 10,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 500
+    },
+    "unlock_reward": {
+      "itemId": 4001,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2005,
     "cheer_sex": 1101,
     "cheer_continents": 1201,
     "cheer_type": 0,
-    "cheer_age": 1,
+    "cheer_age": 1501,
     "pre_id": 100,
     "next_line": 102
   },
   "102": {
     "id": 102,
-    "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "zh_cn_name": "奇幻片魔法剑",
+    "item": 4002,
+    "zh_cn_tip": "奇幻片魔法剑",
     "grade": 1,
-    "unlock_level": 9,
-    "unlock_building": 1001,
-    "unlock_gold": 3000,
-    "unlock_reward": {
+    "unlock_level": 15,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 550
+    },
+    "unlock_reward": {
+      "itemId": 4002,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2006,
     "cheer_sex": 0,
-    "cheer_continents": 1201,
+    "cheer_continents": 1202,
     "cheer_type": 0,
     "cheer_age": 0,
     "pre_id": 101,
@@ -64,61 +76,73 @@
   },
   "103": {
     "id": 103,
-    "zh_cn_name": "科幻激光枪",
-    "zh_cn_tip": "这是一把枪",
+    "zh_cn_name": "现代片钢笔",
+    "item": 4003,
+    "zh_cn_tip": "现代片钢笔",
     "grade": 1,
-    "unlock_level": 13,
-    "unlock_building": 1001,
-    "unlock_gold": 4500,
-    "unlock_reward": {
+    "unlock_level": 20,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 600
+    },
+    "unlock_reward": {
+      "itemId": 4003,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2007,
     "cheer_sex": 1101,
     "cheer_continents": 0,
-    "cheer_type": 0,
-    "cheer_age": 1,
+    "cheer_type": 1401,
+    "cheer_age": 0,
     "pre_id": 102,
     "next_line": 104
   },
   "104": {
     "id": 104,
-    "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "zh_cn_name": "励志片名言T恤",
+    "item": 4004,
+    "zh_cn_tip": "励志片名言T恤",
     "grade": 1,
-    "unlock_level": 17,
-    "unlock_building": 1001,
-    "unlock_gold": 6000,
-    "unlock_reward": {
+    "unlock_level": 25,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 650
+    },
+    "unlock_reward": {
+      "itemId": 4004,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2008,
     "cheer_sex": 0,
     "cheer_continents": 1201,
     "cheer_type": 0,
-    "cheer_age": 2,
+    "cheer_age": 1502,
     "pre_id": 103,
     "next_line": 105
   },
   "105": {
     "id": 105,
-    "zh_cn_name": "科幻激光枪",
-    "zh_cn_tip": "这是一把枪",
+    "zh_cn_name": "战争片勋章",
+    "item": 4005,
+    "zh_cn_tip": "战争片勋章",
     "grade": 1,
-    "unlock_level": 21,
-    "unlock_building": 1001,
-    "unlock_gold": 7500,
-    "unlock_reward": {
+    "unlock_level": 30,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 700
+    },
+    "unlock_reward": {
+      "itemId": 4005,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
-    "cheer_sex": 1101,
+    "icon": 2009,
+    "cheer_sex": 1102,
     "cheer_continents": 0,
     "cheer_type": 0,
     "cheer_age": 0,
@@ -127,60 +151,72 @@
   },
   "106": {
     "id": 106,
-    "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
+    "zh_cn_name": "冒险片牛仔帽",
+    "item": 4006,
+    "zh_cn_tip": "冒险片牛仔帽",
     "grade": 1,
-    "unlock_level": 25,
-    "unlock_building": 1001,
-    "unlock_gold": 9000,
-    "unlock_reward": {
+    "unlock_level": 35,
+    "unlock_building": 8001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 750
+    },
+    "unlock_reward": {
+      "itemId": 4006,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2010,
     "cheer_sex": 0,
     "cheer_continents": 0,
     "cheer_type": 0,
-    "cheer_age": 1,
+    "cheer_age": 1501,
     "pre_id": 105,
     "next_line": 107
   },
   "107": {
     "id": 107,
-    "zh_cn_name": "科幻激光枪",
-    "zh_cn_tip": "这是一把枪",
-    "grade": 1,
-    "unlock_level": 29,
-    "unlock_building": 1001,
-    "unlock_gold": 10500,
-    "unlock_reward": {
+    "zh_cn_name": "古装片铠甲",
+    "item": 4007,
+    "zh_cn_tip": "古装片铠甲",
+    "grade": 2,
+    "unlock_level": 40,
+    "unlock_building": 14001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 1050
+    },
+    "unlock_reward": {
+      "itemId": 4007,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
-    "cheer_sex": 1101,
+    "icon": 2011,
+    "cheer_sex": 1102,
     "cheer_continents": 0,
-    "cheer_type": 0,
-    "cheer_age": 2,
+    "cheer_type": 1402,
+    "cheer_age": 0,
     "pre_id": 106,
     "next_line": 108
   },
   "108": {
     "id": 108,
-    "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
-    "grade": 1,
-    "unlock_level": 33,
-    "unlock_building": 1001,
-    "unlock_gold": 12000,
-    "unlock_reward": {
+    "zh_cn_name": "犯罪片头套",
+    "item": 4008,
+    "zh_cn_tip": "犯罪片头套",
+    "grade": 2,
+    "unlock_level": 42,
+    "unlock_building": 14001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 1100
+    },
+    "unlock_reward": {
+      "itemId": 4008,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2012,
     "cheer_sex": 0,
     "cheer_continents": 0,
     "cheer_type": 0,
@@ -190,44 +226,252 @@
   },
   "109": {
     "id": 109,
-    "zh_cn_name": "生产纪念品",
-    "zh_cn_tip": "随便生产一些带有我们商标的纪念品",
-    "grade": 1,
-    "unlock_level": 37,
-    "unlock_building": 1001,
-    "unlock_gold": 13500,
-    "unlock_reward": {
+    "zh_cn_name": "谍战片墨镜",
+    "item": 4009,
+    "zh_cn_tip": "谍战片墨镜",
+    "grade": 2,
+    "unlock_level": 44,
+    "unlock_building": 14001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 1200
+    },
+    "unlock_reward": {
+      "itemId": 4009,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2013,
     "cheer_sex": 0,
     "cheer_continents": 0,
     "cheer_type": 0,
-    "cheer_age": 1,
+    "cheer_age": 1501,
     "pre_id": 108,
     "next_line": 110
   },
   "110": {
     "id": 110,
-    "zh_cn_name": "科幻激光枪",
-    "zh_cn_tip": "这是一把枪",
-    "grade": 1,
-    "unlock_level": 41,
-    "unlock_building": 1001,
-    "unlock_gold": 15000,
-    "unlock_reward": {
+    "zh_cn_name": "灾难片手电筒",
+    "item": 4010,
+    "zh_cn_tip": "灾难片手电筒",
+    "grade": 2,
+    "unlock_level": 46,
+    "unlock_building": 14001,
+    "unlock_gold": {
       "itemId": 2,
+      "itemNum": 1300
+    },
+    "unlock_reward": {
+      "itemId": 4010,
       "itemNum": 2
     },
     "cd": 300,
-    "icon": 1001,
+    "icon": 2014,
     "cheer_sex": 1101,
     "cheer_continents": 0,
-    "cheer_type": 0,
-    "cheer_age": 2,
+    "cheer_type": 1402,
+    "cheer_age": 0,
     "pre_id": 109,
+    "next_line": 111
+  },
+  "111": {
+    "id": 111,
+    "zh_cn_name": "叙事片明信片",
+    "item": 4011,
+    "zh_cn_tip": "叙事片明信片",
+    "grade": 2,
+    "unlock_level": 48,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1400
+    },
+    "unlock_reward": {
+      "itemId": 4011,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2015,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 110,
+    "next_line": 112
+  },
+  "112": {
+    "id": 112,
+    "zh_cn_name": "喜剧片气球",
+    "item": 4012,
+    "zh_cn_tip": "喜剧片气球",
+    "grade": 2,
+    "unlock_level": 50,
+    "unlock_building": 14001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 1500
+    },
+    "unlock_reward": {
+      "itemId": 4012,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2016,
+    "cheer_sex": 1102,
+    "cheer_continents": 1202,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 111,
+    "next_line": 113
+  },
+  "113": {
+    "id": 113,
+    "zh_cn_name": "动作片沙袋",
+    "item": 4013,
+    "zh_cn_tip": "动作片沙袋",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2000
+    },
+    "unlock_reward": {
+      "itemId": 4013,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2017,
+    "cheer_sex": 0,
+    "cheer_continents": 1201,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 112,
+    "next_line": 114
+  },
+  "114": {
+    "id": 114,
+    "zh_cn_name": "爱情片海报",
+    "item": 4014,
+    "zh_cn_tip": "爱情片海报",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2100
+    },
+    "unlock_reward": {
+      "itemId": 4014,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2018,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1401,
+    "cheer_age": 0,
+    "pre_id": 113,
+    "next_line": 115
+  },
+  "115": {
+    "id": 115,
+    "zh_cn_name": "动画片音乐CD",
+    "item": 4015,
+    "zh_cn_tip": "动画片音乐CD",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2200
+    },
+    "unlock_reward": {
+      "itemId": 4015,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2019,
+    "cheer_sex": 0,
+    "cheer_continents": 1203,
+    "cheer_type": 0,
+    "cheer_age": 1502,
+    "pre_id": 114,
+    "next_line": 116
+  },
+  "116": {
+    "id": 116,
+    "zh_cn_name": "悬疑片手铐",
+    "item": 4016,
+    "zh_cn_tip": "悬疑片手铐",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2300
+    },
+    "unlock_reward": {
+      "itemId": 4016,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2020,
+    "cheer_sex": 1102,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 0,
+    "pre_id": 115,
+    "next_line": 117
+  },
+  "117": {
+    "id": 117,
+    "zh_cn_name": "恐怖片面具",
+    "item": 4017,
+    "zh_cn_tip": "恐怖片面具",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2400
+    },
+    "unlock_reward": {
+      "itemId": 4017,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2021,
+    "cheer_sex": 0,
+    "cheer_continents": 0,
+    "cheer_type": 0,
+    "cheer_age": 1501,
+    "pre_id": 116,
+    "next_line": 118
+  },
+  "118": {
+    "id": 118,
+    "zh_cn_name": "动画片公仔",
+    "item": 4018,
+    "zh_cn_tip": "动画片公仔",
+    "grade": 3,
+    "unlock_level": 60,
+    "unlock_building": 15001,
+    "unlock_gold": {
+      "itemId": 2,
+      "itemNum": 2500
+    },
+    "unlock_reward": {
+      "itemId": 4018,
+      "itemNum": 2
+    },
+    "cd": 300,
+    "icon": 2022,
+    "cheer_sex": 1101,
+    "cheer_continents": 0,
+    "cheer_type": 1402,
+    "cheer_age": 0,
+    "pre_id": 117,
     "next_line": 0
   }
 }

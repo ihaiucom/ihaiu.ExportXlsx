@@ -22,7 +22,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "2": {
     "id": 2,
@@ -48,7 +49,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "3": {
     "id": 3,
@@ -72,7 +74,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4": {
     "id": 4,
@@ -96,13 +99,14 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5": {
     "id": 5,
     "zh_cn_name": "粉丝",
     "zh_cn_item_des": "粉丝",
-    "icon": 0,
+    "icon": 2043,
     "star": 0,
     "type": 11,
     "max_num": 0,
@@ -120,13 +124,14 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6": {
     "id": 6,
     "zh_cn_name": "点赞",
     "zh_cn_item_des": "点赞",
-    "icon": 0,
+    "icon": 2044,
     "star": 0,
     "type": 12,
     "max_num": 0,
@@ -144,7 +149,58 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7": {
+    "id": 7,
+    "zh_cn_name": "生产图纸",
+    "zh_cn_item_des": "生产图纸",
+    "icon": 2045,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "8": {
+    "id": 8,
+    "zh_cn_name": "期待",
+    "zh_cn_item_des": "期待",
+    "icon": 2047,
+    "star": 0,
+    "type": 13,
+    "max_num": 0,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4001": {
     "id": 4001,
@@ -168,7 +224,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4002": {
     "id": 4002,
@@ -192,7 +249,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4003": {
     "id": 4003,
@@ -216,7 +274,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4004": {
     "id": 4004,
@@ -240,7 +299,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4005": {
     "id": 4005,
@@ -264,7 +324,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4006": {
     "id": 4006,
@@ -288,7 +349,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4007": {
     "id": 4007,
@@ -312,7 +374,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4008": {
     "id": 4008,
@@ -336,7 +399,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4009": {
     "id": 4009,
@@ -360,7 +424,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4010": {
     "id": 4010,
@@ -384,7 +449,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4011": {
     "id": 4011,
@@ -408,7 +474,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4012": {
     "id": 4012,
@@ -432,7 +499,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4013": {
     "id": 4013,
@@ -456,7 +524,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4014": {
     "id": 4014,
@@ -480,7 +549,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4015": {
     "id": 4015,
@@ -504,7 +574,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4016": {
     "id": 4016,
@@ -528,7 +599,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4017": {
     "id": 4017,
@@ -552,7 +624,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "4018": {
     "id": 4018,
@@ -576,14 +649,15 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6101": {
     "id": 6101,
     "zh_cn_name": "1星潮流耳机",
     "zh_cn_item_des": "1星潮流耳机",
     "icon": 2023,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -597,18 +671,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6101,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6102": {
     "id": 6102,
     "zh_cn_name": "1星雕塑",
     "zh_cn_item_des": "1星雕塑",
     "icon": 2024,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -622,18 +697,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6102,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6103": {
     "id": 6103,
     "zh_cn_name": "1星瓷器",
     "zh_cn_item_des": "1星瓷器",
     "icon": 2025,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -647,18 +723,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6103,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6104": {
     "id": 6104,
     "zh_cn_name": "1星领带",
     "zh_cn_item_des": "1星领带",
     "icon": 2026,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -672,18 +749,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6104,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6105": {
     "id": 6105,
     "zh_cn_name": "1星手提包",
     "zh_cn_item_des": "1星手提包",
     "icon": 2027,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -697,18 +775,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6105,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6106": {
     "id": 6106,
     "zh_cn_name": "1星运动鞋",
     "zh_cn_item_des": "1星运动鞋",
     "icon": 2028,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -722,18 +801,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6106,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6107": {
     "id": 6107,
     "zh_cn_name": "1星单反相机",
     "zh_cn_item_des": "1星单反相机",
     "icon": 2029,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -747,18 +827,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6107,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6108": {
     "id": 6108,
     "zh_cn_name": "1星油画",
     "zh_cn_item_des": "1星油画",
     "icon": 2030,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -772,18 +853,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6108,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6109": {
     "id": 6109,
     "zh_cn_name": "1星茶具",
     "zh_cn_item_des": "1星茶具",
     "icon": 2031,
-    "star": 1,
+    "star": 1301,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -797,18 +879,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6109,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6201": {
     "id": 6201,
     "zh_cn_name": "2星潮流耳机",
     "zh_cn_item_des": "2星潮流耳机",
     "icon": 2023,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -822,18 +905,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6201,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6202": {
     "id": 6202,
     "zh_cn_name": "2星雕塑",
     "zh_cn_item_des": "2星雕塑",
     "icon": 2024,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -847,18 +931,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6202,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6203": {
     "id": 6203,
     "zh_cn_name": "2星瓷器",
     "zh_cn_item_des": "2星瓷器",
     "icon": 2025,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -872,18 +957,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6203,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6204": {
     "id": 6204,
     "zh_cn_name": "2星领带",
     "zh_cn_item_des": "2星领带",
     "icon": 2026,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -897,18 +983,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6204,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6205": {
     "id": 6205,
     "zh_cn_name": "2星手提包",
     "zh_cn_item_des": "2星手提包",
     "icon": 2027,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -922,18 +1009,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6205,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6206": {
     "id": 6206,
     "zh_cn_name": "2星运动鞋",
     "zh_cn_item_des": "2星运动鞋",
     "icon": 2028,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -947,18 +1035,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6206,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6207": {
     "id": 6207,
     "zh_cn_name": "2星单反相机",
     "zh_cn_item_des": "2星单反相机",
     "icon": 2029,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -972,18 +1061,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6207,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6208": {
     "id": 6208,
     "zh_cn_name": "2星油画",
     "zh_cn_item_des": "2星油画",
     "icon": 2030,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -997,18 +1087,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6208,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6209": {
     "id": 6209,
     "zh_cn_name": "2星茶具",
     "zh_cn_item_des": "2星茶具",
     "icon": 2031,
-    "star": 2,
+    "star": 1302,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1022,18 +1113,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6209,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6301": {
     "id": 6301,
     "zh_cn_name": "3星潮流耳机",
     "zh_cn_item_des": "3星潮流耳机",
     "icon": 2023,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1047,18 +1139,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6301,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6302": {
     "id": 6302,
     "zh_cn_name": "3星雕塑",
     "zh_cn_item_des": "3星雕塑",
     "icon": 2024,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1072,18 +1165,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6302,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6303": {
     "id": 6303,
     "zh_cn_name": "3星瓷器",
     "zh_cn_item_des": "3星瓷器",
     "icon": 2025,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1097,18 +1191,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6303,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6304": {
     "id": 6304,
     "zh_cn_name": "3星领带",
     "zh_cn_item_des": "3星领带",
     "icon": 2026,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1122,18 +1217,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6304,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6305": {
     "id": 6305,
     "zh_cn_name": "3星手提包",
     "zh_cn_item_des": "3星手提包",
     "icon": 2027,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1147,18 +1243,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6305,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6306": {
     "id": 6306,
     "zh_cn_name": "3星运动鞋",
     "zh_cn_item_des": "3星运动鞋",
     "icon": 2028,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1172,18 +1269,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6306,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6307": {
     "id": 6307,
     "zh_cn_name": "3星单反相机",
     "zh_cn_item_des": "3星单反相机",
     "icon": 2029,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1197,18 +1295,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6307,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6308": {
     "id": 6308,
     "zh_cn_name": "3星油画",
     "zh_cn_item_des": "3星油画",
     "icon": 2030,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1222,18 +1321,19 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6308,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "6309": {
     "id": 6309,
     "zh_cn_name": "3星茶具",
     "zh_cn_item_des": "3星茶具",
     "icon": 2031,
-    "star": 3,
+    "star": 1303,
     "type": 6,
     "max_num": 9999,
     "get_way": [
@@ -1247,11 +1347,12 @@
         "itemId": 0
       }
     ],
-    "can_sell": false,
-    "price": 0,
+    "can_sell": true,
+    "price": 10,
     "syn_id": 6309,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "9001": {
     "id": 9001,
@@ -1277,7 +1378,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "9002": {
     "id": 9002,
@@ -1303,7 +1405,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "9003": {
     "id": 9003,
@@ -1328,7 +1431,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "9004": {
     "id": 9004,
@@ -1352,7 +1456,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5001": {
     "id": 5001,
@@ -1376,7 +1481,8 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5002": {
     "id": 5002,
@@ -1400,7 +1506,8 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5003": {
     "id": 5003,
@@ -1424,7 +1531,8 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5004": {
     "id": 5004,
@@ -1448,7 +1556,8 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5005": {
     "id": 5005,
@@ -1472,7 +1581,8 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5006": {
     "id": 5006,
@@ -1496,13 +1606,14 @@
     "price": 10,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "5007": {
     "id": 5007,
     "zh_cn_name": "星探卡",
     "zh_cn_item_des": "星探卡",
-    "icon": 0,
+    "icon": 2046,
     "star": 0,
     "type": 5,
     "max_num": 9999,
@@ -1520,7 +1631,84 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "5008": {
+    "id": 5008,
+    "zh_cn_name": "改名卡",
+    "zh_cn_item_des": "改名卡",
+    "icon": 2048,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "5009": {
+    "id": 5009,
+    "zh_cn_name": "通告函",
+    "zh_cn_item_des": "通告函",
+    "icon": 2049,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": false,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "5010": {
+    "id": 5010,
+    "zh_cn_name": "技能药剂",
+    "zh_cn_item_des": "可以增加艺人技能经验的药剂",
+    "icon": 2050,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 1,
+    "reward": [
+      {
+        "itemId": 0,
+        "itemNum": 10
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "8001": {
     "id": 8001,
@@ -1577,7 +1765,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "8002": {
     "id": 8002,
@@ -1634,7 +1823,8 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
   },
   "8003": {
     "id": 8003,
@@ -1691,6 +1881,2507 @@
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
-    "actor_num": 0
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7001": {
+    "id": 7001,
+    "zh_cn_name": "斯波克合同",
+    "zh_cn_item_des": "收集10份可以和艺人斯波克签约",
+    "icon": 1001,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1001,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7002": {
+    "id": 7002,
+    "zh_cn_name": "伊娃格林合同",
+    "zh_cn_item_des": "收集10份可以和艺人伊娃格林签约",
+    "icon": 1002,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1002,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7003": {
+    "id": 7003,
+    "zh_cn_name": "查理汉纳姆合同",
+    "zh_cn_item_des": "收集10份可以和艺人查理汉纳姆签约",
+    "icon": 1003,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1003,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7004": {
+    "id": 7004,
+    "zh_cn_name": "谢耳朵合同",
+    "zh_cn_item_des": "收集10份可以和艺人谢耳朵签约",
+    "icon": 1004,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1004,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7005": {
+    "id": 7005,
+    "zh_cn_name": "让雷诺合同",
+    "zh_cn_item_des": "收集10份可以和艺人让雷诺签约",
+    "icon": 1005,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1005,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7006": {
+    "id": 7006,
+    "zh_cn_name": "章子怡合同",
+    "zh_cn_item_des": "收集10份可以和艺人章子怡签约",
+    "icon": 1006,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1006,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7007": {
+    "id": 7007,
+    "zh_cn_name": "特工卡特合同",
+    "zh_cn_item_des": "收集10份可以和艺人特工卡特签约",
+    "icon": 1007,
+    "star": 1301,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 1007,
+    "actor_num": 10,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7008": {
+    "id": 7008,
+    "zh_cn_name": "汤姆汉克斯合同",
+    "zh_cn_item_des": "收集20份可以和艺人汤姆汉克斯签约",
+    "icon": 1008,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2001,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7009": {
+    "id": 7009,
+    "zh_cn_name": "汉索罗合同",
+    "zh_cn_item_des": "收集20份可以和艺人汉索罗签约",
+    "icon": 1009,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2002,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7010": {
+    "id": 7010,
+    "zh_cn_name": "贾斯汀汀布莱克合同",
+    "zh_cn_item_des": "收集20份可以和艺人贾斯汀汀布莱克签约",
+    "icon": 1010,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2003,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7011": {
+    "id": 7011,
+    "zh_cn_name": "麦德斯·米科尔森合同",
+    "zh_cn_item_des": "收集20份可以和艺人麦德斯·米科尔森签约",
+    "icon": 1011,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2004,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7012": {
+    "id": 7012,
+    "zh_cn_name": "莫妮卡贝鲁奇合同",
+    "zh_cn_item_des": "收集20份可以和艺人莫妮卡贝鲁奇签约",
+    "icon": 1012,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2005,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7013": {
+    "id": 7013,
+    "zh_cn_name": "裘德洛合同",
+    "zh_cn_item_des": "收集20份可以和艺人裘德洛签约",
+    "icon": 1013,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2006,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7014": {
+    "id": 7014,
+    "zh_cn_name": "张曼玉合同",
+    "zh_cn_item_des": "收集20份可以和艺人张曼玉签约",
+    "icon": 1014,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2007,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7015": {
+    "id": 7015,
+    "zh_cn_name": "巩俐合同",
+    "zh_cn_item_des": "收集20份可以和艺人巩俐签约",
+    "icon": 1015,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2008,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7016": {
+    "id": 7016,
+    "zh_cn_name": "杰森斯坦森合同",
+    "zh_cn_item_des": "收集20份可以和艺人杰森斯坦森签约",
+    "icon": 1016,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2009,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7017": {
+    "id": 7017,
+    "zh_cn_name": "亚当桑德勒合同",
+    "zh_cn_item_des": "收集20份可以和艺人亚当桑德勒签约",
+    "icon": 1017,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2010,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7018": {
+    "id": 7018,
+    "zh_cn_name": "尼古拉斯凯奇合同",
+    "zh_cn_item_des": "收集20份可以和艺人尼古拉斯凯奇签约",
+    "icon": 1018,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2011,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7019": {
+    "id": 7019,
+    "zh_cn_name": "鲁妮玛拉合同",
+    "zh_cn_item_des": "收集20份可以和艺人鲁妮玛拉签约",
+    "icon": 1019,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2012,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7020": {
+    "id": 7020,
+    "zh_cn_name": "冈本多绪合同",
+    "zh_cn_item_des": "收集20份可以和艺人冈本多绪签约",
+    "icon": 1020,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2013,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7021": {
+    "id": 7021,
+    "zh_cn_name": "戴斯维达合同",
+    "zh_cn_item_des": "收集20份可以和艺人戴斯维达签约",
+    "icon": 1021,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2014,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7022": {
+    "id": 7022,
+    "zh_cn_name": "泰伊谢里丹合同",
+    "zh_cn_item_des": "收集20份可以和艺人泰伊谢里丹签约",
+    "icon": 1022,
+    "star": 1302,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 2015,
+    "actor_num": 20,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7023": {
+    "id": 7023,
+    "zh_cn_name": "施瓦辛格合同",
+    "zh_cn_item_des": "收集30份可以和艺人施瓦辛格签约",
+    "icon": 1023,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3001,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7024": {
+    "id": 7024,
+    "zh_cn_name": "卓别林合同",
+    "zh_cn_item_des": "收集30份可以和艺人卓别林签约",
+    "icon": 1024,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3002,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7025": {
+    "id": 7025,
+    "zh_cn_name": "马龙白兰度合同",
+    "zh_cn_item_des": "收集30份可以和艺人马龙白兰度签约",
+    "icon": 1025,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3003,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7026": {
+    "id": 7026,
+    "zh_cn_name": "摩根弗里曼合同",
+    "zh_cn_item_des": "收集30份可以和艺人摩根弗里曼签约",
+    "icon": 1026,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3004,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7027": {
+    "id": 7027,
+    "zh_cn_name": "詹姆斯麦卡沃伊合同",
+    "zh_cn_item_des": "收集30份可以和艺人詹姆斯麦卡沃伊签约",
+    "icon": 1027,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3005,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7028": {
+    "id": 7028,
+    "zh_cn_name": "苏菲玛索合同",
+    "zh_cn_item_des": "收集30份可以和艺人苏菲玛索签约",
+    "icon": 1028,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3006,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7029": {
+    "id": 7029,
+    "zh_cn_name": "罗宾威廉姆斯合同",
+    "zh_cn_item_des": "收集30份可以和艺人罗宾威廉姆斯签约",
+    "icon": 1029,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3007,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7030": {
+    "id": 7030,
+    "zh_cn_name": "休格兰特合同",
+    "zh_cn_item_des": "收集30份可以和艺人休格兰特签约",
+    "icon": 1030,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3008,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7031": {
+    "id": 7031,
+    "zh_cn_name": "娜塔莉多默尔合同",
+    "zh_cn_item_des": "收集30份可以和艺人娜塔莉多默尔签约",
+    "icon": 1031,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3009,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7032": {
+    "id": 7032,
+    "zh_cn_name": "杰克吉伦哈尔合同",
+    "zh_cn_item_des": "收集30份可以和艺人杰克吉伦哈尔签约",
+    "icon": 1032,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3010,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7033": {
+    "id": 7033,
+    "zh_cn_name": "罗宾怀特合同",
+    "zh_cn_item_des": "收集30份可以和艺人罗宾怀特签约",
+    "icon": 1033,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3011,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7034": {
+    "id": 7034,
+    "zh_cn_name": "理查基尔合同",
+    "zh_cn_item_des": "收集30份可以和艺人理查基尔签约",
+    "icon": 1034,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3012,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7035": {
+    "id": 7035,
+    "zh_cn_name": "希拉里斯万克合同",
+    "zh_cn_item_des": "收集30份可以和艺人希拉里斯万克签约",
+    "icon": 1035,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3013,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7036": {
+    "id": 7036,
+    "zh_cn_name": "北野武合同",
+    "zh_cn_item_des": "收集30份可以和艺人北野武签约",
+    "icon": 1036,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3014,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7037": {
+    "id": 7037,
+    "zh_cn_name": "丹尼尔卡鲁亚合同",
+    "zh_cn_item_des": "收集30份可以和艺人丹尼尔卡鲁亚签约",
+    "icon": 1037,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3015,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7038": {
+    "id": 7038,
+    "zh_cn_name": "莎拉保罗森合同",
+    "zh_cn_item_des": "收集30份可以和艺人莎拉保罗森签约",
+    "icon": 1038,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3016,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7039": {
+    "id": 7039,
+    "zh_cn_name": "贾维尔巴登合同",
+    "zh_cn_item_des": "收集30份可以和艺人贾维尔巴登签约",
+    "icon": 1039,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3017,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7040": {
+    "id": 7040,
+    "zh_cn_name": "孔侑合同",
+    "zh_cn_item_des": "收集30份可以和艺人孔侑签约",
+    "icon": 1040,
+    "star": 1303,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 3018,
+    "actor_num": 30,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7041": {
+    "id": 7041,
+    "zh_cn_name": "安吉丽娜朱莉合同",
+    "zh_cn_item_des": "收集40份可以和艺人安吉丽娜朱莉签约",
+    "icon": 1041,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4001,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7042": {
+    "id": 7042,
+    "zh_cn_name": "甘道夫合同",
+    "zh_cn_item_des": "收集40份可以和艺人甘道夫签约",
+    "icon": 1042,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4002,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7043": {
+    "id": 7043,
+    "zh_cn_name": "美队合同",
+    "zh_cn_item_des": "收集40份可以和艺人美队签约",
+    "icon": 1043,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4003,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7044": {
+    "id": 7044,
+    "zh_cn_name": "斯内普合同",
+    "zh_cn_item_des": "收集40份可以和艺人斯内普签约",
+    "icon": 1044,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4004,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7045": {
+    "id": 7045,
+    "zh_cn_name": "杰拉德莱托合同",
+    "zh_cn_item_des": "收集40份可以和艺人杰拉德莱托签约",
+    "icon": 1045,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4005,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7046": {
+    "id": 7046,
+    "zh_cn_name": "科林费斯合同",
+    "zh_cn_item_des": "收集40份可以和艺人科林费斯签约",
+    "icon": 1046,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4006,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7047": {
+    "id": 7047,
+    "zh_cn_name": "抖森合同",
+    "zh_cn_item_des": "收集40份可以和艺人抖森签约",
+    "icon": 1047,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4007,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7048": {
+    "id": 7048,
+    "zh_cn_name": "乌玛瑟曼合同",
+    "zh_cn_item_des": "收集40份可以和艺人乌玛瑟曼签约",
+    "icon": 1048,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4008,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7049": {
+    "id": 7049,
+    "zh_cn_name": "成龙合同",
+    "zh_cn_item_des": "收集40份可以和艺人成龙签约",
+    "icon": 1049,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4009,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7050": {
+    "id": 7050,
+    "zh_cn_name": "妮可基德曼合同",
+    "zh_cn_item_des": "收集40份可以和艺人妮可基德曼签约",
+    "icon": 1050,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4010,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7051": {
+    "id": 7051,
+    "zh_cn_name": "爱德华诺顿合同",
+    "zh_cn_item_des": "收集40份可以和艺人爱德华诺顿签约",
+    "icon": 1051,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4011,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7052": {
+    "id": 7052,
+    "zh_cn_name": "本阿弗莱克合同",
+    "zh_cn_item_des": "收集40份可以和艺人本阿弗莱克签约",
+    "icon": 1052,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4012,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7053": {
+    "id": 7053,
+    "zh_cn_name": "蒂姆罗宾斯合同",
+    "zh_cn_item_des": "收集40份可以和艺人蒂姆罗宾斯签约",
+    "icon": 1053,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4013,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7054": {
+    "id": 7054,
+    "zh_cn_name": "詹妮弗安妮斯顿合同",
+    "zh_cn_item_des": "收集40份可以和艺人詹妮弗安妮斯顿签约",
+    "icon": 1054,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4014,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7055": {
+    "id": 7055,
+    "zh_cn_name": "桑德拉布洛克合同",
+    "zh_cn_item_des": "收集40份可以和艺人桑德拉布洛克签约",
+    "icon": 1055,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4015,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7056": {
+    "id": 7056,
+    "zh_cn_name": "丹尼尔克雷格合同",
+    "zh_cn_item_des": "收集40份可以和艺人丹尼尔克雷格签约",
+    "icon": 1056,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4016,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7057": {
+    "id": 7057,
+    "zh_cn_name": "阿米尔汗合同",
+    "zh_cn_item_des": "收集40份可以和艺人阿米尔汗签约",
+    "icon": 1057,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4017,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7058": {
+    "id": 7058,
+    "zh_cn_name": "瑞恩雷诺兹合同",
+    "zh_cn_item_des": "收集40份可以和艺人瑞恩雷诺兹签约",
+    "icon": 1058,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4018,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7059": {
+    "id": 7059,
+    "zh_cn_name": "米拉库尼斯合同",
+    "zh_cn_item_des": "收集40份可以和艺人米拉库尼斯签约",
+    "icon": 1059,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4019,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7060": {
+    "id": 7060,
+    "zh_cn_name": "罗伯特德尼罗合同",
+    "zh_cn_item_des": "收集40份可以和艺人罗伯特德尼罗签约",
+    "icon": 1060,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4020,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7061": {
+    "id": 7061,
+    "zh_cn_name": "布莱德利库珀合同",
+    "zh_cn_item_des": "收集40份可以和艺人布莱德利库珀签约",
+    "icon": 1061,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4021,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7062": {
+    "id": 7062,
+    "zh_cn_name": "金凯瑞合同",
+    "zh_cn_item_des": "收集40份可以和艺人金凯瑞签约",
+    "icon": 1062,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4022,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7063": {
+    "id": 7063,
+    "zh_cn_name": "汤姆哈迪合同",
+    "zh_cn_item_des": "收集40份可以和艺人汤姆哈迪签约",
+    "icon": 1063,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4023,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7064": {
+    "id": 7064,
+    "zh_cn_name": "米拉乔沃维奇合同",
+    "zh_cn_item_des": "收集40份可以和艺人米拉乔沃维奇签约",
+    "icon": 1064,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4024,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7065": {
+    "id": 7065,
+    "zh_cn_name": "阿什顿库彻合同",
+    "zh_cn_item_des": "收集40份可以和艺人阿什顿库彻签约",
+    "icon": 1065,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4025,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7066": {
+    "id": 7066,
+    "zh_cn_name": "伊丽莎白莫斯合同",
+    "zh_cn_item_des": "收集40份可以和艺人伊丽莎白莫斯签约",
+    "icon": 1066,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4026,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7067": {
+    "id": 7067,
+    "zh_cn_name": "尼尔帕特里克哈里斯合同",
+    "zh_cn_item_des": "收集40份可以和艺人尼尔帕特里克哈里斯签约",
+    "icon": 1067,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4027,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7068": {
+    "id": 7068,
+    "zh_cn_name": "哈利贝瑞合同",
+    "zh_cn_item_des": "收集40份可以和艺人哈利贝瑞签约",
+    "icon": 1068,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4028,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7069": {
+    "id": 7069,
+    "zh_cn_name": "杨紫琼合同",
+    "zh_cn_item_des": "收集40份可以和艺人杨紫琼签约",
+    "icon": 1069,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4029,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7070": {
+    "id": 7070,
+    "zh_cn_name": "扎克埃夫隆合同",
+    "zh_cn_item_des": "收集40份可以和艺人扎克埃夫隆签约",
+    "icon": 1070,
+    "star": 1304,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 4030,
+    "actor_num": 40,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7071": {
+    "id": 7071,
+    "zh_cn_name": "小李子合同",
+    "zh_cn_item_des": "收集50份可以和艺人小李子签约",
+    "icon": 1071,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5001,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7072": {
+    "id": 7072,
+    "zh_cn_name": "哈利波特合同",
+    "zh_cn_item_des": "收集50份可以和艺人哈利波特签约",
+    "icon": 1072,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5002,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7073": {
+    "id": 7073,
+    "zh_cn_name": "杰克船长合同",
+    "zh_cn_item_des": "收集50份可以和艺人杰克船长签约",
+    "icon": 1073,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5003,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7074": {
+    "id": 7074,
+    "zh_cn_name": "钢铁侠合同",
+    "zh_cn_item_des": "收集50份可以和艺人钢铁侠签约",
+    "icon": 1074,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5004,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7075": {
+    "id": 7075,
+    "zh_cn_name": "布拉德皮特合同",
+    "zh_cn_item_des": "收集50份可以和艺人布拉德皮特签约",
+    "icon": 1075,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5005,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7076": {
+    "id": 7076,
+    "zh_cn_name": "赫本合同",
+    "zh_cn_item_des": "收集50份可以和艺人赫本签约",
+    "icon": 1076,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5006,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7077": {
+    "id": 7077,
+    "zh_cn_name": "玛丽莲梦露合同",
+    "zh_cn_item_des": "收集50份可以和艺人玛丽莲梦露签约",
+    "icon": 1077,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5007,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7078": {
+    "id": 7078,
+    "zh_cn_name": "詹妮弗劳伦斯合同",
+    "zh_cn_item_des": "收集50份可以和艺人詹妮弗劳伦斯签约",
+    "icon": 1078,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5008,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7079": {
+    "id": 7079,
+    "zh_cn_name": "玛丽昂歌莉娅合同",
+    "zh_cn_item_des": "收集50份可以和艺人玛丽昂歌莉娅签约",
+    "icon": 1079,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5009,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7080": {
+    "id": 7080,
+    "zh_cn_name": "克里斯帕拉特合同",
+    "zh_cn_item_des": "收集50份可以和艺人克里斯帕拉特签约",
+    "icon": 1080,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5010,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7081": {
+    "id": 7081,
+    "zh_cn_name": "茱莉亚罗伯茨合同",
+    "zh_cn_item_des": "收集50份可以和艺人茱莉亚罗伯茨签约",
+    "icon": 1081,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5011,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7082": {
+    "id": 7082,
+    "zh_cn_name": "锤哥合同",
+    "zh_cn_item_des": "收集50份可以和艺人锤哥签约",
+    "icon": 1082,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5012,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7083": {
+    "id": 7083,
+    "zh_cn_name": "狼叔合同",
+    "zh_cn_item_des": "收集50份可以和艺人狼叔签约",
+    "icon": 1083,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5013,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7084": {
+    "id": 7084,
+    "zh_cn_name": "克里斯蒂安贝尔合同",
+    "zh_cn_item_des": "收集50份可以和艺人克里斯蒂安贝尔签约",
+    "icon": 1084,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5014,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7085": {
+    "id": 7085,
+    "zh_cn_name": "瑞恩高斯林合同",
+    "zh_cn_item_des": "收集50份可以和艺人瑞恩高斯林签约",
+    "icon": 1085,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5015,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7086": {
+    "id": 7086,
+    "zh_cn_name": "汤姆克鲁斯合同",
+    "zh_cn_item_des": "收集50份可以和艺人汤姆克鲁斯签约",
+    "icon": 1086,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5016,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7087": {
+    "id": 7087,
+    "zh_cn_name": "艾玛斯通合同",
+    "zh_cn_item_des": "收集50份可以和艺人艾玛斯通签约",
+    "icon": 1087,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5017,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7088": {
+    "id": 7088,
+    "zh_cn_name": "赫敏合同",
+    "zh_cn_item_des": "收集50份可以和艺人赫敏签约",
+    "icon": 1088,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5018,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7089": {
+    "id": 7089,
+    "zh_cn_name": "威尔史密斯合同",
+    "zh_cn_item_des": "收集50份可以和艺人威尔史密斯签约",
+    "icon": 1089,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5019,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7090": {
+    "id": 7090,
+    "zh_cn_name": "卷福合同",
+    "zh_cn_item_des": "收集50份可以和艺人卷福签约",
+    "icon": 1090,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5020,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7091": {
+    "id": 7091,
+    "zh_cn_name": "安妮海瑟薇合同",
+    "zh_cn_item_des": "收集50份可以和艺人安妮海瑟薇签约",
+    "icon": 1091,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5021,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7092": {
+    "id": 7092,
+    "zh_cn_name": "斯嘉丽·约翰逊合同",
+    "zh_cn_item_des": "收集50份可以和艺人斯嘉丽·约翰逊签约",
+    "icon": 1092,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5022,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7093": {
+    "id": 7093,
+    "zh_cn_name": "马特达蒙合同",
+    "zh_cn_item_des": "收集50份可以和艺人马特达蒙签约",
+    "icon": 1093,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5023,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7094": {
+    "id": 7094,
+    "zh_cn_name": "伊万·麦格雷戈合同",
+    "zh_cn_item_des": "收集50份可以和艺人伊万·麦格雷戈签约",
+    "icon": 1094,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5024,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7095": {
+    "id": 7095,
+    "zh_cn_name": "伊丽莎白泰勒合同",
+    "zh_cn_item_des": "收集50份可以和艺人伊丽莎白泰勒签约",
+    "icon": 1095,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5025,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7096": {
+    "id": 7096,
+    "zh_cn_name": "凯拉奈特莉合同",
+    "zh_cn_item_des": "收集50份可以和艺人凯拉奈特莉签约",
+    "icon": 1096,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5026,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7097": {
+    "id": 7097,
+    "zh_cn_name": "龙妈合同",
+    "zh_cn_item_des": "收集50份可以和艺人龙妈签约",
+    "icon": 1097,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5027,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7098": {
+    "id": 7098,
+    "zh_cn_name": "马修麦康纳合同",
+    "zh_cn_item_des": "收集50份可以和艺人马修麦康纳签约",
+    "icon": 1098,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5028,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7099": {
+    "id": 7099,
+    "zh_cn_name": "娜塔莉波特曼合同",
+    "zh_cn_item_des": "收集50份可以和艺人娜塔莉波特曼签约",
+    "icon": 1099,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5029,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
+  },
+  "7100": {
+    "id": 7100,
+    "zh_cn_name": "范冰冰合同",
+    "zh_cn_item_des": "收集50份可以和艺人范冰冰签约",
+    "icon": 1100,
+    "star": 1305,
+    "type": 7,
+    "max_num": 9999,
+    "get_way": [
+      0
+    ],
+    "can_use": true,
+    "use_type": 0,
+    "reward": [
+      {
+        "itemId": 0
+      }
+    ],
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 5030,
+    "actor_num": 50,
+    "zh_cn_get_way_explain": "施工中"
   }
 }

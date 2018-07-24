@@ -11,9 +11,9 @@ namespace configs
 		name : string;
 		type : number;
 		rank : number;
-		reward : DTItemNum[];
+		movie_reward : DTItemNum[];
+		box_office_reward : DTItemNum[];
 		extra_reward : DTItemNum;
-		oscar_reward : DTItemNum[];
 		congratulate_switch : boolean;
 		congratulate_reward : DTItemNum;
 	}

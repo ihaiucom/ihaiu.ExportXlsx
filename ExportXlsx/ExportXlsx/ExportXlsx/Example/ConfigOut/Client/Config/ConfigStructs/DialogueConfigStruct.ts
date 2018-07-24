@@ -11,6 +11,7 @@ namespace configs
 
 		id : number;
 		name : string;
+		face : number;
 		content : string;
 
 

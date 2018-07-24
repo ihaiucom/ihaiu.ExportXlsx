@@ -9,7 +9,7 @@ namespace configs
 	{
 	
 
-		level : number;
+		id : number;
 		once : number;
 		max : number;
 

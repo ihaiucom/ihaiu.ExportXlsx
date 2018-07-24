@@ -23,7 +23,7 @@ namespace configs
 			config.min_score = csvGetFloat(csv,  this.GetHeadIndex(  "min_score"  )   );
 			config.max_score = csvGetFloat(csv,  this.GetHeadIndex(  "max_score"  )   );
 			config.zh_cn_content = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_content"  )   );
-			config.praise = csvGetInt(csv,  this.GetHeadIndex(  "praise"  )   );
+			config.praise =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "praise"  )   )   );
 			config.pic = csvGetInt(csv,  this.GetHeadIndex(  "pic"  )   );
 
 			

@@ -1,161 +1,141 @@
 ﻿{
   "1": {
     "id": 1,
-    "pop_level": 1,
-    "tips": "1",
-    "cost_id": 10,
+    "tips": "关注度1级",
+    "cost_id": 5005,
     "cost_num": 5,
     "increase": 0.5
   },
   "2": {
     "id": 2,
-    "pop_level": 2,
-    "tips": "2",
-    "cost_id": 10,
+    "tips": "关注度2级",
+    "cost_id": 5005,
     "cost_num": 10,
     "increase": 1.0
   },
   "3": {
     "id": 3,
-    "pop_level": 3,
-    "tips": "3",
-    "cost_id": 10,
+    "tips": "关注度3级",
+    "cost_id": 5005,
     "cost_num": 15,
     "increase": 1.5
   },
   "4": {
     "id": 4,
-    "pop_level": 4,
-    "tips": "4",
-    "cost_id": 10,
+    "tips": "关注度4级",
+    "cost_id": 5005,
     "cost_num": 20,
     "increase": 2.0
   },
   "5": {
     "id": 5,
-    "pop_level": 5,
-    "tips": "5",
-    "cost_id": 10,
+    "tips": "关注度5级",
+    "cost_id": 5005,
     "cost_num": 25,
     "increase": 2.5
   },
   "6": {
     "id": 6,
-    "pop_level": 6,
-    "tips": "6",
-    "cost_id": 10,
+    "tips": "关注度6级",
+    "cost_id": 5005,
     "cost_num": 30,
     "increase": 3.0
   },
   "7": {
     "id": 7,
-    "pop_level": 7,
-    "tips": "7",
-    "cost_id": 10,
+    "tips": "关注度7级",
+    "cost_id": 5005,
     "cost_num": 35,
     "increase": 3.5
   },
   "8": {
     "id": 8,
-    "pop_level": 8,
-    "tips": "8",
-    "cost_id": 10,
+    "tips": "关注度8级",
+    "cost_id": 5005,
     "cost_num": 40,
     "increase": 4.0
   },
   "9": {
     "id": 9,
-    "pop_level": 9,
-    "tips": "9",
-    "cost_id": 10,
+    "tips": "关注度9级",
+    "cost_id": 5005,
     "cost_num": 45,
     "increase": 4.5
   },
   "10": {
     "id": 10,
-    "pop_level": 10,
-    "tips": "10",
-    "cost_id": 10,
+    "tips": "关注度10级",
+    "cost_id": 5005,
     "cost_num": 50,
     "increase": 5.0
   },
   "11": {
     "id": 11,
-    "pop_level": 11,
-    "tips": "11",
-    "cost_id": 10,
+    "tips": "关注度11级",
+    "cost_id": 5005,
     "cost_num": 55,
     "increase": 5.5
   },
   "12": {
     "id": 12,
-    "pop_level": 12,
-    "tips": "12",
-    "cost_id": 10,
+    "tips": "关注度12级",
+    "cost_id": 5005,
     "cost_num": 60,
     "increase": 6.0
   },
   "13": {
     "id": 13,
-    "pop_level": 13,
-    "tips": "13",
-    "cost_id": 10,
+    "tips": "关注度13级",
+    "cost_id": 5005,
     "cost_num": 65,
     "increase": 6.5
   },
   "14": {
     "id": 14,
-    "pop_level": 14,
-    "tips": "14",
-    "cost_id": 10,
+    "tips": "关注度14级",
+    "cost_id": 5005,
     "cost_num": 70,
     "increase": 7.0
   },
   "15": {
     "id": 15,
-    "pop_level": 15,
-    "tips": "15",
-    "cost_id": 10,
+    "tips": "关注度15级",
+    "cost_id": 5005,
     "cost_num": 75,
     "increase": 7.5
   },
   "16": {
     "id": 16,
-    "pop_level": 16,
-    "tips": "16",
-    "cost_id": 10,
+    "tips": "关注度16级",
+    "cost_id": 5005,
     "cost_num": 80,
     "increase": 8.0
   },
   "17": {
     "id": 17,
-    "pop_level": 17,
-    "tips": "17",
-    "cost_id": 10,
+    "tips": "关注度17级",
+    "cost_id": 5005,
     "cost_num": 85,
     "increase": 8.5
   },
   "18": {
     "id": 18,
-    "pop_level": 18,
-    "tips": "18",
-    "cost_id": 10,
+    "tips": "关注度18级",
+    "cost_id": 5005,
     "cost_num": 90,
     "increase": 9.0
   },
   "19": {
     "id": 19,
-    "pop_level": 19,
-    "tips": "19",
-    "cost_id": 10,
+    "tips": "关注度19级",
+    "cost_id": 5005,
     "cost_num": 95,
     "increase": 9.5
   },
   "20": {
     "id": 20,
-    "pop_level": 20,
-    "tips": "20",
-    "cost_id": 10,
+    "tips": "关注度20级",
+    "cost_id": 5005,
     "cost_num": 100,
     "increase": 10.0
   }

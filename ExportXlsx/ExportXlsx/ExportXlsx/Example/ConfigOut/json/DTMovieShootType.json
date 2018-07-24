@@ -3,64 +3,64 @@
     "id": 2201,
     "zh_cn_name": "动作",
     "zh_cn_type_des": "男观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4013,
+    "item_num": 3,
+    "pic": 6029
   },
   "2202": {
     "id": 2202,
     "zh_cn_name": "爱情",
     "zh_cn_type_des": "女观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4014,
+    "item_num": 3,
+    "pic": 6030
   },
   "2203": {
     "id": 2203,
     "zh_cn_name": "动画",
     "zh_cn_type_des": "儿童观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4018,
+    "item_num": 3,
+    "pic": 6031
   },
   "2204": {
     "id": 2204,
     "zh_cn_name": "叙事",
     "zh_cn_type_des": "男观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4011,
+    "item_num": 3,
+    "pic": 6032
   },
   "2205": {
     "id": 2205,
     "zh_cn_name": "悬疑",
     "zh_cn_type_des": "男观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4016,
+    "item_num": 3,
+    "pic": 6033
   },
   "2206": {
     "id": 2206,
     "zh_cn_name": "恐怖",
     "zh_cn_type_des": "女观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4017,
+    "item_num": 3,
+    "pic": 6034
   },
   "2207": {
     "id": 2207,
     "zh_cn_name": "喜剧",
     "zh_cn_type_des": "女观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4012,
+    "item_num": 3,
+    "pic": 6035
   },
   "2208": {
     "id": 2208,
     "zh_cn_name": "歌舞",
     "zh_cn_type_des": "儿童观众更喜爱",
-    "item_id": 1,
-    "item_num": 100,
-    "pic": 1
+    "item_id": 4015,
+    "item_num": 3,
+    "pic": 6036
   }
 }

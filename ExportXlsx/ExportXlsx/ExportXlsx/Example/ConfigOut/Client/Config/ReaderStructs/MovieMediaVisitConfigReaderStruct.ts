@@ -17,6 +17,7 @@ namespace configs
 
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
+			config.mediaId = csvGetInt(csv,  this.GetHeadIndex(  "mediaId"  )   );
 			config.level = csvGetInt(csv,  this.GetHeadIndex(  "level"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.levelup_req = csvGetInt(csv,  this.GetHeadIndex(  "levelup_req"  )   );
@@ -25,7 +26,6 @@ namespace configs
 			config.min_expection = csvGetInt(csv,  this.GetHeadIndex(  "min_expection"  )   );
 			config.max_expection = csvGetInt(csv,  this.GetHeadIndex(  "max_expection"  )   );
 			config.pic = csvGetInt(csv,  this.GetHeadIndex(  "pic"  )   );
-			config.big_pic = csvGetInt(csv,  this.GetHeadIndex(  "big_pic"  )   );
 
 			
 

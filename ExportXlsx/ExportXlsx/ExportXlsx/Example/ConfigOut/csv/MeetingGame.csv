@@ -1,9 +1,0 @@
-﻿int	string	int	string	int	string
-id	类型	结果(1:胜，2：平，3：输）	名称	权重	结果加成（倍数：权重）
-id	type	result	name	rate	times
-1001	meeting200	1	+200%小游戏胜利	20	3:100
-1002	meeting200	2	+200%小游戏平局	30	1:100
-1003	meeting200	3	+200%小游戏失败	50	0:50;0.5:50
-1004	meeting50	1	+50%小游戏胜利	30	1.5:100
-1005	meeting50	2	+50%小游戏平局	50	1:100
-1006	meeting50	3	+50%小游戏失败	20	0.5:100

@@ -2,31 +2,73 @@
   "1": {
     "id": 1,
     "key": "music_switch",
-    "name": "背景音乐开关",
-    "default": true
+    "zh_cn_name": "背景音乐",
+    "icon": 5101,
+    "default": 1,
+    "switch": true,
+    "popup": ""
   },
   "2": {
     "id": 2,
     "key": "soundeffect_switch",
-    "name": "背景音效开关",
-    "default": true
+    "zh_cn_name": "背景音效",
+    "icon": 5102,
+    "default": 1,
+    "switch": true,
+    "popup": ""
   },
   "3": {
     "id": 3,
     "key": "energy_switch",
-    "name": "省电模式开关",
-    "default": false
+    "zh_cn_name": "省电模式",
+    "icon": 5103,
+    "default": 0,
+    "switch": false,
+    "popup": ""
   },
   "4": {
     "id": 4,
     "key": "push_switch",
-    "name": "通知开关",
-    "default": false
+    "zh_cn_name": "通知",
+    "icon": 5104,
+    "default": 0,
+    "switch": false,
+    "popup": ""
   },
   "5": {
     "id": 5,
     "key": "title_switch",
-    "name": "称号开关",
-    "default": false
+    "zh_cn_name": "称号",
+    "icon": 5105,
+    "default": 0,
+    "switch": false,
+    "popup": ""
+  },
+  "6": {
+    "id": 6,
+    "key": "language_setting",
+    "zh_cn_name": "切换语言",
+    "icon": 5106,
+    "default": 2,
+    "switch": true,
+    "popup": "language_setting"
+  },
+  "7": {
+    "id": 7,
+    "key": "advice_feedback",
+    "zh_cn_name": "建议反馈",
+    "icon": 5107,
+    "default": 2,
+    "switch": true,
+    "popup": "advice_feedback"
+  },
+  "8": {
+    "id": 8,
+    "key": "gift_exchange",
+    "zh_cn_name": "兑换礼包",
+    "icon": 5108,
+    "default": 2,
+    "switch": true,
+    "popup": "gift_exchange"
   }
 }

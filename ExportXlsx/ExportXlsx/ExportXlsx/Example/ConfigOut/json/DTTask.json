@@ -3,638 +3,780 @@
     "id": 1001,
     "zh_cn_name": "拍摄5部电影",
     "unlock": 1002,
-    "task_movie": 5,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 10
+    "goal": 5,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0
   },
   "1002": {
     "id": 1002,
     "zh_cn_name": "升级艺人10次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 10,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 10
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0
   },
   "1003": {
     "id": 1003,
     "zh_cn_name": "培养艺人1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 1,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1004": {
     "id": 1004,
     "zh_cn_name": "赠送艺人礼物10次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 10,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1005": {
     "id": 1005,
     "zh_cn_name": "让3名艺人完成技能训练",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 3,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 3,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1006": {
     "id": 1006,
     "zh_cn_name": "升级艺人技能1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 1,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1007": {
     "id": 1007,
     "zh_cn_name": "完成公务30次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 30,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 30,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1008": {
     "id": 1008,
     "zh_cn_name": "完成会议10次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 10,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1009": {
     "id": 1009,
     "zh_cn_name": "接见粉丝10次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 10,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1010": {
     "id": 1010,
     "zh_cn_name": "城市宣传20次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 20,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 20,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1011": {
     "id": 1011,
     "zh_cn_name": "领取城市收益5次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 5,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 5,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1012": {
     "id": 1012,
     "zh_cn_name": "祝贺总排行榜1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 1,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1013": {
     "id": 1013,
     "zh_cn_name": "祝贺影片排行榜1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 1,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1014": {
     "id": 1014,
     "zh_cn_name": "领取比赛礼包1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 1,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1015": {
     "id": 1015,
     "zh_cn_name": "升级宝物1次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 1,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1016": {
     "id": 1016,
     "zh_cn_name": "进行10次生产",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 10,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1017": {
     "id": 1017,
     "zh_cn_name": "完成10个订单",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 10,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 10,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1018": {
     "id": 1018,
     "zh_cn_name": "领取影片持续收益3次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 3,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 3,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1019": {
     "id": 1019,
     "zh_cn_name": "用宣传册提升电影关注度5次",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 5,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 5
+    "goal": 5,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 5,
+    "pre_id": 0
   },
   "1020": {
     "id": 1020,
     "zh_cn_name": "向合作者赠送1次美元",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 1,
-    "task_cotask": 0,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 10
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0
   },
   "1021": {
     "id": 1021,
     "zh_cn_name": "完成1个合作任务",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 1,
-    "task_coorder": 0,
-    "reward": 20000,
-    "Complete": 10
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0
   },
   "1022": {
     "id": 1022,
     "zh_cn_name": "装填1次合作订单",
     "unlock": 1002,
-    "task_movie": 0,
-    "task_actor_level": 0,
-    "task_actor_train": 0,
-    "task_actor_gift": 0,
-    "task_actor_skill": 0,
-    "task_skill_level": 0,
-    "task_business": 0,
-    "task_meeting": 0,
-    "task_fans": 0,
-    "task_publicize": 0,
-    "task_city": 0,
-    "task_rank_all": 0,
-    "task_rank_movie": 0,
-    "task_game_gift": 0,
-    "task_treasure": 0,
-    "task_produce": 0,
-    "task_order": 0,
-    "task_income": 0,
-    "task_attention": 0,
-    "task_dollar": 0,
-    "task_cotask": 0,
-    "task_coorder": 1,
-    "reward": 20000,
-    "Complete": 10
+    "goal": 1,
+    "type": 1,
+    "reward": [
+      {
+        "itemId": 3,
+        "itemNum": 20000
+      }
+    ],
+    "Complete": 10,
+    "pre_id": 0
+  },
+  "3101": {
+    "id": 3101,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 10,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0
+  },
+  "3102": {
+    "id": 3102,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 20,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3101
+  },
+  "3103": {
+    "id": 3103,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 30,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3102
+  },
+  "3104": {
+    "id": 3104,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 40,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3103
+  },
+  "3105": {
+    "id": 3105,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 50,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3104
+  },
+  "3106": {
+    "id": 3106,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 60,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3105
+  },
+  "3107": {
+    "id": 3107,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 70,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3106
+  },
+  "3108": {
+    "id": 3108,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 80,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3107
+  },
+  "3109": {
+    "id": 3109,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 90,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3108
+  },
+  "3110": {
+    "id": 3110,
+    "zh_cn_name": "解锁{0}个剧本",
+    "unlock": 0,
+    "goal": 100,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3109
+  },
+  "3201": {
+    "id": 3201,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 10,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0
+  },
+  "3202": {
+    "id": 3202,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 20,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3201
+  },
+  "3203": {
+    "id": 3203,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 30,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3202
+  },
+  "3204": {
+    "id": 3204,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 40,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3203
+  },
+  "3205": {
+    "id": 3205,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 50,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3204
+  },
+  "3206": {
+    "id": 3206,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 60,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3205
+  },
+  "3207": {
+    "id": 3207,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 70,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3206
+  },
+  "3208": {
+    "id": 3208,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 80,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3207
+  },
+  "3209": {
+    "id": 3209,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 90,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3208
+  },
+  "3210": {
+    "id": 3210,
+    "zh_cn_name": "解锁剧本的星级总计达到{0}个",
+    "unlock": 0,
+    "goal": 100,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3209
+  },
+  "3301": {
+    "id": 3301,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 10,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 0
+  },
+  "3302": {
+    "id": 3302,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 20,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 20
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3301
+  },
+  "3303": {
+    "id": 3303,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 30,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 30
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3302
+  },
+  "3304": {
+    "id": 3304,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 40,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 40
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3303
+  },
+  "3305": {
+    "id": 3305,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 50,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 50
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3304
+  },
+  "3306": {
+    "id": 3306,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 60,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 60
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3305
+  },
+  "3307": {
+    "id": 3307,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 70,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 70
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3306
+  },
+  "3308": {
+    "id": 3308,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 80,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 80
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3307
+  },
+  "3309": {
+    "id": 3309,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 90,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 90
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3308
+  },
+  "3310": {
+    "id": 3310,
+    "zh_cn_name": "完成{0}个剧本的挑战",
+    "unlock": 0,
+    "goal": 100,
+    "type": 3,
+    "reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      }
+    ],
+    "Complete": 0,
+    "pre_id": 3309
   }
 }

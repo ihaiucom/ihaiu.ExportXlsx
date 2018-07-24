@@ -32,6 +32,7 @@ namespace configs
 			config.syn_id = csvGetInt(csv,  this.GetHeadIndex(  "syn_id"  )   );
 			config.actor_id = csvGetInt(csv,  this.GetHeadIndex(  "actor_id"  )   );
 			config.actor_num = csvGetInt(csv,  this.GetHeadIndex(  "actor_num"  )   );
+			config.zh_cn_get_way_explain = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_get_way_explain"  )   );
 
 			
 

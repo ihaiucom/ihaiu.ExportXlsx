@@ -12,7 +12,7 @@ namespace configs
 		field : string;
 		enName : string;
 		zh_cn_name : string;
-		icon : string;
+		icon : number;
 		tip : string;
 	}
 }

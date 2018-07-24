@@ -14,7 +14,7 @@ namespace configs
 		stack_sort : number;
 		zh_cn_story_name : string;
 		name_tips : string;
-		poster_name : string;
+		poster_name : number;
 		zh_cn_introduction : string;
 		introduction_tips : string;
 		length : number;
@@ -26,14 +26,11 @@ namespace configs
 		shoot_type : number;
 		property : number[];
 		target_mark : boolean;
-		target : number;
 		male_percent : number;
 		female_percent : number;
 		child_percent : number;
 		reward : DTStoryEffect[];
 		sequel_mark : boolean;
-		interviews_bottom : number;
-		interviews_top : number;
 		random_name : number;
 
 

@@ -10,7 +10,6 @@ namespace configs
 	
 
 		id : number;
-		pop_level : number;
 		tips : string;
 		cost_id : number;
 		cost_num : number;

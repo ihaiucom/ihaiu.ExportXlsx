@@ -1,4 +1,0 @@
-﻿int	string	string	int	int	int	int	string	string	string	string	string	string	DTItemNum[]	int	bool	int
-id	名称	name	触发条件|n|1等级|n|2播放完剧情	触发条件参数	任务要求:|n|1建造建筑|n|2升级建筑|n|3升级艺人|n|4招募艺人|n|5街道宣传|n|6进行路演|n|7拍摄电影|n|8查看电影收益|n|9领取电影收益|n|10提升关注度|n|11任命形象大使|n|12选择重点宣传城市	要求参数	简介	info	奖励简介	rewardinfo	内容	content	奖励	前置任务id	是否触发引导|n|0=否|n|1=是	引导id
-id	cn_name	en_name	trigger	t_value	require	r_value	cn_info	en_info	cn_rinfo	en_rinfo	cn_content	en_content	reward	pre_quest	guide	guide_id
-1001	建造摄影棚	Build	2	1001	1	2	A	B	A	B	建造摄影棚	Bulid	1:1000;2:500	0	1	1001

@@ -2,6 +2,7 @@
   "list": 
   [
   	{
+//文件名
   		"xlsx": "E:/zengfeng/GamePF/gamepf_doc/Config/Common/Global.xlsx",
   		"idField": "id",
   		"keyField": "key",

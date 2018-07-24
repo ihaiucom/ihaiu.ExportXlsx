@@ -1,10 +1,13 @@
 ﻿{
   "1": {
     "id": 1,
-    "zh_cn_name": "喜剧组",
+    "zh_cn_name": "临时剧本组1",
     "scripts": [
-      1001,
-      1002
+      1003,
+      1008,
+      1009,
+      1021,
+      1025
     ],
     "rewards": [
       {
@@ -13,17 +16,20 @@
       },
       {
         "itemId": 2,
-        "itemNum": 20
+        "itemNum": 200
       }
     ],
-    "addition_scene": "1601:10;1602:20"
+    "addition_scene": "1601:10"
   },
   "2": {
     "id": 2,
-    "zh_cn_name": "悲剧租",
+    "zh_cn_name": "临时剧本组2",
     "scripts": [
-      1003,
-      1004
+      1028,
+      1033,
+      1034,
+      1041,
+      1045
     ],
     "rewards": [
       {
@@ -32,18 +38,108 @@
       },
       {
         "itemId": 2,
-        "itemNum": 20
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1602:10"
+  },
+  "3": {
+    "id": 3,
+    "zh_cn_name": "临时剧本组3",
+    "scripts": [
+      1049,
+      1053,
+      1059,
+      1068,
+      1071
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1603:10"
+  },
+  "4": {
+    "id": 4,
+    "zh_cn_name": "临时剧本组4",
+    "scripts": [
+      1081,
+      1084,
+      1085,
+      1088,
+      1095
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1604:10"
+  },
+  "5": {
+    "id": 5,
+    "zh_cn_name": "临时剧本组5",
+    "scripts": [
+      1102,
+      1107,
+      1108,
+      1118,
+      1120
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1605:10"
+  },
+  "6": {
+    "id": 6,
+    "zh_cn_name": "临时剧本组6",
+    "scripts": [
+      1501,
+      1502,
+      1503,
+      1504,
+      1505
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
       }
     ],
     "addition_scene": "1601:10"
   },
-  "3": {
-    "id": 3,
-    "zh_cn_name": "歌舞组",
+  "7": {
+    "id": 7,
+    "zh_cn_name": "临时剧本组7",
     "scripts": [
-      1005,
-      1006,
-      1007
+      1506,
+      1507,
+      1508,
+      1509,
+      1510
     ],
     "rewards": [
       {
@@ -52,9 +148,97 @@
       },
       {
         "itemId": 2,
-        "itemNum": 20
+        "itemNum": 200
       }
     ],
     "addition_scene": "1601:10"
+  },
+  "8": {
+    "id": 8,
+    "zh_cn_name": "临时剧本组8",
+    "scripts": [
+      1511,
+      1512,
+      1513,
+      1514,
+      1515
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1602:10"
+  },
+  "9": {
+    "id": 9,
+    "zh_cn_name": "临时剧本组9",
+    "scripts": [
+      1516,
+      1517,
+      1518,
+      1519,
+      1520
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1603:10"
+  },
+  "10": {
+    "id": 10,
+    "zh_cn_name": "临时剧本组10",
+    "scripts": [
+      1521,
+      1522,
+      1523,
+      1524,
+      1525
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1604:10"
+  },
+  "11": {
+    "id": 11,
+    "zh_cn_name": "临时剧本组11",
+    "scripts": [
+      1526,
+      1527,
+      1528,
+      1529,
+      1530
+    ],
+    "rewards": [
+      {
+        "itemId": 1,
+        "itemNum": 10
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "addition_scene": "1605:10"
   }
 }

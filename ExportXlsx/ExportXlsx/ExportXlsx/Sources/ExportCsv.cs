@@ -57,7 +57,9 @@ namespace ExportXlsx.Sources
 
         public static string ReplaceSpearator(string txt)
         {
+            txt = txt.Replace("\\r\\n", "\n");
             txt = txt.Replace("\r\n", "\n");
+            txt = txt.Replace("\\n", "\n");
             txt = txt.Replace("\n", Setting.Options.csvLineSeparatorReplace);
 
             if(!string.IsNullOrEmpty(Setting.Options.csvSeparatorReplace))

@@ -2427,3 +2427,315 @@
 2018-07-03 15:44:07.3345   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Test.xlsx
 2018-07-03 15:44:07.3345   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Type.xlsx
 2018-07-03 15:44:07.3485   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Visit.xlsx
+2018-07-19 15:56:52.9302   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-19 15:56:53.3162   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-19 15:56:53.5782   (Program.cs:23) 读取配置表 Activities
+2018-07-19 15:56:53.6242   (Program.cs:23) 读取配置表 Actor
+2018-07-19 15:56:53.7402   (Program.cs:23) 读取配置表 ActorAssets
+2018-07-20 16:12:55.6791   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-20 16:12:56.3601   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-20 16:12:56.4291   (Program.cs:23) 读取配置表 Activities
+2018-07-20 16:12:56.4711   (Program.cs:23) 读取配置表 Actor
+2018-07-20 16:12:56.5311   (Program.cs:23) 读取配置表 ActorAssets
+2018-07-20 16:13:04.4186   (Program.cs:23) 读取配置表 ActorLevel
+2018-07-20 16:13:11.7400   (Program.cs:23) 读取配置表 ActorLoyalty
+2018-07-20 16:13:12.0920   (Program.cs:23) 读取配置表 ActorProficiency
+2018-07-20 16:13:12.1070   (Program.cs:23) 读取配置表 ActorTrain
+2018-07-20 16:13:19.6754   (Program.cs:23) 读取配置表 Avatar
+2018-07-20 16:13:19.8004   (Program.cs:23) 读取配置表 BattleLevel
+2018-07-20 16:13:19.8254   (Program.cs:23) 读取配置表 BattleShootType
+2018-07-20 16:13:19.8344   (Program.cs:23) 读取配置表 BlockLevel
+2018-07-20 16:13:19.8754   (Program.cs:23) 读取配置表 BlockRankingList
+2018-07-20 16:13:19.9054   (Program.cs:23) 读取配置表 BlockWords
+2018-07-20 16:13:19.9534   (Program.cs:23) 读取配置表 BuildingEffect
+2018-07-20 16:13:20.0305   (Program.cs:23) 读取配置表 BuildingLevel
+2018-07-20 16:13:20.0835   (Program.cs:23) 读取配置表 BuildProperty
+2018-07-20 16:13:20.1035   (Program.cs:23)  path:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BuildProperty.xlsx, sheetName:， 是空单元格 3行2列  
+2018-07-20 16:13:20.1035   (Program.cs:23) 读取配置表 Business
+2018-07-20 16:13:20.1345   (Program.cs:23) 读取配置表 Cinema
+2018-07-20 16:13:20.1545   (Program.cs:23) 读取配置表 CityPopularize
+2018-07-20 16:13:20.1915   (Program.cs:23) 读取配置表 Complete
+2018-07-20 16:13:20.2085   (Program.cs:23) 读取配置表 Compound
+2018-07-20 16:13:20.2375   (Program.cs:23) 读取配置表 CooperateReward
+2018-07-20 16:13:20.2685   (Program.cs:23) 读取配置表 CooperateTask
+2018-07-20 16:13:20.2895   (Program.cs:23) 读取配置表 Country
+2018-07-20 16:13:20.3055   (Program.cs:23) 读取配置表 DailySign
+2018-07-20 16:13:20.3365   (Program.cs:23) 读取配置表 Dialogue
+2018-07-20 16:13:20.3615   (Program.cs:23) 读取配置表 GameLevel
+2018-07-20 16:13:20.3765   (Program.cs:23) 读取配置表 GameRandomName
+2018-07-20 16:13:20.4245   (Program.cs:23) 读取配置表 GiftPackage
+2018-07-20 16:13:20.4485   (Program.cs:23) 读取配置表 Global
+2018-07-20 16:13:20.4775   (Program.cs:23) 读取配置表 Guidesystem
+2018-07-20 16:13:20.5065   (Program.cs:23) 读取配置表 HeadPortrait
+2018-07-20 16:13:20.5205   (Program.cs:23) 读取配置表 InitialActor
+2018-07-20 16:13:20.5435   (Program.cs:23) 读取配置表 Item
+2018-07-20 16:13:20.6005   (Program.cs:23) 读取配置表 Loader
+2018-07-20 16:13:20.6265   (Program.cs:23) 读取配置表 Loading
+2018-07-20 16:13:20.6435   (Program.cs:23) 读取配置表 Mail
+2018-07-20 16:13:20.6435   (Program.cs:23) 读取配置表 Maintask
+2018-07-20 16:13:20.6435   (Program.cs:23) 读取配置表 MeetingGame
+2018-07-20 16:13:20.6795   (Program.cs:23) 读取配置表 MeetingRewards
+2018-07-20 16:13:20.7115   (Program.cs:23) 读取配置表 Menu
+2018-07-20 16:13:20.7505   (Program.cs:23) 读取配置表 MovieAdaptationMsg
+2018-07-20 16:13:20.7745   (Program.cs:23) 读取配置表 MovieAudienceEvaluation
+2018-07-20 16:13:20.8275   (Program.cs:23) 读取配置表 MovieDailyReward
+2018-07-20 16:13:20.8555   (Program.cs:23) 读取配置表 MovieDrop
+2018-07-20 16:13:20.9035   (Program.cs:23) 读取配置表 MovieExpect
+2018-07-20 16:13:20.9135   (Program.cs:23) 读取配置表 MovieLicence
+2018-07-20 16:13:20.9325   (Program.cs:23) 读取配置表 MovieMediaVisit
+2018-07-20 16:13:20.9505   (Program.cs:23) 读取配置表 MovieMidiaEvaluation
+2018-07-20 16:13:20.9765   (Program.cs:23) 读取配置表 MovieMidiaEvaluationMsg
+2018-07-20 16:13:20.9965   (Program.cs:23) 读取配置表 MoviePopularize
+2018-07-20 16:13:21.0185   (Program.cs:23) 读取配置表 MovieShootType
+2018-07-20 16:13:21.0435   (Program.cs:23) 读取配置表 Msg
+2018-07-20 16:13:21.0745   (Program.cs:23) 读取配置表 MsgProtoError
+2018-07-20 16:13:21.1135   (Program.cs:23) 读取配置表 Npc
+2018-07-20 16:13:21.1135   (Program.cs:23) 读取配置表 Order
+2018-07-20 16:13:21.1905   (Program.cs:23) 读取配置表 Oscar
+2018-07-20 16:13:21.2275   (Program.cs:23) 读取配置表 Perform
+2018-07-20 16:13:21.2275   (Program.cs:23) 读取配置表 PlayerDefault
+2018-07-20 16:13:21.2405   (Program.cs:23) 读取配置表 PlayerLevel
+2018-07-20 16:13:21.3635   (Program.cs:23) 读取配置表 Position
+2018-07-20 16:13:21.3865   (Program.cs:23) 读取配置表 Produce
+2018-07-20 16:13:21.5055   (Program.cs:23) 读取配置表 ProduceLevel
+2018-07-20 16:13:21.5385   (Program.cs:23) 读取配置表 ProduceSouvenir
+2018-07-20 16:13:21.5775   (Program.cs:23) 读取配置表 Property
+2018-07-20 16:13:21.5945   (Program.cs:23) 读取配置表 RandomName
+2018-07-20 16:13:21.6295   (Program.cs:23) 读取配置表 RandomSurname
+2018-07-20 16:13:21.6515   (Program.cs:23) 读取配置表 Recharge
+2018-07-20 16:13:21.6825   (Program.cs:23) 读取配置表 Secretary
+2018-07-20 16:13:21.6825   (Program.cs:23) 读取配置表 SecretaryGift
+2018-07-20 16:13:21.6935   (Program.cs:23) 读取配置表 SecretaryText
+2018-07-20 16:13:21.7185   (Program.cs:23) 读取配置表 SecretaryType
+2018-07-20 16:13:21.7385   (Program.cs:23) 读取配置表 ServerRankingList
+2018-07-20 16:13:21.7635   (Program.cs:23) 读取配置表 SettingDefault
+2018-07-20 16:13:21.7786   (Program.cs:23) 读取配置表 SevenDays
+2018-07-20 16:13:21.7936   (Program.cs:23) 读取配置表 SevenDaysText
+2018-07-20 16:13:21.7996   (Program.cs:23) 读取配置表 Shop
+2018-07-20 16:13:21.8216   (Program.cs:23) 读取配置表 Skill
+2018-07-20 16:13:21.9946   (Program.cs:23) 读取配置表 SkillEffect
+2018-07-20 16:13:22.0006   (Program.cs:23) 读取配置表 SkillTrigger
+2018-07-20 16:13:22.0416   (Program.cs:23) 读取配置表 Speak
+2018-07-20 16:13:22.0416   (Program.cs:23) 读取配置表 StarCon
+2018-07-20 16:13:22.0736   (Program.cs:23) 读取配置表 Story
+2018-07-20 16:13:22.1026   (Program.cs:23) 读取配置表 StoryCharacters
+2018-07-20 16:13:22.1446   (Program.cs:23) 读取配置表 StoryGoals
+2018-07-20 16:13:22.2296   (Program.cs:23) 读取配置表 Storyline
+2018-07-20 16:13:22.2466   (Program.cs:23) 读取配置表 StoryRate
+2018-07-20 16:13:22.2556   (Program.cs:23) 读取配置表 StoryStackItem
+2018-07-20 16:13:22.2696   (Program.cs:23) 读取配置表 StoryStackSort
+2018-07-20 16:13:22.2816   (Program.cs:23) 读取配置表 Street
+2018-07-20 16:13:22.5036   (Program.cs:23) 读取配置表 Task
+2018-07-20 16:13:24.9797   (Program.cs:23) 读取配置表 Test
+2018-07-20 16:13:25.6948   (Program.cs:23) 读取配置表 Type
+2018-07-20 16:13:33.6752   (Program.cs:23) 读取配置表 Visit
+2018-07-20 16:13:33.7452   (Program.cs:23) ExportClientTS:DTItemNum
+2018-07-20 16:13:33.7752   (Program.cs:23) ExportClientTS:DTStoryNum
+2018-07-20 16:13:33.7812   (Program.cs:23) ExportClientTS:DTVector2
+2018-07-20 16:13:33.8072   (Program.cs:23) ExportClientTS:Activities
+2018-07-20 16:13:33.8622   (Program.cs:23) ExportClientTS:Actor
+2018-07-20 16:13:33.8732   (Program.cs:23) ExportClientTS:ActorAssets
+2018-07-20 16:13:33.8732   (Program.cs:23) ExportClientTS:ActorLevel
+2018-07-20 16:13:33.8892   (Program.cs:23) ExportClientTS:ActorLoyalty
+2018-07-20 16:13:33.8892   (Program.cs:23) ExportClientTS:ActorProficiency
+2018-07-20 16:13:33.8892   (Program.cs:23) ExportClientTS:ActorTrain
+2018-07-20 16:13:33.9122   (Program.cs:23) ExportClientTS:Avatar
+2018-07-20 16:13:33.9202   (Program.cs:23) ExportClientTS:BattleLevel
+2018-07-20 16:13:33.9202   (Program.cs:23) ExportClientTS:BattleShootType
+2018-07-20 16:13:33.9382   (Program.cs:23) ExportClientTS:BlockLevel
+2018-07-20 16:13:33.9382   (Program.cs:23) ExportClientTS:BlockRankingList
+2018-07-20 16:13:33.9632   (Program.cs:23) ExportClientTS:BlockWords
+2018-07-20 16:13:33.9702   (Program.cs:23) ExportClientTS:BuildingEffect
+2018-07-20 16:13:33.9702   (Program.cs:23) ExportClientTS:BuildingLevel
+2018-07-20 16:13:33.9852   (Program.cs:23) ExportClientTS:BuildProperty
+2018-07-20 16:13:33.9852   (Program.cs:23) ExportClientTS:Business
+2018-07-20 16:13:34.0363   (Program.cs:23) ExportClientTS:Cinema
+2018-07-20 16:13:34.0473   (Program.cs:23) ExportClientTS:CityPopularize
+2018-07-20 16:13:34.0623   (Program.cs:23) ExportClientTS:Complete
+2018-07-20 16:13:34.0623   (Program.cs:23) ExportClientTS:Compound
+2018-07-20 16:13:34.0873   (Program.cs:23) ExportClientTS:CooperateReward
+2018-07-20 16:13:34.1043   (Program.cs:23) ExportClientTS:CooperateTask
+2018-07-20 16:13:34.1223   (Program.cs:23) ExportClientTS:Country
+2018-07-20 16:13:34.1393   (Program.cs:23) ExportClientTS:DailySign
+2018-07-20 16:13:34.1393   (Program.cs:23) ExportClientTS:Dialogue
+2018-07-20 16:13:34.1583   (Program.cs:23) ExportClientTS:GameLevel
+2018-07-20 16:13:34.1723   (Program.cs:23) ExportClientTS:GameRandomName
+2018-07-20 16:13:34.1723   (Program.cs:23) ExportClientTS:GiftPackage
+2018-07-20 16:13:34.1903   (Program.cs:23) ExportClientTS:Global
+2018-07-20 16:13:34.2003   (Program.cs:23) ExportClientTS:Guidesystem
+2018-07-20 16:13:34.2003   (Program.cs:23) ExportClientTS:HeadPortrait
+2018-07-20 16:13:34.2183   (Program.cs:23) ExportClientTS:InitialActor
+2018-07-20 16:13:34.2183   (Program.cs:23) ExportClientTS:Item
+2018-07-20 16:13:34.2513   (Program.cs:23) ExportClientTS:Loader
+2018-07-20 16:13:34.2643   (Program.cs:23) ExportClientTS:Loading
+2018-07-20 16:13:34.2643   (Program.cs:23) ExportClientTS:Mail
+2018-07-20 16:13:34.2833   (Program.cs:23) ExportClientTS:Maintask
+2018-07-20 16:13:34.2943   (Program.cs:23) ExportClientTS:MeetingGame
+2018-07-20 16:13:34.2943   (Program.cs:23) ExportClientTS:MeetingRewards
+2018-07-20 16:13:34.3253   (Program.cs:23) ExportClientTS:Menu
+2018-07-20 16:13:34.3503   (Program.cs:23) ExportClientTS:MovieAdaptationMsg
+2018-07-20 16:13:34.3583   (Program.cs:23) ExportClientTS:MovieAudienceEvaluation
+2018-07-20 16:13:34.3583   (Program.cs:23) ExportClientTS:MovieDailyReward
+2018-07-20 16:13:34.3923   (Program.cs:23) ExportClientTS:MovieDrop
+2018-07-20 16:13:34.4093   (Program.cs:23) ExportClientTS:MovieExpect
+2018-07-20 16:13:34.4203   (Program.cs:23) ExportClientTS:MovieLicence
+2018-07-20 16:13:34.4413   (Program.cs:23) ExportClientTS:MovieMediaVisit
+2018-07-20 16:13:34.4583   (Program.cs:23) ExportClientTS:MovieMidiaEvaluation
+2018-07-20 16:13:34.4793   (Program.cs:23) ExportClientTS:MovieMidiaEvaluationMsg
+2018-07-20 16:13:34.4873   (Program.cs:23) ExportClientTS:MoviePopularize
+2018-07-20 16:13:34.4873   (Program.cs:23) ExportClientTS:MovieShootType
+2018-07-20 16:13:34.5183   (Program.cs:23) ExportClientTS:Msg
+2018-07-20 16:13:34.5183   (Program.cs:23) ExportClientTS:MsgProtoError
+2018-07-20 16:13:34.5343   (Program.cs:23) ExportClientTS:Npc
+2018-07-20 16:13:34.5343   (Program.cs:23) ExportClientTS:Order
+2018-07-20 16:13:34.5523   (Program.cs:23) ExportClientTS:Oscar
+2018-07-20 16:13:34.5673   (Program.cs:23) ExportClientTS:Perform
+2018-07-20 16:13:34.5793   (Program.cs:23) ExportClientTS:PlayerDefault
+2018-07-20 16:13:34.6063   (Program.cs:23) ExportClientTS:PlayerLevel
+2018-07-20 16:13:34.6063   (Program.cs:23) ExportClientTS:Position
+2018-07-20 16:13:34.6273   (Program.cs:23) ExportClientTS:Produce
+2018-07-20 16:13:34.6273   (Program.cs:23) ExportClientTS:ProduceLevel
+2018-07-20 16:13:34.6633   (Program.cs:23) ExportClientTS:ProduceSouvenir
+2018-07-20 16:13:34.6713   (Program.cs:23) ExportClientTS:Property
+2018-07-20 16:13:34.6713   (Program.cs:23) ExportClientTS:RandomName
+2018-07-20 16:13:34.6873   (Program.cs:23) ExportClientTS:RandomSurname
+2018-07-20 16:13:34.6873   (Program.cs:23) ExportClientTS:Recharge
+2018-07-20 16:13:34.7023   (Program.cs:23) ExportClientTS:Secretary
+2018-07-20 16:13:34.7023   (Program.cs:23) ExportClientTS:SecretaryGift
+2018-07-20 16:13:34.7163   (Program.cs:23) ExportClientTS:SecretaryText
+2018-07-20 16:13:34.7163   (Program.cs:23) ExportClientTS:SecretaryType
+2018-07-20 16:13:34.7303   (Program.cs:23) ExportClientTS:ServerRankingList
+2018-07-20 16:13:34.7303   (Program.cs:23) ExportClientTS:SettingDefault
+2018-07-20 16:13:34.7303   (Program.cs:23) ExportClientTS:SevenDays
+2018-07-20 16:13:34.7503   (Program.cs:23) ExportClientTS:SevenDaysText
+2018-07-20 16:13:34.7503   (Program.cs:23) ExportClientTS:Shop
+2018-07-20 16:13:34.7633   (Program.cs:23) ExportClientTS:Skill
+2018-07-20 16:13:34.7633   (Program.cs:23) ExportClientTS:SkillEffect
+2018-07-20 16:13:34.7633   (Program.cs:23) ExportClientTS:SkillTrigger
+2018-07-20 16:13:34.7833   (Program.cs:23) ExportClientTS:Speak
+2018-07-20 16:13:34.7833   (Program.cs:23) ExportClientTS:StarCon
+2018-07-20 16:13:34.7963   (Program.cs:23) ExportClientTS:Story
+2018-07-20 16:13:34.7963   (Program.cs:23) ExportClientTS:StoryCharacters
+2018-07-20 16:13:34.8093   (Program.cs:23) ExportClientTS:StoryGoals
+2018-07-20 16:13:34.8093   (Program.cs:23) ExportClientTS:Storyline
+2018-07-20 16:13:34.8093   (Program.cs:23) ExportClientTS:StoryRate
+2018-07-20 16:13:34.8293   (Program.cs:23) ExportClientTS:StoryStackItem
+2018-07-20 16:13:34.8293   (Program.cs:23) ExportClientTS:StoryStackSort
+2018-07-20 16:13:34.8433   (Program.cs:23) ExportClientTS:Street
+2018-07-20 16:13:34.8433   (Program.cs:23) ExportClientTS:Task
+2018-07-20 16:13:34.8573   (Program.cs:23) ExportClientTS:Test
+2018-07-20 16:13:34.8573   (Program.cs:23) ExportClientTS:Type
+2018-07-20 16:13:34.8573   (Program.cs:23) ExportClientTS:Visit
+2018-07-20 16:13:36.3534   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Activities.xlsx
+2018-07-20 16:13:36.4204   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Actor.xlsx
+2018-07-20 16:13:36.4464   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ActorAssets.xlsx
+2018-07-20 16:13:39.1115   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ActorLevel.xlsx
+2018-07-20 16:13:41.2557   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ActorLoyalty.xlsx
+2018-07-20 16:13:41.3287   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ActorProficiency.xlsx
+2018-07-20 16:13:41.3347   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ActorTrain.xlsx
+2018-07-20 16:13:44.3998   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Avatar.xlsx
+2018-07-20 16:13:52.2323   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BattleLevel.xlsx
+2018-07-20 16:13:52.2383   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BattleShootType.xlsx
+2018-07-20 16:13:52.2383   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BlockLevel.xlsx
+2018-07-20 16:13:52.2553   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BlockRankingList.xlsx
+2018-07-20 16:13:52.2553   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BlockWords.xlsx
+2018-07-20 16:13:52.2663   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BuildingEffect.xlsx
+2018-07-20 16:13:52.2903   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BuildingLevel.xlsx
+2018-07-20 16:13:52.3103   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\BuildProperty.xlsx
+2018-07-20 16:13:52.3143   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Business.xlsx
+2018-07-20 16:13:52.3143   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Cinema.xlsx
+2018-07-20 16:13:52.3143   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\CityPopularize.xlsx
+2018-07-20 16:13:52.3283   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Complete.xlsx
+2018-07-20 16:13:52.3283   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Compound.xlsx
+2018-07-20 16:13:52.3283   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\CooperateReward.xlsx
+2018-07-20 16:13:52.3523   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\CooperateTask.xlsx
+2018-07-20 16:13:52.3523   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Country.xlsx
+2018-07-20 16:13:52.3603   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\DailySign.xlsx
+2018-07-20 16:13:52.3603   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Dialogue.xlsx
+2018-07-20 16:13:52.3603   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\GameLevel.xlsx
+2018-07-20 16:13:52.3743   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\GameRandomName.xlsx
+2018-07-20 16:13:52.3743   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\GiftPackage.xlsx
+2018-07-20 16:13:52.3743   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Global.xlsx
+2018-07-20 16:13:52.3743   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Guidesystem.xlsx
+2018-07-20 16:13:52.3923   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\HeadPortrait.xlsx
+2018-07-20 16:13:52.3923   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\InitialActor.xlsx
+2018-07-20 16:13:52.3923   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Item.xlsx
+2018-07-20 16:13:52.4123   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Loader.xlsx
+2018-07-20 16:13:52.4123   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Loading.xlsx
+2018-07-20 16:13:52.4123   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Mail.xlsx
+2018-07-20 16:13:52.4223   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Maintask.xlsx
+2018-07-20 16:13:52.4223   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MeetingGame.xlsx
+2018-07-20 16:13:52.4223   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MeetingRewards.xlsx
+2018-07-20 16:13:52.4223   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Menu.xlsx
+2018-07-20 16:13:52.4373   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieAdaptationMsg.xlsx
+2018-07-20 16:13:52.4373   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieAudienceEvaluation.xlsx
+2018-07-20 16:13:52.4373   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieDailyReward.xlsx
+2018-07-20 16:13:52.4373   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieDrop.xlsx
+2018-07-20 16:13:52.4593   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieExpect.xlsx
+2018-07-20 16:13:52.4593   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieLicence.xlsx
+2018-07-20 16:13:52.4593   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieMediaVisit.xlsx
+2018-07-20 16:13:52.4713   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieMidiaEvaluation.xlsx
+2018-07-20 16:13:52.4713   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieMidiaEvaluationMsg.xlsx
+2018-07-20 16:13:52.4713   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MoviePopularize.xlsx
+2018-07-20 16:13:52.4713   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MovieShootType.xlsx
+2018-07-20 16:13:52.4843   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:13:52.4843   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\MsgProtoError.xlsx
+2018-07-20 16:13:52.4843   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Npc.xlsx
+2018-07-20 16:13:52.4843   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Order.xlsx
+2018-07-20 16:13:52.5433   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Oscar.xlsx
+2018-07-20 16:13:52.5483   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Perform.xlsx
+2018-07-20 16:13:52.5483   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\PlayerDefault.xlsx
+2018-07-20 16:13:52.5483   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\PlayerLevel.xlsx
+2018-07-20 16:13:52.5903   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Position.xlsx
+2018-07-20 16:13:52.5943   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Produce.xlsx
+2018-07-20 16:13:52.5943   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ProduceLevel.xlsx
+2018-07-20 16:13:52.5943   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ProduceSouvenir.xlsx
+2018-07-20 16:13:52.6173   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Property.xlsx
+2018-07-20 16:13:52.6173   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\RandomName.xlsx
+2018-07-20 16:13:52.6283   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\RandomSurname.xlsx
+2018-07-20 16:13:52.6283   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Recharge.xlsx
+2018-07-20 16:13:52.6403   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Secretary.xlsx
+2018-07-20 16:13:52.6403   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SecretaryGift.xlsx
+2018-07-20 16:13:52.6403   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SecretaryText.xlsx
+2018-07-20 16:13:52.6403   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SecretaryType.xlsx
+2018-07-20 16:13:52.6403   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\ServerRankingList.xlsx
+2018-07-20 16:13:52.6563   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SettingDefault.xlsx
+2018-07-20 16:13:52.6563   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SevenDays.xlsx
+2018-07-20 16:13:52.6563   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SevenDaysText.xlsx
+2018-07-20 16:13:52.6563   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Shop.xlsx
+2018-07-20 16:13:52.6563   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Skill.xlsx
+2018-07-20 16:13:52.7353   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SkillEffect.xlsx
+2018-07-20 16:13:52.7353   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\SkillTrigger.xlsx
+2018-07-20 16:13:52.7353   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Speak.xlsx
+2018-07-20 16:13:52.7353   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StarCon.xlsx
+2018-07-20 16:13:52.7503   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Story.xlsx
+2018-07-20 16:13:52.7503   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StoryCharacters.xlsx
+2018-07-20 16:13:52.7693   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StoryGoals.xlsx
+2018-07-20 16:13:52.7813   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Storyline.xlsx
+2018-07-20 16:13:52.7813   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StoryRate.xlsx
+2018-07-20 16:13:52.7813   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StoryStackItem.xlsx
+2018-07-20 16:13:52.7973   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\StoryStackSort.xlsx
+2018-07-20 16:13:52.7973   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Street.xlsx
+2018-07-20 16:13:52.9583   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Task.xlsx
+2018-07-20 16:13:52.9583   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Test.xlsx
+2018-07-20 16:13:52.9693   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Type.xlsx
+2018-07-20 16:13:52.9693   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Visit.xlsx
+2018-07-20 16:25:17.5655   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-20 16:25:17.8495   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-20 16:25:17.8595   (Program.cs:23) 读取配置表 Msg
+2018-07-20 16:25:17.9245   (Program.cs:23) ExportClientTS:DTItemNum
+2018-07-20 16:25:17.9445   (Program.cs:23) ExportClientTS:DTStoryNum
+2018-07-20 16:25:17.9445   (Program.cs:23) ExportClientTS:DTVector2
+2018-07-20 16:25:17.9535   (Program.cs:23) ExportClientTS:Msg
+2018-07-20 16:25:18.0915   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-20 16:37:57.0659   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-20 16:37:57.2989   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-20 16:37:57.3079   (Program.cs:23) 读取配置表 Msg
+2018-07-20 16:39:15.3204   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-20 16:39:15.5634   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-20 16:39:15.5764   (Program.cs:23) 读取配置表 Msg
+2018-07-20 16:39:15.6634   (Program.cs:23) ExportClientTS:DTItemNum
+2018-07-20 16:39:15.6844   (Program.cs:23) ExportClientTS:DTStoryNum
+2018-07-20 16:39:15.6844   (Program.cs:23) ExportClientTS:DTVector2
+2018-07-20 16:39:15.6954   (Program.cs:23) ExportClientTS:Msg
+2018-07-20 16:39:15.8364   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx

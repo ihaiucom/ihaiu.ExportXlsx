@@ -1,0 +1,470 @@
+﻿{
+  "1": {
+    "id": 1,
+    "key": "ServerError",
+    "module": "服务器引擎",
+    "zh_cn_notice": "服务器错误"
+  },
+  "2": {
+    "id": 2,
+    "key": "DataError",
+    "module": "服务器引擎",
+    "zh_cn_notice": "数据错误"
+  },
+  "3": {
+    "id": 3,
+    "key": "UnknownError",
+    "module": "服务器引擎",
+    "zh_cn_notice": "不明错误"
+  },
+  "4": {
+    "id": 4,
+    "key": "DataBusy",
+    "module": "服务器引擎",
+    "zh_cn_notice": "数据繁忙"
+  },
+  "5": {
+    "id": 5,
+    "key": "NoUsrId",
+    "module": "服务器引擎",
+    "zh_cn_notice": "找不到用户id"
+  },
+  "6": {
+    "id": 6,
+    "key": "Frozen",
+    "module": "服务器引擎",
+    "zh_cn_notice": "账号被冻结"
+  },
+  "7": {
+    "id": 7,
+    "key": "Dropped",
+    "module": "服务器引擎",
+    "zh_cn_notice": "账号被停用"
+  },
+  "1000": {
+    "id": 1000,
+    "key": "ERROR_INTERNAL_ERROR",
+    "module": "账号",
+    "zh_cn_notice": "未找到玩家数据"
+  },
+  "1001": {
+    "id": 1001,
+    "key": "ERROR_UNIMPLEMENTED",
+    "module": "账号",
+    "zh_cn_notice": "未生效"
+  },
+  "2101": {
+    "id": 2101,
+    "key": "ERROR_INVALID_ITEM_ID",
+    "module": "物品",
+    "zh_cn_notice": "无效的物品ID"
+  },
+  "2102": {
+    "id": 2102,
+    "key": "ERROR_ITEM_CANNOT_SELL",
+    "module": "物品",
+    "zh_cn_notice": "该物品无法出售"
+  },
+  "2103": {
+    "id": 2103,
+    "key": "ERROR_ITEM_NOT_ENOUGH",
+    "module": "物品",
+    "zh_cn_notice": "物品不足"
+  },
+  "2104": {
+    "id": 2104,
+    "key": "ERROR_ITEM_CANNOT_COMPOUND",
+    "module": "物品",
+    "zh_cn_notice": "物品不能合成"
+  },
+  "2105": {
+    "id": 2105,
+    "key": "ERROR_ITEM_CANNOT_COMPOUND_ACTOR",
+    "module": "物品",
+    "zh_cn_notice": "物品不能合成艺人"
+  },
+  "2106": {
+    "id": 2106,
+    "key": "ERROR_ITEM_CANNOT_USE",
+    "module": "物品",
+    "zh_cn_notice": "该物品无法使用"
+  },
+  "3001": {
+    "id": 3001,
+    "key": "ERROR_NOT_FIND_GAMEINFO",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有发现GameInfo数据"
+  },
+  "3002": {
+    "id": 3002,
+    "key": "ERROR_NOT_OPEN_PRE_FLOOR",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有开启上一层"
+  },
+  "3003": {
+    "id": 3003,
+    "key": "ERROR_NOT_OPEN_CUR_FLOOR",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有开启当前层"
+  },
+  "3004": {
+    "id": 3004,
+    "key": "ERROR_COMPANY_LEVEL_NOT_ENOUGH",
+    "module": "游戏信息",
+    "zh_cn_notice": "公司等级不足"
+  },
+  "3005": {
+    "id": 3005,
+    "key": "ERROR_NOT_OCCUPY_CITY",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有占领指定城市"
+  },
+  "3006": {
+    "id": 3006,
+    "key": "ERROR_INVALID_CONFIG_ID",
+    "module": "游戏信息",
+    "zh_cn_notice": "无效的配置ID"
+  },
+  "3007": {
+    "id": 3007,
+    "key": "ERROR_ROOM_ALREADY_EXIST",
+    "module": "游戏信息",
+    "zh_cn_notice": "房间已经存在"
+  },
+  "3008": {
+    "id": 3008,
+    "key": "ERROR_ROOM_NOT_EXIST",
+    "module": "游戏信息",
+    "zh_cn_notice": "房间不存在"
+  },
+  "3009": {
+    "id": 3009,
+    "key": "ERROR_PRE_ROOM_NOT_OPEN",
+    "module": "游戏信息",
+    "zh_cn_notice": "前置建筑没有开启"
+  },
+  "3010": {
+    "id": 3010,
+    "key": "ERROR_NOT_HAVE_THIS_ROOM_TYPE",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有这个房间类型"
+  },
+  "3011": {
+    "id": 3011,
+    "key": "ERROR_ROOM_ALREADY_MAX_LEVEL",
+    "module": "游戏信息",
+    "zh_cn_notice": "房间已经达到最大等级"
+  },
+  "3012": {
+    "id": 3012,
+    "key": "ERROR_ACTOR_NUM_REACH_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "艺人数量达到上限"
+  },
+  "3013": {
+    "id": 3013,
+    "key": "ERROR_HIDE_ACTOR_NUM_REACH_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "雪藏的艺人数量达到上限"
+  },
+  "3014": {
+    "id": 3014,
+    "key": "ERROR_NOSE_INFO_CD_COOLING_TIME",
+    "module": "游戏信息",
+    "zh_cn_notice": "查探CD冷却时间"
+  },
+  "3015": {
+    "id": 3015,
+    "key": "ERROR_NOSE_INFO_COUNT_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "查探次数限制"
+  },
+  "3016": {
+    "id": 3016,
+    "key": "ERROR_NOT_HAVE_THIS_ACTOR",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有这个艺人"
+  },
+  "3017": {
+    "id": 3017,
+    "key": "ERROR_NOT_FIND_THIS_ACTOR",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有发现这个艺人"
+  },
+  "3018": {
+    "id": 3018,
+    "key": "ERROR_THIS_ACTOR_ALREADY_OVERDUE",
+    "module": "游戏信息",
+    "zh_cn_notice": "这个艺人已经过期"
+  },
+  "3019": {
+    "id": 3019,
+    "key": "ERROR_SAME_STATE_NO_REPEAT_OPERATION",
+    "module": "游戏信息",
+    "zh_cn_notice": "艺人状态相同(已经雪藏/已经重新招募)，不能重复操作"
+  },
+  "3020": {
+    "id": 3020,
+    "key": "ERROR_MAX_LEVEL_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "最大等级限制"
+  },
+  "3021": {
+    "id": 3021,
+    "key": "ERROR_GIVE_ASSETS_COUNT_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "赠送资产次数限制"
+  },
+  "3022": {
+    "id": 3022,
+    "key": "ERROR_GIVE_ASSETS_LEVEL_NOT_CONFORM",
+    "module": "游戏信息",
+    "zh_cn_notice": "赠送资产等级不匹配"
+  },
+  "3023": {
+    "id": 3023,
+    "key": "ERROR_GIVE_ASSETS_ITEM_NUM_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "赠送资产数量限制"
+  },
+  "3024": {
+    "id": 3024,
+    "key": "ERROR_ACTOR_ALREADY_HIDE",
+    "module": "游戏信息",
+    "zh_cn_notice": "艺人已经被雪藏"
+  },
+  "3025": {
+    "id": 3025,
+    "key": "ERROR_NOT_HAVE_THIS_SKILL",
+    "module": "游戏信息",
+    "zh_cn_notice": "没有这个技能"
+  },
+  "3026": {
+    "id": 3026,
+    "key": "ERROR_SKILL_NOT_ACTIVATE",
+    "module": "游戏信息",
+    "zh_cn_notice": "技能没有激活"
+  },
+  "3027": {
+    "id": 3027,
+    "key": "ERROR_EXP_NOT_ENOUGH",
+    "module": "游戏信息",
+    "zh_cn_notice": "经验不足"
+  },
+  "3028": {
+    "id": 3028,
+    "key": "ERROR_STAMINA_NOT_ENOUGH",
+    "module": "游戏信息",
+    "zh_cn_notice": "体力不足"
+  },
+  "3029": {
+    "id": 3029,
+    "key": "ERROR_TRAIN_COUNT_LIMIT",
+    "module": "游戏信息",
+    "zh_cn_notice": "培养次数限制"
+  },
+  "3030": {
+    "id": 3030,
+    "key": "ERROR_NAME_NOT_LEGAL",
+    "module": "游戏信息",
+    "zh_cn_notice": "名字不合法"
+  },
+  "4001": {
+    "id": 4001,
+    "key": "ERROR_RENAME_LENGTH",
+    "module": "重命名",
+    "zh_cn_notice": "名字长度过长"
+  },
+  "4002": {
+    "id": 4002,
+    "key": "ERROR_RENAME_NUMBER",
+    "module": "重命名",
+    "zh_cn_notice": "名字不能是数字"
+  },
+  "4003": {
+    "id": 4003,
+    "key": "ERROR_RENAME_BLANK",
+    "module": "重命名",
+    "zh_cn_notice": "名字不能有空格"
+  },
+  "4004": {
+    "id": 4004,
+    "key": "ERROR_RENAME_COMMON",
+    "module": "重命名",
+    "zh_cn_notice": "改名字新旧名字相同"
+  },
+  "4006": {
+    "id": 4006,
+    "key": "ERROR_RENAME_SAME",
+    "module": "重命名",
+    "zh_cn_notice": "该名字已被注册"
+  },
+  "4101": {
+    "id": 4101,
+    "key": "ERROR_PORTRAIT_NOT_ENOUGH",
+    "module": "头像",
+    "zh_cn_notice": "解锁头像扣除资源不足"
+  },
+  "4102": {
+    "id": 4102,
+    "key": "ERROR_PORTRAIT_LOCK",
+    "module": "头像",
+    "zh_cn_notice": "头像未解锁不能更换"
+  },
+  "4103": {
+    "id": 4103,
+    "key": "ERROR_PORTRAIT_EXIT",
+    "module": "头像",
+    "zh_cn_notice": "头像不存在"
+  },
+  "4104": {
+    "id": 4104,
+    "key": "ERROR_PORTRAIT_SEX_ERR",
+    "module": "头像",
+    "zh_cn_notice": "头像性别不对"
+  },
+  "4105": {
+    "id": 4105,
+    "key": "ERROR_PORTRAIT_HAD_BUY",
+    "module": "头像",
+    "zh_cn_notice": "头像已经购买"
+  },
+  "4201": {
+    "id": 4201,
+    "key": "ERROR_STORY_FIND_TIME_NOT",
+    "module": "剧本",
+    "zh_cn_notice": "剧本搜罗次数不足"
+  },
+  "4202": {
+    "id": 4202,
+    "key": "ERROR_STORY_FIND_TIMES_NOT",
+    "module": "剧本",
+    "zh_cn_notice": "剧本搜罗时间未到"
+  },
+  "4203": {
+    "id": 4203,
+    "key": "ERROR_STORY_NO_ENOUGH",
+    "module": "剧本",
+    "zh_cn_notice": "剧本消耗资源不足"
+  },
+  "4204": {
+    "id": 4204,
+    "key": "ERROR_STORY_RANDOM_NOT",
+    "module": "剧本",
+    "zh_cn_notice": "随机不到剧本"
+  },
+  "4205": {
+    "id": 4205,
+    "key": "ERROR_STORY_NO_FIND",
+    "module": "剧本",
+    "zh_cn_notice": "找不到该剧本"
+  },
+  "4206": {
+    "id": 4206,
+    "key": "ERROR_STORY_STAGE_LEVEL_NO",
+    "module": "剧本",
+    "zh_cn_notice": "街区等级不足"
+  },
+  "4207": {
+    "id": 4207,
+    "key": "ERROR_STORY_FIND_SUIT_NO",
+    "module": "剧本",
+    "zh_cn_notice": "找不到剧本套"
+  },
+  "4208": {
+    "id": 4208,
+    "key": "ERROR_STORY_REWARD_NO",
+    "module": "剧本",
+    "zh_cn_notice": "未达成条件或者已经领取"
+  },
+  "4301": {
+    "id": 4301,
+    "key": "ERROR_CITY_SET_PRO_NO_REQUIRE",
+    "module": "市场",
+    "zh_cn_notice": "宣传代言人不满足要求"
+  },
+  "4302": {
+    "id": 4302,
+    "key": "ERROR_CITY_NO_FIND_CITY_CONFIG",
+    "module": "市场",
+    "zh_cn_notice": "没找到该城市的配置"
+  },
+  "4303": {
+    "id": 4303,
+    "key": "ERROR_CITY_PRO_PROGRESS_ENOUGH",
+    "module": "市场",
+    "zh_cn_notice": "该街道的宣传进度满了"
+  },
+  "4304": {
+    "id": 4304,
+    "key": "ERROR_CITY_PRO_PROGRESS_NO_ENOUGH",
+    "module": "市场",
+    "zh_cn_notice": "该城市的宣传进度未满"
+  },
+  "4305": {
+    "id": 4305,
+    "key": "ERROR_CITY_ROAD_SHOW_FAIL",
+    "module": "市场",
+    "zh_cn_notice": "路演失败"
+  },
+  "4306": {
+    "id": 4306,
+    "key": "ERROR_CITY_ROAD_SHOW_NO_ENOUGH",
+    "module": "市场",
+    "zh_cn_notice": "该城市街区未全部宣传完成"
+  },
+  "4307": {
+    "id": 4307,
+    "key": "ERROR_CITY_NO_FIND_ACTOR",
+    "module": "市场",
+    "zh_cn_notice": "未找到该艺人"
+  },
+  "4308": {
+    "id": 4308,
+    "key": "ERROR_CITY_NO_FIND",
+    "module": "市场",
+    "zh_cn_notice": "未发现城市数据"
+  },
+  "4309": {
+    "id": 4309,
+    "key": "ERROR_CITY_NO_FIND_GAME_INFO",
+    "module": "市场",
+    "zh_cn_notice": "未发现玩家数据"
+  },
+  "4310": {
+    "id": 4310,
+    "key": "ERROR_CITY_POS_ERR",
+    "module": "市场",
+    "zh_cn_notice": "设置艺人位置错误"
+  },
+  "4311": {
+    "id": 4311,
+    "key": "ERROR_CITY_VIP_NO_ENOUGH",
+    "module": "市场",
+    "zh_cn_notice": "vip等级不足"
+  },
+  "4312": {
+    "id": 4312,
+    "key": "ERROR_CITY_ACTOR_NO_ENOUGH",
+    "module": "市场",
+    "zh_cn_notice": "该艺人条件不满足"
+  },
+  "4313": {
+    "id": 4313,
+    "key": "ERROR_CITY_NO_SET_CITY",
+    "module": "市场",
+    "zh_cn_notice": "未设置总部不能领取奖励"
+  },
+  "4314": {
+    "id": 4314,
+    "key": "ERROR_CITY_NO_LOCK",
+    "module": "市场",
+    "zh_cn_notice": "前置城市未解锁"
+  },
+  "4315": {
+    "id": 4315,
+    "key": "ERROR_CITY_BUILD_EFFECT_CONFIG_ERR",
+    "module": "市场",
+    "zh_cn_notice": "建筑配置错误"
+  }
+}

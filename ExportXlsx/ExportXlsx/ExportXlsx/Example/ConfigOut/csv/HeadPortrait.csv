@@ -1,6 +1,0 @@
-﻿int	string	int	DTItemNum[]	int
-头像ID	头像名称	性别1=男2=女	解锁方式0=默认1=钻石2=金币，后续字段为费用	图标
-id	zh_cn_name	sex	unlock	icon
-1000	测试	2	1:1	1001
-1001	女学生	2		1001
-1002	女职员	2	1:500	1001

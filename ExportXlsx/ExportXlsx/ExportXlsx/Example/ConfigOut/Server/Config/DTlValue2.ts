@@ -1,0 +1,11 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+
+interface DTlValue2
+{
+
+	v1 : number;
+	v2 : number;
+}

@@ -20,8 +20,7 @@ namespace configs
 			config.type = csvGetString(csv,  this.GetHeadIndex(  "type"  )   );
 			config.result = csvGetInt(csv,  this.GetHeadIndex(  "result"  )   );
 			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
-			config.rate = csvGetInt(csv,  this.GetHeadIndex(  "rate"  )   );
-			config.times = csvGetString(csv,  this.GetHeadIndex(  "times"  )   );
+			config.times =  DTlValue2.parse(       csvGetString(csv,  this.GetHeadIndex(  "times"  )   )   );
 
 			
 

@@ -16,7 +16,7 @@ namespace configs
 			let config = new ProduceSouvenirConfig();
 
 
-			config.level = csvGetInt(csv,  this.GetHeadIndex(  "level"  )   );
+			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.once = csvGetInt(csv,  this.GetHeadIndex(  "once"  )   );
 			config.max = csvGetInt(csv,  this.GetHeadIndex(  "max"  )   );
 

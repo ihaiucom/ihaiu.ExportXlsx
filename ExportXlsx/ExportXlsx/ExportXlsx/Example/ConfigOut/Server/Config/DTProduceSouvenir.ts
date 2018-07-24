@@ -7,7 +7,7 @@ namespace configs
 {
 	export class DTProduceSouvenir
 	{
-		level : number;
+		id : number;
 		once : number;
 		max : number;
 	}

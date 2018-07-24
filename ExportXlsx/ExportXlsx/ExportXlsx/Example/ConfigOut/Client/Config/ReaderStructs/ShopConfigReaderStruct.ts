@@ -20,10 +20,9 @@ namespace configs
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
 			config.item =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "item"  )   )   );
-			config.cost = csvGetInt(csv,  this.GetHeadIndex(  "cost"  )   );
+			config.cost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "cost"  )   )   );
 			config.period = csvGetString(csv,  this.GetHeadIndex(  "period"  )   );
-			config.daily_limit = csvGetInt(csv,  this.GetHeadIndex(  "daily_limit"  )   );
-			config.weekly_limit = csvGetInt(csv,  this.GetHeadIndex(  "weekly_limit"  )   );
+			config.limit =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "limit"  )   )   );
 			config.row = csvGetInt(csv,  this.GetHeadIndex(  "row"  )   );
 			config.columns = csvGetInt(csv,  this.GetHeadIndex(  "columns"  )   );
 

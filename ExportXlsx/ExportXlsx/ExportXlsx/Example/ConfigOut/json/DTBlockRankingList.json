@@ -4,7 +4,17 @@
     "name": "总票房第1名",
     "type": 1,
     "rank": 1,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -18,16 +28,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,
@@ -39,7 +39,17 @@
     "name": "总票房第2名",
     "type": 1,
     "rank": 2,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -53,16 +63,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,
@@ -74,7 +74,17 @@
     "name": "总票房第3名",
     "type": 1,
     "rank": 3,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -88,16 +98,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,
@@ -109,7 +109,17 @@
     "name": "总票房第4名",
     "type": 1,
     "rank": 4,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -123,16 +133,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": false,
     "congratulate_reward": {
       "itemId": 2,
@@ -144,7 +144,17 @@
     "name": "单次票房第1名",
     "type": 2,
     "rank": 1,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -158,16 +168,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,
@@ -179,7 +179,17 @@
     "name": "单次票房第2名",
     "type": 2,
     "rank": 2,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -193,16 +203,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,
@@ -214,7 +214,17 @@
     "name": "单次票房第3名",
     "type": 2,
     "rank": 3,
-    "reward": [
+    "movie_reward": [
+      {
+        "itemId": 1,
+        "itemNum": 100
+      },
+      {
+        "itemId": 2,
+        "itemNum": 200
+      }
+    ],
+    "box_office_reward": [
       {
         "itemId": 1,
         "itemNum": 100
@@ -228,16 +238,6 @@
       "itemId": 1,
       "itemNum": 100
     },
-    "oscar_reward": [
-      {
-        "itemId": 1,
-        "itemNum": 100
-      },
-      {
-        "itemId": 2,
-        "itemNum": 200
-      }
-    ],
     "congratulate_switch": true,
     "congratulate_reward": {
       "itemId": 2,

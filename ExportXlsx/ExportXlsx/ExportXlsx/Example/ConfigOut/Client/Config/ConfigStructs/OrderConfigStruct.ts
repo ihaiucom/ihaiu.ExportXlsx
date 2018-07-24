@@ -14,9 +14,9 @@ namespace configs
 		zh_cn_name2 : string;
 		icon : number;
 		block : number;
-		quality : number;
 		need : DTItemNum[];
-		reward : DTItemNum[];
+		quality : number;
+		reward : DTItemNum;
 		expect : number;
 
 

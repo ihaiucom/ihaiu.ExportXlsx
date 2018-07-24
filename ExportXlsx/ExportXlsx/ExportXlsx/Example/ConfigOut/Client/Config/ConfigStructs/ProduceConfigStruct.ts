@@ -11,11 +11,12 @@ namespace configs
 
 		id : number;
 		zh_cn_name : string;
+		item : number;
 		zh_cn_tip : string;
 		grade : number;
 		unlock_level : number;
 		unlock_building : number;
-		unlock_gold : number;
+		unlock_gold : DTItemNum;
 		unlock_reward : DTItemNum;
 		cd : number;
 		icon : number;

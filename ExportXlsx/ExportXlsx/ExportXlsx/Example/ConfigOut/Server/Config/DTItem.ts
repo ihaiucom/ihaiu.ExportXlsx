@@ -23,5 +23,6 @@ namespace configs
 		syn_id : number;
 		actor_id : number;
 		actor_num : number;
+		zh_cn_get_way_explain : string;
 	}
 }

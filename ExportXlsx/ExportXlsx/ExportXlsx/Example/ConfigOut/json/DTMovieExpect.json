@@ -3,56 +3,50 @@
     "id": 1,
     "zh_cn_name": "无人关注",
     "tips": "1级期待",
-    "expect_req": 50,
-    "pic": 0,
+    "expect_req_min": 0,
+    "expect_req_max": 50,
+    "pic": -1,
     "gain_up": 110,
-    "zh_cn_pic_word": [
-      "无人关注"
-    ]
+    "zh_cn_pic_word": "无人关注"
   },
   "2": {
     "id": 2,
     "zh_cn_name": "有所耳闻",
     "tips": "2级期待",
-    "expect_req": 150,
-    "pic": 1,
+    "expect_req_min": 50,
+    "expect_req_max": 150,
+    "pic": 0,
     "gain_up": 115,
-    "zh_cn_pic_word": [
-      "听说今天有部新电影{0}上映了，电影院的观众比往常多了不少！"
-    ]
+    "zh_cn_pic_word": "听说今天有部新电影《{0}》上映了，电影院的观众比往常多了不少！"
   },
   "3": {
     "id": 3,
     "zh_cn_name": "翘首以待",
     "tips": "3级期待",
-    "expect_req": 250,
-    "pic": 2,
+    "expect_req_min": 150,
+    "expect_req_max": 250,
+    "pic": 1,
     "gain_up": 120,
-    "zh_cn_pic_word": [
-      "{0}终于上映了，希望这部大家都关注已久的电影对得起它的期待值"
-    ]
+    "zh_cn_pic_word": "《{0}》终于上映了，希望这部大家都关注已久的电影对得起它的期待值"
   },
   "4": {
     "id": 4,
     "zh_cn_name": "万众瞩目",
     "tips": "4级期待",
-    "expect_req": 500,
-    "pic": 3,
+    "expect_req_min": 250,
+    "expect_req_max": 500,
+    "pic": 2,
     "gain_up": 125,
-    "zh_cn_pic_word": [
-      "万众瞩目的{0}终于上映了，不少影院出现粉丝通宵排队的情况"
-    ]
+    "zh_cn_pic_word": "万众瞩目的《{0}》终于上映了，不少影院出现粉丝通宵排队的情况"
   },
   "5": {
     "id": 5,
     "zh_cn_name": "一票难求",
     "tips": "5级期待",
-    "expect_req": 800,
-    "pic": 4,
+    "expect_req_min": 500,
+    "expect_req_max": -1,
+    "pic": 3,
     "gain_up": 130,
-    "zh_cn_pic_word": [
-      "{0}上映首日，一票难求",
-      "终于迎来上映，大量观众提前3天排队抢票"
-    ]
+    "zh_cn_pic_word": "《{0}》上映首日，一票难求;终于迎来上映，大量观众提前3天排队抢票"
   }
 }

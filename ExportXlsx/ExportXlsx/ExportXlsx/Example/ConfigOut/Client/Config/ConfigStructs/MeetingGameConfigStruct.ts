@@ -13,8 +13,7 @@ namespace configs
 		type : string;
 		result : number;
 		name : string;
-		rate : number;
-		times : string;
+		times : DTlValue2;
 
 
 

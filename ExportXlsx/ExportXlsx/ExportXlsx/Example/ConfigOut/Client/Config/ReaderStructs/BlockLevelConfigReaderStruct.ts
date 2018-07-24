@@ -24,6 +24,8 @@ namespace configs
 			config.upgrade_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "upgrade_reward"  )   )   );
 			config.daily_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "daily_reward"  )   )   );
 			config.cinema =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "cinema"  )   )   );
+			config.storysearchcost =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "storysearchcost"  )   )   );
+			config.storysearchdollar = csvGetInt(csv,  this.GetHeadIndex(  "storysearchdollar"  )   );
 			config.level_multiple = csvGetInt(csv,  this.GetHeadIndex(  "level_multiple"  )   );
 			config.level_con = csvGetInt(csv,  this.GetHeadIndex(  "level_con"  )   );
 			config.theater_level_con = csvGetInt(csv,  this.GetHeadIndex(  "theater_level_con"  )   );

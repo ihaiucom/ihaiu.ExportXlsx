@@ -8,6 +8,7 @@ namespace configs
 	export class DTStoryGoals
 	{
 		id : number;
+		storyid : number;
 		rank : number;
 		property1 : number;
 		value1 : number;

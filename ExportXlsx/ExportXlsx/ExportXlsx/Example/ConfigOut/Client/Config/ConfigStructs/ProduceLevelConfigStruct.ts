@@ -9,12 +9,14 @@ namespace configs
 	{
 	
 
-		level : number;
+		id : number;
 		line : number;
 		save : number;
 		time : number;
 		output_initial : number;
-		cost : number;
+		time_add : number;
+		cost : DTItemNum;
+		limit_grade : number[];
 
 
 

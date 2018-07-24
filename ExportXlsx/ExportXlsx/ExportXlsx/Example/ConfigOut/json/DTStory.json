@@ -1,15 +1,874 @@
 ﻿{
-  "1001": {
-    "id": 1001,
-    "story_num": 1,
+  "1003": {
+    "id": 1003,
+    "story_num": 3,
     "stack_sort": 1,
-    "zh_cn_story_name": "情多深雨多濛",
-    "name_tips": "测试用剧本1",
-    "poster_name": "movie1",
-    "zh_cn_introduction": "出生于富贵之家的陆伊萍（女主角）被迫离开陆家，为了生活她不得不去歌舞厅当歌女，因缘巧合下他与何疏桓（男主角）相识，并得知他与自己同父异母的姐姐陆心萍（配角）有婚约。萌生了抢夺去其男友何疏桓以报复陆家，随着交往她渐渐被疏桓打动。正当她决定为了爱情放弃复仇时，却被疏桓知晓其报复计划。一波曲折后最终两人冰释前嫌，有情人终成眷属。",
+    "zh_cn_story_name": "敢死队",
+    "name_tips": "正式剧本1",
+    "poster_name": 8003,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
     "introduction_tips": "测试用剧本1",
     "length": 120,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1701,
+    "tags": [
+      1817,
+      1809
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1003,
+    "property": [
+      1001,
+      1002,
+      1003,
+      1004,
+      1005
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 0,
+    "child_percent": 10,
+    "reward": "1601:10",
+    "sequel_mark": true,
+    "random_name": 1003
+  },
+  "1008": {
+    "id": 1008,
+    "story_num": 8,
+    "stack_sort": 1,
+    "zh_cn_story_name": "战马",
+    "name_tips": "正式剧本2",
+    "poster_name": 8008,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
+    "introduction_tips": "测试用剧本2",
+    "length": 130,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1701,
+    "tags": [
+      1805,
+      1801
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1008,
+    "property": [
+      1006,
+      1007,
+      1008
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:10",
+    "sequel_mark": true,
+    "random_name": 1008
+  },
+  "1009": {
+    "id": 1009,
+    "story_num": 9,
+    "stack_sort": 1,
+    "zh_cn_story_name": "冷山",
+    "name_tips": "正式剧本3",
+    "poster_name": 8009,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
+    "introduction_tips": "测试用剧本3",
+    "length": 90,
+    "cost": 700,
+    "stars": 1301,
+    "type": 1701,
+    "tags": [
+      1804,
+      1817
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1009,
+    "property": [
+      1009,
+      1010
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1602:5",
+    "sequel_mark": true,
+    "random_name": 1009
+  },
+  "1021": {
+    "id": 1021,
+    "story_num": 21,
+    "stack_sort": 1,
+    "zh_cn_story_name": "大白鲨",
+    "name_tips": "正式剧本4",
+    "poster_name": 8021,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
+    "introduction_tips": "测试用剧本4",
+    "length": 110,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1710,
+    "tags": [
+      1811,
+      1801
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1021,
+    "property": [
+      1011,
+      1012,
+      1013
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1602:15",
+    "sequel_mark": true,
+    "random_name": 1021
+  },
+  "1025": {
+    "id": 1025,
+    "story_num": 25,
+    "stack_sort": 1,
+    "zh_cn_story_name": "林中小屋",
+    "name_tips": "正式剧本5",
+    "poster_name": 8025,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
+    "introduction_tips": "测试用剧本5",
+    "length": 135,
+    "cost": 700,
+    "stars": 1301,
+    "type": 1710,
+    "tags": [
+      1802,
+      1811
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1025,
+    "property": [
+      1014,
+      1015,
+      1016,
+      1017
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:15",
+    "sequel_mark": true,
+    "random_name": 1025
+  },
+  "1028": {
+    "id": 1028,
+    "story_num": 28,
+    "stack_sort": 2,
+    "zh_cn_story_name": "七年之痒",
+    "name_tips": "正式剧本6",
+    "poster_name": 8028,
+    "zh_cn_introduction": "Shortly after D-Day, a mother gets news that 4 of her sons have died during the war. In order to protect this mother from losing all her sons, the US government decide to save the last one alive, Private Ryan (MAIN). The mission is given to Corporal Bunks (Main) to find and extract Private Ryan. Along with his squad, consisting of Private Josephs (SUPPORTING), Private Smiggs (Supporting) and Private Tenucci (SUPPORTING).",
+    "introduction_tips": "测试用剧本6",
+    "length": 115,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1703,
+    "tags": [
+      1804,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1028,
+    "property": [
+      1018,
+      1019,
+      1020
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:15",
+    "sequel_mark": true,
+    "random_name": 1028
+  },
+  "1033": {
+    "id": 1033,
+    "story_num": 33,
+    "stack_sort": 2,
+    "zh_cn_story_name": "诺丁山",
+    "name_tips": "正式剧本7",
+    "poster_name": 8033,
+    "zh_cn_introduction": "Kenneth, a lone British soldier (MAIN), tries to survive on the beaches of Dunkirk as the Germans press forward. On the other side of the English channel, a father and son duo, William (SUPPORTING) and Edward (SUPPORTING), prepare their boat and cross the channel together to help rescue the entire British army.",
+    "introduction_tips": "测试用剧本7",
+    "length": 95,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1703,
+    "tags": [
+      1604,
+      1804
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1033,
+    "property": [
+      1021,
+      1022,
+      1023
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1601:10",
+    "sequel_mark": true,
+    "random_name": 1033
+  },
+  "1034": {
+    "id": 1034,
+    "story_num": 34,
+    "stack_sort": 2,
+    "zh_cn_story_name": "出租车司机",
+    "name_tips": "正式剧本8",
+    "poster_name": 8034,
+    "zh_cn_introduction": "Timothy (MAIN), a young farm boy, is sent to the battlelines of WW1. His pal, Dunfy (MAIN) fights by his side and together they live through hell. At the darkest moment, Timothy finds a valliant horse that he begins to ride on through the battle stations. Seargeant Haynes, his commander, is",
+    "introduction_tips": "测试用剧本8",
+    "length": 85,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1703,
+    "tags": [
+      1801,
+      1809
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1034,
+    "property": [
+      1024,
+      1025,
+      1026
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 0,
+    "child_percent": 10,
+    "reward": "1602:5",
+    "sequel_mark": true,
+    "random_name": 1034
+  },
+  "1041": {
+    "id": 1041,
+    "story_num": 41,
+    "stack_sort": 2,
+    "zh_cn_story_name": "遇见你之前",
+    "name_tips": "正式剧本9",
+    "poster_name": 8041,
+    "zh_cn_introduction": "In the midst of the civil war, Kellyann (MAIN) finds herself running for her life to escape the violence. With her lover, Grant (main), she escapes danger after danger and works to better her life.",
+    "introduction_tips": "测试用剧本9",
+    "length": 100,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1703,
+    "tags": [
+      1804,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1041,
+    "property": [
+      1027,
+      1028,
+      1029
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:15",
+    "sequel_mark": true,
+    "random_name": 1041
+  },
+  "1045": {
+    "id": 1045,
+    "story_num": 45,
+    "stack_sort": 2,
+    "zh_cn_story_name": "瑞士军刀男",
+    "name_tips": "正式剧本10",
+    "poster_name": 8045,
+    "zh_cn_introduction": "Two Croatian double agents, Maggie (MAIN) and Boris (VILLAIN) have infiltrated MI6, to take down the UK government. A wrench is thrown into the plan when Elias (SUPPORTING), Maggie's brother, is killed by the Croatian government and unfurls a winding action tale of her revenge. MI6 agent, Rufus (SUPPORTING), scuked into the mess is stuck trying to find the truth.",
+    "introduction_tips": "测试用剧本10",
+    "length": 150,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1706,
+    "tags": [
+      1802,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1045,
+    "property": [
+      1030,
+      1031
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:10",
+    "sequel_mark": true,
+    "random_name": 1045
+  },
+  "1049": {
+    "id": 1049,
+    "story_num": 49,
+    "stack_sort": 3,
+    "zh_cn_story_name": "重返17岁",
+    "name_tips": "正式剧本11",
+    "poster_name": 8049,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
+    "introduction_tips": "测试用剧本11",
+    "length": 120,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1706,
+    "tags": [
+      1812,
+      1802
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1049,
+    "property": [
+      1032,
+      1033
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1602:15",
+    "sequel_mark": true,
+    "random_name": 1049
+  },
+  "1053": {
+    "id": 1053,
+    "story_num": 53,
+    "stack_sort": 3,
+    "zh_cn_story_name": "刀锋战士",
+    "name_tips": "正式剧本12",
+    "poster_name": 8053,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
+    "introduction_tips": "测试用剧本12",
+    "length": 130,
+    "cost": 700,
+    "stars": 1301,
+    "type": 1706,
+    "tags": [
+      1801,
+      1802
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1053,
+    "property": [
+      1034,
+      1035,
+      1036
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 0,
+    "child_percent": 20,
+    "reward": "1602:15",
+    "sequel_mark": true,
+    "random_name": 1053
+  },
+  "1059": {
+    "id": 1059,
+    "story_num": 59,
+    "stack_sort": 3,
+    "zh_cn_story_name": "驯龙高手",
+    "name_tips": "正式剧本13",
+    "poster_name": 8059,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
+    "introduction_tips": "测试用剧本13",
+    "length": 90,
     "cost": 900,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1811,
+      1820
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1059,
+    "property": [
+      1037,
+      1038,
+      1039,
+      1040
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1059
+  },
+  "1068": {
+    "id": 1068,
+    "story_num": 68,
+    "stack_sort": 3,
+    "zh_cn_story_name": "死侍",
+    "name_tips": "正式剧本14",
+    "poster_name": 8068,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
+    "introduction_tips": "测试用剧本14",
+    "length": 110,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1801,
+      1808
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1068,
+    "property": [
+      1041,
+      1042,
+      1043,
+      1044
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1603:10",
+    "sequel_mark": true,
+    "random_name": 1068
+  },
+  "1071": {
+    "id": 1071,
+    "story_num": 71,
+    "stack_sort": 3,
+    "zh_cn_story_name": "刺客信条",
+    "name_tips": "正式剧本15",
+    "poster_name": 8071,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
+    "introduction_tips": "测试用剧本15",
+    "length": 135,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1805,
+      1815
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1071,
+    "property": [
+      1045,
+      1046,
+      1047,
+      1048
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1071
+  },
+  "1081": {
+    "id": 1081,
+    "story_num": 81,
+    "stack_sort": 4,
+    "zh_cn_story_name": "达拉斯买家俱乐部",
+    "name_tips": "正式剧本16",
+    "poster_name": 8081,
+    "zh_cn_introduction": "Shortly after D-Day, a mother gets news that 5 of her sons have died during the war. In order to protect this mother from losing all her sons, the US government decide to save the last one alive, Private Ryan (MAIN). The mission is given to Corporal Bunks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000\u0000\u0000\u0000\f\u00000\u00000\u0000\u000e\u0000\u0012\u00001\u00001\u0000\u0000\u0000\f\u00001\u00001\u0000\u000e\u0000\u0012\u00002\u00002\u0000\u0000\u0000\u000b\u00002\u00002\u0000\u000e\u0000\u0012\u0000",
+    "introduction_tips": "测试用剧本16",
+    "length": 115,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1813,
+      1820
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1081,
+    "property": [
+      1049,
+      1050,
+      1051
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:10",
+    "sequel_mark": true,
+    "random_name": 1081
+  },
+  "1084": {
+    "id": 1084,
+    "story_num": 84,
+    "stack_sort": 4,
+    "zh_cn_story_name": "当幸福来敲门",
+    "name_tips": "正式剧本17",
+    "poster_name": 8084,
+    "zh_cn_introduction": "Kenneth, a lone British soldier (MAIN), tries to survive on the beaches of Dunkirk as the Germans press forward. On the other side of the English channel, a father and son duo, William (SUPPORTING) and Edward (SUPPORTING), prepare their boat and cross the channel together to help rescue the entire British army.",
+    "introduction_tips": "测试用剧本17",
+    "length": 95,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1801,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1084,
+    "property": [
+      1052,
+      1053,
+      1054,
+      1055
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:15",
+    "sequel_mark": true,
+    "random_name": 1084
+  },
+  "1085": {
+    "id": 1085,
+    "story_num": 85,
+    "stack_sort": 4,
+    "zh_cn_story_name": "国王的演讲",
+    "name_tips": "正式剧本18",
+    "poster_name": 8085,
+    "zh_cn_introduction": "Timothy (MAIN), a young farm boy, is sent to the battlelines of WW2. His pal, Dunfy (MAIN) fights by his side and together they live through hell. At the darkest moment, Timothy finds a valliant horse that he begins to ride on through the battle stations.\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000῜\u0000\u0000㻘冪\f\u0000\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "introduction_tips": "测试用剧本18",
+    "length": 85,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1813,
+      1819
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1085,
+    "property": [
+      1056,
+      1057,
+      1058,
+      1059
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1085
+  },
+  "1088": {
+    "id": 1088,
+    "story_num": 88,
+    "stack_sort": 4,
+    "zh_cn_story_name": "逃出克隆岛",
+    "name_tips": "正式剧本19",
+    "poster_name": 8088,
+    "zh_cn_introduction": "In the midst of the civil war, Kellyann (MAIN) finds herself running for her life to escape the violence. With her lover, Grant (main), she escapes danger after danger and works to better her life.",
+    "introduction_tips": "测试用剧本19",
+    "length": 100,
+    "cost": 600,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1803,
+      1808
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1088,
+    "property": [
+      1060,
+      1061
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1088
+  },
+  "1095": {
+    "id": 1095,
+    "story_num": 95,
+    "stack_sort": 4,
+    "zh_cn_story_name": "星球大战",
+    "name_tips": "正式剧本20",
+    "poster_name": 8095,
+    "zh_cn_introduction": "Two Croatian double agents, Maggie (MAIN) and Boris (VILLAIN) have infiltrated MI7, to take down the UK government. A wrench is thrown into the plan when Elias (SUPPORTING), Maggie's brother, is killed by the Croatian government and unfurls a winding acti\f\u0000(\u0000(\u0000\u000e\u0000\u0012\u0000)\u0000)\u0000\u0000\u0000\f\u0000)\u0000)\u0000\u000e\u0000\u0012\u0000*\u0000*\u0000\u0000\u0000\u000b\u0000*\u0000*\u0000\u000e\u0000\u0012\u0000+\u0000+\u0000\u0000\u0000\f\u0000+\u0000+\u0000\u000e\u0000\u0012\u0000,\u0000,\u0000\u0000\u0000\f\u0000,\u0000,\u0000\u000e\u0000\u0012\u0000-\u0000-\u0000\u0000\u0000\f\u0000-\u0000-\u0000\u000e\u0000\u0012\u0000.\u0000.\u0000\u0000\u0000\f\u0000.\u0000.\u0000\u000e\u0000\u0012\u0000挸➶꧀◲",
+    "introduction_tips": "测试用剧本20",
+    "length": 150,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1806,
+      1801,
+      1814
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1095,
+    "property": [
+      1062,
+      1063,
+      1064,
+      1065,
+      1066
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:10",
+    "sequel_mark": true,
+    "random_name": 1095
+  },
+  "1102": {
+    "id": 1102,
+    "story_num": 102,
+    "stack_sort": 5,
+    "zh_cn_story_name": "火星救援",
+    "name_tips": "正式剧本21",
+    "poster_name": 8102,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
+    "introduction_tips": "测试用剧本21",
+    "length": 120,
+    "cost": 700,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1806,
+      1807
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1102,
+    "property": [
+      1067,
+      1068,
+      1069,
+      1070
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:15",
+    "sequel_mark": true,
+    "random_name": 1102
+  },
+  "1107": {
+    "id": 1107,
+    "story_num": 107,
+    "stack_sort": 5,
+    "zh_cn_story_name": "银翼杀手",
+    "name_tips": "正式剧本22",
+    "poster_name": 8107,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
+    "introduction_tips": "测试用剧本22",
+    "length": 130,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1814,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1107,
+    "property": [
+      1071,
+      1072,
+      1073,
+      1074
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:10",
+    "sequel_mark": true,
+    "random_name": 1107
+  },
+  "1108": {
+    "id": 1108,
+    "story_num": 108,
+    "stack_sort": 5,
+    "zh_cn_story_name": "银河系漫游指南",
+    "name_tips": "正式剧本23",
+    "poster_name": 8108,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
+    "introduction_tips": "测试用剧本23",
+    "length": 90,
+    "cost": 700,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1806,
+      1811
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1108,
+    "property": [
+      1075,
+      1076,
+      1077,
+      1078
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:15",
+    "sequel_mark": true,
+    "random_name": 1108
+  },
+  "1118": {
+    "id": 1118,
+    "story_num": 118,
+    "stack_sort": 5,
+    "zh_cn_story_name": "戴珍珠耳环的少女",
+    "name_tips": "正式剧本24",
+    "poster_name": 8118,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
+    "introduction_tips": "测试用剧本24",
+    "length": 110,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1709,
+    "tags": [
+      1803,
+      1604
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1118,
+    "property": [
+      1079,
+      1080
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1602:5",
+    "sequel_mark": true,
+    "random_name": 1118
+  },
+  "1120": {
+    "id": 1120,
+    "story_num": 120,
+    "stack_sort": 5,
+    "zh_cn_story_name": "另一个波琳家的女孩",
+    "name_tips": "正式剧本25",
+    "poster_name": 8120,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
+    "introduction_tips": "测试用剧本25",
+    "length": 135,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1709,
+    "tags": [
+      1819,
+      1805
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1120,
+    "property": [
+      1081,
+      1082,
+      1083
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1602:10",
+    "sequel_mark": true,
+    "random_name": 1120
+  },
+  "1501": {
+    "id": 1501,
+    "story_num": 1,
+    "stack_sort": 6,
+    "zh_cn_story_name": "情多深雨多濛",
+    "name_tips": "测试用剧本1",
+    "poster_name": 8501,
+    "zh_cn_introduction": "Shortly after D-Day, a mother gets news that 6 of her sons have died during the war. In order to protect this mother from losing all her sons, the US government decide to save the last one alive, Private Ryan (MAIN). The mission is given to Corporal Bunks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000\u0000\u0000\u0000\f\u00000\u00000\u0000\u000e\u0000\u0012\u00001\u00001\u0000\u0000\u0000\f\u00001\u00001\u0000\u000e\u0000\u0012\u00002\u00002\u0000\u0000\u0000\u000b\u00002\u00002\u0000\u000e\u0000\u0012\u0000",
+    "introduction_tips": "测试用剧本1",
+    "length": 120,
+    "cost": 600,
     "stars": 1302,
     "type": 1703,
     "tags": [
@@ -17,38 +876,34 @@
       1808
     ],
     "hidden_tags": [
-      1805,
-      1812
+      0
     ],
-    "shoot_type": 1001,
+    "shoot_type": 1501,
     "property": [
-      1001,
-      1002,
-      1003,
-      1004
+      2001,
+      2002,
+      2003,
+      2004
     ],
     "target_mark": true,
-    "target": 1001,
     "male_percent": 10,
     "female_percent": 30,
     "child_percent": 0,
     "reward": "1603:25",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1001
+    "random_name": 1501
   },
-  "1002": {
-    "id": 1002,
+  "1502": {
+    "id": 1502,
     "story_num": 2,
-    "stack_sort": 1,
+    "stack_sort": 6,
     "zh_cn_story_name": "西服农民",
     "name_tips": "测试用剧本2",
-    "poster_name": "movie2",
-    "zh_cn_introduction": "22世纪地心出现生命生物，国土资源局建立了“黑衣人”的神秘机构，专门制裁邪恶的地心人。阿杰（主角）和老开（主角）是组织的前线观察人员，一天他们发现了企图夺走能量源“银河”的地心生物艾德根（反派）。事态紧急，阿杰和老开这对搭档带着先进武器对抗地心人追回“银河”。",
+    "poster_name": 8502,
+    "zh_cn_introduction": "Kenneth, a lone British soldier (MAIN), tries to survive on the beaches of Dunkirk as the Germans press forward. On the other side of the English channel, a father and son duo, William (SUPPORTING) and Edward (SUPPORTING), prepare their boat and cross the channel together to help rescue the entire British army.",
     "introduction_tips": "测试用剧本2",
     "length": 130,
-    "cost": 800,
+    "cost": 500,
     "stars": 1301,
     "type": 1702,
     "tags": [
@@ -56,37 +911,33 @@
       1807
     ],
     "hidden_tags": [
-      1806,
-      1809
+      0
     ],
-    "shoot_type": 1002,
+    "shoot_type": 1502,
     "property": [
-      1005,
-      1006,
-      1007
+      2005,
+      2006,
+      2007
     ],
     "target_mark": false,
-    "target": 0,
     "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
     "reward": "1603:11",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1002
+    "random_name": 1502
   },
-  "1003": {
-    "id": 1003,
+  "1503": {
+    "id": 1503,
     "story_num": 3,
-    "stack_sort": 2,
+    "stack_sort": 6,
     "zh_cn_story_name": "神力女超人",
     "name_tips": "测试用剧本3",
-    "poster_name": "movie3",
-    "zh_cn_introduction": "自由生活在大山中的小女孩，跟随隐世的师父习得高超武艺，被一名外国探险家诱拐逃出深山，通过自身力量对抗外面世界的邪恶……",
+    "poster_name": 8503,
+    "zh_cn_introduction": "Timothy (MAIN), a young farm boy, is sent to the battlelines of WW3. His pal, Dunfy (MAIN) fights by his side and together they live through hell. At the darkest moment, Timothy finds a valliant horse that he begins to ride on through the battle stations.\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000῜\u0000\u0000㻘冪\f\u0000\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "introduction_tips": "测试用剧本3",
     "length": 90,
-    "cost": 1000,
+    "cost": 700,
     "stars": 1303,
     "type": 1708,
     "tags": [
@@ -95,37 +946,33 @@
       1808
     ],
     "hidden_tags": [
-      1802,
-      1815
+      0
     ],
-    "shoot_type": 1003,
+    "shoot_type": 1503,
     "property": [
-      1008,
-      1009,
-      1010
+      2008,
+      2009,
+      2010
     ],
     "target_mark": true,
-    "target": 1002,
     "male_percent": 30,
     "female_percent": 10,
     "child_percent": 10,
     "reward": "1601:5",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1003
+    "random_name": 1503
   },
-  "1004": {
-    "id": 1004,
+  "1504": {
+    "id": 1504,
     "story_num": 4,
-    "stack_sort": 2,
+    "stack_sort": 6,
     "zh_cn_story_name": "囧人归家",
     "name_tips": "测试用剧本4",
-    "poster_name": "movie4",
-    "zh_cn_introduction": "常年在外创业的玩具集团老板李诚功（主角），准备再春节回家与妻子梅莉（配角）离婚。然而，却在机场遇到了同一目的地的讨债工牛耿直（主角），命运作弄两人在路上遇到各种千奇百怪的事。经过了一系列的人与事后，李诚功渐渐被牛耿直的正直改变，唤醒了他沉睡多年的真情。",
+    "poster_name": 8504,
+    "zh_cn_introduction": "In the midst of the civil war, Kellyann (MAIN) finds herself running for her life to escape the violence. With her lover, Grant (main), she escapes danger after danger and works to better her life.",
     "introduction_tips": "测试用剧本4",
     "length": 110,
-    "cost": 2000,
+    "cost": 500,
     "stars": 1301,
     "type": 1704,
     "tags": [
@@ -133,37 +980,33 @@
       1803
     ],
     "hidden_tags": [
-      1818,
-      1810
+      0
     ],
-    "shoot_type": 1004,
+    "shoot_type": 1504,
     "property": [
-      1011,
-      1012,
-      1013
+      2011,
+      2012,
+      2013
     ],
     "target_mark": false,
-    "target": 0,
     "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
     "reward": "1603:5",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1004
+    "random_name": 1504
   },
-  "1005": {
-    "id": 1005,
+  "1505": {
+    "id": 1505,
     "story_num": 5,
-    "stack_sort": 3,
+    "stack_sort": 6,
     "zh_cn_story_name": "寄生少年",
     "name_tips": "测试用剧本5",
-    "poster_name": "movie5",
-    "zh_cn_introduction": "某天夜里，来自外星的神秘寄生兽出现在霓虹上空，他们入侵到各地的人类身上，并占据身体，然而一位少年泉贤一（男主角）却因为意外只被侵占了右手，苏醒后的寄生兽小佑（主角）因为无法脱离本体，不得不与贤一合作。因为贤一的特殊存在让其他寄生兽对他发起了袭击，贤一的母亲也因此被杀害，渐渐了解到寄生兽目的的贤一决定挺身而出。",
+    "poster_name": 8505,
+    "zh_cn_introduction": "Two Croatian double agents, Maggie (MAIN) and Boris (VILLAIN) have infiltrated MI8, to take down the UK government. A wrench is thrown into the plan when Elias (SUPPORTING), Maggie's brother, is killed by the Croatian government and unfurls a winding acti\f\u0000(\u0000(\u0000\u000e\u0000\u0012\u0000)\u0000)\u0000\u0000\u0000\f\u0000)\u0000)\u0000\u000e\u0000\u0012\u0000*\u0000*\u0000\u0000\u0000\u000b\u0000*\u0000*\u0000\u000e\u0000\u0012\u0000+\u0000+\u0000\u0000\u0000\f\u0000+\u0000+\u0000\u000e\u0000\u0012\u0000,\u0000,\u0000\u0000\u0000\f\u0000,\u0000,\u0000\u000e\u0000\u0012\u0000-\u0000-\u0000\u0000\u0000\f\u0000-\u0000-\u0000\u000e\u0000\u0012\u0000.\u0000.\u0000\u0000\u0000\f\u0000.\u0000.\u0000\u000e\u0000\u0012\u0000挸➶꧀◲",
     "introduction_tips": "测试用剧本5",
     "length": 135,
-    "cost": 1500,
+    "cost": 700,
     "stars": 1303,
     "type": 1702,
     "tags": [
@@ -171,38 +1014,34 @@
       1811
     ],
     "hidden_tags": [
-      1808,
-      1812
+      0
     ],
-    "shoot_type": 1005,
+    "shoot_type": 1505,
     "property": [
-      1014,
-      1015,
-      1016,
-      1017
+      2014,
+      2015,
+      2016,
+      2017
     ],
     "target_mark": true,
-    "target": 1003,
     "male_percent": 30,
     "female_percent": 10,
     "child_percent": 10,
     "reward": "1601:5",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1005
+    "random_name": 1505
   },
-  "1006": {
-    "id": 1006,
+  "1506": {
+    "id": 1506,
     "story_num": 6,
-    "stack_sort": 3,
+    "stack_sort": 7,
     "zh_cn_story_name": "暗藏危机",
     "name_tips": "测试用剧本6",
-    "poster_name": "movie6",
-    "zh_cn_introduction": "杰姆斯（男主角）因童年一张老照片开启前往墨西哥之旅，邂逅了美丽的陆希亚（配角）揭开了名为幽灵党的邪恶组织。与他宿敌的女儿马迪琳（女主角）一同战胜布莱福（反派）",
+    "poster_name": 8506,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
     "introduction_tips": "测试用剧本6",
     "length": 115,
-    "cost": 1100,
+    "cost": 600,
     "stars": 1302,
     "type": 1708,
     "tags": [
@@ -210,38 +1049,34 @@
       1804
     ],
     "hidden_tags": [
-      1809,
-      1817
+      0
     ],
-    "shoot_type": 1006,
+    "shoot_type": 1506,
     "property": [
-      1018,
-      1019,
-      1020,
-      1021
+      2018,
+      2019,
+      2020,
+      2021
     ],
     "target_mark": true,
-    "target": 1004,
     "male_percent": 20,
     "female_percent": 20,
     "child_percent": 0,
     "reward": "1601:5",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1006
+    "random_name": 1506
   },
-  "1007": {
-    "id": 1007,
+  "1507": {
+    "id": 1507,
     "story_num": 7,
-    "stack_sort": 3,
+    "stack_sort": 7,
     "zh_cn_story_name": "探索死亡之地",
     "name_tips": "测试用剧本7",
-    "poster_name": "movie7",
-    "zh_cn_introduction": "1994年十月，三个电影学院的学生——麦克（男主角），伊瑟（女主角）和奇什（男主角）前往马里兰州的一个小镇拍摄一部关于女巫的纪录片，然而在拍摄过程中三人全部失踪。人们在一年以后，发现了他们留下的电影胶片，记录了她们失踪前发生的一切……",
+    "poster_name": 8507,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
     "introduction_tips": "测试用剧本7",
     "length": 95,
-    "cost": 1400,
+    "cost": 500,
     "stars": 1301,
     "type": 1706,
     "tags": [
@@ -249,37 +1084,33 @@
       1812
     ],
     "hidden_tags": [
-      1813,
-      1810
+      0
     ],
-    "shoot_type": 1007,
+    "shoot_type": 1507,
     "property": [
-      1022,
-      1023,
-      1024
+      2022,
+      2023,
+      2024
     ],
     "target_mark": false,
-    "target": 0,
     "male_percent": 20,
     "female_percent": 20,
     "child_percent": 0,
     "reward": "1601:11",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1007
+    "random_name": 1507
   },
-  "1008": {
-    "id": 1008,
+  "1508": {
+    "id": 1508,
     "story_num": 8,
-    "stack_sort": 4,
+    "stack_sort": 7,
     "zh_cn_story_name": "废材天才",
     "name_tips": "测试用剧本8",
-    "poster_name": "movie8",
-    "zh_cn_introduction": "曾是家族天才的少年萧火火（主角）变成了只有三段斗气的弱鸡 ，他遭受了家族冷落，旁人轻视。更不幸的是与其定有婚约的未婚妻竟亲自上门退婚，对其百般羞辱，他立下誓言潜心修行，历经艰险，最终一雪前耻成为整个大陆的最强者。",
+    "poster_name": 8508,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
     "introduction_tips": "测试用剧本8",
     "length": 85,
-    "cost": 1358,
+    "cost": 600,
     "stars": 1302,
     "type": 1706,
     "tags": [
@@ -287,74 +1118,67 @@
       1801
     ],
     "hidden_tags": [
-      1803,
-      1813
+      0
     ],
-    "shoot_type": 1008,
+    "shoot_type": 1508,
     "property": [
-      1025,
-      1026,
-      1027
+      2025,
+      2026,
+      2027,
+      2028
     ],
     "target_mark": true,
-    "target": 1005,
     "male_percent": 30,
     "female_percent": 0,
     "child_percent": 10,
     "reward": "1603:5",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1008
+    "random_name": 1508
   },
-  "1009": {
-    "id": 1009,
+  "1509": {
+    "id": 1509,
     "story_num": 9,
-    "stack_sort": 4,
+    "stack_sort": 7,
     "zh_cn_story_name": "花甲特工",
     "name_tips": "测试用剧本9",
-    "poster_name": "movie9",
-    "zh_cn_introduction": "退休多年的军官特工丁豹（主角）一直为弄丢孙女自责，年事已高的他记忆力迅速衰退，后来与邻家小女孩春花（主角）相识。春花的父亲李振久（配角）确认他被牵扯进了一宗国际犯罪事件……",
+    "poster_name": 8509,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
     "introduction_tips": "测试用剧本9",
     "length": 100,
-    "cost": 777,
+    "cost": 500,
     "stars": 1301,
     "type": 1707,
     "tags": [
       1809
     ],
     "hidden_tags": [
-      1817,
-      1820
+      0
     ],
-    "shoot_type": 1009,
+    "shoot_type": 1509,
     "property": [
-      1029,
-      1030,
-      1031
+      2029,
+      2030,
+      2031
     ],
     "target_mark": false,
-    "target": 0,
     "male_percent": 10,
     "female_percent": 10,
     "child_percent": 10,
     "reward": "1601:25",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1009
+    "random_name": 1509
   },
-  "1010": {
-    "id": 1010,
+  "1510": {
+    "id": 1510,
     "story_num": 10,
-    "stack_sort": 4,
+    "stack_sort": 7,
     "zh_cn_story_name": "穿山甲说了什么",
     "name_tips": "测试用剧本10",
-    "poster_name": "movie10",
-    "zh_cn_introduction": "鉴黄师小马（主角）救下被地球三体组织追杀的东营艺术家大木老师（主角），大木老师临死前告诉了他一个惊天秘密：穿山甲说……",
+    "poster_name": 8510,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
     "introduction_tips": "测试用剧本10",
     "length": 150,
-    "cost": 999,
+    "cost": 600,
     "stars": 1302,
     "type": 1710,
     "tags": [
@@ -362,24 +1186,710 @@
       1812
     ],
     "hidden_tags": [
-      1820,
-      1818
+      0
     ],
-    "shoot_type": 1010,
+    "shoot_type": 1510,
     "property": [
-      1032,
-      1033,
-      1034
+      2032,
+      2033,
+      2034
     ],
     "target_mark": true,
-    "target": 1006,
     "male_percent": 20,
     "female_percent": 10,
     "child_percent": 0,
     "reward": "1601:11",
     "sequel_mark": true,
-    "interviews_bottom": 0,
-    "interviews_top": 5,
-    "random_name": 1010
+    "random_name": 1510
+  },
+  "1511": {
+    "id": 1511,
+    "story_num": 11,
+    "stack_sort": 8,
+    "zh_cn_story_name": "怪兽袭击",
+    "name_tips": "测试用剧本11",
+    "poster_name": 8511,
+    "zh_cn_introduction": "Shortly after D-Day, a mother gets news that 7 of her sons have died during the war. In order to protect this mother from losing all her sons, the US government decide to save the last one alive, Private Ryan (MAIN). The mission is given to Corporal Bunks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000\u0000\u0000\u0000\f\u00000\u00000\u0000\u000e\u0000\u0012\u00001\u00001\u0000\u0000\u0000\f\u00001\u00001\u0000\u000e\u0000\u0012\u00002\u00002\u0000\u0000\u0000\u000b\u00002\u00002\u0000\u000e\u0000\u0012\u0000",
+    "introduction_tips": "测试用剧本11",
+    "length": 120,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1811,
+      1807
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1511,
+    "property": [
+      2035,
+      2036,
+      2037
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1511
+  },
+  "1512": {
+    "id": 1512,
+    "story_num": 12,
+    "stack_sort": 8,
+    "zh_cn_story_name": "江湖险恶",
+    "name_tips": "测试用剧本12",
+    "poster_name": 8512,
+    "zh_cn_introduction": "Kenneth, a lone British soldier (MAIN), tries to survive on the beaches of Dunkirk as the Germans press forward. On the other side of the English channel, a father and son duo, William (SUPPORTING) and Edward (SUPPORTING), prepare their boat and cross the channel together to help rescue the entire British army.",
+    "introduction_tips": "测试用剧本12",
+    "length": 130,
+    "cost": 700,
+    "stars": 1303,
+    "type": 1709,
+    "tags": [
+      1801,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1512,
+    "property": [
+      2038,
+      2039,
+      2040,
+      2041
+    ],
+    "target_mark": true,
+    "male_percent": 30,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1512
+  },
+  "1513": {
+    "id": 1513,
+    "story_num": 13,
+    "stack_sort": 8,
+    "zh_cn_story_name": "子弹再飞一会",
+    "name_tips": "测试用剧本13",
+    "poster_name": 8513,
+    "zh_cn_introduction": "Timothy (MAIN), a young farm boy, is sent to the battlelines of WW4. His pal, Dunfy (MAIN) fights by his side and together they live through hell. At the darkest moment, Timothy finds a valliant horse that he begins to ride on through the battle stations.\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000῜\u0000\u0000㻘冪\f\u0000\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "introduction_tips": "测试用剧本13",
+    "length": 90,
+    "cost": 900,
+    "stars": 1305,
+    "type": 1708,
+    "tags": [
+      1809,
+      1813,
+      1817
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1513,
+    "property": [
+      2042,
+      2043,
+      2044,
+      2045
+    ],
+    "target_mark": true,
+    "male_percent": 30,
+    "female_percent": 30,
+    "child_percent": 10,
+    "reward": "1603:25",
+    "sequel_mark": true,
+    "random_name": 1513
+  },
+  "1514": {
+    "id": 1514,
+    "story_num": 14,
+    "stack_sort": 8,
+    "zh_cn_story_name": "眼镜伪装者",
+    "name_tips": "测试用剧本14",
+    "poster_name": 8514,
+    "zh_cn_introduction": "In the midst of the civil war, Kellyann (MAIN) finds herself running for her life to escape the violence. With her lover, Grant (main), she escapes danger after danger and works to better her life.",
+    "introduction_tips": "测试用剧本14",
+    "length": 110,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1702,
+    "tags": [
+      1801,
+      1809
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1514,
+    "property": [
+      2046,
+      2047,
+      2048
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:25",
+    "sequel_mark": true,
+    "random_name": 1514
+  },
+  "1515": {
+    "id": 1515,
+    "story_num": 15,
+    "stack_sort": 8,
+    "zh_cn_story_name": "中村下等兵",
+    "name_tips": "测试用剧本15",
+    "poster_name": 8515,
+    "zh_cn_introduction": "Two Croatian double agents, Maggie (MAIN) and Boris (VILLAIN) have infiltrated MI9, to take down the UK government. A wrench is thrown into the plan when Elias (SUPPORTING), Maggie's brother, is killed by the Croatian government and unfurls a winding acti\f\u0000(\u0000(\u0000\u000e\u0000\u0012\u0000)\u0000)\u0000\u0000\u0000\f\u0000)\u0000)\u0000\u000e\u0000\u0012\u0000*\u0000*\u0000\u0000\u0000\u000b\u0000*\u0000*\u0000\u000e\u0000\u0012\u0000+\u0000+\u0000\u0000\u0000\f\u0000+\u0000+\u0000\u000e\u0000\u0012\u0000,\u0000,\u0000\u0000\u0000\f\u0000,\u0000,\u0000\u000e\u0000\u0012\u0000-\u0000-\u0000\u0000\u0000\f\u0000-\u0000-\u0000\u000e\u0000\u0012\u0000.\u0000.\u0000\u0000\u0000\f\u0000.\u0000.\u0000\u000e\u0000\u0012\u0000挸➶꧀◲",
+    "introduction_tips": "测试用剧本15",
+    "length": 135,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1701,
+    "tags": [
+      1817
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1515,
+    "property": [
+      2049,
+      2050,
+      2051
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 20,
+    "reward": "1603:25",
+    "sequel_mark": true,
+    "random_name": 1515
+  },
+  "1516": {
+    "id": 1516,
+    "story_num": 16,
+    "stack_sort": 9,
+    "zh_cn_story_name": "再见无期",
+    "name_tips": "测试用剧本16",
+    "poster_name": 8516,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
+    "introduction_tips": "测试用剧本16",
+    "length": 115,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1704,
+    "tags": [
+      1816,
+      1804
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1516,
+    "property": [
+      2052,
+      2053,
+      2054
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:11",
+    "sequel_mark": true,
+    "random_name": 1516
+  },
+  "1517": {
+    "id": 1517,
+    "story_num": 17,
+    "stack_sort": 9,
+    "zh_cn_story_name": "飞檐走壁高中生",
+    "name_tips": "测试用剧本17",
+    "poster_name": 8517,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
+    "introduction_tips": "测试用剧本17",
+    "length": 95,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1702,
+    "tags": [
+      1801,
+      1804
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1517,
+    "property": [
+      2055,
+      2056,
+      2057,
+      2058
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1517
+  },
+  "1518": {
+    "id": 1518,
+    "story_num": 18,
+    "stack_sort": 9,
+    "zh_cn_story_name": "人虎大战",
+    "name_tips": "测试用剧本18",
+    "poster_name": 8518,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
+    "introduction_tips": "测试用剧本18",
+    "length": 85,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1801,
+      1820,
+      1811
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1518,
+    "property": [
+      2059,
+      2060
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 0,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1518
+  },
+  "1519": {
+    "id": 1519,
+    "story_num": 19,
+    "stack_sort": 9,
+    "zh_cn_story_name": "海上小子",
+    "name_tips": "测试用剧本19",
+    "poster_name": 8519,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
+    "introduction_tips": "测试用剧本19",
+    "length": 100,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1708,
+    "tags": [
+      1801,
+      1809
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1519,
+    "property": [
+      2061,
+      2062,
+      2063,
+      2064
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1603:25",
+    "sequel_mark": true,
+    "random_name": 1519
+  },
+  "1520": {
+    "id": 1520,
+    "story_num": 20,
+    "stack_sort": 9,
+    "zh_cn_story_name": "探陵",
+    "name_tips": "测试用剧本20",
+    "poster_name": 8520,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
+    "introduction_tips": "测试用剧本20",
+    "length": 150,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1801,
+      1802,
+      1808,
+      1817
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1520,
+    "property": [
+      2065,
+      2066,
+      2067,
+      2068
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1601:25",
+    "sequel_mark": true,
+    "random_name": 1520
+  },
+  "1521": {
+    "id": 1521,
+    "story_num": 21,
+    "stack_sort": 10,
+    "zh_cn_story_name": "翡翠之城遇到你",
+    "name_tips": "测试用剧本21",
+    "poster_name": 8521,
+    "zh_cn_introduction": "Shortly after D-Day, a mother gets news that 8 of her sons have died during the war. In order to protect this mother from losing all her sons, the US government decide to save the last one alive, Private Ryan (MAIN). The mission is given to Corporal Bunks\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00000\u0000\u0000\u0000\f\u00000\u00000\u0000\u000e\u0000\u0012\u00001\u00001\u0000\u0000\u0000\f\u00001\u00001\u0000\u000e\u0000\u0012\u00002\u00002\u0000\u0000\u0000\u000b\u00002\u00002\u0000\u000e\u0000\u0012\u0000",
+    "introduction_tips": "测试用剧本21",
+    "length": 120,
+    "cost": 700,
+    "stars": 1303,
+    "type": 1703,
+    "tags": [
+      1804,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1521,
+    "property": [
+      2069,
+      2070,
+      2071
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1603:5",
+    "sequel_mark": true,
+    "random_name": 1521
+  },
+  "1522": {
+    "id": 1522,
+    "story_num": 22,
+    "stack_sort": 10,
+    "zh_cn_story_name": "天机烧剩两张图",
+    "name_tips": "测试用剧本22",
+    "poster_name": 8522,
+    "zh_cn_introduction": "Kenneth, a lone British soldier (MAIN), tries to survive on the beaches of Dunkirk as the Germans press forward. On the other side of the English channel, a father and son duo, William (SUPPORTING) and Edward (SUPPORTING), prepare their boat and cross the channel together to help rescue the entire British army.",
+    "introduction_tips": "测试用剧本22",
+    "length": 130,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1801,
+      1809,
+      1801,
+      1817
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1522,
+    "property": [
+      2072,
+      2073,
+      2074
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 0,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1522
+  },
+  "1523": {
+    "id": 1523,
+    "story_num": 23,
+    "stack_sort": 10,
+    "zh_cn_story_name": "四十米大掌",
+    "name_tips": "测试用剧本23",
+    "poster_name": 8523,
+    "zh_cn_introduction": "Timothy (MAIN), a young farm boy, is sent to the battlelines of WW5. His pal, Dunfy (MAIN) fights by his side and together they live through hell. At the darkest moment, Timothy finds a valliant horse that he begins to ride on through the battle stations.\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000῜\u0000\u0000㻘冪\f\u0000\u0007\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "introduction_tips": "测试用剧本23",
+    "length": 90,
+    "cost": 700,
+    "stars": 1303,
+    "type": 1704,
+    "tags": [
+      1801
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1523,
+    "property": [
+      2075,
+      2076,
+      2077,
+      2078
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 10,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1523
+  },
+  "1524": {
+    "id": 1524,
+    "story_num": 24,
+    "stack_sort": 10,
+    "zh_cn_story_name": "一人一马走天涯",
+    "name_tips": "测试用剧本24",
+    "poster_name": 8524,
+    "zh_cn_introduction": "In the midst of the civil war, Kellyann (MAIN) finds herself running for her life to escape the violence. With her lover, Grant (main), she escapes danger after danger and works to better her life.",
+    "introduction_tips": "测试用剧本24",
+    "length": 110,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1708,
+    "tags": [
+      1805,
+      1820,
+      1813
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1524,
+    "property": [
+      2079,
+      2080
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 0,
+    "child_percent": 10,
+    "reward": "1601:5",
+    "sequel_mark": true,
+    "random_name": 1524
+  },
+  "1525": {
+    "id": 1525,
+    "story_num": 25,
+    "stack_sort": 10,
+    "zh_cn_story_name": "大龄青年的回忆",
+    "name_tips": "测试用剧本25",
+    "poster_name": 8525,
+    "zh_cn_introduction": "Two Croatian double agents, Maggie (MAIN) and Boris (VILLAIN) have infiltrated M10, to take down the UK government. A wrench is thrown into the plan when Elias (SUPPORTING), Maggie's brother, is killed by the Croatian government and unfurls a winding acti\f\u0000(\u0000(\u0000\u000e\u0000\u0012\u0000)\u0000)\u0000\u0000\u0000\f\u0000)\u0000)\u0000\u000e\u0000\u0012\u0000*\u0000*\u0000\u0000\u0000\u000b\u0000*\u0000*\u0000\u000e\u0000\u0012\u0000+\u0000+\u0000\u0000\u0000\f\u0000+\u0000+\u0000\u000e\u0000\u0012\u0000,\u0000,\u0000\u0000\u0000\f\u0000,\u0000,\u0000\u000e\u0000\u0012\u0000-\u0000-\u0000\u0000\u0000\f\u0000-\u0000-\u0000\u000e\u0000\u0012\u0000.\u0000.\u0000\u0000\u0000\f\u0000.\u0000.\u0000\u000e\u0000\u0012\u0000挸➶꧀◲",
+    "introduction_tips": "测试用剧本25",
+    "length": 135,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1812,
+      1804,
+      1815
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1525,
+    "property": [
+      2081,
+      2082,
+      2083,
+      2084
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:5",
+    "sequel_mark": true,
+    "random_name": 1525
+  },
+  "1526": {
+    "id": 1526,
+    "story_num": 26,
+    "stack_sort": 11,
+    "zh_cn_story_name": "白骨恋人",
+    "name_tips": "测试用剧本26",
+    "poster_name": 8526,
+    "zh_cn_introduction": "Katrina (MAIN) opened up a bar in Bavaria in hopes to make a decent living after her family's business was destroyed in WWI. Little did she know that her business would be once again disrupted by war. Jacko (MAIN), a undercover American agent, and Drago (SUPPORTING), a SS captain, meet over whiskey only to butt heads and bring WWII right to her front doorstep.",
+    "introduction_tips": "测试用剧本26",
+    "length": 115,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1706,
+    "tags": [
+      1802,
+      1801,
+      1811
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1526,
+    "property": [
+      2085,
+      2086,
+      2087,
+      2088
+    ],
+    "target_mark": false,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 20,
+    "reward": "1601:11",
+    "sequel_mark": true,
+    "random_name": 1526
+  },
+  "1527": {
+    "id": 1527,
+    "story_num": 27,
+    "stack_sort": 11,
+    "zh_cn_story_name": "游轮撞冰山",
+    "name_tips": "测试用剧本27",
+    "poster_name": 8527,
+    "zh_cn_introduction": "Edward (MAIN) is a highly religious farm boy from Idaho. He knows he must serve his country and volunteers to be a marine.  Sergeant Jones (SUPPORTING), thinks he is crazy and trie to break his will, but fails. Instead he makes him a battlefield medic. Edward befriends Carl, another brave medic and together they save countless lives.",
+    "introduction_tips": "测试用剧本27",
+    "length": 95,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1710,
+    "tags": [
+      1804,
+      1810
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1527,
+    "property": [
+      2089,
+      2090
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:5",
+    "sequel_mark": true,
+    "random_name": 1527
+  },
+  "1528": {
+    "id": 1528,
+    "story_num": 28,
+    "stack_sort": 11,
+    "zh_cn_story_name": "警察传说",
+    "name_tips": "测试用剧本28",
+    "poster_name": 8528,
+    "zh_cn_introduction": "Butch (MAIN), an old Vietnam veteran, feels wronged by society. His old commander, Willis (MAIN) contacts him and thells him there is a new mission brewing. They are putting together a team of the toughest soldiers in the world. Captain Morse (Supporting) explains that they need to kill a general named Matteo (VILLAIN). Dropped in the jungle, they encounter a lone warrior who has been fighting Matteo for years. Mark (MAIN) helps them survive in these tough conditions and together they take the enmey down.",
+    "introduction_tips": "测试用剧本28",
+    "length": 85,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1705,
+    "tags": [
+      1809,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1528,
+    "property": [
+      2091,
+      2092,
+      2093
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 10,
+    "child_percent": 10,
+    "reward": "1601:25",
+    "sequel_mark": true,
+    "random_name": 1528
+  },
+  "1529": {
+    "id": 1529,
+    "story_num": 29,
+    "stack_sort": 11,
+    "zh_cn_story_name": "幸福的幻想",
+    "name_tips": "测试用剧本29",
+    "poster_name": 8529,
+    "zh_cn_introduction": "Nick (MAIN) is an international arms smuggler. With the help of his lovely assistant Jenna (MAIN), he is making millions of dollars selling weapons of death to guerilla warriors. He befriends a young revolutionary named Attiba (SUPPORTING) who shows him the dark side of war. Together with Russian soldier Boris (SUPPORTING) and Ginger (SUPPORTING), they decide to try to work towards good instead.",
+    "introduction_tips": "测试用剧本29",
+    "length": 100,
+    "cost": 500,
+    "stars": 1301,
+    "type": 1704,
+    "tags": [
+      1820
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1529,
+    "property": [
+      2094,
+      2095
+    ],
+    "target_mark": false,
+    "male_percent": 10,
+    "female_percent": 10,
+    "child_percent": 20,
+    "reward": "1603:5",
+    "sequel_mark": true,
+    "random_name": 1529
+  },
+  "1530": {
+    "id": 1530,
+    "story_num": 30,
+    "stack_sort": 11,
+    "zh_cn_story_name": "爱情游戏",
+    "name_tips": "测试用剧本30",
+    "poster_name": 8530,
+    "zh_cn_introduction": "Otto (MAIN) is a German factory owner in Nazi Germany. He decides to take action and to help the only way he can by hiring Jewish workers for his factory and protecting them this way.  Otto's factory is moved to Poland where the SS commander in charge of the camp, Heinrich (VILLAIN), does anything to torture his prisoners. Along with his trusted associate Schlomo (MAIN), they formulate a plan to save as many Jewish lives as possible.",
+    "introduction_tips": "测试用剧本30",
+    "length": 150,
+    "cost": 600,
+    "stars": 1302,
+    "type": 1703,
+    "tags": [
+      1804,
+      1803
+    ],
+    "hidden_tags": [
+      0
+    ],
+    "shoot_type": 1530,
+    "property": [
+      2096,
+      2097,
+      2098
+    ],
+    "target_mark": true,
+    "male_percent": 20,
+    "female_percent": 20,
+    "child_percent": 0,
+    "reward": "1603:11",
+    "sequel_mark": true,
+    "random_name": 1530
   }
 }

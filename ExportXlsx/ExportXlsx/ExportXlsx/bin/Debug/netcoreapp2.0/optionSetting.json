@@ -3,7 +3,7 @@
   "optionSetting": "./optionSetting.json",
   "xlsxDir": "E:/zengfeng/GamePF/gamepf_doc/Config/Common",
   "outDir": "../../../Example/ConfigOut",
-  "exportSettingXlsx": "../../../Example/Config/ExportSetting.xlsx",
+  "exportSettingXlsx": "E:/zengfeng/GamePF/gamepf_doc/Config/ExportSetting.xlsx",
   "settingStructSheet": "StructSheet",
   "settingIgnoreSheet": "IgnoreSheet",
   "templateDir": "../../../Template",

@@ -1,4 +1,0 @@
-﻿int	int	int	string	bool	DTVector2	string	string	bool	int	bool	bool	int
-id	引导组	顺序	引导对象|n|（按钮路径）	小半身像对话框|n|0=不出现|n|1=出现	小半身像对话框位置	内容	content	手指|n|0=不出现|n|1=出现	手指方向:|n|1=上|n|2=下|n|3=左|n|4=右	光圈|n|0=不出现|n|1=出现	是否触发剧情|n|0=否|n|1=是	触发剧情id
-id	group	order	path	assistant	position	cn_content	en_content	finger	f_direction	halo	storyline	storyline_id
-1001	1	1		1	0;0	A	B	1	1	0		

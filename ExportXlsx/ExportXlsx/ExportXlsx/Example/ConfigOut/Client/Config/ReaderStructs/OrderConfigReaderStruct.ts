@@ -21,9 +21,9 @@ namespace configs
 			config.zh_cn_name2 = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name2"  )   );
 			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );
 			config.block = csvGetInt(csv,  this.GetHeadIndex(  "block"  )   );
-			config.quality = csvGetInt(csv,  this.GetHeadIndex(  "quality"  )   );
 			config.need =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "need"  )   )   );
-			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.quality = csvGetInt(csv,  this.GetHeadIndex(  "quality"  )   );
+			config.reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
 			config.expect = csvGetInt(csv,  this.GetHeadIndex(  "expect"  )   );
 
 			

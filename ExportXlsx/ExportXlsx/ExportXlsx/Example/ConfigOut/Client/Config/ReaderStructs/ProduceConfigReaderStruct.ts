@@ -18,11 +18,12 @@ namespace configs
 
 			config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 			config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
+			config.item = csvGetInt(csv,  this.GetHeadIndex(  "item"  )   );
 			config.zh_cn_tip = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_tip"  )   );
 			config.grade = csvGetInt(csv,  this.GetHeadIndex(  "grade"  )   );
 			config.unlock_level = csvGetInt(csv,  this.GetHeadIndex(  "unlock_level"  )   );
 			config.unlock_building = csvGetInt(csv,  this.GetHeadIndex(  "unlock_building"  )   );
-			config.unlock_gold = csvGetInt(csv,  this.GetHeadIndex(  "unlock_gold"  )   );
+			config.unlock_gold =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "unlock_gold"  )   )   );
 			config.unlock_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "unlock_reward"  )   )   );
 			config.cd = csvGetInt(csv,  this.GetHeadIndex(  "cd"  )   );
 			config.icon = csvGetInt(csv,  this.GetHeadIndex(  "icon"  )   );

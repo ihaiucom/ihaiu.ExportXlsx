@@ -20,9 +20,9 @@ namespace configs
 			config.name = csvGetString(csv,  this.GetHeadIndex(  "name"  )   );
 			config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 			config.rank = csvGetInt(csv,  this.GetHeadIndex(  "rank"  )   );
-			config.reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "reward"  )   )   );
+			config.movie_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "movie_reward"  )   )   );
+			config.box_office_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "box_office_reward"  )   )   );
 			config.extra_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "extra_reward"  )   )   );
-			config.oscar_reward =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "oscar_reward"  )   )   );
 			config.congratulate_switch = csvGetBoolean(csv,  this.GetHeadIndex(  "congratulate_switch"  )   );
 			config.congratulate_reward =  DTItemNum.parse(       csvGetString(csv,  this.GetHeadIndex(  "congratulate_reward"  )   )   );
 

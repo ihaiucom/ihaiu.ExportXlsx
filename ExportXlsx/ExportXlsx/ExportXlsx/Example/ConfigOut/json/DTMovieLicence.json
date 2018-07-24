@@ -12,7 +12,7 @@
   "3": {
     "id": 3,
     "tips": "第3张许可证",
-    "cool_down": 300
+    "cool_down": 600
   },
   "4": {
     "id": 4,
@@ -22,31 +22,31 @@
   "5": {
     "id": 5,
     "tips": "第5张许可证",
-    "cool_down": 600
+    "cool_down": 900
   },
   "6": {
     "id": 6,
     "tips": "第6张许可证",
-    "cool_down": 600
+    "cool_down": 1800
   },
   "7": {
     "id": 7,
     "tips": "第7张许可证",
-    "cool_down": 900
+    "cool_down": 2700
   },
   "8": {
     "id": 8,
     "tips": "第8张许可证",
-    "cool_down": 900
+    "cool_down": 3600
   },
   "9": {
     "id": 9,
     "tips": "第9张许可证",
-    "cool_down": 900
+    "cool_down": 5400
   },
   "10": {
     "id": 10,
     "tips": "第10张许可证",
-    "cool_down": 1200
+    "cool_down": 7200
   }
 }

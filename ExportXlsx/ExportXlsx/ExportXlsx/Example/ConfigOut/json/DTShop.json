@@ -9,10 +9,15 @@
         "itemNum": 6
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "18:00-20:00",
-    "daily_limit": 1,
-    "weekly_limit": 0,
+    "limit": {
+      "itemId": 1,
+      "itemNum": 1
+    },
     "row": 1,
     "columns": 1
   },
@@ -26,10 +31,15 @@
         "itemNum": 7
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 2,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 2
+    },
     "row": 1,
     "columns": 2
   },
@@ -43,10 +53,15 @@
         "itemNum": 8
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 10,
-    "weekly_limit": 0,
+    "limit": {
+      "itemId": 1,
+      "itemNum": 10
+    },
     "row": 1,
     "columns": 3
   },
@@ -60,10 +75,15 @@
         "itemNum": 9
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 10,
-    "weekly_limit": 0,
+    "limit": {
+      "itemId": 1,
+      "itemNum": 10
+    },
     "row": 2,
     "columns": 1
   },
@@ -77,10 +97,15 @@
         "itemNum": 10
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 3,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 3
+    },
     "row": 2,
     "columns": 2
   },
@@ -94,10 +119,15 @@
         "itemNum": 11
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 20,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 20
+    },
     "row": 2,
     "columns": 3
   },
@@ -111,10 +141,15 @@
         "itemNum": 12
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 2,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 2
+    },
     "row": 3,
     "columns": 1
   },
@@ -136,10 +171,15 @@
         "itemNum": 12
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 2,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 2
+    },
     "row": 1,
     "columns": 0
   },
@@ -161,10 +201,15 @@
         "itemNum": 12
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 2,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 2
+    },
     "row": 2,
     "columns": 0
   },
@@ -186,10 +231,15 @@
         "itemNum": 12
       }
     ],
-    "cost": 100,
+    "cost": {
+      "itemId": 1,
+      "itemNum": 100
+    },
     "period": "0",
-    "daily_limit": 0,
-    "weekly_limit": 2,
+    "limit": {
+      "itemId": 2,
+      "itemNum": 2
+    },
     "row": 3,
     "columns": 0
   }
