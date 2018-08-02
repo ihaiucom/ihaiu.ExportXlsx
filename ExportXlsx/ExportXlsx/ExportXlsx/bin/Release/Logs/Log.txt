@@ -2739,3 +2739,15 @@
 2018-07-20 16:39:15.6844   (Program.cs:23) ExportClientTS:DTVector2
 2018-07-20 16:39:15.6954   (Program.cs:23) ExportClientTS:Msg
 2018-07-20 16:39:15.8364   (Program.cs:27) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-31 20:08:11.1017   (Program.cs:21) 读取配置表 ExportSetting
+2018-07-31 20:08:11.4407   (Program.cs:22) 读取配置表 ExportSetting
+2018-07-31 20:08:11.6917   (Program.cs:23) 读取配置表 Action
+2018-07-31 20:08:11.7287   (Program.cs:23) 读取配置表 Activities
+2018-07-31 20:08:11.7577   (Program.cs:23) 读取配置表 Actor
+2018-07-31 20:08:11.8177   (Program.cs:23) 读取配置表 ActorAssets
+2018-08-02 11:11:32.4296   (Program.cs:21) 读取配置表 ExportSetting
+2018-08-02 11:11:32.6836   (Program.cs:22) 读取配置表 ExportSetting
+2018-08-02 11:11:32.9446   (Program.cs:23) 读取配置表 Action
+2018-08-02 11:11:32.9676   (Program.cs:23) 读取配置表 Activities
+2018-08-02 11:11:32.9776   (Program.cs:23) 读取配置表 Actor
+2018-08-02 11:11:33.0256   (Program.cs:23) 读取配置表 ActorAssets

@@ -524,3 +524,15 @@
 2018-07-20 16:38:57.8814   (ExportClientTS.cs:25) ExportClientTS:DTDrop
 2018-07-20 16:38:57.8814   (ExportClientTS.cs:25) ExportClientTS:Msg
 2018-07-20 16:38:58.0284   (ExportJson.cs:13) ExportJson:E:/zengfeng/GamePF/gamepf_doc/Config/Common\Msg.xlsx
+2018-07-31 20:08:19.2061   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-31 20:08:19.4662   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-07-31 20:08:19.5802   (TableReader.cs:37) 读取配置表 Action
+2018-07-31 20:08:19.6162   (TableReader.cs:37) 读取配置表 Activities
+2018-07-31 20:08:19.6202   (TableReader.cs:37) 读取配置表 Actor
+2018-07-31 20:08:19.6752   (TableReader.cs:37) 读取配置表 ActorAssets
+2018-08-02 11:11:24.6082   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-08-02 11:11:24.8722   (TableReader.cs:37) 读取配置表 ExportSetting
+2018-08-02 11:11:25.0672   (TableReader.cs:37) 读取配置表 Action
+2018-08-02 11:11:25.1062   (TableReader.cs:37) 读取配置表 Activities
+2018-08-02 11:11:25.1062   (TableReader.cs:37) 读取配置表 Actor
+2018-08-02 11:11:25.2002   (TableReader.cs:37) 读取配置表 ActorAssets

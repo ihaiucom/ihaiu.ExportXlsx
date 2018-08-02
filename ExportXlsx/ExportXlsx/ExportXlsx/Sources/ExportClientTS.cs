@@ -84,12 +84,12 @@ namespace ExportXlsx.Sources
 
                 if (dataField.field.StartsWith("zh_cn_"))
                 {
-                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field };
+                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field, fieldName };
                     langs.Add(lines);
                 }
                 else if (dataField.field.StartsWith("cn_"))
                 {
-                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field };
+                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field, fieldName };
                     langs.Add(lines);
                 }
             }

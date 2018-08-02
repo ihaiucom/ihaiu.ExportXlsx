@@ -28,6 +28,11 @@ namespace configs
 		>:FOREACH langs:<
 		get >:[0]:<()
 		{
+			let value = LangManager.Instance.getValue(">:[2]:<", this.id, ">:[0]:<");
+			if (!isNullOrEmpty(value))
+			{
+				return value;
+			}
 			return this.>:[1]:<
 		}
 		>:ENDFOREACH:<
