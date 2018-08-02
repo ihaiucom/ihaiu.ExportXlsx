@@ -8,7 +8,7 @@ namespace configs
 
 	export class >:classNameConfigReaderStruct:< extends CsvConfigRender<    >:classNameConfig:<      >
 	{
-		path = ">:tableName:<";
+		tableName = ">:tableName:<";
 
 
         ParseCsv(csv: string[] )
