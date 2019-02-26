@@ -1,12 +1,18 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
 namespace configs
 {
 	export class >:classNameConfigStruct:< extends BaseConfig
 	{
+	
+		>:FOREACH dicts:<
+		// >:[0]:< : >:[1]:<;
+		static KEY_>:[2]:< = ">:[0]:<";
+
+		>:ENDFOREACH:<
 
 		>:FOREACH fields:<
 		>:[0]:< : >:[1]:<;
@@ -17,6 +23,19 @@ namespace configs
 
 
 		>:parseArray:< 
+
+		
+		>:FOREACH langs:<
+		get >:[0]:<():>:[3]:<
+		{
+			let value = <>:[3]:<> LangManager.Instance.getValue(">:[2]:<", this.id, ">:[4]:<");
+			if (!isNullOrEmpty(value))
+			{
+				return value;
+			}
+			return this.>:[1]:<
+		}
+		>:ENDFOREACH:<
 	}
 
 

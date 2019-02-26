@@ -1,6 +1,6 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
 namespace configs
@@ -8,7 +8,7 @@ namespace configs
 
 	export class >:classNameConfigReaderStruct:< extends CsvConfigRender<    >:classNameConfig:<      >
 	{
-		path = ">:tableName:<";
+		tableName = ">:tableName:<";
 
 
         ParseCsv(csv: string[] )
@@ -18,6 +18,11 @@ namespace configs
 
 			>:FOREACH fields:<
 			config.>:[0]:< = >:[1]:<;
+			>:ENDFOREACH:<
+
+			
+			>:FOREACH dicts:<
+			config[">:[0]:<"] = >:[1]:<;
 			>:ENDFOREACH:<
 
 
