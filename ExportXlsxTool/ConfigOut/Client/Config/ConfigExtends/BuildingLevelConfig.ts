@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import BuildingLevelConfigStruct from "../ConfigStructs/BuildingLevelConfig";
+
+export default class BuildingLevelConfig extends BuildingLevelConfigStruct
 {
-	export class BuildingLevelConfig extends BuildingLevelConfigStruct
-	{
-	}
+	
 }

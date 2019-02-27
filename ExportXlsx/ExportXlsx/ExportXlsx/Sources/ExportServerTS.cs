@@ -52,6 +52,9 @@ namespace ExportXlsx.Sources
             {
                 DataField dataField = dataStruct.fields[i];
 
+                if (!dataField.isExport)
+                    continue;
+
                 object[] lines = new object[] { dataField.field, dataField.GetTsTypeName() };
                 fields.Add(lines);
             }

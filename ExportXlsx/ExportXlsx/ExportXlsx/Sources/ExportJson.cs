@@ -21,6 +21,10 @@ namespace ExportXlsx.Sources
                 foreach (var kvp in table.fieldDictByIndex)
                 {
                     DataField dataField = kvp.Value;
+
+                    if (!dataField.isExport)
+                        continue;
+
                     string field = dataField.field;
                     string valueTxt = string.Empty;
                     if (line.ContainsKey(field))

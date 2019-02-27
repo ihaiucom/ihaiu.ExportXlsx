@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import DTItemNumStruct from "../ConfigStructs/DTItemNum";
+
+export default class DTItemNum extends DTItemNumStruct
 {
-	export class DTItemNum extends DTItemNumStruct
-	{
-	}
+	
 }

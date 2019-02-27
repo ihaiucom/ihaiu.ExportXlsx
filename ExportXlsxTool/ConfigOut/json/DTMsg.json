@@ -1,0 +1,2858 @@
+﻿{
+  "1000": {
+    "id": 1000,
+    "key": "Msg_test",
+    "module": "测试",
+    "name": "测试",
+    "zh_cn_notice": "test",
+    "en_notice": ""
+  },
+  "1001": {
+    "id": 1001,
+    "key": "account_name_long",
+    "module": "账号信息",
+    "name": "名称长度不对",
+    "zh_cn_notice": "名称规定长度为【4-{0}】",
+    "en_notice": ""
+  },
+  "1002": {
+    "id": 1002,
+    "key": "account_name_num",
+    "module": "账号信息",
+    "name": "名称为纯数字",
+    "zh_cn_notice": "名称不能为纯数字",
+    "en_notice": ""
+  },
+  "1003": {
+    "id": 1003,
+    "key": "account_name_space",
+    "module": "账号信息",
+    "name": "名称开头和结尾有空格",
+    "zh_cn_notice": "名称开头和结尾不能有空格",
+    "en_notice": ""
+  },
+  "1004": {
+    "id": 1004,
+    "key": "account_name_repeat",
+    "module": "账号信息",
+    "name": "名称与原名相同",
+    "zh_cn_notice": "名称与原名相同",
+    "en_notice": ""
+  },
+  "1005": {
+    "id": 1005,
+    "key": "account_name_blockword",
+    "module": "账号信息",
+    "name": "名称中有屏蔽词",
+    "zh_cn_notice": "名称中有非法字符",
+    "en_notice": ""
+  },
+  "1006": {
+    "id": 1006,
+    "key": "account_name_repeatothers",
+    "module": "账号信息",
+    "name": "名称与其他玩家重名",
+    "zh_cn_notice": "该名称已被使用",
+    "en_notice": ""
+  },
+  "1007": {
+    "id": 1007,
+    "key": "account_name_ok",
+    "module": "账号信息",
+    "name": "公司重命名成功",
+    "zh_cn_notice": "您的公司已更名为",
+    "en_notice": ""
+  },
+  "1008": {
+    "id": 1008,
+    "key": "account_name_often",
+    "module": "账号信息",
+    "name": "频繁修改个性签名提示",
+    "zh_cn_notice": "个性签名每分钟只能修改一次",
+    "en_notice": ""
+  },
+  "1009": {
+    "id": 1009,
+    "key": "produce_one_click",
+    "module": "生产",
+    "name": "一键生产",
+    "zh_cn_notice": "一共增加了{0}个生产队列",
+    "en_notice": ""
+  },
+  "1010": {
+    "id": 1010,
+    "key": "produce_warehouse_max",
+    "module": "生产",
+    "name": "一键领取达仓库上限",
+    "zh_cn_notice": "仓库已满，请提升仓库容量",
+    "en_notice": ""
+  },
+  "1011": {
+    "id": 1011,
+    "key": "produce_recvip_less",
+    "module": "生产",
+    "name": "街区等级不够",
+    "zh_cn_notice": "需要升到{0}<br/>才能使用一键领取功能",
+    "en_notice": ""
+  },
+  "1012": {
+    "id": 1012,
+    "key": "produce_item_less",
+    "module": "生产",
+    "name": "没有足够的道具",
+    "zh_cn_notice": "没有可以领取的道具，请先进行生产",
+    "en_notice": ""
+  },
+  "1013": {
+    "id": 1013,
+    "key": "produce_paper_less",
+    "module": "生产",
+    "name": "没有足够的图纸",
+    "zh_cn_notice": "生产图纸不足",
+    "en_notice": ""
+  },
+  "1014": {
+    "id": 1014,
+    "key": "produce_item_max",
+    "module": "生产",
+    "name": "生产线累计奖励到达上限",
+    "zh_cn_notice": "请先领取累计奖励",
+    "en_notice": ""
+  },
+  "1015": {
+    "id": 1015,
+    "key": "produce_line_max",
+    "module": "生产",
+    "name": "生产线队列到达上限",
+    "zh_cn_notice": "该生产线队列已达上限，<br/>请提升生产线等级",
+    "en_notice": ""
+  },
+  "1016": {
+    "id": 1016,
+    "key": "produce_pre_unlock",
+    "module": "生产",
+    "name": "前置生产线未解锁",
+    "zh_cn_notice": "需解锁前一生产线",
+    "en_notice": ""
+  },
+  "1017": {
+    "id": 1017,
+    "key": "produce_diamond_less",
+    "module": "生产",
+    "name": "钻石不足",
+    "zh_cn_notice": "钻石不足",
+    "en_notice": ""
+  },
+  "1018": {
+    "id": 1018,
+    "key": "produce_gold_less",
+    "module": "生产",
+    "name": "金币不足",
+    "zh_cn_notice": "金币不足",
+    "en_notice": ""
+  },
+  "1019": {
+    "id": 1019,
+    "key": "produce_provip_less",
+    "module": "生产",
+    "name": "街区等级不够",
+    "zh_cn_notice": "需要升到{0}<br/>才能使用一键生产功能",
+    "en_notice": ""
+  },
+  "1020": {
+    "id": 1020,
+    "key": "produce_lines_max",
+    "module": "生产",
+    "name": "所有生产线队列到达上限",
+    "zh_cn_notice": "所有生产线队列已达上限，<br/>请提升生产线等级",
+    "en_notice": ""
+  },
+  "1021": {
+    "id": 1021,
+    "key": "non_midia_visit",
+    "module": "拍摄",
+    "name": "未开启媒体访问提示",
+    "zh_cn_notice": "收到了几家综艺节目的通告邀请，打算上这部电影的主演上节目宣传，但是因为[商务部不足3级]，暂时无法接受邀请",
+    "en_notice": ""
+  },
+  "1022": {
+    "id": 1022,
+    "key": "movie_non_suitable_actor",
+    "module": "拍摄",
+    "name": "没有符合条件的艺人",
+    "zh_cn_notice": "此角色没有合适的艺人扮演",
+    "en_notice": ""
+  },
+  "1023": {
+    "id": 1023,
+    "key": "movie_non_enough_actor",
+    "module": "拍摄",
+    "name": "没有足够数量的艺人",
+    "zh_cn_notice": "您需要更多的艺人扮演此角色",
+    "en_notice": ""
+  },
+  "1024": {
+    "id": 1024,
+    "key": "movie_actor_recruit",
+    "module": "拍摄",
+    "name": "艺人招募提示",
+    "zh_cn_notice": "可在“星探”招募更多艺人",
+    "en_notice": ""
+  },
+  "1025": {
+    "id": 1025,
+    "key": "ranking_list_reset",
+    "module": "拍摄",
+    "name": "比赛排行重置提示",
+    "zh_cn_notice": "颁奖后重新分组并重置排名",
+    "en_notice": ""
+  },
+  "1026": {
+    "id": 1026,
+    "key": "movie_stop_tips",
+    "module": "拍摄",
+    "name": "提前下映提示",
+    "zh_cn_notice": "提前结束只能领取剩余时间{0}%收益，您确定要提前结束吗？",
+    "en_notice": ""
+  },
+  "1027": {
+    "id": 1027,
+    "key": "ranking_list_tips1",
+    "module": "排行",
+    "name": "排行榜滚动文字1",
+    "zh_cn_notice": "好电影不一定大卖，烂电影基本都扑街",
+    "en_notice": ""
+  },
+  "1028": {
+    "id": 1028,
+    "key": "ranking_list_tips2",
+    "module": "排行",
+    "name": "排行榜滚动文字2",
+    "zh_cn_notice": "好的市场，如果遇到好电影，票房将难以想象",
+    "en_notice": ""
+  },
+  "1029": {
+    "id": 1029,
+    "key": "movie_ranking_list_hidden",
+    "module": "排行",
+    "name": "票房排行隐藏显示提示",
+    "zh_cn_notice": "更多影片信息已隐藏",
+    "en_notice": ""
+  },
+  "1030": {
+    "id": 1030,
+    "key": "block_upgrade_requirement",
+    "module": "街区",
+    "name": "街区升档需求提示",
+    "zh_cn_notice": "提升到{0}需要：",
+    "en_notice": ""
+  },
+  "1031": {
+    "id": 1031,
+    "key": "trophy_tips",
+    "module": "街区",
+    "name": "奖杯获取提示",
+    "zh_cn_notice": "每天22点奥斯卡可获得奖杯",
+    "en_notice": ""
+  },
+  "1032": {
+    "id": 1032,
+    "key": "trophy_tips2",
+    "module": "街区",
+    "name": "奖杯获取补充提示",
+    "zh_cn_notice": "(每天比赛排名越高，票房大卖电影越多，奖杯就越多)",
+    "en_notice": ""
+  },
+  "1033": {
+    "id": 1033,
+    "key": "finished_block",
+    "module": "街区",
+    "name": "完成街区提示",
+    "zh_cn_notice": "您已经完成本档次的比赛，并获得下列奖励",
+    "en_notice": ""
+  },
+  "1034": {
+    "id": 1034,
+    "key": "cinema_sign",
+    "module": "院线",
+    "name": "院线签约",
+    "zh_cn_notice": "恭喜您签约{0}({1})，您可上映的院线数量增加至{2}家",
+    "en_notice": ""
+  },
+  "1035": {
+    "id": 1035,
+    "key": "ranking_list_instruction1",
+    "module": "排行榜",
+    "name": "奖励说明1",
+    "zh_cn_notice": "每周一到周六，根据排名奖励钻石",
+    "en_notice": ""
+  },
+  "1036": {
+    "id": 1036,
+    "key": "ranking_list_instruction2",
+    "module": "排行榜",
+    "name": "奖励说明2",
+    "zh_cn_notice": ",",
+    "en_notice": ""
+  },
+  "1037": {
+    "id": 1037,
+    "key": "ranking_list_instruction3",
+    "module": "排行榜",
+    "name": "奖励说明3",
+    "zh_cn_notice": "周日，根据排名奖励大量钻石",
+    "en_notice": ""
+  },
+  "1038": {
+    "id": 1038,
+    "key": "change_server_name",
+    "module": "排行榜",
+    "name": "修改服务器名称",
+    "zh_cn_notice": "请输入一个个性化的名称吧，每周只可修改一次哦！",
+    "en_notice": ""
+  },
+  "1039": {
+    "id": 1039,
+    "key": "choose_cinema",
+    "module": "影城签约",
+    "name": "未选择签约影城",
+    "zh_cn_notice": "请选择一个影城进行签约",
+    "en_notice": ""
+  },
+  "1040": {
+    "id": 1040,
+    "key": "movie_get_tips",
+    "module": "拍摄",
+    "name": "领取收益提示",
+    "zh_cn_notice": "最多只能有{0}部持续收益的电影，我们处理一下已经收益完毕的电影吧",
+    "en_notice": ""
+  },
+  "1041": {
+    "id": 1041,
+    "key": "movie_story_coordination",
+    "module": "拍摄",
+    "name": "剧本契合提示",
+    "zh_cn_notice": "我很熟悉这种类型的剧本，放心交给我吧~",
+    "en_notice": ""
+  },
+  "1042": {
+    "id": 1042,
+    "key": "movie_character_coordination",
+    "module": "拍摄",
+    "name": "角色契合提示",
+    "zh_cn_notice": "这正是我所擅长的角色类型！",
+    "en_notice": ""
+  },
+  "1043": {
+    "id": 1043,
+    "key": "movie_story_character_coordination",
+    "module": "拍摄",
+    "name": "剧本角色契合提示",
+    "zh_cn_notice": "剧本和角色看起来并不算难，应该不会出岔子",
+    "en_notice": ""
+  },
+  "1044": {
+    "id": 1044,
+    "key": "movie_none_coordination",
+    "module": "拍摄",
+    "name": "剧本角色无契合",
+    "zh_cn_notice": "第一次拍摄这样的电影，好紧张好期待啊！",
+    "en_notice": ""
+  },
+  "1049": {
+    "id": 1049,
+    "key": "movie_drop_tips",
+    "module": "拍摄",
+    "name": "电影掉落提示",
+    "zh_cn_notice": "这部电影票房{0}，我们获得了：",
+    "en_notice": ""
+  },
+  "1050": {
+    "id": 1050,
+    "key": "movie_too_much",
+    "module": "拍摄",
+    "name": "玩家拍摄次数过多",
+    "zh_cn_notice": "最近的观众们似乎对这类型的片审美疲劳了呢…",
+    "en_notice": ""
+  },
+  "1051": {
+    "id": 1051,
+    "key": "movie_critical1",
+    "module": "拍摄",
+    "name": "市场风向暴击1",
+    "zh_cn_notice": "演员在拍摄期间传出的不好的绯闻看来影响了市场对我们这部电影的评价…",
+    "en_notice": ""
+  },
+  "1052": {
+    "id": 1052,
+    "key": "movie_critical2",
+    "module": "拍摄",
+    "name": "市场风向暴击2",
+    "zh_cn_notice": "好像有人非法盗映我们的电影还把资源放到网上，导致买票来看电影的观众数量大减…",
+    "en_notice": ""
+  },
+  "1053": {
+    "id": 1053,
+    "key": "movie_critical3",
+    "module": "拍摄",
+    "name": "市场风向暴击3",
+    "zh_cn_notice": "这部片似乎正好戳中了大家的兴奋点，社交媒体上都是关于我们电影的好评！",
+    "en_notice": ""
+  },
+  "1054": {
+    "id": 1054,
+    "key": "movie_critical4",
+    "module": "拍摄",
+    "name": "市场风向暴击4",
+    "zh_cn_notice": "我们的电影出乎意料的成为了同档期中的爆款！",
+    "en_notice": ""
+  },
+  "1060": {
+    "id": 1060,
+    "key": "movie_target_fail",
+    "module": "拍摄",
+    "name": "剧本目标未达成",
+    "zh_cn_notice": "拍摄目标没达成，无法获得影业协会颁发的奖励",
+    "en_notice": ""
+  },
+  "1061": {
+    "id": 1061,
+    "key": "movie_big_sell_tips",
+    "module": "拍摄",
+    "name": "电影未大卖提示",
+    "zh_cn_notice": "因为电影没有大卖，收藏家协会不予颁发宝物奖励",
+    "en_notice": ""
+  },
+  "1062": {
+    "id": 1062,
+    "key": "earnings_over",
+    "module": "拍摄",
+    "name": "持续收益结束提示",
+    "zh_cn_notice": "收益已结束（比赛档次越高，持续收益就越高）",
+    "en_notice": ""
+  },
+  "1063": {
+    "id": 1063,
+    "key": "oscar_non_rank_tips",
+    "module": "奥斯卡",
+    "name": "票房未入榜提示",
+    "zh_cn_notice": "未进入前50名",
+    "en_notice": ""
+  },
+  "1064": {
+    "id": 1064,
+    "key": "oscar_non_rank_tips2",
+    "module": "奥斯卡",
+    "name": "总票房未入榜提示",
+    "zh_cn_notice": "未进入前30名",
+    "en_notice": ""
+  },
+  "1065": {
+    "id": 1065,
+    "key": "oscar_non_movie_tips",
+    "module": "奥斯卡",
+    "name": "未拍摄电影提示",
+    "zh_cn_notice": "没有拍摄电影",
+    "en_notice": ""
+  },
+  "1066": {
+    "id": 1066,
+    "key": "oscar_non_bigsell_tips",
+    "module": "奥斯卡",
+    "name": "未大卖提示",
+    "zh_cn_notice": "没有大卖电影",
+    "en_notice": ""
+  },
+  "1067": {
+    "id": 1067,
+    "key": "oscar_non_target_tips",
+    "module": "奥斯卡",
+    "name": "未完成目标提示",
+    "zh_cn_notice": "未达成目标",
+    "en_notice": ""
+  },
+  "1068": {
+    "id": 1068,
+    "key": "block_upgrade_msg",
+    "module": "街区",
+    "name": "街区升档提示",
+    "zh_cn_notice": "比赛档次提升，获得奖励",
+    "en_notice": ""
+  },
+  "1070": {
+    "id": 1070,
+    "key": "movie_big_sell1",
+    "module": "拍摄",
+    "name": "电影大卖报纸1",
+    "zh_cn_notice": "小制作大票房，{0}新片《{1}》剑指奥斯卡",
+    "en_notice": ""
+  },
+  "1071": {
+    "id": 1071,
+    "key": "movie_big_sell2",
+    "module": "拍摄",
+    "name": "电影大卖报纸2",
+    "zh_cn_notice": "{0}和{1}擦出火花，{2}新片{3}大受欢迎",
+    "en_notice": ""
+  },
+  "1072": {
+    "id": 1072,
+    "key": "movie_big_sell3",
+    "module": "拍摄",
+    "name": "电影大卖报纸3",
+    "zh_cn_notice": "{0}的新片{1}点燃市场",
+    "en_notice": ""
+  },
+  "1080": {
+    "id": 1080,
+    "key": "oscar_non_actor",
+    "module": "奥斯卡",
+    "name": "奥斯卡男演员无提名",
+    "zh_cn_notice": "很遗憾，并未有演员参加最佳男演员的候选，所以我们将不会颁发该奖项",
+    "en_notice": ""
+  },
+  "1081": {
+    "id": 1081,
+    "key": "oscar_non_actress",
+    "module": "奥斯卡",
+    "name": "奥斯卡女演员无提名",
+    "zh_cn_notice": "很遗憾，并未有演员参加最佳女演员的候选，所以我们将不会颁发该奖项",
+    "en_notice": ""
+  },
+  "1082": {
+    "id": 1082,
+    "key": "oscar_non_performance",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳表演无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最佳表演电影的候选，所以我们将不会颁发该奖项",
+    "en_notice": ""
+  },
+  "1083": {
+    "id": 1083,
+    "key": "oscar_non_art",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳艺术无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最佳艺术电影的候选，所以我们将不会颁发该奖项",
+    "en_notice": ""
+  },
+  "1084": {
+    "id": 1084,
+    "key": "oscar_non_popular",
+    "module": "奥斯卡",
+    "name": "奥斯卡最受欢迎无提名",
+    "zh_cn_notice": "很遗憾，并未有电影参加最受欢迎电影的候选，所以我们将不会颁发该奖项",
+    "en_notice": ""
+  },
+  "1085": {
+    "id": 1085,
+    "key": "oscar_actor",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳男演员",
+    "zh_cn_notice": "最佳男演员",
+    "en_notice": ""
+  },
+  "1086": {
+    "id": 1086,
+    "key": "oscar_actress",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳女演员",
+    "zh_cn_notice": "最佳女演员",
+    "en_notice": ""
+  },
+  "1087": {
+    "id": 1087,
+    "key": "oscar_performance",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳表演电影",
+    "zh_cn_notice": "最佳表演电影",
+    "en_notice": ""
+  },
+  "1088": {
+    "id": 1088,
+    "key": "oscar_art",
+    "module": "奥斯卡",
+    "name": "奥斯卡最佳艺术电影",
+    "zh_cn_notice": "最佳艺术电影",
+    "en_notice": ""
+  },
+  "1089": {
+    "id": 1089,
+    "key": "oscar_popular",
+    "module": "奥斯卡",
+    "name": "奥斯卡最受欢迎电影",
+    "zh_cn_notice": "最受欢迎电影",
+    "en_notice": ""
+  },
+  "1090": {
+    "id": 1090,
+    "key": "oscar_forbid_movie",
+    "module": "拍摄",
+    "name": "奥斯卡前禁止拍摄电影",
+    "zh_cn_notice": "为保证公平，奥斯卡颁奖前5分钟禁止拍摄电影",
+    "en_notice": ""
+  },
+  "1091": {
+    "id": 1091,
+    "key": "non_deletable_mail",
+    "module": "邮件",
+    "name": "没有可删除的邮件",
+    "zh_cn_notice": "没有可删除的邮件",
+    "en_notice": ""
+  },
+  "1092": {
+    "id": 1092,
+    "key": "non_can_receive_mail",
+    "module": "邮件",
+    "name": "没有可领取的邮件",
+    "zh_cn_notice": "没有可领取的邮件",
+    "en_notice": ""
+  },
+  "1093": {
+    "id": 1093,
+    "key": "non_mail",
+    "module": "邮件",
+    "name": "空邮箱",
+    "zh_cn_notice": "您的收件箱中没有邮件！",
+    "en_notice": ""
+  },
+  "1094": {
+    "id": 1094,
+    "key": "story_target_tips",
+    "module": "拍摄",
+    "name": "剧本有目标",
+    "zh_cn_notice": "有剧本目标奖励",
+    "en_notice": ""
+  },
+  "1095": {
+    "id": 1095,
+    "key": "story_non_target_tips",
+    "module": "拍摄",
+    "name": "剧本没有目标",
+    "zh_cn_notice": "没有目标奖励（需2星以上剧本）",
+    "en_notice": ""
+  },
+  "1096": {
+    "id": 1096,
+    "key": "story_midia_tips",
+    "module": "拍摄",
+    "name": "媒体评价提示",
+    "zh_cn_notice": "评价越高，点赞数越多，电影节越容易获奖。（有时还能提升票房）",
+    "en_notice": ""
+  },
+  "1097": {
+    "id": 1097,
+    "key": "null_id",
+    "module": "合作",
+    "name": "id无效",
+    "zh_cn_notice": "无效的id",
+    "en_notice": ""
+  },
+  "1098": {
+    "id": 1098,
+    "key": "cooperated_player",
+    "module": "合作",
+    "name": "目标玩家已合作",
+    "zh_cn_notice": "该玩家已有合作伙伴！",
+    "en_notice": ""
+  },
+  "1099": {
+    "id": 1099,
+    "key": "no_cooperation_num",
+    "module": "合作",
+    "name": "本周合作次数不足",
+    "zh_cn_notice": "本周合作伙伴太多了，请等待下周吧！",
+    "en_notice": ""
+  },
+  "1100": {
+    "id": 1100,
+    "key": "no_cooperation_orders",
+    "module": "合作",
+    "name": "没有未完成的订单",
+    "zh_cn_notice": "没有未完成的订单",
+    "en_notice": ""
+  },
+  "1101": {
+    "id": 1101,
+    "key": "relieve_cooperation",
+    "module": "合作",
+    "name": "解除合作",
+    "zh_cn_notice": "是否解除合作关系？\\n注意：每周只能和三家不同的公司进行合作",
+    "en_notice": ""
+  },
+  "1102": {
+    "id": 1102,
+    "key": "repetition_cooperation",
+    "module": "合作",
+    "name": "重复邀请",
+    "zh_cn_notice": "邀请已发送，请等待对方回应",
+    "en_notice": ""
+  },
+  "1103": {
+    "id": 1103,
+    "key": "null_actor_send",
+    "module": "仓库",
+    "name": "赠送资产",
+    "zh_cn_notice": "请选择艺人",
+    "en_notice": ""
+  },
+  "1104": {
+    "id": 1104,
+    "key": "build_confirm",
+    "module": "建筑",
+    "name": "建造确认",
+    "zh_cn_notice": "是否建造{0}？",
+    "en_notice": ""
+  },
+  "1105": {
+    "id": 1105,
+    "key": "build_non_material",
+    "module": "建筑",
+    "name": "材料不足",
+    "zh_cn_notice": "{0}数量不足",
+    "en_notice": ""
+  },
+  "1106": {
+    "id": 1106,
+    "key": "build_non_level",
+    "module": "建筑",
+    "name": "等级不足",
+    "zh_cn_notice": "需要公司等级{0}",
+    "en_notice": ""
+  },
+  "1107": {
+    "id": 1107,
+    "key": "build_non_prebuilding",
+    "module": "建筑",
+    "name": "没有前置建筑",
+    "zh_cn_notice": "需要建造{0}{1}",
+    "en_notice": ""
+  },
+  "1108": {
+    "id": 1108,
+    "key": "build_non_block",
+    "module": "建筑",
+    "name": "街区档次不足",
+    "zh_cn_notice": "需要提升到{0}",
+    "en_notice": ""
+  },
+  "1109": {
+    "id": 1109,
+    "key": "build_be_builded",
+    "module": "建筑",
+    "name": "房间已建造提示",
+    "zh_cn_notice": "已建造",
+    "en_notice": ""
+  },
+  "1110": {
+    "id": 1110,
+    "key": "movie_market_bad1",
+    "module": "拍摄",
+    "name": "剧本与市场观众对比差1",
+    "zh_cn_notice": "目前关于我们要拍摄的《{0}》的消息转发数量并不多，感觉题材和观众喜好有点不匹配",
+    "en_notice": ""
+  },
+  "1111": {
+    "id": 1111,
+    "key": "movie_market_bad2",
+    "module": "拍摄",
+    "name": "剧本与市场观众对比差2",
+    "zh_cn_notice": "对我们准备拍摄的《{0}》的报道有点少，感觉和当前观众想看的有点偏差……",
+    "en_notice": ""
+  },
+  "1112": {
+    "id": 1112,
+    "key": "movie_market_good1",
+    "module": "拍摄",
+    "name": "剧本和市场观众对比好1",
+    "zh_cn_notice": "很多观众打电话和我们确认是不是真的要拍《{0}》，感觉大家都很期待这个题材的电影！",
+    "en_notice": ""
+  },
+  "1113": {
+    "id": 1113,
+    "key": "movie_market_good2",
+    "module": "拍摄",
+    "name": "剧本和市场观众对比好2",
+    "zh_cn_notice": "人气调查显示《{0}》的故事非常受欢迎！一定会大卖的！",
+    "en_notice": ""
+  },
+  "1114": {
+    "id": 1114,
+    "key": "movie_actor_pay",
+    "module": "拍摄",
+    "name": "电影艺人报酬提示",
+    "zh_cn_notice": "拍摄《{0}》需要支付艺人薪酬：",
+    "en_notice": ""
+  },
+  "1115": {
+    "id": 1115,
+    "key": "movie_mediavisit_tips",
+    "module": "拍摄",
+    "name": "艺人参加媒体访问提示",
+    "zh_cn_notice": "{0}  参加 {1} ，电影期待值增加 {2}",
+    "en_notice": ""
+  },
+  "1116": {
+    "id": 1116,
+    "key": "movie_type_addition",
+    "module": "拍摄",
+    "name": "电影熟练度加成",
+    "zh_cn_notice": "{0}电影熟练度",
+    "en_notice": ""
+  },
+  "1117": {
+    "id": 1117,
+    "key": "movie_cinema_tips",
+    "module": "拍摄",
+    "name": "签约院线提示",
+    "zh_cn_notice": "您是本院线的{0}级合作伙伴，可以在我们旗下的{1}家影院上映",
+    "en_notice": ""
+  },
+  "1118": {
+    "id": 1118,
+    "key": "movie_unlock_cinema_tips",
+    "module": "拍摄",
+    "name": "未签约院线提示",
+    "zh_cn_notice": "您没有与我们签约，不能在本院线上映（需提升至{0}）",
+    "en_notice": ""
+  },
+  "1119": {
+    "id": 1119,
+    "key": "movie_market_feedback",
+    "module": "拍摄",
+    "name": "下映后市场反馈",
+    "zh_cn_notice": "当前市场喜好导致{0}票房提升",
+    "en_notice": ""
+  },
+  "1120": {
+    "id": 1120,
+    "key": "movie_story_feedback",
+    "module": "拍摄",
+    "name": "下映后剧本反馈",
+    "zh_cn_notice": "有超过{0}的观众喜欢这个故事",
+    "en_notice": ""
+  },
+  "1121": {
+    "id": 1121,
+    "key": "movie_shoottype_feedback",
+    "module": "拍摄",
+    "name": "下映后拍摄类型反馈",
+    "zh_cn_notice": "有{0}还认为{1}非常适合此故事",
+    "en_notice": ""
+  },
+  "1122": {
+    "id": 1122,
+    "key": "movie_licence_finish_tips",
+    "module": "拍摄",
+    "name": "许可证回复提示",
+    "zh_cn_notice": "今天的许可证已发放完毕，{0}后将会继续发放",
+    "en_notice": ""
+  },
+  "1123": {
+    "id": 1123,
+    "key": "movie_type_tips",
+    "module": "拍摄",
+    "name": "拍摄类型提示",
+    "zh_cn_notice": "选择的类型：{0}",
+    "en_notice": ""
+  },
+  "1124": {
+    "id": 1124,
+    "key": "movie_state_tips1",
+    "module": "拍摄",
+    "name": "拍摄1阶段提示",
+    "zh_cn_notice": "选择类型",
+    "en_notice": ""
+  },
+  "1125": {
+    "id": 1125,
+    "key": "movie_state_tips2",
+    "module": "拍摄",
+    "name": "拍摄2阶段提示",
+    "zh_cn_notice": "媒体采访",
+    "en_notice": ""
+  },
+  "1126": {
+    "id": 1126,
+    "key": "movie_state_tips3",
+    "module": "拍摄",
+    "name": "拍摄3阶段提示",
+    "zh_cn_notice": "杀青",
+    "en_notice": ""
+  },
+  "1150": {
+    "id": 1150,
+    "key": "bag_own_actor_tips",
+    "module": "仓库",
+    "name": "拥有艺人提示",
+    "zh_cn_notice": "您已拥有此艺人！",
+    "en_notice": ""
+  },
+  "1151": {
+    "id": 1151,
+    "key": "bag_no_compound_tips",
+    "module": "仓库",
+    "name": "合成物品不足提示",
+    "zh_cn_notice": "物品不足，还需要{0}个才能合成",
+    "en_notice": ""
+  },
+  "1152": {
+    "id": 1152,
+    "key": "bag_no_compound_choose_tips",
+    "module": "仓库",
+    "name": "未选择合成提示",
+    "zh_cn_notice": "请选择要合成的数量",
+    "en_notice": ""
+  },
+  "1153": {
+    "id": 1153,
+    "key": "bag_no_send_choose_tips",
+    "module": "仓库",
+    "name": "未选择赠送提示",
+    "zh_cn_notice": "请选择要赠送的数量",
+    "en_notice": ""
+  },
+  "1154": {
+    "id": 1154,
+    "key": "bag_no_split_choose_tips",
+    "module": "仓库",
+    "name": "未选择拆分提示",
+    "zh_cn_notice": "请选择要拆分的数量",
+    "en_notice": ""
+  },
+  "1155": {
+    "id": 1155,
+    "key": "bag_no_sell_choose_tips",
+    "module": "仓库",
+    "name": "未选择出售提示",
+    "zh_cn_notice": "请选择要出售的数量",
+    "en_notice": ""
+  },
+  "1156": {
+    "id": 1156,
+    "key": "oscar_presentation_title",
+    "module": "奥斯卡",
+    "name": "奥斯卡获奖发言标题",
+    "zh_cn_notice": "恭喜您摘得{0}，请发表获奖感言",
+    "en_notice": ""
+  },
+  "1157": {
+    "id": 1157,
+    "key": "oscar_default_presentation1",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言1",
+    "zh_cn_notice": "感谢大家的认可，请相信我们的实力，请投资我们的公司！",
+    "en_notice": ""
+  },
+  "1158": {
+    "id": 1158,
+    "key": "oscar_default_presentation2",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言2",
+    "zh_cn_notice": "我一开始就坚信一定是我会得奖！而且下一次也会是我！",
+    "en_notice": ""
+  },
+  "1159": {
+    "id": 1159,
+    "key": "oscar_default_presentation3",
+    "module": "奥斯卡",
+    "name": "奥斯卡预设发言3",
+    "zh_cn_notice": "感谢各种TV，感谢主持人，感谢观众的支持，我还会回来的！",
+    "en_notice": ""
+  },
+  "1160": {
+    "id": 1160,
+    "key": "movie_day",
+    "module": "拍摄",
+    "name": "上映第N天",
+    "zh_cn_notice": "第{0}天: +{1}",
+    "en_notice": ""
+  },
+  "1161": {
+    "id": 1161,
+    "key": "movie_remaining_days",
+    "module": "拍摄",
+    "name": "上映天数",
+    "zh_cn_notice": "还将上映{0}天",
+    "en_notice": ""
+  },
+  "1162": {
+    "id": 1162,
+    "key": "movie_story_times",
+    "module": "拍摄",
+    "name": "剧本时长",
+    "zh_cn_notice": "{0}分钟",
+    "en_notice": ""
+  },
+  "1163": {
+    "id": 1163,
+    "key": "movie_character_coordination_tips",
+    "module": "拍摄",
+    "name": "角色契合",
+    "zh_cn_notice": "角色契合",
+    "en_notice": ""
+  },
+  "1164": {
+    "id": 1164,
+    "key": "movie_story_coordination_tips",
+    "module": "拍摄",
+    "name": "剧本契合提示",
+    "zh_cn_notice": "剧本契合",
+    "en_notice": ""
+  },
+  "1165": {
+    "id": 1165,
+    "key": "bag_send_no_target",
+    "module": "仓库",
+    "name": "没有可赠送资产的艺人",
+    "zh_cn_notice": "暂无合适的艺人可赠送",
+    "en_notice": ""
+  },
+  "1166": {
+    "id": 1166,
+    "key": "movie_off_line_remaining_time",
+    "module": "拍摄",
+    "name": "电影下映收益时间提示",
+    "zh_cn_notice": "还可以持续收益：{0}",
+    "en_notice": ""
+  },
+  "1167": {
+    "id": 1167,
+    "key": "movie_off_line_gain_tips",
+    "module": "拍摄",
+    "name": "电影下映收益提示",
+    "zh_cn_notice": "+{0}/分钟",
+    "en_notice": ""
+  },
+  "1168": {
+    "id": 1168,
+    "key": "movie_licence_limit_tips",
+    "module": "拍摄",
+    "name": "许可证上限提示",
+    "zh_cn_notice": "您的许可证数量太多了！",
+    "en_notice": ""
+  },
+  "1169": {
+    "id": 1169,
+    "key": "movie_city_unlock_tips",
+    "module": "拍摄",
+    "name": "城市收益解锁提示",
+    "zh_cn_notice": "需要市场部达到2级",
+    "en_notice": ""
+  },
+  "1170": {
+    "id": 1170,
+    "key": "movie_off_line_gain_evaluation",
+    "module": "拍摄",
+    "name": "电影下映收益评价",
+    "zh_cn_notice": "收益评价：{0}/分钟",
+    "en_notice": ""
+  },
+  "1171": {
+    "id": 1171,
+    "key": "movie_off_line_tips",
+    "module": "拍摄",
+    "name": "电影下映收益提示",
+    "zh_cn_notice": "该电影在下映后的{0}分钟内还能持续带来收益",
+    "en_notice": ""
+  },
+  "1172": {
+    "id": 1172,
+    "key": "movie_confirm",
+    "module": "拍摄",
+    "name": "确认拍摄",
+    "zh_cn_notice": "联系了几个编剧，先来挑选剧本吧！",
+    "en_notice": ""
+  },
+  "1173": {
+    "id": 1173,
+    "key": "train_title_level",
+    "module": "训练",
+    "name": "训练室等级",
+    "zh_cn_notice": "训练室{0}级",
+    "en_notice": ""
+  },
+  "1174": {
+    "id": 1174,
+    "key": "train_title_tips",
+    "module": "训练",
+    "name": "训练经验加成",
+    "zh_cn_notice": "技能经验+{0}",
+    "en_notice": ""
+  },
+  "1175": {
+    "id": 1175,
+    "key": "train_remaining_times",
+    "module": "训练",
+    "name": "训练剩余时间",
+    "zh_cn_notice": "{0} 后完成训练",
+    "en_notice": ""
+  },
+  "1176": {
+    "id": 1176,
+    "key": "train_area_tips",
+    "module": "训练",
+    "name": "训练位提示",
+    "zh_cn_notice": "训练位 {0}/{1}",
+    "en_notice": ""
+  },
+  "1177": {
+    "id": 1177,
+    "key": "train_exp",
+    "module": "训练",
+    "name": "训练经验提示",
+    "zh_cn_notice": "艺人经验+{0}",
+    "en_notice": ""
+  },
+  "1178": {
+    "id": 1178,
+    "key": "train_actor_tips",
+    "module": "训练",
+    "name": "训练艺人气泡",
+    "zh_cn_notice": "训练完成！我的技能经验增加了{0}！",
+    "en_notice": ""
+  },
+  "1179": {
+    "id": 1179,
+    "key": "cooperated_send",
+    "module": "合作",
+    "name": "赠送金币美元",
+    "zh_cn_notice": "消耗{0}{1}，兑换一箱{1}送给合作伙伴。",
+    "en_notice": ""
+  },
+  "1180": {
+    "id": 1180,
+    "key": "movie_licence_get_tips",
+    "module": "拍摄",
+    "name": "许可证获取提示",
+    "zh_cn_notice": "每天影业协会会发{0}张，今天已发放了{1}张",
+    "en_notice": ""
+  },
+  "1181": {
+    "id": 1181,
+    "key": "cooperated_claim_tips",
+    "module": "合作",
+    "name": "重复领取星级宝箱提示",
+    "zh_cn_notice": "您今日已领取过该奖励，请明日再来领取吧！",
+    "en_notice": ""
+  },
+  "2022": {
+    "id": 2022,
+    "key": "order_fail",
+    "module": "订单",
+    "name": "订单完成失败",
+    "zh_cn_notice": "需要装箱才能运输哦，点击一下箱子装箱吧",
+    "en_notice": ""
+  },
+  "2023": {
+    "id": 2023,
+    "key": "order_complete",
+    "module": "订单",
+    "name": "查看未解锁的订单完成度",
+    "zh_cn_notice": "完成{0}次订单可打开",
+    "en_notice": ""
+  },
+  "2024": {
+    "id": 2024,
+    "key": "order_received",
+    "module": "订单",
+    "name": "已领取的奖励提示",
+    "zh_cn_notice": "已领取过奖励",
+    "en_notice": ""
+  },
+  "2025": {
+    "id": 2025,
+    "key": "order_npc_default",
+    "module": "订单",
+    "name": "npc默认提示",
+    "zh_cn_notice": "所有订单都有时间限制的<br/>所以收到订单要赶快完成哦",
+    "en_notice": ""
+  },
+  "2026": {
+    "id": 2026,
+    "key": "business_countdown",
+    "module": "公务",
+    "name": "公务倒计时",
+    "zh_cn_notice": "新公务将在{0}后出现",
+    "en_notice": ""
+  },
+  "2027": {
+    "id": 2027,
+    "key": "business_secretary",
+    "module": "公务",
+    "name": "自动批阅没有秘书",
+    "zh_cn_notice": "你还未拥有终身秘书<br/>无法自动批阅",
+    "en_notice": ""
+  },
+  "2028": {
+    "id": 2028,
+    "key": "business_down",
+    "module": "公务",
+    "name": "全部公务批阅完毕",
+    "zh_cn_notice": "今天所有公务已批阅完毕",
+    "en_notice": ""
+  },
+  "2029": {
+    "id": 2029,
+    "key": "visit_countdown",
+    "module": "探班",
+    "name": "探班倒计时",
+    "zh_cn_notice": "一大波粉丝将在{0}后抵达",
+    "en_notice": ""
+  },
+  "2030": {
+    "id": 2030,
+    "key": "visit_secretary",
+    "module": "探班",
+    "name": "自动接待没有秘书",
+    "zh_cn_notice": "你还未拥有终身秘书，无法自动接待",
+    "en_notice": ""
+  },
+  "2031": {
+    "id": 2031,
+    "key": "visit_point",
+    "module": "探班",
+    "name": "探班操作提示",
+    "zh_cn_notice": "在楼层中找到指定艺人<br/>点击艺人提醒有粉丝来访",
+    "en_notice": ""
+  },
+  "2032": {
+    "id": 2032,
+    "key": "market_envoy_wrong1",
+    "module": "市场",
+    "name": "艺人国籍不对",
+    "zh_cn_notice": "我的国家不符合要求，无法担此重任",
+    "en_notice": ""
+  },
+  "2033": {
+    "id": 2033,
+    "key": "market_envoy_wrong2",
+    "module": "市场",
+    "name": "艺人类型不对",
+    "zh_cn_notice": "我的类型不符合要求，无法担此重任",
+    "en_notice": ""
+  },
+  "2034": {
+    "id": 2034,
+    "key": "market_envoy_wrong3",
+    "module": "市场",
+    "name": "艺人年龄不对",
+    "zh_cn_notice": "我的年龄不符合要求，无法担此重任",
+    "en_notice": ""
+  },
+  "2035": {
+    "id": 2035,
+    "key": "market_envoy_wrong4",
+    "module": "市场",
+    "name": "艺人数值不达标",
+    "zh_cn_notice": "我的能力没达到要求，无法担此重任",
+    "en_notice": ""
+  },
+  "1045": {
+    "id": 1045,
+    "key": "market_envoy_wrong5",
+    "module": "市场",
+    "name": "艺人性别不对",
+    "zh_cn_notice": "我的性别不符合要求，无法担此重任",
+    "en_notice": ""
+  },
+  "1046": {
+    "id": 1046,
+    "key": "market_dollar_less",
+    "module": "市场",
+    "name": "美元不足",
+    "zh_cn_notice": "美元不足",
+    "en_notice": ""
+  },
+  "1047": {
+    "id": 1047,
+    "key": "market_show_failure",
+    "module": "市场",
+    "name": "路演失败",
+    "zh_cn_notice": "路演失败，请升级艺人",
+    "en_notice": ""
+  },
+  "2036": {
+    "id": 2036,
+    "key": "story_comment_wrong",
+    "module": "剧本",
+    "name": "留言内容非法",
+    "zh_cn_notice": "你的留言内容不符合要求",
+    "en_notice": ""
+  },
+  "2037": {
+    "id": 2037,
+    "key": "thumbsup_less",
+    "module": "剧本",
+    "name": "点赞数不足",
+    "zh_cn_notice": "您的点赞数不足",
+    "en_notice": ""
+  },
+  "2038": {
+    "id": 2038,
+    "key": "story_search_less",
+    "module": "剧本",
+    "name": "搜罗次数不足",
+    "zh_cn_notice": "剩余搜罗次数不足",
+    "en_notice": ""
+  },
+  "2039": {
+    "id": 2039,
+    "key": "block_level_less",
+    "module": "剧本",
+    "name": "街区等级需求",
+    "zh_cn_notice": "立即搜罗需要升到街区3档",
+    "en_notice": ""
+  },
+  "2040": {
+    "id": 2040,
+    "key": "story_cd_success",
+    "module": "剧本",
+    "name": "搜罗冷却加速成功",
+    "zh_cn_notice": "搜罗冷却加速成功",
+    "en_notice": ""
+  },
+  "2041": {
+    "id": 2041,
+    "key": "meeting_time",
+    "module": "会议",
+    "name": "会议倒计时提示",
+    "zh_cn_notice": "{0}后有新的会议，请做好准备",
+    "en_notice": ""
+  },
+  "2042": {
+    "id": 2042,
+    "key": "secretary_bought",
+    "module": "秘书",
+    "name": "本日已购买提示",
+    "zh_cn_notice": "你本日已购买过",
+    "en_notice": ""
+  },
+  "2043": {
+    "id": 2043,
+    "key": "secretary_buy_fail",
+    "module": "秘书",
+    "name": "购买失败提示",
+    "zh_cn_notice": "购买失败",
+    "en_notice": ""
+  },
+  "2044": {
+    "id": 2044,
+    "key": "sectrary_cannot_buy",
+    "module": "秘书",
+    "name": "未聘用秘书不能购买提示",
+    "zh_cn_notice": "未聘用终身秘书，不能购买该礼包",
+    "en_notice": ""
+  },
+  "2045": {
+    "id": 2045,
+    "key": "daily_sign",
+    "module": "签到",
+    "name": "已签到提示",
+    "zh_cn_notice": "已签到",
+    "en_notice": ""
+  },
+  "2046": {
+    "id": 2046,
+    "key": "setting_not_open",
+    "module": "设置",
+    "name": "功能未开放提示",
+    "zh_cn_notice": "功能未开放，敬请期待",
+    "en_notice": ""
+  },
+  "2047": {
+    "id": 2047,
+    "key": "gift_success",
+    "module": "设置",
+    "name": "礼包兑换成功提示",
+    "zh_cn_notice": "礼包兑换成功",
+    "en_notice": ""
+  },
+  "2048": {
+    "id": 2048,
+    "key": "gift_used",
+    "module": "设置",
+    "name": "礼包已被兑换提示",
+    "zh_cn_notice": "礼包已被兑换",
+    "en_notice": ""
+  },
+  "2049": {
+    "id": 2049,
+    "key": "gift_illegal",
+    "module": "设置",
+    "name": "礼包码非法提示",
+    "zh_cn_notice": "礼包码非法",
+    "en_notice": ""
+  },
+  "2050": {
+    "id": 2050,
+    "key": "shop_period",
+    "module": "商城",
+    "name": "购买非时间段内商品",
+    "zh_cn_notice": "请在{0}时间段内购买该商品",
+    "en_notice": ""
+  },
+  "2051": {
+    "id": 2051,
+    "key": "produce_down",
+    "module": "生产",
+    "name": "立即完成时档位提示",
+    "zh_cn_notice": "需提升到街区3档",
+    "en_notice": ""
+  },
+  "2052": {
+    "id": 2052,
+    "key": "produce_produce_limit",
+    "module": "生产",
+    "name": "升级生产线建筑等级不够",
+    "zh_cn_notice": "需要{0}达到{1}级",
+    "en_notice": ""
+  },
+  "2053": {
+    "id": 2053,
+    "key": "player_id",
+    "module": "设置",
+    "name": "玩家ID",
+    "zh_cn_notice": "我的ID：{0}",
+    "en_notice": ""
+  },
+  "2054": {
+    "id": 2054,
+    "key": "version_num",
+    "module": "设置",
+    "name": "版本号",
+    "zh_cn_notice": "版本号：{0}",
+    "en_notice": ""
+  },
+  "2055": {
+    "id": 2055,
+    "key": "choose_language",
+    "module": "设置",
+    "name": "选择语言",
+    "zh_cn_notice": "选择语言",
+    "en_notice": ""
+  },
+  "2056": {
+    "id": 2056,
+    "key": "CHS",
+    "module": "设置",
+    "name": "简中",
+    "zh_cn_notice": "简体中文",
+    "en_notice": ""
+  },
+  "2057": {
+    "id": 2057,
+    "key": "CHT",
+    "module": "设置",
+    "name": "繁中",
+    "zh_cn_notice": "繁体中文",
+    "en_notice": ""
+  },
+  "2058": {
+    "id": 2058,
+    "key": "EN",
+    "module": "设置",
+    "name": "英语",
+    "zh_cn_notice": "English",
+    "en_notice": ""
+  },
+  "2059": {
+    "id": 2059,
+    "key": "choose_language_confirm",
+    "module": "设置",
+    "name": "切换语言确认",
+    "zh_cn_notice": "将语言切换为简体中文，是否确认？",
+    "en_notice": ""
+  },
+  "2060": {
+    "id": 2060,
+    "key": "feedback_title",
+    "module": "设置",
+    "name": "反馈",
+    "zh_cn_notice": "反馈和建议",
+    "en_notice": ""
+  },
+  "2061": {
+    "id": 2061,
+    "key": "feedback_words",
+    "module": "设置",
+    "name": "反馈文字",
+    "zh_cn_notice": "游戏遇到任何问题都可以和我们联系",
+    "en_notice": ""
+  },
+  "2062": {
+    "id": 2062,
+    "key": "Qgroup",
+    "module": "设置",
+    "name": "Q群",
+    "zh_cn_notice": "官方QQ群：123456",
+    "en_notice": ""
+  },
+  "2063": {
+    "id": 2063,
+    "key": "Wechat",
+    "module": "设置",
+    "name": "微信",
+    "zh_cn_notice": "微信公众号：电影大亨",
+    "en_notice": ""
+  },
+  "2064": {
+    "id": 2064,
+    "key": "Weibo",
+    "module": "设置",
+    "name": "微博",
+    "zh_cn_notice": "官方微博：电影大亨",
+    "en_notice": ""
+  },
+  "2065": {
+    "id": 2065,
+    "key": "mailbox",
+    "module": "设置",
+    "name": "邮箱",
+    "zh_cn_notice": "官方邮箱：132@321.com",
+    "en_notice": ""
+  },
+  "2066": {
+    "id": 2066,
+    "key": "exchange_title",
+    "module": "设置",
+    "name": "兑换标题",
+    "zh_cn_notice": "礼包兑换",
+    "en_notice": ""
+  },
+  "2067": {
+    "id": 2067,
+    "key": "exchange_input",
+    "module": "设置",
+    "name": "兑换码输入框",
+    "zh_cn_notice": "请输入礼包兑换码",
+    "en_notice": ""
+  },
+  "2068": {
+    "id": 2068,
+    "key": "exhange_button",
+    "module": "设置",
+    "name": "兑换按钮",
+    "zh_cn_notice": "兑换",
+    "en_notice": ""
+  },
+  "2069": {
+    "id": 2069,
+    "key": "setting_title",
+    "module": "设置",
+    "name": "设置标题",
+    "zh_cn_notice": "设置",
+    "en_notice": ""
+  },
+  "2070": {
+    "id": 2070,
+    "key": "setting_notice",
+    "module": "设置",
+    "name": "设置提示",
+    "zh_cn_notice": "此账号已绑定{0}服，换服请注册新账号",
+    "en_notice": ""
+  },
+  "2071": {
+    "id": 2071,
+    "key": "meeting_wait",
+    "module": "会议",
+    "name": "会议开始对话",
+    "zh_cn_notice": "{0}公司的谈判代表已经等候多时了",
+    "en_notice": ""
+  },
+  "2072": {
+    "id": 2072,
+    "key": "meeting_goal1",
+    "module": "会议",
+    "name": "会议目的1",
+    "zh_cn_notice": "我们希望和贵公司达成合作",
+    "en_notice": ""
+  },
+  "2073": {
+    "id": 2073,
+    "key": "meeting_goal2",
+    "module": "会议",
+    "name": "会议目的2",
+    "zh_cn_notice": "上次有些细节还没有谈拢",
+    "en_notice": ""
+  },
+  "2074": {
+    "id": 2074,
+    "key": "meeting_goal3",
+    "module": "会议",
+    "name": "会议目的3",
+    "zh_cn_notice": "我觉得我们一起合作大有可为",
+    "en_notice": ""
+  },
+  "2075": {
+    "id": 2075,
+    "key": "meeting_goal4",
+    "module": "会议",
+    "name": "会议目的4",
+    "zh_cn_notice": "有些事情还可以继续商定一下",
+    "en_notice": ""
+  },
+  "2076": {
+    "id": 2076,
+    "key": "meeting_fair",
+    "module": "会议",
+    "name": "平局",
+    "zh_cn_notice": "不要伤了和气，就按原价吧",
+    "en_notice": ""
+  },
+  "2077": {
+    "id": 2077,
+    "key": "meeting_win",
+    "module": "会议",
+    "name": "胜利",
+    "zh_cn_notice": "算你狠，你赢了",
+    "en_notice": ""
+  },
+  "2078": {
+    "id": 2078,
+    "key": "meeting_lose1",
+    "module": "会议",
+    "name": "失败，谈判破裂",
+    "zh_cn_notice": "我们的谈判就到此为止吧",
+    "en_notice": ""
+  },
+  "2079": {
+    "id": 2079,
+    "key": "meeting_lose2",
+    "module": "会议",
+    "name": "失败，奖励减半",
+    "zh_cn_notice": "你必须付出代价",
+    "en_notice": ""
+  },
+  "2080": {
+    "id": 2080,
+    "key": "story_stack_locked",
+    "module": "剧本库",
+    "name": "剧本库未解锁",
+    "zh_cn_notice": "需要拍摄过的电影超过五个",
+    "en_notice": ""
+  },
+  "2081": {
+    "id": 2081,
+    "key": "produce_lock",
+    "module": "生产",
+    "name": "生产线解锁条件不够",
+    "zh_cn_notice": "需提升到公司等级{0}<br/>需要建造{1}",
+    "en_notice": ""
+  },
+  "2082": {
+    "id": 2082,
+    "key": "meeting_goal",
+    "module": "会议",
+    "name": "会议弹窗文字",
+    "zh_cn_notice": "{0}公司的会议代表已在门外等候多时，是否马上接见",
+    "en_notice": ""
+  },
+  "2083": {
+    "id": 2083,
+    "key": "meeting_battle",
+    "module": "会议",
+    "name": "会议比试文字",
+    "zh_cn_notice": "那就来一场对决吧",
+    "en_notice": ""
+  },
+  "2084": {
+    "id": 2084,
+    "key": "meeting_boss_hello",
+    "module": "会议",
+    "name": "会议主管开场白",
+    "zh_cn_notice": "你好！",
+    "en_notice": ""
+  },
+  "2085": {
+    "id": 2085,
+    "key": "meeting_client_hello1",
+    "module": "会议",
+    "name": "会议客户开场白1",
+    "zh_cn_notice": "我喜欢你们的会议室！",
+    "en_notice": ""
+  },
+  "2086": {
+    "id": 2086,
+    "key": "meeting_client_hello2",
+    "module": "会议",
+    "name": "会议客户开场白2",
+    "zh_cn_notice": "我喜欢你们的装修风格！",
+    "en_notice": ""
+  },
+  "2087": {
+    "id": 2087,
+    "key": "meeting_bargain1_boss",
+    "module": "会议",
+    "name": "讨价还价主管台词",
+    "zh_cn_notice": "你开的条件我觉得有些问题！",
+    "en_notice": ""
+  },
+  "2088": {
+    "id": 2088,
+    "key": "meeting_bargain1_client",
+    "module": "会议",
+    "name": "讨价还价客户台词",
+    "zh_cn_notice": "细节可以慢慢谈嘛！",
+    "en_notice": ""
+  },
+  "2089": {
+    "id": 2089,
+    "key": "meeting_bargain2_boss",
+    "module": "会议",
+    "name": "漫天要价主管台词",
+    "zh_cn_notice": "你开的条件太差了！",
+    "en_notice": ""
+  },
+  "2090": {
+    "id": 2090,
+    "key": "meeting_bargain2_client",
+    "module": "会议",
+    "name": "漫天要价客户台词",
+    "zh_cn_notice": "这是漫天要价，你真的想谈判么？",
+    "en_notice": ""
+  },
+  "2091": {
+    "id": 2091,
+    "key": "meeting_bargain_not_fail_boss",
+    "module": "会议",
+    "name": "谈判成功/平局主管台词",
+    "zh_cn_notice": "合作愉快！",
+    "en_notice": ""
+  },
+  "2092": {
+    "id": 2092,
+    "key": "meeting_bargain_not_fail_client",
+    "module": "会议",
+    "name": "谈判成功/平局客户台词",
+    "zh_cn_notice": "真高兴谈判成功！",
+    "en_notice": ""
+  },
+  "2093": {
+    "id": 2093,
+    "key": "meeting_bargain_fail_boss",
+    "module": "会议",
+    "name": "谈判失败主管台词",
+    "zh_cn_notice": "你们太没有诚意了",
+    "en_notice": ""
+  },
+  "2094": {
+    "id": 2094,
+    "key": "meeting_bargain_fail_client",
+    "module": "会议",
+    "name": "谈判失败客户台词",
+    "zh_cn_notice": "这么什么好谈的，再见",
+    "en_notice": ""
+  },
+  "2095": {
+    "id": 2095,
+    "key": "day_count",
+    "module": "通用",
+    "name": "天数计数",
+    "zh_cn_notice": "第{0}天",
+    "en_notice": ""
+  },
+  "2100": {
+    "id": 2100,
+    "key": "daily_sign_title",
+    "module": "福利",
+    "name": "每日签到标题",
+    "zh_cn_notice": "每日签到",
+    "en_notice": ""
+  },
+  "2101": {
+    "id": 2101,
+    "key": "secretary_title",
+    "module": "福利",
+    "name": "终身秘书标题",
+    "zh_cn_notice": "终身秘书",
+    "en_notice": ""
+  },
+  "2102": {
+    "id": 2102,
+    "key": "permition_title",
+    "module": "福利",
+    "name": "申请许可证标题",
+    "zh_cn_notice": "申请许可证",
+    "en_notice": ""
+  },
+  "2103": {
+    "id": 2103,
+    "key": "month_card_title",
+    "module": "福利",
+    "name": "月卡标题",
+    "zh_cn_notice": "月卡",
+    "en_notice": ""
+  },
+  "2096": {
+    "id": 2096,
+    "key": "meeting_midtime",
+    "module": "会议",
+    "name": "会议中场说明",
+    "zh_cn_notice": "老板，跟{0}公司的谈判已经进入下半场，加油！",
+    "en_notice": ""
+  },
+  "2104": {
+    "id": 2104,
+    "key": "day_duration",
+    "module": "通用",
+    "name": "时长",
+    "zh_cn_notice": "{0}月{1}日00时-{2}月{3}日00时",
+    "en_notice": ""
+  },
+  "2105": {
+    "id": 2105,
+    "key": "time_out_sevendays",
+    "module": "七日",
+    "name": "超时提示",
+    "zh_cn_notice": "活动时间已经结束，无法领取奖励",
+    "en_notice": ""
+  },
+  "2106": {
+    "id": 2106,
+    "key": "month_card_type1",
+    "module": "月卡",
+    "name": "月卡名",
+    "zh_cn_notice": "月卡",
+    "en_notice": ""
+  },
+  "2107": {
+    "id": 2107,
+    "key": "month_card_type2",
+    "module": "月卡",
+    "name": "至尊月卡名",
+    "zh_cn_notice": "至尊月卡",
+    "en_notice": ""
+  },
+  "2108": {
+    "id": 2108,
+    "key": "month_card_firstbuy",
+    "module": "月卡",
+    "name": "首次购买",
+    "zh_cn_notice": "首次购买可得",
+    "en_notice": ""
+  },
+  "2109": {
+    "id": 2109,
+    "key": "month_card_buy",
+    "module": "月卡",
+    "name": "购买",
+    "zh_cn_notice": "本次购买可得",
+    "en_notice": ""
+  },
+  "2110": {
+    "id": 2110,
+    "key": "month_card_daily_gift",
+    "module": "月卡",
+    "name": "每日赠礼",
+    "zh_cn_notice": "30天每天获得",
+    "en_notice": ""
+  },
+  "2111": {
+    "id": 2111,
+    "key": "month_card_contracts_info",
+    "module": "月卡",
+    "name": "赠礼合同说明",
+    "zh_cn_notice": "有可能获得以下两种合同之一",
+    "en_notice": ""
+  },
+  "2112": {
+    "id": 2112,
+    "key": "icon_buy",
+    "module": "通用",
+    "name": "购买通用字样",
+    "zh_cn_notice": "购买",
+    "en_notice": ""
+  },
+  "2113": {
+    "id": 2113,
+    "key": "days_left",
+    "module": "通用",
+    "name": "剩余天数",
+    "zh_cn_notice": "剩余{0}天",
+    "en_notice": ""
+  },
+  "2114": {
+    "id": 2114,
+    "key": "month_card_special_package1_title",
+    "module": "月卡",
+    "name": "特供礼包标题",
+    "zh_cn_notice": "月卡特供礼包",
+    "en_notice": ""
+  },
+  "2115": {
+    "id": 2115,
+    "key": "month_card_special_package2_title",
+    "module": "月卡",
+    "name": "特供礼包标题",
+    "zh_cn_notice": "至尊月卡特供礼包",
+    "en_notice": ""
+  },
+  "2116": {
+    "id": 2116,
+    "key": "month_card_not_owned1",
+    "module": "月卡",
+    "name": "未拥有月卡",
+    "zh_cn_notice": "您还未购买月卡，不能购买礼包",
+    "en_notice": ""
+  },
+  "2117": {
+    "id": 2117,
+    "key": "month_card_not_owned2",
+    "module": "月卡",
+    "name": "未拥有至尊月卡",
+    "zh_cn_notice": "您还未购买至尊月卡，不能购买礼包",
+    "en_notice": ""
+  },
+  "2118": {
+    "id": 2118,
+    "key": "box_target_progress1",
+    "module": "票房目标",
+    "name": "进度条文字",
+    "zh_cn_notice": "第一个票房目标",
+    "en_notice": ""
+  },
+  "2119": {
+    "id": 2119,
+    "key": "box_target_progress2",
+    "module": "票房目标",
+    "name": "进度条文字",
+    "zh_cn_notice": "第二个票房目标",
+    "en_notice": ""
+  },
+  "2120": {
+    "id": 2120,
+    "key": "box_target_progress3",
+    "module": "票房目标",
+    "name": "进度条文字",
+    "zh_cn_notice": "第三个票房目标",
+    "en_notice": ""
+  },
+  "2121": {
+    "id": 2121,
+    "key": "box_target_progress4",
+    "module": "票房目标",
+    "name": "进度条文字",
+    "zh_cn_notice": "目标已完成，点击领取",
+    "en_notice": ""
+  },
+  "2122": {
+    "id": 2122,
+    "key": "box_target_progress5",
+    "module": "票房目标",
+    "name": "进度条文字",
+    "zh_cn_notice": "目标未达成，点击重试",
+    "en_notice": ""
+  },
+  "2123": {
+    "id": 2123,
+    "key": "license_limit",
+    "module": "通用",
+    "name": "许可证上限提示",
+    "zh_cn_notice": "许可证最多持有两张",
+    "en_notice": ""
+  },
+  "2124": {
+    "id": 2124,
+    "key": "license_apply_secretary_not_owned",
+    "module": "许可证申请",
+    "name": "未拥有秘书不能申请许可",
+    "zh_cn_notice": "您当前未聘用终身秘书，不能申请许可证",
+    "en_notice": ""
+  },
+  "2125": {
+    "id": 2125,
+    "key": "cooperative_order_no",
+    "module": "合作订单",
+    "name": "没有合作订单",
+    "zh_cn_notice": "暂时没有可用订单",
+    "en_notice": ""
+  },
+  "2126": {
+    "id": 2126,
+    "key": "cooperative_order_notice",
+    "module": "合作订单",
+    "name": "合作订单成功后提示对方",
+    "zh_cn_notice": "{0}帮你装填了{1}个{2}",
+    "en_notice": ""
+  },
+  "2127": {
+    "id": 2127,
+    "key": "cooperative_order_repeat",
+    "module": "合作订单",
+    "name": "装填第二个订单",
+    "zh_cn_notice": "每个订单只能装填一次",
+    "en_notice": ""
+  },
+  "2128": {
+    "id": 2128,
+    "key": "secretary_experience",
+    "module": "秘书",
+    "name": "秘书体验次数用尽",
+    "zh_cn_notice": "今日的{0}免费体验次数已用完，您可以购买终身秘书获得此永久特权",
+    "en_notice": ""
+  },
+  "2129": {
+    "id": 2129,
+    "key": "go_to_hire",
+    "module": "秘书",
+    "name": "前往聘用",
+    "zh_cn_notice": "前往聘用",
+    "en_notice": ""
+  },
+  "2130": {
+    "id": 2130,
+    "key": "secretary_not_owned",
+    "module": "秘书",
+    "name": "未聘用秘书",
+    "zh_cn_notice": "您还未拥有终身秘书，无法{0}",
+    "en_notice": ""
+  },
+  "2131": {
+    "id": 2131,
+    "key": "produce_special",
+    "module": "生产",
+    "name": "特殊生产线已达上限",
+    "zh_cn_notice": "生产线队列已达上限",
+    "en_notice": ""
+  },
+  "2132": {
+    "id": 2132,
+    "key": "visit_wrong1",
+    "module": "探班",
+    "name": "探班找错人1",
+    "zh_cn_notice": "我不是{0}，你找错人了",
+    "en_notice": ""
+  },
+  "2133": {
+    "id": 2133,
+    "key": "visit_wrong2",
+    "module": "探班",
+    "name": "探班找错人2",
+    "zh_cn_notice": "我刚才好像看到{0}了",
+    "en_notice": ""
+  },
+  "2134": {
+    "id": 2134,
+    "key": "visit_wrong3",
+    "module": "探班",
+    "name": "探班找错人3",
+    "zh_cn_notice": "听说有粉丝来找{0}？",
+    "en_notice": ""
+  },
+  "2135": {
+    "id": 2135,
+    "key": "produce_inspire_buildlock",
+    "module": "生产",
+    "name": "生产艺人鼓舞建筑限制",
+    "zh_cn_notice": "需要{0}达到{1}级",
+    "en_notice": ""
+  },
+  "2136": {
+    "id": 2136,
+    "key": "produce_inspire_linelock",
+    "module": "生产",
+    "name": "生产艺人鼓舞生产线等级限制",
+    "zh_cn_notice": "需要生产线达到{0}级",
+    "en_notice": ""
+  },
+  "2137": {
+    "id": 2137,
+    "key": "visit_noone",
+    "module": "探班",
+    "name": "没有艺人",
+    "zh_cn_notice": "当前没有艺人可以接待",
+    "en_notice": ""
+  },
+  "2138": {
+    "id": 2138,
+    "key": "secretary_talk1",
+    "module": "秘书",
+    "name": "小秘书随即对话1",
+    "zh_cn_notice": "愿意为您效劳",
+    "en_notice": ""
+  },
+  "2139": {
+    "id": 2139,
+    "key": "secretary_talk2",
+    "module": "秘书",
+    "name": "小秘书随即对话2",
+    "zh_cn_notice": "有什么需要请吩咐我",
+    "en_notice": ""
+  },
+  "2140": {
+    "id": 2140,
+    "key": "secretary_title1",
+    "module": "秘书",
+    "name": "功能标题（无秘书）",
+    "zh_cn_notice": "雇佣终身秘书后，您可以",
+    "en_notice": ""
+  },
+  "2141": {
+    "id": 2141,
+    "key": "secretary_title2",
+    "module": "秘书",
+    "name": "功能标题（有秘书）",
+    "zh_cn_notice": "您已经拥有终身秘书，您可以",
+    "en_notice": ""
+  },
+  "2142": {
+    "id": 2142,
+    "key": "secretary_owned",
+    "module": "秘书",
+    "name": "已拥有小秘书",
+    "zh_cn_notice": "已拥有",
+    "en_notice": ""
+  },
+  "2143": {
+    "id": 2143,
+    "key": "market_ambassador",
+    "module": "市场",
+    "name": "市场解锁第5个大使",
+    "zh_cn_notice": "需要达到街区4才能解锁该位置",
+    "en_notice": ""
+  },
+  "2144": {
+    "id": 2144,
+    "key": "secretary_gift_received",
+    "module": "秘书",
+    "name": "秘书福利已领取提示",
+    "zh_cn_notice": "本日已领取过福利，请明天再来",
+    "en_notice": ""
+  },
+  "2145": {
+    "id": 2145,
+    "key": "secretary_rights1",
+    "module": "秘书",
+    "name": "小秘书权益说明1",
+    "zh_cn_notice": "·每天可派秘书申请一张许可证",
+    "en_notice": ""
+  },
+  "2146": {
+    "id": 2146,
+    "key": "secretary_rights2",
+    "module": "秘书",
+    "name": "小秘书权益说明2",
+    "zh_cn_notice": "·每天可领取50钻石",
+    "en_notice": ""
+  },
+  "2147": {
+    "id": 2147,
+    "key": "secretary_rights3",
+    "module": "秘书",
+    "name": "小秘书权益说明3",
+    "zh_cn_notice": "·艺人技能训练经验翻倍",
+    "en_notice": ""
+  },
+  "2148": {
+    "id": 2148,
+    "key": "secretary_rights4",
+    "module": "秘书",
+    "name": "小秘书权益说明4",
+    "zh_cn_notice": "·可自动市场宣传",
+    "en_notice": ""
+  },
+  "2149": {
+    "id": 2149,
+    "key": "secretary_rights5",
+    "module": "秘书",
+    "name": "小秘书权益说明5",
+    "zh_cn_notice": "·可自动接待粉丝",
+    "en_notice": ""
+  },
+  "2150": {
+    "id": 2150,
+    "key": "secretary_rights6",
+    "module": "秘书",
+    "name": "小秘书权益说明6",
+    "zh_cn_notice": "·可自动批阅公务",
+    "en_notice": ""
+  },
+  "2151": {
+    "id": 2151,
+    "key": "secretary_rights7",
+    "module": "秘书",
+    "name": "小秘书权益说明7",
+    "zh_cn_notice": "·可立即完成艺人培养",
+    "en_notice": ""
+  },
+  "2152": {
+    "id": 2152,
+    "key": "secretary_rights8",
+    "module": "秘书",
+    "name": "小秘书权益说明8",
+    "zh_cn_notice": "·星探等待时间减半",
+    "en_notice": ""
+  },
+  "2153": {
+    "id": 2153,
+    "key": "secretary_rights9",
+    "module": "秘书",
+    "name": "小秘书权益说明9",
+    "zh_cn_notice": "·每天额外星探次数+3",
+    "en_notice": ""
+  },
+  "2154": {
+    "id": 2154,
+    "key": "secretary_rights10",
+    "module": "秘书",
+    "name": "小秘书权益说明10",
+    "zh_cn_notice": "·更多一键处理功能",
+    "en_notice": ""
+  },
+  "2155": {
+    "id": 2155,
+    "key": "secretary_auto1",
+    "module": "秘书",
+    "name": "自动市场宣传",
+    "zh_cn_notice": "自动市场宣传",
+    "en_notice": ""
+  },
+  "2156": {
+    "id": 2156,
+    "key": "secretary_auto2",
+    "module": "秘书",
+    "name": "自动接待粉丝",
+    "zh_cn_notice": "自动接待粉丝",
+    "en_notice": ""
+  },
+  "2157": {
+    "id": 2157,
+    "key": "secretary_auto3",
+    "module": "秘书",
+    "name": "自动批阅公务",
+    "zh_cn_notice": "自动批阅公务",
+    "en_notice": ""
+  },
+  "2158": {
+    "id": 2158,
+    "key": "chat_notime",
+    "module": "聊天",
+    "name": "聊天间隔小于5s",
+    "zh_cn_notice": "请等待{0}s后再发言",
+    "en_notice": ""
+  },
+  "2159": {
+    "id": 2159,
+    "key": "chat_nomessage",
+    "module": "聊天",
+    "name": "聊天消息为空",
+    "zh_cn_notice": "请输入文本",
+    "en_notice": ""
+  },
+  "2160": {
+    "id": 2160,
+    "key": "chat_moremessage",
+    "module": "聊天",
+    "name": "聊天消息超出长度限制",
+    "zh_cn_notice": "超出长度限制",
+    "en_notice": ""
+  },
+  "2161": {
+    "id": 2161,
+    "key": "chat_nospeaker",
+    "module": "聊天",
+    "name": "聊天没有喇叭",
+    "zh_cn_notice": "需要喇叭才能在频道里发言",
+    "en_notice": ""
+  },
+  "2162": {
+    "id": 2162,
+    "key": "chat_unlock",
+    "module": "聊天",
+    "name": "点击未解锁的频道",
+    "zh_cn_notice": "当前频道尚未解锁",
+    "en_notice": ""
+  },
+  "2163": {
+    "id": 2163,
+    "key": "chat_5star1",
+    "module": "聊天",
+    "name": "获得五星艺人系统提示1",
+    "zh_cn_notice": "{0}星艺人{1}成功签约{2}影业，{2}电影公司的实力大增",
+    "en_notice": ""
+  },
+  "2164": {
+    "id": 2164,
+    "key": "chat_5star2",
+    "module": "聊天",
+    "name": "获得五星艺人系统提示2",
+    "zh_cn_notice": "{0}星艺人{1}成功签约{2}影业，{2}电影公司喜添一员",
+    "en_notice": ""
+  },
+  "2165": {
+    "id": 2165,
+    "key": "chat_supersale",
+    "module": "聊天",
+    "name": "拍出大卖的系统提示",
+    "zh_cn_notice": "恭喜{0}拍摄的电影{1}在{2}好评如潮，获得{3}，可以拍摄续集",
+    "en_notice": ""
+  },
+  "2166": {
+    "id": 2166,
+    "key": "chat_rename",
+    "module": "聊天",
+    "name": "公司改名的系统提示",
+    "zh_cn_notice": "{0}公司从今日起改名为{1}",
+    "en_notice": ""
+  },
+  "2167": {
+    "id": 2167,
+    "key": "Turntable_full",
+    "module": "转盘",
+    "name": "转盘全部转光",
+    "zh_cn_notice": "此转盘没有奖励可领取，请刷新转盘",
+    "en_notice": ""
+  },
+  "2168": {
+    "id": 2168,
+    "key": "order_give",
+    "module": "订单",
+    "name": "资助合作订单提示",
+    "zh_cn_notice": "资助合作公司{0}个{1}，当前拥有{2}个",
+    "en_notice": ""
+  },
+  "3001": {
+    "id": 3001,
+    "key": "actor_adept_lv1",
+    "module": "艺人",
+    "name": "一般擅长",
+    "zh_cn_notice": "一般擅长",
+    "en_notice": ""
+  },
+  "3002": {
+    "id": 3002,
+    "key": "actor_adept_lv2",
+    "module": "艺人",
+    "name": "普通擅长",
+    "zh_cn_notice": "普通擅长",
+    "en_notice": ""
+  },
+  "3003": {
+    "id": 3003,
+    "key": "actor_adept_lv3",
+    "module": "艺人",
+    "name": "比较擅长",
+    "zh_cn_notice": "比较擅长",
+    "en_notice": ""
+  },
+  "3004": {
+    "id": 3004,
+    "key": "actor_adept_lv4",
+    "module": "艺人",
+    "name": "非常擅长",
+    "zh_cn_notice": "非常擅长",
+    "en_notice": ""
+  },
+  "3005": {
+    "id": 3005,
+    "key": "movie_play",
+    "module": "拍摄",
+    "name": "{0}火热上映中",
+    "zh_cn_notice": "{0}火热上映中",
+    "en_notice": ""
+  },
+  "3006": {
+    "id": 3006,
+    "key": "actor_trainingroom",
+    "module": "艺人",
+    "name": "训练室没有建立",
+    "zh_cn_notice": "需要建造训练室",
+    "en_notice": ""
+  },
+  "3007": {
+    "id": 3007,
+    "key": "license_apply_table1",
+    "module": "许可证申请",
+    "name": "小秘书桌牌1",
+    "zh_cn_notice": "可申请许可证",
+    "en_notice": ""
+  },
+  "3008": {
+    "id": 3008,
+    "key": "license_apply_table2",
+    "module": "许可证申请",
+    "name": "小秘书桌牌2",
+    "zh_cn_notice": "申请评估中",
+    "en_notice": ""
+  },
+  "3009": {
+    "id": 3009,
+    "key": "license_apply_table3",
+    "module": "许可证申请",
+    "name": "小秘书桌牌3",
+    "zh_cn_notice": "许可证发放中",
+    "en_notice": ""
+  },
+  "3010": {
+    "id": 3010,
+    "key": "license_apply_table4",
+    "module": "许可证申请",
+    "name": "小秘书桌牌4",
+    "zh_cn_notice": "暂停服务",
+    "en_notice": ""
+  },
+  "3011": {
+    "id": 3011,
+    "key": "license_apply_dialog1",
+    "module": "许可证申请",
+    "name": "小秘书对话1",
+    "zh_cn_notice": "你好，要申请许可证吗？",
+    "en_notice": ""
+  },
+  "3012": {
+    "id": 3012,
+    "key": "license_apply_dialog2",
+    "module": "许可证申请",
+    "name": "小秘书对话2",
+    "zh_cn_notice": "您的申请已收到，正在评估中，请稍后再来",
+    "en_notice": ""
+  },
+  "3013": {
+    "id": 3013,
+    "key": "license_apply_dialog3",
+    "module": "许可证申请",
+    "name": "小秘书对话3",
+    "zh_cn_notice": "请领取",
+    "en_notice": ""
+  },
+  "3014": {
+    "id": 3014,
+    "key": "license_apply_button1",
+    "module": "许可证申请",
+    "name": "申请按钮",
+    "zh_cn_notice": "申请许可证",
+    "en_notice": ""
+  },
+  "3015": {
+    "id": 3015,
+    "key": "license_apply_button2",
+    "module": "许可证申请",
+    "name": "申请按钮",
+    "zh_cn_notice": "领取许可证",
+    "en_notice": ""
+  },
+  "3016": {
+    "id": 3016,
+    "key": "license_apply_info",
+    "module": "许可证申请",
+    "name": "申请中说明文本",
+    "zh_cn_notice": "您的申请已经收到，我们正在评估贵公司的运营情况，请在倒计时结束后再来",
+    "en_notice": ""
+  },
+  "3017": {
+    "id": 3017,
+    "key": "license_apply_limit",
+    "module": "许可证申请",
+    "name": "申请数量用完",
+    "zh_cn_notice": "本日申请次数已用完",
+    "en_notice": ""
+  },
+  "3018": {
+    "id": 3018,
+    "key": "license_apply_limit_num",
+    "module": "许可证申请",
+    "name": "许可证申请数量",
+    "zh_cn_notice": "本日剩余申请次数:{0}/{1}",
+    "en_notice": ""
+  },
+  "3019": {
+    "id": 3019,
+    "key": "month1",
+    "module": "月份",
+    "name": "一月",
+    "zh_cn_notice": "1",
+    "en_notice": ""
+  },
+  "3020": {
+    "id": 3020,
+    "key": "month2",
+    "module": "月份",
+    "name": "二月",
+    "zh_cn_notice": "2",
+    "en_notice": ""
+  },
+  "3021": {
+    "id": 3021,
+    "key": "month3",
+    "module": "月份",
+    "name": "三月",
+    "zh_cn_notice": "3",
+    "en_notice": ""
+  },
+  "3022": {
+    "id": 3022,
+    "key": "month4",
+    "module": "月份",
+    "name": "四月",
+    "zh_cn_notice": "4",
+    "en_notice": ""
+  },
+  "3023": {
+    "id": 3023,
+    "key": "month5",
+    "module": "月份",
+    "name": "五月",
+    "zh_cn_notice": "5",
+    "en_notice": ""
+  },
+  "3024": {
+    "id": 3024,
+    "key": "month6",
+    "module": "月份",
+    "name": "六月",
+    "zh_cn_notice": "6",
+    "en_notice": ""
+  },
+  "3025": {
+    "id": 3025,
+    "key": "month7",
+    "module": "月份",
+    "name": "七月",
+    "zh_cn_notice": "7",
+    "en_notice": ""
+  },
+  "3026": {
+    "id": 3026,
+    "key": "month8",
+    "module": "月份",
+    "name": "八月",
+    "zh_cn_notice": "8",
+    "en_notice": ""
+  },
+  "3027": {
+    "id": 3027,
+    "key": "month9",
+    "module": "月份",
+    "name": "九月",
+    "zh_cn_notice": "9",
+    "en_notice": ""
+  },
+  "3028": {
+    "id": 3028,
+    "key": "month10",
+    "module": "月份",
+    "name": "十月",
+    "zh_cn_notice": "10",
+    "en_notice": ""
+  },
+  "3029": {
+    "id": 3029,
+    "key": "month11",
+    "module": "月份",
+    "name": "十一月",
+    "zh_cn_notice": "11",
+    "en_notice": ""
+  },
+  "3030": {
+    "id": 3030,
+    "key": "month12",
+    "module": "月份",
+    "name": "十二月",
+    "zh_cn_notice": "12",
+    "en_notice": ""
+  },
+  "3031": {
+    "id": 3031,
+    "key": "eventhall_moneyless1",
+    "module": "活动大厅",
+    "name": "当天充值金额不足",
+    "zh_cn_notice": "你今天还需充值{0}元才能领取奖励",
+    "en_notice": ""
+  },
+  "3032": {
+    "id": 3032,
+    "key": "eventhall_daysless",
+    "module": "活动大厅",
+    "name": "领取天数不足",
+    "zh_cn_notice": "未达到天数",
+    "en_notice": ""
+  },
+  "3033": {
+    "id": 3033,
+    "key": "eventhall_moneyless2",
+    "module": "活动大厅",
+    "name": "累计充值金额不足",
+    "zh_cn_notice": "你还需充值{0}元才能领取奖励",
+    "en_notice": ""
+  },
+  "3034": {
+    "id": 3034,
+    "key": "eventhall_scoreless2",
+    "module": "活动大厅",
+    "name": "领取积分不足",
+    "zh_cn_notice": "还需要{0}积分",
+    "en_notice": ""
+  },
+  "3035": {
+    "id": 3035,
+    "key": "eventhall_scoretext1",
+    "module": "活动大厅",
+    "name": "培养活动介绍",
+    "zh_cn_notice": "活动期间达到指定培养艺人积分即可领取奖励！",
+    "en_notice": ""
+  },
+  "3036": {
+    "id": 3036,
+    "key": "eventhall_scoretext2",
+    "module": "活动大厅",
+    "name": "培养问号详情",
+    "zh_cn_notice": "根据每次培养艺人消耗的进修券获得对应的积分。",
+    "en_notice": ""
+  },
+  "3037": {
+    "id": 3037,
+    "key": "eventhall_scoretext3",
+    "module": "活动大厅",
+    "name": "培养活动条件",
+    "zh_cn_notice": "培养积分达到",
+    "en_notice": ""
+  },
+  "3038": {
+    "id": 3038,
+    "key": "eventhall_scoretext4",
+    "module": "活动大厅",
+    "name": "星探活动介绍",
+    "zh_cn_notice": "活动期间达到指定星探积分即可领取奖励！",
+    "en_notice": ""
+  },
+  "3039": {
+    "id": 3039,
+    "key": "eventhall_scoretext5",
+    "module": "活动大厅",
+    "name": "星探问号详情",
+    "zh_cn_notice": "根据每次搜索艺人消耗的星探放大镜获得对应的积分。",
+    "en_notice": ""
+  },
+  "3040": {
+    "id": 3040,
+    "key": "eventhall_scoretext6",
+    "module": "活动大厅",
+    "name": "星探活动条件",
+    "zh_cn_notice": "星探积分达到",
+    "en_notice": ""
+  },
+  "2169": {
+    "id": 2169,
+    "key": "scoring_format",
+    "module": "通用",
+    "name": "计分面板",
+    "zh_cn_notice": "{0}/{1}",
+    "en_notice": ""
+  },
+  "2170": {
+    "id": 2170,
+    "key": "task_unfinished",
+    "module": "任务",
+    "name": "任务未完成提示",
+    "zh_cn_notice": "任务还未完成",
+    "en_notice": ""
+  },
+  "2171": {
+    "id": 2171,
+    "key": "task_bottom",
+    "module": "任务",
+    "name": "任务底部滚动文字",
+    "zh_cn_notice": "解锁更多功能，就会安排更多日程",
+    "en_notice": ""
+  },
+  "2172": {
+    "id": 2172,
+    "key": "eventhall_diamondless2",
+    "module": "活动大厅",
+    "name": "累计消耗钻石不足",
+    "zh_cn_notice": "你还需消耗{0}钻石才能领取奖励",
+    "en_notice": ""
+  },
+  "2173": {
+    "id": 2173,
+    "key": "visit_stop",
+    "module": "探班",
+    "name": "艺人无法接待",
+    "zh_cn_notice": "该艺人当前无法接待",
+    "en_notice": ""
+  },
+  "2174": {
+    "id": 2174,
+    "key": "account_load_long1",
+    "module": "登陆",
+    "name": "名称长度不对",
+    "zh_cn_notice": "账号长度为{0}-{1}字符",
+    "en_notice": ""
+  },
+  "2175": {
+    "id": 2175,
+    "key": "account_load_long2",
+    "module": "登陆",
+    "name": "密码长度不对",
+    "zh_cn_notice": "密码长度为{0}-{1}字符",
+    "en_notice": ""
+  },
+  "2176": {
+    "id": 2176,
+    "key": "account_load_again",
+    "module": "登陆",
+    "name": "账号已被注册",
+    "zh_cn_notice": "该账号已被注册",
+    "en_notice": ""
+  },
+  "2177": {
+    "id": 2177,
+    "key": "account_load_wrong1",
+    "module": "登陆",
+    "name": "账号未注册",
+    "zh_cn_notice": "该账号未注册",
+    "en_notice": ""
+  },
+  "2178": {
+    "id": 2178,
+    "key": "account_load_wrong2",
+    "module": "登陆",
+    "name": "登录失败",
+    "zh_cn_notice": "登录失败，用户名错误",
+    "en_notice": ""
+  },
+  "2179": {
+    "id": 2179,
+    "key": "account_load_wrong3",
+    "module": "登陆",
+    "name": "登录失败",
+    "zh_cn_notice": "登录失败，密码错误",
+    "en_notice": ""
+  },
+  "2180": {
+    "id": 2180,
+    "key": "account_load_wrong4",
+    "module": "登陆",
+    "name": "用户协议未勾选",
+    "zh_cn_notice": "需要同意用户协议才能注册",
+    "en_notice": ""
+  },
+  "2181": {
+    "id": 2181,
+    "key": "account_unlock",
+    "module": "账号信息",
+    "name": "头像未解锁",
+    "zh_cn_notice": "{0}级解锁更换头像功能",
+    "en_notice": ""
+  },
+  "2182": {
+    "id": 2182,
+    "key": "task_change_info",
+    "module": "任务",
+    "name": "任务更换提示弹窗",
+    "zh_cn_notice": "每天仅能更换{0}次任务，是否确认更换",
+    "en_notice": ""
+  },
+  "2183": {
+    "id": 2183,
+    "key": "task_change_zero",
+    "module": "任务",
+    "name": "切换次数用完",
+    "zh_cn_notice": "今日的切换次数已用完",
+    "en_notice": ""
+  },
+  "2184": {
+    "id": 2184,
+    "key": "task_zero",
+    "module": "任务",
+    "name": "无限时任务",
+    "zh_cn_notice": "无限时任务",
+    "en_notice": ""
+  },
+  "2185": {
+    "id": 2185,
+    "key": "left_times",
+    "module": "通用",
+    "name": "剩余次数",
+    "zh_cn_notice": "剩余次数",
+    "en_notice": ""
+  },
+  "2186": {
+    "id": 2186,
+    "key": "no_activity",
+    "module": "活动大厅",
+    "name": "无可参与活动",
+    "zh_cn_notice": "当前没有活动",
+    "en_notice": ""
+  },
+  "2187": {
+    "id": 2187,
+    "key": "training_tips",
+    "module": "训练",
+    "name": "拍摄时无法训练提示",
+    "zh_cn_notice": "该艺人正在拍摄电影，无法进行训练",
+    "en_notice": ""
+  },
+  "2188": {
+    "id": 2188,
+    "key": "training_tips2",
+    "module": "训练",
+    "name": "探班时无法训练提示",
+    "zh_cn_notice": "该艺人正在接受探班，无法进行训练",
+    "en_notice": ""
+  },
+  "2189": {
+    "id": 2189,
+    "key": "produce_lv",
+    "module": "生产线",
+    "name": "生产线等级不足提示",
+    "zh_cn_notice": "需要把生产线{0}升到{1}级以上",
+    "en_notice": ""
+  },
+  "2190": {
+    "id": 2190,
+    "key": "Error_Password_HasSpace",
+    "module": "登陆",
+    "name": "密码含有空格",
+    "zh_cn_notice": "密码不能包含空格",
+    "en_notice": ""
+  },
+  "2191": {
+    "id": 2191,
+    "key": "connect_lost",
+    "module": "断线重连",
+    "name": "断线重连",
+    "zh_cn_notice": "连接服务器失败",
+    "en_notice": ""
+  },
+  "2192": {
+    "id": 2192,
+    "key": "backstage_restart",
+    "module": "后台超时",
+    "name": "后台超时",
+    "zh_cn_notice": "会话超时，请重新登陆！",
+    "en_notice": ""
+  },
+  "2193": {
+    "id": 2193,
+    "key": "purchase_delay",
+    "module": "商城",
+    "name": "购买延时倒计时",
+    "zh_cn_notice": "剩余 {0}",
+    "en_notice": ""
+  },
+  "2194": {
+    "id": 2194,
+    "key": "purchase_delay_msg",
+    "module": "商城",
+    "name": "购买延时提示",
+    "zh_cn_notice": "这件商品要在创建账号{0}之后才可购买哟，请耐心等待！",
+    "en_notice": ""
+  },
+  "2195": {
+    "id": 2195,
+    "key": "level_package_unlock",
+    "module": "等级礼包",
+    "name": "不可领取提示",
+    "zh_cn_notice": "提升等级至{}级即可获得奖励",
+    "en_notice": ""
+  },
+  "2196": {
+    "id": 2196,
+    "key": "ambassador_unlock",
+    "module": "形象大使",
+    "name": "解锁第5位城市形象大使",
+    "zh_cn_notice": "解锁第5位形象大使，需要升到{0}",
+    "en_notice": ""
+  }
+}

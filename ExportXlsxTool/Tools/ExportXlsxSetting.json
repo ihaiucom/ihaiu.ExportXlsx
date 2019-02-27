@@ -1,9 +1,9 @@
 {
   "autoEnd": true,
   "optionSetting": "./ExportXlsxSetting.json",
-  "xlsxDir": "../Config/Common;../Config/Client",
-  "outDir": "../ConfigOut",
-  "exportSettingXlsx": "../Config/ExportSetting.xlsx",
+  "xlsxDir": "../../Config/Common;../../Config/Client",
+  "outDir": "../../ConfigOut",
+  "exportSettingXlsx": "../../Config/ExportSetting.xlsx",
   "settingStructSheet": "StructSheet",
   "settingIgnoreSheet": "IgnoreSheet",
   "templateDir": "./ExportXlsx/Template",

@@ -1,0 +1,12 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+
+interface DTDate
+{
+
+	y : number;
+	m : number;
+	d : number;
+}

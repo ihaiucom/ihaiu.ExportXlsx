@@ -10,7 +10,17 @@ namespace ExportXlsx.Sources
         public string   field;
         public string   cn;
         public string   typeName;
+        public int      filterType;
         public int      index;
+
+        // 是否导出该列
+        public bool isExport
+        {
+            get
+            {
+                return HeadFilterType.isExport(filterType);
+            }
+        }
 
         static Regex EnableRegex = new Regex("^[A-Za-z_]+[A-Za-z0-9_]*");
 
@@ -20,6 +30,39 @@ namespace ExportXlsx.Sources
             {
                 return EnableRegex.IsMatch(field);
             }
+        }
+
+        public string GetTsTypeImport()
+        {
+
+            string name = typeName.Trim().ToLower().Replace("[]", "");
+            switch (name)
+            {
+                case "string":
+                case "int64":
+                case "int":
+                case "float":
+                case "double":
+                case "boolean":
+                case "bool":
+                    return null;
+            }
+
+            name = typeName.Trim().Replace(" ", "").Replace("[]", "");
+            return name;
+        }
+
+        public string GetTsTypeImportPath(string name = null)
+        {
+            if(string.IsNullOrEmpty(name))
+            {
+                name = GetTsTypeImport();
+            }
+
+
+            string path = string.Format(OutPaths.Client.ConfigTemplate, name);
+
+            return path;
         }
 
         public string GetTsTypeName()

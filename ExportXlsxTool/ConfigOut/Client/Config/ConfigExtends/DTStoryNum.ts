@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import DTStoryNumStruct from "../ConfigStructs/DTStoryNum";
+
+export default class DTStoryNum extends DTStoryNumStruct
 {
-	export class DTStoryNum extends DTStoryNumStruct
-	{
-	}
+	
 }

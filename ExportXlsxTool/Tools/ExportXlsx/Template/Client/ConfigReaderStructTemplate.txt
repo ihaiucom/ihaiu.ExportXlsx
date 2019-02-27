@@ -3,30 +3,32 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import CsvConfigRender from "../CsvConfigRender";
+>:FOREACH imports:<
+import >:[0]:< from ">:[1]:<";
+>:ENDFOREACH:<
+
+
+export class >:classNameConfigReaderStruct:< extends CsvConfigRender<    >:classNameConfig:<      >
 {
-
-	export class >:classNameConfigReaderStruct:< extends CsvConfigRender<    >:classNameConfig:<      >
-	{
-		tableName = ">:tableName:<";
+	tableName = ">:tableName:<";
 
 
-        ParseCsv(csv: string[] )
-        {
-			let config = new >:classNameConfig:<();
+    ParseCsv(csv: string[] )
+    {
+		let config = new >:classNameConfig:<();
 
 
-			>:FOREACH fields:<
-			config.>:[0]:< = >:[1]:<;
-			>:ENDFOREACH:<
+		>:FOREACH fields:<
+		config.>:[0]:< = >:[1]:<;
+		>:ENDFOREACH:<
 
-			
-			>:FOREACH dicts:<
-			config[">:[0]:<"] = >:[1]:<;
-			>:ENDFOREACH:<
+		
+		>:FOREACH dicts:<
+		config[">:[0]:<"] = >:[1]:<;
+		>:ENDFOREACH:<
 
 
-			this.addConfig(config);
-        }
-	}
+		this.addConfig(config);
+    }
 }

@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import DTVector2Struct from "../ConfigStructs/DTVector2";
+
+export default class DTVector2 extends DTVector2Struct
 {
-	export class DTVector2 extends DTVector2Struct
-	{
-	}
+	
 }

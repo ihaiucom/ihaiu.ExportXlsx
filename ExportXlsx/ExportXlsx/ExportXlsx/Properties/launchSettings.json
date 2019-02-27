@@ -2,7 +2,7 @@
   "profiles": {
     "ExportXlsx": {
       "commandName": "Project",
-      "commandLineArgs": ""
+      "commandLineArgs": "--optionSetting=./ExportXlsxSetting.json"
     }
   }
 }

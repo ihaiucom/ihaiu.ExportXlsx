@@ -1,0 +1,305 @@
+﻿{
+  "1001": {
+    "id": 1001,
+    "action": "pose1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "摆pose"
+  },
+  "1002": {
+    "id": 1002,
+    "action": "zhanli1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "站立"
+  },
+  "1003": {
+    "id": 1003,
+    "action": "zhanli2",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "站立"
+  },
+  "1004": {
+    "id": 1004,
+    "action": "zoulu1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "走路"
+  },
+  "1005": {
+    "id": 1005,
+    "action": "paodong1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "跑动"
+  },
+  "1006": {
+    "id": 1006,
+    "action": "huanhu1",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "欢呼"
+  },
+  "1007": {
+    "id": 1007,
+    "action": "zuoshangyizi1",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1008,
+    "tips": "坐上椅子1"
+  },
+  "1008": {
+    "id": 1008,
+    "action": "zuoxia1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "坐下1"
+  },
+  "1009": {
+    "id": 1009,
+    "action": "tiaoxiayizi1",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "跳下椅子1"
+  },
+  "1010": {
+    "id": 1010,
+    "action": "zuoshangyizi2",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1011,
+    "tips": "坐上椅子2"
+  },
+  "1011": {
+    "id": 1011,
+    "action": "zuoxia2",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "坐下2"
+  },
+  "1012": {
+    "id": 1012,
+    "action": "tiaoxiayizi2",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "跳下椅子2"
+  },
+  "1013": {
+    "id": 1013,
+    "action": "penghua1",
+    "parts": {
+      "v1": "Flowers",
+      "v2": "Flowers"
+    },
+    "loop": 1,
+    "Connect": 0,
+    "tips": "捧花1"
+  },
+  "1014": {
+    "id": 1014,
+    "action": "penghuaxingzou1",
+    "parts": {
+      "v1": "Flowers",
+      "v2": "Flowers"
+    },
+    "loop": 1,
+    "Connect": 0,
+    "tips": "捧花行走1"
+  },
+  "1015": {
+    "id": 1015,
+    "action": "diedao1",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "跌倒"
+  },
+  "1016": {
+    "id": 1016,
+    "action": "changge1",
+    "parts": {
+      "v1": "Microphone",
+      "v2": "Microphone"
+    },
+    "loop": 1,
+    "Connect": 0,
+    "tips": "唱歌"
+  },
+  "1017": {
+    "id": 1017,
+    "action": "huahua1",
+    "parts": {
+      "v1": "Brush",
+      "v2": "Brush"
+    },
+    "loop": 1,
+    "Connect": 0,
+    "tips": "画画"
+  },
+  "1018": {
+    "id": 1018,
+    "action": "langsong1",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "朗诵"
+  },
+  "1019": {
+    "id": 1019,
+    "action": "tiaowu1",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "跳舞"
+  },
+  "1020": {
+    "id": 1020,
+    "action": "audience_idle",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "待机__观众"
+  },
+  "1021": {
+    "id": 1021,
+    "action": "audience_shake",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1020,
+    "tips": "摇晃__观众"
+  },
+  "1022": {
+    "id": 1022,
+    "action": "audience_cheer",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1020,
+    "tips": "欢呼__观众"
+  },
+  "1023": {
+    "id": 1023,
+    "action": "microphone",
+    "parts": {
+      "v1": "Microphone",
+      "v2": "Microphone"
+    },
+    "loop": 1,
+    "Connect": 0,
+    "tips": "话筒讲话"
+  },
+  "1024": {
+    "id": 1024,
+    "action": "zhanli3",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "上台待机"
+  },
+  "1025": {
+    "id": 1025,
+    "action": "speech",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "感言"
+  },
+  "1026": {
+    "id": 1026,
+    "action": "speech",
+    "parts": {},
+    "loop": 0,
+    "Connect": 1002,
+    "tips": "感言"
+  },
+  "1027": {
+    "id": 1027,
+    "action": "zhanli4",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "站立叉腰"
+  },
+  "1028": {
+    "id": 1028,
+    "action": "zhanli3",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "主持人站立"
+  },
+  "2001": {
+    "id": 2001,
+    "action": "dakai",
+    "parts": {},
+    "loop": 0,
+    "Connect": 0,
+    "tips": "窗帘-打开"
+  },
+  "2002": {
+    "id": 2002,
+    "action": "bihe",
+    "parts": {},
+    "loop": 0,
+    "Connect": 2003,
+    "tips": "窗帘-闭合"
+  },
+  "2003": {
+    "id": 2003,
+    "action": "daiji",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "窗帘-闭合待机"
+  },
+  "2004": {
+    "id": 2004,
+    "action": "dakai",
+    "parts": {},
+    "loop": 0,
+    "Connect": 2007,
+    "tips": "门-打开"
+  },
+  "2005": {
+    "id": 2005,
+    "action": "guanbi",
+    "parts": {},
+    "loop": 0,
+    "Connect": 2006,
+    "tips": "门-关闭"
+  },
+  "2006": {
+    "id": 2006,
+    "action": "guanbidaiji",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "门-关闭-待机"
+  },
+  "2007": {
+    "id": 2007,
+    "action": "dakaidaiji",
+    "parts": {},
+    "loop": 1,
+    "Connect": 0,
+    "tips": "门-打开-待机"
+  },
+  "2008": {
+    "id": 2008,
+    "action": "animation",
+    "parts": {},
+    "loop": 0,
+    "Connect": 0,
+    "tips": "电影上映-艺人动画-门动画"
+  }
+}

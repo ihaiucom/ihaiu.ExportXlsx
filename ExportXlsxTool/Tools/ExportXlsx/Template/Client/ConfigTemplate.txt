@@ -3,10 +3,11 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+>:FOREACH imports:<
+import >:[0]:< from ">:[1]:<";
+>:ENDFOREACH:<
+
+export default class >:classNameConfig:< extends >:classNameConfigStruct:<
 {
-	export class >:classNameConfig:< extends >:classNameConfigStruct:<
-	{
-		
-	}
+	
 }

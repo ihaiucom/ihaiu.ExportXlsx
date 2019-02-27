@@ -56,11 +56,18 @@ namespace ExportXlsx.Sources
         {
             List<object[]> dicts = new List<object[]>();
             List<object[]> fields = new List<object[]>();
+            List<object[]> imports = new List<object[]>();
+            Dictionary<string, bool> importDict = new Dictionary<string, bool>();
+
+            string path = string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfigStruct);
 
 
             for (int i = 0; i < dataStruct.fields.Count; i ++)
             {
                 DataField dataField = dataStruct.fields[i];
+
+                if (!dataField.isExport)
+                    continue;
 
                 if(dataField.fieldNameIsEnable)
                 {
@@ -72,6 +79,20 @@ namespace ExportXlsx.Sources
                     object[] lines = new object[] { dataField.field, dataField.GetTsTypeName(), Regex.Replace(dataField.field, @"[^A-Za-z0-9_]", @"_") };
                     dicts.Add(lines);
                 }
+
+                string importType = dataField.GetTsTypeImport();
+                if(!string.IsNullOrEmpty(importType))
+                {
+                    if (!importDict.ContainsKey(importType))
+                    {
+                        importDict.Add(importType, true);
+                        object[] lines = new object[] { importType, PathHelper.GetImportPath(path, dataField.GetTsTypeImportPath(importType)) };
+                        imports.Add(lines);
+                    }
+
+                }
+
+
             }
 
 
@@ -82,14 +103,17 @@ namespace ExportXlsx.Sources
             {
                 DataField dataField = dataStruct.fields[i];
 
+                if (!dataField.isExport)
+                    continue;
+
                 if (dataField.field.StartsWith("zh_cn_"))
                 {
-                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field, fieldName };
+                    object[] lines = new object[] { dataField.field.Replace("zh_cn_", ""), dataField.field, fieldName, dataField.GetTsTypeName(), dataField.field.Replace("zh_cn_", "") };
                     langs.Add(lines);
                 }
                 else if (dataField.field.StartsWith("cn_"))
                 {
-                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field, fieldName };
+                    object[] lines = new object[] { dataField.field.Replace("cn_", ""), dataField.field, fieldName, dataField.GetTsTypeName(), dataField.field.Replace("cn_", "") };
                     langs.Add(lines);
                 }
             }
@@ -144,13 +168,13 @@ namespace ExportXlsx.Sources
 
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigStructTemplates));
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
+            template.AddVariable("imports", imports.ToArray());
             template.AddVariable("fields", fields.ToArray());
             template.AddVariable("dicts", dicts.ToArray());
             template.AddVariable("langs", langs.ToArray());
             template.AddVariable("parse", parse);
             template.AddVariable("parseArray", parseArray);
             string content = template.Parse();
-            string path = string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfigStruct);
 
             PathHelper.CheckPath(path);
             File.WriteAllText(path, content);
@@ -160,6 +184,10 @@ namespace ExportXlsx.Sources
         public void ExportConfig()
         {
             List<object[]> langs = new List<object[]>();
+
+            List<object[]> imports = new List<object[]>();
+            Dictionary<string, bool> importDict = new Dictionary<string, bool>();
+            string path = string.Format(OutPaths.Client.ConfigTemplate, classNameConfig);
 
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
@@ -178,13 +206,15 @@ namespace ExportXlsx.Sources
                 }
             }
 
+            imports.Add(new object[] { classNameConfigStruct , PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfig)) });
+
 
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigTemplate));
             template.AddVariable("classNameConfig", classNameConfig);
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
             template.AddVariable("langs", langs.ToArray());
+            template.AddVariable("imports", imports.ToArray());
             string content = template.Parse();
-            string path = string.Format(OutPaths.Client.ConfigTemplate, classNameConfig);
 
 
             PathHelper.CheckPath(path);
@@ -194,14 +224,24 @@ namespace ExportXlsx.Sources
 
         public void ExportConfigReaderStruct()
         {
+            string path = string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct);
+
             List<object[]> dicts = new List<object[]>();
             List<object[]> fields = new List<object[]>();
+
+            List<object[]> imports = new List<object[]>();
+            Dictionary<string, bool> importDict = new Dictionary<string, bool>();
+
+            imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigTemplate, classNameConfig) ) });
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
             {
                 DataField dataField = dataStruct.fields[i];
 
-                if(dataField.fieldNameIsEnable)
+                if (!dataField.isExport)
+                    continue;
+
+                if (dataField.fieldNameIsEnable)
                 {
                     object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
                     fields.Add(lines);
@@ -210,6 +250,19 @@ namespace ExportXlsx.Sources
                 {
                     object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
                     dicts.Add(lines);
+                }
+
+
+                string importType = dataField.GetTsTypeImport();
+                if (!string.IsNullOrEmpty(importType))
+                {
+                    if (!importDict.ContainsKey(importType))
+                    {
+                        importDict.Add(importType, true);
+                        object[] lines = new object[] { importType, PathHelper.GetImportPath(path, dataField.GetTsTypeImportPath(importType)) };
+                        imports.Add(lines);
+                    }
+
                 }
 
             }
@@ -221,8 +274,8 @@ namespace ExportXlsx.Sources
             template.AddVariable("tableName", tableName);
             template.AddVariable("fields", fields.ToArray());
             template.AddVariable("dicts", dicts.ToArray());
+            template.AddVariable("imports", imports.ToArray());
             string content = template.Parse();
-            string path = string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct);
 
             PathHelper.CheckPath(path);
             File.WriteAllText(path, content);
@@ -232,11 +285,18 @@ namespace ExportXlsx.Sources
         public void ExportConfigReader()
         {
 
+            string path = string.Format(OutPaths.Client.ConfigReaderTemplate, classNameConfigReader);
+
+            List<object[]> imports = new List<object[]>();
+            Dictionary<string, bool> importDict = new Dictionary<string, bool>();
+
+            imports.Add(new object[] { classNameConfigReaderStruct, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct)) });
+
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigReaderTemplate));
             template.AddVariable("classNameConfigReader", classNameConfigReader);
             template.AddVariable("classNameConfigReaderStruct", classNameConfigReaderStruct);
+            template.AddVariable("imports", imports.ToArray());
             string content = template.Parse();
-            string path = string.Format(OutPaths.Client.ConfigReaderTemplate, classNameConfigReader);
 
 
             PathHelper.CheckPath(path);
@@ -264,6 +324,13 @@ namespace ExportXlsx.Sources
 
         public static void ExportConfigManagerList(List<ExportClientTS> list)
         {
+
+            string path = OutPaths.Client.ConfigManagerListTemplate;
+
+            List<object[]> imports = new List<object[]>();
+            Dictionary<string, bool> importDict = new Dictionary<string, bool>();
+
+
             List<object[]> lines = new List<object[]>();
             foreach (ExportClientTS item in list)
             {
@@ -271,11 +338,12 @@ namespace ExportXlsx.Sources
                     continue;
 
                 lines.Add(new object[] { item.fieldName, item.classNameConfigReader });
+                imports.Add(new object[] { item.classNameConfigReader, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigReaderTemplate, item.classNameConfigReader) )});
             }
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigManagerListTemplate));
             template.AddVariable("tables", lines.ToArray());
+            template.AddVariable("imports", imports.ToArray());
             string content = template.Parse();
-            string path = OutPaths.Client.ConfigManagerListTemplate;
 
 
             PathHelper.CheckPath(path);

@@ -19,6 +19,8 @@ namespace ExportXlsx.Sources
             List<string> headFields = new List<string>();
             foreach (var kvp in  table.fieldDictByIndex)
             {
+                if (!kvp.Value.isExport)
+                    continue;
                 headTypes.Add(kvp.Value.typeName);
                 headCns.Add( ReplaceSpearator( kvp.Value.cn ) );
                 headFields.Add(kvp.Value.field);
@@ -34,7 +36,11 @@ namespace ExportXlsx.Sources
                 List<string> strList = new List<string>();
                 foreach (var kvp in table.fieldDictByIndex)
                 {
-                    if(line.ContainsKey(kvp.Value.field))
+
+                    if (!kvp.Value.isExport)
+                        continue;
+
+                    if (line.ContainsKey(kvp.Value.field))
                     {
                         strList.Add( ReplaceSpearator( line[kvp.Value.field] ) );
                     }

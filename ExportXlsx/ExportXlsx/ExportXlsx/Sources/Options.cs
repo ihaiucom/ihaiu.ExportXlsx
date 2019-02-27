@@ -64,6 +64,19 @@ namespace ExportXlsx.Sources
         [Option("xlsxHeadFieldLine", Required = false, Default = 3)]
         public int xlsxHeadFieldLine { get; set; }
 
+        // 表头--过滤列
+        [Option("xlsxHeadFieldLine", Required = false, Default = 4)]
+        public int xlsxHeadFilterLine { get; set; }
+
+        // 表头--是否有过滤列
+        [Option("hasHeadFilterLine", Required = false, Default = true)]
+        public bool hasHeadFilterLine { get; set; }
+
+        // 表头--过滤列导出类型(1服务器， 2客户端， 3所有， 其他为不导出)
+        [Option("exportHeadFilterType", Required = false, Default = 3)]
+        public int exportHeadFilterType { get; set; }
+
+
         // josn文件命名格式
         [Option("jsonNameFormat", Required = false, Default = "DT{0}.json")]
         public string jsonNameFormat { get; set; }

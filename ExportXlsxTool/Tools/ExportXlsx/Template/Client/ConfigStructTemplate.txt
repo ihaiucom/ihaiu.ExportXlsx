@@ -3,40 +3,43 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import BaseConfig from "../BaseConfig";
+>:FOREACH imports:<
+import >:[0]:< from ">:[1]:<";
+>:ENDFOREACH:<
+
+
+
+export default class >:classNameConfigStruct:< extends BaseConfig
 {
-	export class >:classNameConfigStruct:< extends BaseConfig
-	{
+
+	>:FOREACH dicts:<
+	// >:[0]:< : >:[1]:<;
+	static KEY_>:[2]:< = ">:[0]:<";
+
+	>:ENDFOREACH:<
+
+	>:FOREACH fields:<
+	>:[0]:< : >:[1]:<;
+	>:ENDFOREACH:<
+
+
+	>:parse:< 
+
+
+	>:parseArray:< 
+
 	
-		>:FOREACH dicts:<
-		// >:[0]:< : >:[1]:<;
-		static KEY_>:[2]:< = ">:[0]:<";
-
-		>:ENDFOREACH:<
-
-		>:FOREACH fields:<
-		>:[0]:< : >:[1]:<;
-		>:ENDFOREACH:<
-
-
-		>:parse:< 
-
-
-		>:parseArray:< 
-
-		
-		>:FOREACH langs:<
-		get >:[0]:<():>:[3]:<
+	>:FOREACH langs:<
+	get >:[0]:<():>:[3]:<
+	{
+		let value = <>:[3]:<> LangManager.Instance.getValue(">:[2]:<", this.id, ">:[4]:<");
+		if (!isNullOrEmpty(value))
 		{
-			let value = <>:[3]:<> LangManager.Instance.getValue(">:[2]:<", this.id, ">:[4]:<");
-			if (!isNullOrEmpty(value))
-			{
-				return value;
-			}
-			return this.>:[1]:<
+			return value;
 		}
-		>:ENDFOREACH:<
+		return this.>:[1]:<
 	}
-
+	>:ENDFOREACH:<
 
 }

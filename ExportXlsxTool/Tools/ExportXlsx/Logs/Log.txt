@@ -1,0 +1,4 @@
+2019-02-26 10:50:59.6162   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-02-26 10:50:59.7631   (TableReader.cs:66) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
+2019-02-26 10:50:59.7689   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-02-26 10:50:59.7689   (TableReader.cs:66) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet

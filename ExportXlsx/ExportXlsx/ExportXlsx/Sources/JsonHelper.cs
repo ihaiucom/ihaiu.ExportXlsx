@@ -6,7 +6,7 @@ using System.Text;
 
 public static class JsonHelper
 {
-    public static string ConvertJsonString(this string json)
+    public static string ConvertJsonString(this string json, Formatting fromatting = Formatting.Indented)
     {
         //格式化json字符串
         //JsonSerializer serializer = new JsonSerializer();
@@ -25,7 +25,7 @@ public static class JsonHelper
             //};
             //serializer.Serialize(jsonWriter, obj);
             //return textWriter.ToString();
-            return JsonConvert.SerializeObject(obj, Formatting.Indented);
+            return JsonConvert.SerializeObject(obj, fromatting);
         }
         else
         {

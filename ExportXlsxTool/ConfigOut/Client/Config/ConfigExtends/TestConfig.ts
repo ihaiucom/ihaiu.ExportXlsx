@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import TestConfigStruct from "../ConfigStructs/TestConfig";
+
+export default class TestConfig extends TestConfigStruct
 {
-	export class TestConfig extends TestConfigStruct
-	{
-	}
+	
 }

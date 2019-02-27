@@ -1,11 +1,11 @@
 /////////////////////////////////////
 // ExportXlsx生成
-// http://blog.ihaiu.com
+// http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-namespace configs
+import CountryConfigStruct from "../ConfigStructs/CountryConfig";
+
+export default class CountryConfig extends CountryConfigStruct
 {
-	export class CountryConfig extends CountryConfigStruct
-	{
-	}
+	
 }

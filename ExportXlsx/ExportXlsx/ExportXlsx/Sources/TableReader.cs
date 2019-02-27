@@ -96,6 +96,11 @@ namespace ExportXlsx.Sources
                     string type = ws.GetValue(Setting.Options.xlsxHeadTypeLine, i).ToString().Trim();
                     string cn = ws.GetValue(Setting.Options.xlsxHeadCnLine, i).ToString().Trim();
                     string en = ws.GetValue(Setting.Options.xlsxHeadFieldLine, i).ToString().Trim();
+                    int filterType = HeadFilterType.ALL;
+                    if(Setting.Options.hasHeadFilterLine)
+                    {
+                        filterType = ws.GetValue(Setting.Options.xlsxHeadFilterLine, i).ToString().Trim().ToInt32();
+                    }
 
                     if (string.IsNullOrEmpty(type))
                     {
@@ -113,13 +118,18 @@ namespace ExportXlsx.Sources
                     field.typeName = type;
                     field.cn = cn;
                     field.field = en;
+                    field.filterType = filterType;
                     field.index = i;
                     dataStruct.fields.Add(field);
                     fieldDictByIndex.Add(i, field);
                     columnNum = i;
                 }
 
-                for(int r = 4; r < ws.Cells.Rows; r ++)
+                int begin = 4;
+                if (Setting.Options.hasHeadFilterLine)
+                    begin = 5;
+
+                for(int r = begin; r < ws.Cells.Rows; r ++)
                 {
 
                     if (ws.Cells[r, 1].Value == null)

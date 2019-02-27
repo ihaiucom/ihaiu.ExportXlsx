@@ -61,5 +61,30 @@ namespace ExportXlsx.Sources
             }
         }
 
+
+        public static string JsonOnceObject
+        {
+            get
+            {
+                return Options.outDir + "/json_all/config_all.json";
+            }
+        }
+
+        public static string JsonOnceObject2
+        {
+            get
+            {
+                return Options.outDir + "/json_all/config_all2.json";
+            }
+        }
+
+
+        public static string JsonOnceArray
+        {
+            get
+            {
+                return Options.outDir + "/json_all/config_array.json";
+            }
+        }
     }
 }

@@ -23,6 +23,7 @@ namespace ExportXlsx.Sources
             xlsxManager.ExportTsAll();
             xlsxManager.ExportCsvs();
             xlsxManager.ExportJsons();
+            xlsxManager.ExportAllJsonsOnceObject();
 
             Console.WriteLine("完成!");
 

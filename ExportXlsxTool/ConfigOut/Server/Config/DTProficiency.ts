@@ -1,0 +1,11 @@
+/////////////////////////////////////
+// ExportXlsx生成
+// http://blog.ihaiu.com/tool-ExportXlsx
+/////////////////////////////////////
+
+interface DTProficiency
+{
+
+	v1 : number;
+	v2 : number;
+}

@@ -104,6 +104,11 @@ namespace ExportXlsx.Sources
                     continue;
                 }
 
+                if(!Directory.Exists(dir))
+                {
+                    continue;
+                }
+
                 string[] files = Directory.GetFiles(dir, "*.xlsx", SearchOption.AllDirectories);
                 foreach(string file in files)
                 {
@@ -149,7 +154,7 @@ namespace ExportXlsx.Sources
                 list.Add(item);
             }
 
-            ExportClientTS.ExportConfigIncludes(list);
+            //ExportClientTS.ExportConfigIncludes(list);
             ExportClientTS.ExportConfigManagerList(list);
         }
 
@@ -181,6 +186,13 @@ namespace ExportXlsx.Sources
             {
                 ExportJson.Export(kvp.Value, this);
             }
+        }
+
+        public void ExportAllJsonsOnceObject()
+        {
+            ExportJsonToOnceObject.ExportAll(tables, this);
+            ExportJsonToOnceObject2.ExportAll(tables, this);
+            ExportJsonToOnceArray.ExportAll(tables, this);
         }
     }
 }
