@@ -5,6 +5,7 @@
 
 import BaseConfig from "../BaseConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
+import Game from "../../Game";
 
 
 
@@ -30,7 +31,10 @@ export default class MailConfigStruct extends BaseConfig
 	
 	get title():string
 	{
-		let value = <string> LangManager.Instance.getValue("mail", this.id, "title");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_title
+
+		let value = <string> Game.lang.getValue("mail", this.id, "title");
 		if (!isNullOrEmpty(value))
 		{
 			return value;
@@ -39,7 +43,10 @@ export default class MailConfigStruct extends BaseConfig
 	}
 	get content():string
 	{
-		let value = <string> LangManager.Instance.getValue("mail", this.id, "content");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_content
+
+		let value = <string> Game.lang.getValue("mail", this.id, "content");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

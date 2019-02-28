@@ -7,7 +7,7 @@ import CsvConfigRender from "../CsvConfigRender";
 import MenuConfig from "../ConfigExtends/MenuConfig";
 
 
-export class MenuConfigReaderStruct extends CsvConfigRender<    MenuConfig      >
+export default class MenuConfigReaderStruct extends CsvConfigRender<    MenuConfig      >
 {
 	tableName = "Menu";
 

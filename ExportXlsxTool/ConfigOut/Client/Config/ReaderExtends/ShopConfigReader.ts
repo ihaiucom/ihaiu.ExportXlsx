@@ -6,6 +6,6 @@
 
 import ShopConfigReaderStruct from "../ReaderStructs/ShopConfigReaderStruct";
 
-export class ShopConfigReader extends ShopConfigReaderStruct
+export default class ShopConfigReader extends ShopConfigReaderStruct
 {
 }

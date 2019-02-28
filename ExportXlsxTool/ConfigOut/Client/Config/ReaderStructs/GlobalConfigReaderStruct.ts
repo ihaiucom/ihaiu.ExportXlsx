@@ -10,7 +10,7 @@ import DTlValue3 from "../ConfigExtends/DTlValue3";
 import DTPerformActoin from "../ConfigExtends/DTPerformActoin";
 
 
-export class GlobalConfigReaderStruct extends CsvConfigRender<    GlobalConfig      >
+export default class GlobalConfigReaderStruct extends CsvConfigRender<    GlobalConfig      >
 {
 	tableName = "Global";
 

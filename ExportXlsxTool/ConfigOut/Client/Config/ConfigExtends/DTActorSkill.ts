@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import DTActorSkillStruct from "../ConfigStructs/DTActorSkill";
+import DTActorSkillStruct from "../ConfigStructs/DTActorSkillStruct";
 
 export default class DTActorSkill extends DTActorSkillStruct
 {

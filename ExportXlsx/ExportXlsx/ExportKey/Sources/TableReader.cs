@@ -127,7 +127,12 @@ namespace ExportXlsx.Sources
                     columnNum = i;
                 }
 
-                for(int r = 4; r < ws.Cells.Rows; r ++)
+
+                int begin = 4;
+                if (Setting.Options.hasHeadFilterLine)
+                    begin = 5;
+
+                for (int r = begin; r < ws.Cells.Rows; r ++)
                 {
 
                     if (ws.Cells[r, 1].Value == null)

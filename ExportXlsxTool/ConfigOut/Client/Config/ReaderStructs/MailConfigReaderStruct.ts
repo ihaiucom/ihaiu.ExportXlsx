@@ -8,7 +8,7 @@ import MailConfig from "../ConfigExtends/MailConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class MailConfigReaderStruct extends CsvConfigRender<    MailConfig      >
+export default class MailConfigReaderStruct extends CsvConfigRender<    MailConfig      >
 {
 	tableName = "Mail";
 

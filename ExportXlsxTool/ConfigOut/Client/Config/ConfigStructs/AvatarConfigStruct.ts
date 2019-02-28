@@ -5,6 +5,7 @@
 
 import BaseConfig from "../BaseConfig";
 import DTVector2 from "../ConfigExtends/DTVector2";
+import Game from "../../Game";
 
 
 
@@ -31,7 +32,10 @@ export default class AvatarConfigStruct extends BaseConfig
 	
 	get icon():string
 	{
-		let value = <string> LangManager.Instance.getValue("avatar", this.id, "icon");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_icon
+
+		let value = <string> Game.lang.getValue("avatar", this.id, "icon");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

@@ -6,6 +6,6 @@
 
 import ItemConfigReaderStruct from "../ReaderStructs/ItemConfigReaderStruct";
 
-export class ItemConfigReader extends ItemConfigReaderStruct
+export default class ItemConfigReader extends ItemConfigReaderStruct
 {
 }

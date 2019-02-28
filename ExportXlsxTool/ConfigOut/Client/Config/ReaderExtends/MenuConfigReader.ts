@@ -6,6 +6,6 @@
 
 import MenuConfigReaderStruct from "../ReaderStructs/MenuConfigReaderStruct";
 
-export class MenuConfigReader extends MenuConfigReaderStruct
+export default class MenuConfigReader extends MenuConfigReaderStruct
 {
 }

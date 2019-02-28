@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTBuildingReq from "../ConfigExtends/DTBuildingReq";
 
 
 

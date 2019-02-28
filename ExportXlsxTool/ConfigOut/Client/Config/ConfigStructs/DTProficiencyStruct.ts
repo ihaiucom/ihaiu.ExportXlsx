@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTProficiency from "../ConfigExtends/DTProficiency";
 
 
 

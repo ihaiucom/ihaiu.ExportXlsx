@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import DTTimeStruct from "../ConfigStructs/DTTime";
+import DTTimeStruct from "../ConfigStructs/DTTimeStruct";
 
 export default class DTTime extends DTTimeStruct
 {

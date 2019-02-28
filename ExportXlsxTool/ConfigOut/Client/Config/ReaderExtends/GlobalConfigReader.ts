@@ -6,6 +6,6 @@
 
 import GlobalConfigReaderStruct from "../ReaderStructs/GlobalConfigReaderStruct";
 
-export class GlobalConfigReader extends GlobalConfigReaderStruct
+export default class GlobalConfigReader extends GlobalConfigReaderStruct
 {
 }

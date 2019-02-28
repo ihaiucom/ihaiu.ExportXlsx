@@ -6,6 +6,6 @@
 
 import MailConfigReaderStruct from "../ReaderStructs/MailConfigReaderStruct";
 
-export class MailConfigReader extends MailConfigReaderStruct
+export default class MailConfigReader extends MailConfigReaderStruct
 {
 }

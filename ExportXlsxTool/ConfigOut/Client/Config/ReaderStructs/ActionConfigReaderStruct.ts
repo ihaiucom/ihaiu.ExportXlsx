@@ -8,7 +8,7 @@ import ActionConfig from "../ConfigExtends/ActionConfig";
 import DTParts from "../ConfigExtends/DTParts";
 
 
-export class ActionConfigReaderStruct extends CsvConfigRender<    ActionConfig      >
+export default class ActionConfigReaderStruct extends CsvConfigRender<    ActionConfig      >
 {
 	tableName = "Action";
 

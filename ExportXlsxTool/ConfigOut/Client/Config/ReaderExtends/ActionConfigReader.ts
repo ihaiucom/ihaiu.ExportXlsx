@@ -6,6 +6,6 @@
 
 import ActionConfigReaderStruct from "../ReaderStructs/ActionConfigReaderStruct";
 
-export class ActionConfigReader extends ActionConfigReaderStruct
+export default class ActionConfigReader extends ActionConfigReaderStruct
 {
 }

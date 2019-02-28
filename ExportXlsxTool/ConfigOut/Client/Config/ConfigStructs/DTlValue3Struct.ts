@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTlValue3 from "../ConfigExtends/DTlValue3";
 
 
 

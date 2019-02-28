@@ -118,6 +118,10 @@ namespace ExportXlsx.Sources
                 }
             }
 
+            if (langs.Count > 0)
+                imports.Add(new object[] { "Game", "../../Game" });
+
+
 
 
             string parse = "";
@@ -125,6 +129,9 @@ namespace ExportXlsx.Sources
 
             if(isExtend)
             {
+
+                imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigTemplate, classNameConfig)) });
+
                 StringWriter sw = new StringWriter() ;
                 sw.WriteLine($"  static parse(txt: string): {classNameConfig} ");
                 sw.WriteLine("      {");
@@ -206,7 +213,7 @@ namespace ExportXlsx.Sources
                 }
             }
 
-            imports.Add(new object[] { classNameConfigStruct , PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfig)) });
+            imports.Add(new object[] { classNameConfigStruct , PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfigStruct)) });
 
 
             TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigTemplate));

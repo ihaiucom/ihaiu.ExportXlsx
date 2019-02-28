@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import MsgConfigStruct from "../ConfigStructs/MsgConfig";
+import MsgConfigStruct from "../ConfigStructs/MsgConfigStruct";
 
 export default class MsgConfig extends MsgConfigStruct
 {

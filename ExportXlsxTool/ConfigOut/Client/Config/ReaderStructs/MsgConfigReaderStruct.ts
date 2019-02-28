@@ -7,7 +7,7 @@ import CsvConfigRender from "../CsvConfigRender";
 import MsgConfig from "../ConfigExtends/MsgConfig";
 
 
-export class MsgConfigReaderStruct extends CsvConfigRender<    MsgConfig      >
+export default class MsgConfigReaderStruct extends CsvConfigRender<    MsgConfig      >
 {
 	tableName = "Msg";
 

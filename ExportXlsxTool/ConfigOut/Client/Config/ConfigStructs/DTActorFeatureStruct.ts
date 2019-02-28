@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTActorFeature from "../ConfigExtends/DTActorFeature";
 
 
 

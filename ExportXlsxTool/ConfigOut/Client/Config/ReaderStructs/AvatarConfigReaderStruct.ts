@@ -8,7 +8,7 @@ import AvatarConfig from "../ConfigExtends/AvatarConfig";
 import DTVector2 from "../ConfigExtends/DTVector2";
 
 
-export class AvatarConfigReaderStruct extends CsvConfigRender<    AvatarConfig      >
+export default class AvatarConfigReaderStruct extends CsvConfigRender<    AvatarConfig      >
 {
 	tableName = "Avatar";
 

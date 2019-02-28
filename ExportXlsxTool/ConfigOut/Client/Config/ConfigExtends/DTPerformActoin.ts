@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import DTPerformActoinStruct from "../ConfigStructs/DTPerformActoin";
+import DTPerformActoinStruct from "../ConfigStructs/DTPerformActoinStruct";
 
 export default class DTPerformActoin extends DTPerformActoinStruct
 {

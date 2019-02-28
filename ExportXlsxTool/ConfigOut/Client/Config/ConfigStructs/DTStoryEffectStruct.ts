@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTStoryEffect from "../ConfigExtends/DTStoryEffect";
 
 
 

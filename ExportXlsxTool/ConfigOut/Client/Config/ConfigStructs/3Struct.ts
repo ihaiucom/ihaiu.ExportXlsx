@@ -5,6 +5,7 @@
 
 import BaseConfig from "../BaseConfig";
 import 3 from "../ConfigExtends/3";
+import 3 from "../ConfigExtends/3";
 
 
 

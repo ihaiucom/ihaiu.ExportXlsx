@@ -6,6 +6,6 @@
 
 import AvatarConfigReaderStruct from "../ReaderStructs/AvatarConfigReaderStruct";
 
-export class AvatarConfigReader extends AvatarConfigReaderStruct
+export default class AvatarConfigReader extends AvatarConfigReaderStruct
 {
 }

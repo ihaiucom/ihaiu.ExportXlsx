@@ -5865,3 +5865,156 @@
 2019-02-27 20:42:47.2820   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
 2019-02-27 20:42:47.2885   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
 2019-02-27 20:42:47.2885   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx
+2019-02-28 10:12:22.3755   (Program.cs:21) 读取配置表 ExportSetting
+2019-02-28 10:12:22.6419   (Program.cs:22) 读取配置表 ExportSetting
+2019-02-28 10:12:22.6419   (Program.cs:23) 读取配置表 Action
+2019-02-28 10:12:22.6604   (Program.cs:23) 读取配置表 Actor
+2019-02-28 10:12:22.7383   (Program.cs:23) 读取配置表 Avatar
+2019-02-28 10:12:22.8372   (Program.cs:23) 读取配置表 Global
+2019-02-28 10:12:22.8723   (Program.cs:23) 读取配置表 Item
+2019-02-28 10:12:22.9652   (Program.cs:23) 读取配置表 Mail
+2019-02-28 10:12:22.9755   (Program.cs:23) 读取配置表 Menu
+2019-02-28 10:12:22.9991   (Program.cs:23) 读取配置表 Msg
+2019-02-28 10:12:23.0625   (Program.cs:23) 读取配置表 Shop
+2019-02-28 10:12:23.0849   (Program.cs:23) ExportClientTS:3
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTItemNum
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTVector2
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTActorStory
+2019-02-28 10:12:23.1159   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTShootType
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTlValue2
+2019-02-28 10:12:23.1280   (Program.cs:23) ExportClientTS:DTlValue3
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTDrop
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTParts
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTProficiency
+2019-02-28 10:12:23.1408   (Program.cs:23) ExportClientTS:DTDate
+2019-02-28 10:12:23.1647   (Program.cs:23) ExportClientTS:DTTime
+2019-02-28 10:12:23.1730   (Program.cs:23) ExportClientTS:DTDateTime
+2019-02-28 10:12:23.1730   (Program.cs:23) ExportClientTS:Action
+2019-02-28 10:12:23.2038   (Program.cs:23) ExportClientTS:Actor
+2019-02-28 10:12:23.2038   (Program.cs:23) ExportClientTS:Avatar
+2019-02-28 10:12:23.2038   (Program.cs:23) ExportClientTS:Global
+2019-02-28 10:12:23.2222   (Program.cs:23) ExportClientTS:Item
+2019-02-28 10:12:23.2222   (Program.cs:23) ExportClientTS:Mail
+2019-02-28 10:12:23.2222   (Program.cs:23) ExportClientTS:Menu
+2019-02-28 10:12:23.2369   (Program.cs:23) ExportClientTS:Msg
+2019-02-28 10:12:23.2369   (Program.cs:23) ExportClientTS:Shop
+2019-02-28 10:12:23.4209   (Program.cs:26) ExportJson:../../Config/Common\Action.xlsx
+2019-02-28 10:12:23.4834   (Program.cs:26) ExportJson:../../Config/Common\Actor.xlsx
+2019-02-28 10:12:23.5156   (Program.cs:26) ExportJson:../../Config/Common\Avatar.xlsx
+2019-02-28 10:12:23.5369   (Program.cs:26) ExportJson:../../Config/Common\Global.xlsx
+2019-02-28 10:12:23.5369   (Program.cs:26) ExportJson:../../Config/Common\Item.xlsx
+2019-02-28 10:12:23.5655   (Program.cs:26) ExportJson:../../Config/Common\Mail.xlsx
+2019-02-28 10:12:23.5655   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
+2019-02-28 10:12:23.5655   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
+2019-02-28 10:12:23.5795   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx
+2019-02-28 10:31:39.0633   (Program.cs:21) 读取配置表 ExportSetting
+2019-02-28 10:31:39.3636   (Program.cs:22) 读取配置表 ExportSetting
+2019-02-28 10:31:39.3636   (Program.cs:23) 读取配置表 Action
+2019-02-28 10:31:39.3790   (Program.cs:23) 读取配置表 Actor
+2019-02-28 10:31:39.4539   (Program.cs:23) 读取配置表 Avatar
+2019-02-28 10:31:39.5385   (Program.cs:23) 读取配置表 Global
+2019-02-28 10:31:39.5645   (Program.cs:23) 读取配置表 Item
+2019-02-28 10:31:39.6477   (Program.cs:23) 读取配置表 Mail
+2019-02-28 10:31:39.6477   (Program.cs:23) 读取配置表 Menu
+2019-02-28 10:31:39.6693   (Program.cs:23) 读取配置表 Msg
+2019-02-28 10:31:39.7202   (Program.cs:23) 读取配置表 Shop
+2019-02-28 10:31:39.7202   (Program.cs:23) ExportClientTS:3
+2019-02-28 10:31:39.7503   (Program.cs:23) ExportClientTS:DTItemNum
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTVector2
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTActorStory
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-02-28 10:31:39.7534   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTShootType
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTlValue2
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTlValue3
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTDrop
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-02-28 10:31:39.7675   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:DTParts
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:DTProficiency
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:DTDate
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:DTTime
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:DTDateTime
+2019-02-28 10:31:39.7825   (Program.cs:23) ExportClientTS:Action
+2019-02-28 10:31:39.8045   (Program.cs:23) ExportClientTS:Actor
+2019-02-28 10:31:39.8045   (Program.cs:23) ExportClientTS:Avatar
+2019-02-28 10:31:39.8045   (Program.cs:23) ExportClientTS:Global
+2019-02-28 10:31:39.8181   (Program.cs:23) ExportClientTS:Item
+2019-02-28 10:31:39.8181   (Program.cs:23) ExportClientTS:Mail
+2019-02-28 10:31:39.8181   (Program.cs:23) ExportClientTS:Menu
+2019-02-28 10:31:39.8296   (Program.cs:23) ExportClientTS:Msg
+2019-02-28 10:31:39.8296   (Program.cs:23) ExportClientTS:Shop
+2019-02-28 10:31:39.9523   (Program.cs:26) ExportJson:../../Config/Common\Action.xlsx
+2019-02-28 10:31:40.0127   (Program.cs:26) ExportJson:../../Config/Common\Actor.xlsx
+2019-02-28 10:31:40.0477   (Program.cs:26) ExportJson:../../Config/Common\Avatar.xlsx
+2019-02-28 10:31:40.0672   (Program.cs:26) ExportJson:../../Config/Common\Global.xlsx
+2019-02-28 10:31:40.0672   (Program.cs:26) ExportJson:../../Config/Common\Item.xlsx
+2019-02-28 10:31:40.0990   (Program.cs:26) ExportJson:../../Config/Common\Mail.xlsx
+2019-02-28 10:31:40.0990   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
+2019-02-28 10:31:40.0990   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
+2019-02-28 10:31:40.1165   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx
+2019-02-28 10:33:25.3325   (Program.cs:21) 读取配置表 ExportSetting
+2019-02-28 10:33:25.6284   (Program.cs:22) 读取配置表 ExportSetting
+2019-02-28 10:33:25.6284   (Program.cs:23) 读取配置表 Action
+2019-02-28 10:33:25.6438   (Program.cs:23) 读取配置表 Actor
+2019-02-28 10:33:25.7314   (Program.cs:23) 读取配置表 Avatar
+2019-02-28 10:33:25.8215   (Program.cs:23) 读取配置表 Global
+2019-02-28 10:33:25.8489   (Program.cs:23) 读取配置表 Item
+2019-02-28 10:33:25.9293   (Program.cs:23) 读取配置表 Mail
+2019-02-28 10:33:25.9293   (Program.cs:23) 读取配置表 Menu
+2019-02-28 10:33:25.9509   (Program.cs:23) 读取配置表 Msg
+2019-02-28 10:33:25.9975   (Program.cs:23) 读取配置表 Shop
+2019-02-28 10:33:26.0127   (Program.cs:23) ExportClientTS:3
+2019-02-28 10:33:26.0293   (Program.cs:23) ExportClientTS:DTItemNum
+2019-02-28 10:33:26.0293   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTVector2
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTActorStory
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTShootType
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-02-28 10:33:26.0334   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTlValue2
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTlValue3
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTDrop
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTParts
+2019-02-28 10:33:26.0500   (Program.cs:23) ExportClientTS:DTProficiency
+2019-02-28 10:33:26.0683   (Program.cs:23) ExportClientTS:DTDate
+2019-02-28 10:33:26.0683   (Program.cs:23) ExportClientTS:DTTime
+2019-02-28 10:33:26.0683   (Program.cs:23) ExportClientTS:DTDateTime
+2019-02-28 10:33:26.0683   (Program.cs:23) ExportClientTS:Action
+2019-02-28 10:33:26.0885   (Program.cs:23) ExportClientTS:Actor
+2019-02-28 10:33:26.0885   (Program.cs:23) ExportClientTS:Avatar
+2019-02-28 10:33:26.1022   (Program.cs:23) ExportClientTS:Global
+2019-02-28 10:33:26.1022   (Program.cs:23) ExportClientTS:Item
+2019-02-28 10:33:26.1022   (Program.cs:23) ExportClientTS:Mail
+2019-02-28 10:33:26.1124   (Program.cs:23) ExportClientTS:Menu
+2019-02-28 10:33:26.1124   (Program.cs:23) ExportClientTS:Msg
+2019-02-28 10:33:26.1124   (Program.cs:23) ExportClientTS:Shop
+2019-02-28 10:33:26.2320   (Program.cs:26) ExportJson:../../Config/Common\Action.xlsx
+2019-02-28 10:33:26.2917   (Program.cs:26) ExportJson:../../Config/Common\Actor.xlsx
+2019-02-28 10:33:26.3259   (Program.cs:26) ExportJson:../../Config/Common\Avatar.xlsx
+2019-02-28 10:33:26.3450   (Program.cs:26) ExportJson:../../Config/Common\Global.xlsx
+2019-02-28 10:33:26.3551   (Program.cs:26) ExportJson:../../Config/Common\Item.xlsx
+2019-02-28 10:33:26.3751   (Program.cs:26) ExportJson:../../Config/Common\Mail.xlsx
+2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
+2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
+2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx

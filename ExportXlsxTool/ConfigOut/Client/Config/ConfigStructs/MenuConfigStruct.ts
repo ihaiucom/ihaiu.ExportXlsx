@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import Game from "../../Game";
 
 
 
@@ -33,7 +34,10 @@ export default class MenuConfigStruct extends BaseConfig
 	
 	get name():string
 	{
-		let value = <string> LangManager.Instance.getValue("menu", this.id, "name");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_name
+
+		let value = <string> Game.lang.getValue("menu", this.id, "name");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

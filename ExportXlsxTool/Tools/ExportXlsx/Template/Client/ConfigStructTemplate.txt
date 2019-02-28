@@ -33,7 +33,10 @@ export default class >:classNameConfigStruct:< extends BaseConfig
 	>:FOREACH langs:<
 	get >:[0]:<():>:[3]:<
 	{
-		let value = <>:[3]:<> LangManager.Instance.getValue(">:[2]:<", this.id, ">:[4]:<");
+		if(!Game.lang.isUseLang)
+			return this.>:[1]:<
+
+		let value = <>:[3]:<> Game.lang.getValue(">:[2]:<", this.id, ">:[4]:<");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

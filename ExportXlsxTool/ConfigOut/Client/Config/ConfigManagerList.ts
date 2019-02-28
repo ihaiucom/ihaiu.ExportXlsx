@@ -15,7 +15,7 @@ import MsgConfigReader from "./ReaderExtends/MsgConfigReader";
 import ShopConfigReader from "./ReaderExtends/ShopConfigReader";
 
 /// 配置读取器列表
-export class ConfigManagerList
+export default class ConfigManagerList
 {
     // 读取器列表
     renders: ConfigRenderInterface[] = [];

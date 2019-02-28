@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com
 /////////////////////////////////////
 
-class >:className:<
+export default class >:className:<
 {
 	// 0 KeyField
 	// 1 KeyValue

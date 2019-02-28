@@ -8,7 +8,7 @@ import ItemConfig from "../ConfigExtends/ItemConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class ItemConfigReaderStruct extends CsvConfigRender<    ItemConfig      >
+export default class ItemConfigReaderStruct extends CsvConfigRender<    ItemConfig      >
 {
 	tableName = "Item";
 

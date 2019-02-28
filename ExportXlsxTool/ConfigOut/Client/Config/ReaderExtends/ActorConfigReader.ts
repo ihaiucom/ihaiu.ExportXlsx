@@ -6,6 +6,6 @@
 
 import ActorConfigReaderStruct from "../ReaderStructs/ActorConfigReaderStruct";
 
-export class ActorConfigReader extends ActorConfigReaderStruct
+export default class ActorConfigReader extends ActorConfigReaderStruct
 {
 }

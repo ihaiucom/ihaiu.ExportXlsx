@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import DTRandomIntervalStruct from "../ConfigStructs/DTRandomInterval";
+import DTRandomIntervalStruct from "../ConfigStructs/DTRandomIntervalStruct";
 
 export default class DTRandomInterval extends DTRandomIntervalStruct
 {

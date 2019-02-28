@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTActorCharacter from "../ConfigExtends/DTActorCharacter";
 
 
 

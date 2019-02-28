@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import ActionConfigStruct from "../ConfigStructs/ActionConfig";
+import ActionConfigStruct from "../ConfigStructs/ActionConfigStruct";
 
 export default class ActionConfig extends ActionConfigStruct
 {

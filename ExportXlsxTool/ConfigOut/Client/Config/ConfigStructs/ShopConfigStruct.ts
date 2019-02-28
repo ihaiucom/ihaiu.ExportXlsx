@@ -5,6 +5,7 @@
 
 import BaseConfig from "../BaseConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
+import Game from "../../Game";
 
 
 
@@ -29,7 +30,10 @@ export default class ShopConfigStruct extends BaseConfig
 	
 	get name():string
 	{
-		let value = <string> LangManager.Instance.getValue("shop", this.id, "name");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_name
+
+		let value = <string> Game.lang.getValue("shop", this.id, "name");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

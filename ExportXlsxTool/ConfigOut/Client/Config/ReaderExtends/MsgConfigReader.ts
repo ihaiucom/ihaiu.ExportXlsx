@@ -6,6 +6,6 @@
 
 import MsgConfigReaderStruct from "../ReaderStructs/MsgConfigReaderStruct";
 
-export class MsgConfigReader extends MsgConfigReaderStruct
+export default class MsgConfigReader extends MsgConfigReaderStruct
 {
 }

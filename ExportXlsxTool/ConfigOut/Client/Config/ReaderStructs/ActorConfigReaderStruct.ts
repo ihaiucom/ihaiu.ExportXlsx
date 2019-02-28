@@ -12,7 +12,7 @@ import DTActorCharacter from "../ConfigExtends/DTActorCharacter";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class ActorConfigReaderStruct extends CsvConfigRender<    ActorConfig      >
+export default class ActorConfigReaderStruct extends CsvConfigRender<    ActorConfig      >
 {
 	tableName = "Actor";
 

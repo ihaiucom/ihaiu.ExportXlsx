@@ -8,6 +8,6 @@
 import >:[0]:< from ">:[1]:<";
 >:ENDFOREACH:<
 
-export class >:classNameConfigReader:< extends >:classNameConfigReaderStruct:<
+export default class >:classNameConfigReader:< extends >:classNameConfigReaderStruct:<
 {
 }

@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import Game from "../../Game";
 
 
 
@@ -25,7 +26,10 @@ export default class MsgConfigStruct extends BaseConfig
 	
 	get notice():string
 	{
-		let value = <string> LangManager.Instance.getValue("msg", this.id, "notice");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_notice
+
+		let value = <string> Game.lang.getValue("msg", this.id, "notice");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

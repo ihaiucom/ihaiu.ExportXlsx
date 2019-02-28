@@ -9,6 +9,7 @@ import DTActorStory from "../ConfigExtends/DTActorStory";
 import DTActorFeature from "../ConfigExtends/DTActorFeature";
 import DTActorCharacter from "../ConfigExtends/DTActorCharacter";
 import DTItemNum from "../ConfigExtends/DTItemNum";
+import Game from "../../Game";
 
 
 
@@ -58,7 +59,10 @@ export default class ActorConfigStruct extends BaseConfig
 	
 	get name():string
 	{
-		let value = <string> LangManager.Instance.getValue("actor", this.id, "name");
+		if(!Game.lang.isUseLang)
+			return this.cn_name
+
+		let value = <string> Game.lang.getValue("actor", this.id, "name");
 		if (!isNullOrEmpty(value))
 		{
 			return value;
@@ -67,7 +71,10 @@ export default class ActorConfigStruct extends BaseConfig
 	}
 	get tips():string
 	{
-		let value = <string> LangManager.Instance.getValue("actor", this.id, "tips");
+		if(!Game.lang.isUseLang)
+			return this.cn_tips
+
+		let value = <string> Game.lang.getValue("actor", this.id, "tips");
 		if (!isNullOrEmpty(value))
 		{
 			return value;
@@ -76,7 +83,10 @@ export default class ActorConfigStruct extends BaseConfig
 	}
 	get getway():string
 	{
-		let value = <string> LangManager.Instance.getValue("actor", this.id, "getway");
+		if(!Game.lang.isUseLang)
+			return this.cn_getway
+
+		let value = <string> Game.lang.getValue("actor", this.id, "getway");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

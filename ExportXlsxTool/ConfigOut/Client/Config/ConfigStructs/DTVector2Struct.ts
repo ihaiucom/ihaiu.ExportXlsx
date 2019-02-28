@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import DTVector2 from "../ConfigExtends/DTVector2";
 
 
 

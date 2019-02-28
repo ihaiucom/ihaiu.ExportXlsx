@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import ActorConfigStruct from "../ConfigStructs/ActorConfig";
+import ActorConfigStruct from "../ConfigStructs/ActorConfigStruct";
 
 export default class ActorConfig extends ActorConfigStruct
 {
