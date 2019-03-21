@@ -129,6 +129,7 @@ namespace ExportXlsx.Sources
                 if (Setting.Options.hasHeadFilterLine)
                     begin = 5;
 
+
                 for(int r = begin; r < ws.Cells.Rows; r ++)
                 {
 
@@ -165,6 +166,8 @@ namespace ExportXlsx.Sources
                     }
 
                 }
+
+
 
 
 

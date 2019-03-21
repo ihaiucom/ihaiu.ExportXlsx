@@ -15,9 +15,7 @@ namespace configs
 		type : number;
 		max_num : number;
 		get_way : number[];
-		can_use : boolean;
-		use_type : number;
-		reward : DTItemNum[];
+		rewardid : number;
 		can_sell : boolean;
 		price : number;
 		syn_id : number;

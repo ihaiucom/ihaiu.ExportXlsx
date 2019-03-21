@@ -362,8 +362,8 @@
     "isAutoOpenHomeWindow": true,
     "cacheTime": 0,
     "loaderId": 4,
-    "barType": 10002,
-    "barIndex": 0,
+    "barType": 1,
+    "barIndex": 3,
     "openAnimation": 0,
     "closeAnimation": 0
   },
@@ -874,8 +874,8 @@
     "isAutoOpenHomeWindow": false,
     "cacheTime": 0,
     "loaderId": 0,
-    "barType": 1,
-    "barIndex": 2,
+    "barType": 0,
+    "barIndex": 0,
     "openAnimation": 0,
     "closeAnimation": 0
   },

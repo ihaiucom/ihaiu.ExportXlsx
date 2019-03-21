@@ -7,7 +7,7 @@ import CsvConfigRender from "../CsvConfigRender";
 import StoryCharactersConfig from "../ConfigExtends/StoryCharactersConfig";
 
 
-export class StoryCharactersConfigReaderStruct extends CsvConfigRender<    StoryCharactersConfig      >
+export default class StoryCharactersConfigReaderStruct extends CsvConfigRender<    StoryCharactersConfig      >
 {
 	tableName = "StoryCharacters";
 
@@ -20,7 +20,7 @@ export class StoryCharactersConfigReaderStruct extends CsvConfigRender<    Story
 		config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
 		config.story_id = csvGetInt(csv,  this.GetHeadIndex(  "story_id"  )   );
 		config.character_num = csvGetInt(csv,  this.GetHeadIndex(  "character_num"  )   );
-		config.zh_cn_name = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_name"  )   );
+		config.Name = csvGetString(csv,  this.GetHeadIndex(  "Name"  )   );
 		config.type = csvGetInt(csv,  this.GetHeadIndex(  "type"  )   );
 		config.type_pic = csvGetInt(csv,  this.GetHeadIndex(  "type_pic"  )   );
 		config.sex = csvGetInt(csv,  this.GetHeadIndex(  "sex"  )   );
@@ -29,6 +29,7 @@ export class StoryCharactersConfigReaderStruct extends CsvConfigRender<    Story
 		config.age_type = csvGetInt(csv,  this.GetHeadIndex(  "age_type"  )   );
 		config.tags =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "tags"  )   )   );
 		config.effect =  toIntArray(       csvGetString(csv,  this.GetHeadIndex(  "effect"  )   )   );
+		config.best_actor = csvGetInt(csv,  this.GetHeadIndex(  "best_actor"  )   );
 		config.zh_cn_introduction = csvGetString(csv,  this.GetHeadIndex(  "zh_cn_introduction"  )   );
 
 		

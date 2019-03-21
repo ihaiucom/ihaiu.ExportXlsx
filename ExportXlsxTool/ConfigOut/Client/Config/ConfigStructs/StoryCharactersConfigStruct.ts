@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import Game from "../../Game";
 
 
 
@@ -14,7 +15,7 @@ export default class StoryCharactersConfigStruct extends BaseConfig
 	id : number;
 	story_id : number;
 	character_num : number;
-	zh_cn_name : string;
+	Name : string;
 	type : number;
 	type_pic : number;
 	sex : number;
@@ -23,6 +24,7 @@ export default class StoryCharactersConfigStruct extends BaseConfig
 	age_type : number;
 	tags : number[];
 	effect : number[];
+	best_actor : number;
 	zh_cn_introduction : string;
 
 
@@ -30,18 +32,12 @@ export default class StoryCharactersConfigStruct extends BaseConfig
 
 
 	
-	get name():string
-	{
-		let value = <string> LangManager.Instance.getValue("storyCharacters", this.id, "name");
-		if (!isNullOrEmpty(value))
-		{
-			return value;
-		}
-		return this.zh_cn_name
-	}
 	get introduction():string
 	{
-		let value = <string> LangManager.Instance.getValue("storyCharacters", this.id, "introduction");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_introduction
+
+		let value = <string> Game.lang.getValue("storyCharacters", this.id, "introduction");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

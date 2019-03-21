@@ -8,7 +8,7 @@ import CompoundConfig from "../ConfigExtends/CompoundConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class CompoundConfigReaderStruct extends CsvConfigRender<    CompoundConfig      >
+export default class CompoundConfigReaderStruct extends CsvConfigRender<    CompoundConfig      >
 {
 	tableName = "Compound";
 
@@ -19,7 +19,6 @@ export class CompoundConfigReaderStruct extends CsvConfigRender<    CompoundConf
 
 
 		config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-		config.name_tips = csvGetString(csv,  this.GetHeadIndex(  "name_tips"  )   );
 		config.syn_item = csvGetInt(csv,  this.GetHeadIndex(  "syn_item"  )   );
 		config.num_req = csvGetInt(csv,  this.GetHeadIndex(  "num_req"  )   );
 		config.split_list =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "split_list"  )   )   );

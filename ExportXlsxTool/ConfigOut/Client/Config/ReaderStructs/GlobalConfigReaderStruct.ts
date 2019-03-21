@@ -29,7 +29,6 @@ export default class GlobalConfigReaderStruct extends CsvConfigRender<    Global
 		config.value2 =  DTlValue2.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "value2"  )   )   );
 		config.value3 =  DTlValue3.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "value3"  )   )   );
 		config.value5 =  DTPerformActoin.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "value5"  )   )   );
-		config.tips = csvGetString(csv,  this.GetHeadIndex(  "tips"  )   );
 
 		
 

@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import Game from "../../Game";
 
 
 
@@ -14,10 +15,8 @@ export default class PropertyConfigStruct extends BaseConfig
 	id : number;
 	type : number;
 	field : string;
-	enName : string;
 	zh_cn_name : string;
 	icon : number;
-	tip : string;
 
 
 
@@ -26,7 +25,10 @@ export default class PropertyConfigStruct extends BaseConfig
 	
 	get name():string
 	{
-		let value = <string> LangManager.Instance.getValue("property", this.id, "name");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_name
+
+		let value = <string> Game.lang.getValue("property", this.id, "name");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

@@ -8,7 +8,7 @@ import PlayerLevelConfig from "../ConfigExtends/PlayerLevelConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class PlayerLevelConfigReaderStruct extends CsvConfigRender<    PlayerLevelConfig      >
+export default class PlayerLevelConfigReaderStruct extends CsvConfigRender<    PlayerLevelConfig      >
 {
 	tableName = "PlayerLevel";
 

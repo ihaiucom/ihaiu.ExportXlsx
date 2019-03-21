@@ -6,6 +6,6 @@
 
 import LoaderConfigReaderStruct from "../ReaderStructs/LoaderConfigReaderStruct";
 
-export class LoaderConfigReader extends LoaderConfigReaderStruct
+export default class LoaderConfigReader extends LoaderConfigReaderStruct
 {
 }

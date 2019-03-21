@@ -1,0 +1,178 @@
+int	int	string	string	int
+属性ID	字段类型	字段名称	中文名称	图标|n|调用Avatar表格ID
+id	type	field	zh_cn_name	icon
+1	17	normal	一般	
+2	17	good	良好	
+3	17	big_sell	大卖	
+4	17	great_sell	超级大卖	
+5	17	myth_sell	神话	
+6	17	marvel_sell	传奇	
+1101	1	lady	女	6001
+1102	1	man	男	6002
+1201	2	usa	北美	6003
+1202	2	europe	欧洲	6004
+1203	2	asia	亚洲	6005
+1301	3	1	1	6006
+1302	3	2	2	6006
+1303	3	3	3	6007
+1304	3	4	4	6007
+1305	3	5	5	6008
+1306	3	6	6	6009
+1401	4	skilled	演技派	6038
+1402	4	idol	偶像派	6039
+1501	5	young	青春型	6040
+1502	5	mature	成熟型	6041
+1601	6	spectacle	场面	6010
+1602	6	perform	表演	6011
+1603	6	plot	剧情	6012
+1604	6	art	艺术	6013
+1605	6	entertainment	娱乐	6014
+1701	7	War	战争片	
+1702	7	Sci-Fi	科幻片	
+1703	7	Modern	现代片	
+1704	7	Inspirational	励志片	
+1705	7	Crime	犯罪片	
+1706	7	Fantasy	奇幻片	
+1707	7	Espionage	谍战片	
+1708	7	Adventure	冒险片	
+1709	7	Epic	古装片	
+1710	7	Disaster	灾难片	
+1801	8	Heroic	英雄	
+1802	8	Supernatural	神鬼	
+1803	8	Ethical	伦理	
+1804	8	Romance	浪漫	
+1805	8	Historical	历史	
+1806	8	Spacial	太空	
+1807	8	Eschatological	末世	
+1808	8	Revenge	复仇	
+1809	8	Gangster	警匪	
+1810	8	Art	艺术	
+1811	8	Monster	怪兽	
+1812	8	School	校园	
+1813	8	Political	政治	
+1814	8	Robot	机器人	
+1815	8	Time Travel	穿越	
+1816	8	Road	公路	
+1817	8	Gunfire	枪战	
+1818	8	Racing	飙车	
+1819	8	Medieaval	宫廷	
+1820	8	Legendary	传奇	
+1901	9	Soldier	军人	
+1902	9	Young Adult	青春	
+1903	9	Clever	机灵	
+1904	9	Attractive	高颜值	
+1905	9	Playboy	花花公子	
+1906	9	Artist	艺术家	
+1907	9	Strong	强壮	
+1908	9	Student	学生	
+1909	9	Nobility	贵族	
+1910	9	Leader	领导者	
+1911	9	Criminal	罪犯	
+1912	9	Clergy	神职人员	
+1913	9	Superpowers	超能力	
+1914	9	Police	警察	
+1915	9	Tycoon	大亨	
+1916	9	Chivalrous	侠客	
+1917	9	Funny	搞笑	
+1918	9	Pirate	海盗	
+1919	9	Mercenary	佣兵	
+1920	9	Cruel	残酷	
+1921	9	Seasoned	沧桑	
+1922	9	Intelligent	高智商	
+1923	9	Villain	反派	
+1924	9	Driver	车手	
+1925	9	Sharpshooter	枪手	
+1926	9	Fighter	打斗	
+1927	9	Eloquent	口才好	
+1928	9	Loyal	忠诚	
+1929	9	Foolish	无常识	
+1930	9	Crazy	疯狂	
+1931	9	Depressed	忧郁	
+1932	9	Sexy	性感	
+1933	9	Teacher	教师	
+1934	9	Tough	硬汉	
+1935	9	Love-struck	痴情	
+1936	9	Gambler	赌徒	
+1937	9	Spy	间谍	
+1938	9	Amnesiac	失忆	
+1939	9	Doctor	医生	
+1940	9	Greedy	拜金	
+1941	9	Senior	长者	
+1942	9	Innocent	天真	
+1943	9	Conspirator	阴谋家	
+1944	9	Child Star	童星	
+1945	9	Degenerate	颓废	
+1946	9	Scholar	学者	
+1947	9	Reporter	记者	
+1948	9	Martial Artist	功夫	
+1949	9	Politician	政客	
+2001	10	Male	男性	
+2002	10	Female	女性	
+2003	10	Children	儿童	
+2101	11	Protagonist	主角	6042
+2102	11	Hero	男主角	6043
+2103	11	Heroine	女主角	6042
+2104	11	Costar	配角	6044
+2105	11	Male Costar	男配角	6044
+2106	11	Female Costar	女配角	6044
+2107	11	Villain	反派	6045
+2201	12	Dance	歌舞	
+2202	12	Romance	爱情	
+2203	12	Comedy	喜剧	
+2204	12	Drama	叙事	
+2205	12	Action	动作	
+2206	12	Horror	恐怖	
+2207	12	Cartoon	动画	
+2208	12	Suspense	悬疑	
+2301	13	Secondary_property	次要属性	
+2302	13	Main_property	主要属性	
+2401	14	Odd_number	奇数升级	
+2402	14	Even_numbers	偶数升级	
+2501	15	test095	街区1档	
+2502	15	test096	街区2档	
+2503	15	test097	街区3档	
+2504	15	test098	街区4档	
+2505	15	test099	街区5档	
+2506	15	test100	街区6档	
+2507	15	test101	街区7档	
+2508	15	test102	街区8档	
+2509	15	test103	街区9档	
+2510	15	test104	街区10档	
+2511	15	test105	城市1档	
+2512	15	test106	城市2档	
+2513	15	test107	城市3档	
+2514	15	test108	城市4档	
+2515	15	test109	城市5档	
+2516	15	test110	城市6档	
+2517	15	test111	城市7档	
+2518	15	test112	城市8档	
+2519	15	test113	城市9档	
+2520	15	test114	城市10档	
+2521	15	test115	国家1档	
+2522	15	test116	国家2档	
+2523	15	test117	国家3档	
+2524	15	test118	国家4档	
+2525	15	test119	国家5档	
+2526	15	test120	国家6档	
+2527	15	test121	国家7档	
+2528	15	test122	国家8档	
+2529	15	test123	国家9档	
+2530	15	test124	国家10档	
+2531	15	test125	全球1档	
+2532	15	test126	全球2档	
+2533	15	test127	全球3档	
+2534	15	test128	全球4档	
+2535	15	test129	全球5档	
+2536	15	test130	全球6档	
+2537	15	test131	全球7档	
+2538	15	test132	全球8档	
+2539	15	test133	全球9档	
+2540	15	test134	全球10档	
+2601	16	test135	歌舞_经验	
+2602	16	test136	爱情_经验	
+2603	16	test137	喜剧_经验	
+2604	16	test138	叙事_经验	
+2605	16	test139	动作_经验	
+2606	16	test140	恐怖_经验	
+2607	16	test141	动画_经验	
+2608	16	test142	悬疑_经验	

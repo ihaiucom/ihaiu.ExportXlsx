@@ -57,7 +57,7 @@ namespace ExportXlsx.Sources
 
             string path = Setting.CsvRoot + "/" + table.tableName + ".csv";
             PathHelper.CheckPath(path);
-            File.WriteAllText(path, sw.ToString(), Encoding.UTF8);
+            File.WriteAllText(path, sw.ToString(), new UTF8Encoding(false));
 
         }
 

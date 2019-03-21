@@ -8,19 +8,14 @@ namespace configs
 	export class DTStory
 	{
 		id : number;
-		story_num : number;
 		stack_sort : number;
-		zh_cn_story_name : string;
-		name_tips : string;
+		story_name : string;
 		poster_name : number;
-		zh_cn_introduction : string;
-		introduction_tips : string;
-		length : number;
+		introduction : string;
 		cost : number;
 		stars : number;
 		type : number;
 		tags : number[];
-		hidden_tags : number[];
 		shoot_type : number;
 		property : number[];
 		target_mark : boolean;
@@ -28,7 +23,6 @@ namespace configs
 		female_percent : number;
 		child_percent : number;
 		reward : DTStoryEffect[];
-		sequel_mark : boolean;
 		random_name : number;
 		box_office_story_con : number;
 	}

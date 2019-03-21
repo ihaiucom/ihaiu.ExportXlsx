@@ -1,4 +1,4 @@
-﻿int	string	string	string	string	string	string	string	string	string	DTVector2
+int	string	string	string	string	string	string	string	string	string	DTVector2
 ID	英文名称	中文名称	半身像	小图标	小图标	碎片图标	模型_皮肤	模型_骨骼	场景_图片	修正坐标
 id	name_e	name_c	body_icon	zh_cn_icon	en_icon	piece_icon	model_skin	model_bones	bg_pic	co_vector
 1		有所耳闻								

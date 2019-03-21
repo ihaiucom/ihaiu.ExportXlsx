@@ -10,7 +10,7 @@ namespace configs
 		id : number;
 		story_id : number;
 		character_num : number;
-		zh_cn_name : string;
+		Name : string;
 		type : number;
 		type_pic : number;
 		sex : number;
@@ -19,6 +19,7 @@ namespace configs
 		age_type : number;
 		tags : number[];
 		effect : number[];
+		best_actor : number;
 		zh_cn_introduction : string;
 	}
 }

@@ -6,6 +6,6 @@
 
 import CompoundConfigReaderStruct from "../ReaderStructs/CompoundConfigReaderStruct";
 
-export class CompoundConfigReader extends CompoundConfigReaderStruct
+export default class CompoundConfigReader extends CompoundConfigReaderStruct
 {
 }

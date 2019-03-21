@@ -23,7 +23,6 @@ export default class GlobalConfigStruct extends BaseConfig
 	value2 : DTlValue2[];
 	value3 : DTlValue3[];
 	value5 : DTPerformActoin[];
-	tips : string;
 
 
 

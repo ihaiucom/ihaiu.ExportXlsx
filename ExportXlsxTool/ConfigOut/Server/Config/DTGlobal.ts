@@ -16,6 +16,5 @@ namespace configs
 		value2 : DTlValue2[];
 		value3 : DTlValue3[];
 		value5 : DTPerformActoin[];
-		tips : string;
 	}
 }

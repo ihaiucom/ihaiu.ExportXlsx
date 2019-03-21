@@ -8,7 +8,7 @@ import HeadPortraitConfig from "../ConfigExtends/HeadPortraitConfig";
 import DTItemNum from "../ConfigExtends/DTItemNum";
 
 
-export class HeadPortraitConfigReaderStruct extends CsvConfigRender<    HeadPortraitConfig      >
+export default class HeadPortraitConfigReaderStruct extends CsvConfigRender<    HeadPortraitConfig      >
 {
 	tableName = "HeadPortrait";
 

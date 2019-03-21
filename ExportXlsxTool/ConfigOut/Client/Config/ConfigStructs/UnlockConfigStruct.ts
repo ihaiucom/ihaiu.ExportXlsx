@@ -4,6 +4,7 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
+import Game from "../../Game";
 
 
 
@@ -30,7 +31,6 @@ export default class UnlockConfigStruct extends BaseConfig
 	continue : number;
 	is_new : boolean;
 	zh_cn_touch_txt : string;
-	tips : string;
 
 
 
@@ -39,7 +39,10 @@ export default class UnlockConfigStruct extends BaseConfig
 	
 	get name():string
 	{
-		let value = <string> LangManager.Instance.getValue("unlock", this.id, "name");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_name
+
+		let value = <string> Game.lang.getValue("unlock", this.id, "name");
 		if (!isNullOrEmpty(value))
 		{
 			return value;
@@ -48,7 +51,10 @@ export default class UnlockConfigStruct extends BaseConfig
 	}
 	get touch_txt():string
 	{
-		let value = <string> LangManager.Instance.getValue("unlock", this.id, "touch_txt");
+		if(!Game.lang.isUseLang)
+			return this.zh_cn_touch_txt
+
+		let value = <string> Game.lang.getValue("unlock", this.id, "touch_txt");
 		if (!isNullOrEmpty(value))
 		{
 			return value;

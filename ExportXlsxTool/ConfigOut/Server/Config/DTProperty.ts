@@ -10,9 +10,7 @@ namespace configs
 		id : number;
 		type : number;
 		field : string;
-		enName : string;
 		zh_cn_name : string;
 		icon : number;
-		tip : string;
 	}
 }

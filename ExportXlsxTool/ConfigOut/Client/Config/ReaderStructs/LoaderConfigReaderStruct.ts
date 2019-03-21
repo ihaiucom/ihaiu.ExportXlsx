@@ -7,7 +7,7 @@ import CsvConfigRender from "../CsvConfigRender";
 import LoaderConfig from "../ConfigExtends/LoaderConfig";
 
 
-export class LoaderConfigReaderStruct extends CsvConfigRender<    LoaderConfig      >
+export default class LoaderConfigReaderStruct extends CsvConfigRender<    LoaderConfig      >
 {
 	tableName = "Loader";
 

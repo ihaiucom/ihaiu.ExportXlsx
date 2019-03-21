@@ -6,6 +6,6 @@
 
 import UnlockConfigReaderStruct from "../ReaderStructs/UnlockConfigReaderStruct";
 
-export class UnlockConfigReader extends UnlockConfigReaderStruct
+export default class UnlockConfigReader extends UnlockConfigReaderStruct
 {
 }

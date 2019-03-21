@@ -1,4 +1,4 @@
-﻿int	string	string	string	string	string
+int	string	string	string	string	string
 提示ID	key	所属模块	提示名称	提示内容-中文	提示内容-英文
 id	key	module	name	zh_cn_notice	en_notice
 1000	Msg_test	测试	测试	test	

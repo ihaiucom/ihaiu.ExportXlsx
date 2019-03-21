@@ -6018,3 +6018,626 @@
 2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
 2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
 2019-02-28 10:33:26.3780   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx
+2019-03-13 11:05:37.1928   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-13 11:05:37.7011   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-13 11:05:37.7088   (Program.cs:23) 读取配置表 Action
+2019-03-13 11:05:37.7088   (Program.cs:23) 读取配置表 Actor
+2019-03-13 11:05:37.8070   (Program.cs:23) 读取配置表 Avatar
+2019-03-13 11:05:37.8977   (Program.cs:23) 读取配置表 Global
+2019-03-13 11:05:37.9323   (Program.cs:23) 读取配置表 Item
+2019-03-13 11:05:38.0370   (Program.cs:23) 读取配置表 Mail
+2019-03-13 11:05:38.0533   (Program.cs:23) 读取配置表 Menu
+2019-03-13 11:05:38.0713   (Program.cs:23) 读取配置表 Msg
+2019-03-13 11:05:38.1277   (Program.cs:23) 读取配置表 Shop
+2019-03-13 11:05:38.1440   (Program.cs:23) ExportClientTS:3
+2019-03-13 11:05:38.1718   (Program.cs:23) ExportClientTS:DTItemNum
+2019-03-13 11:05:38.1718   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-03-13 11:05:38.1718   (Program.cs:23) ExportClientTS:DTVector2
+2019-03-13 11:05:38.1718   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTActorStory
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTShootType
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTlValue2
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTlValue3
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTDrop
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-03-13 11:05:38.1777   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:DTParts
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:DTProficiency
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:DTDate
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:DTTime
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:DTDateTime
+2019-03-13 11:05:38.1939   (Program.cs:23) ExportClientTS:Action
+2019-03-13 11:05:38.2114   (Program.cs:23) ExportClientTS:Actor
+2019-03-13 11:05:38.2114   (Program.cs:23) ExportClientTS:Avatar
+2019-03-13 11:05:38.2114   (Program.cs:23) ExportClientTS:Global
+2019-03-13 11:05:38.2114   (Program.cs:23) ExportClientTS:Item
+2019-03-13 11:05:38.2114   (Program.cs:23) ExportClientTS:Mail
+2019-03-13 11:05:38.2261   (Program.cs:23) ExportClientTS:Menu
+2019-03-13 11:05:38.2261   (Program.cs:23) ExportClientTS:Msg
+2019-03-13 11:05:38.2261   (Program.cs:23) ExportClientTS:Shop
+2019-03-13 11:05:38.4271   (Program.cs:26) ExportJson:../../Config/Common\Action.xlsx
+2019-03-13 11:05:38.4919   (Program.cs:26) ExportJson:../../Config/Common\Actor.xlsx
+2019-03-13 11:05:38.5198   (Program.cs:26) ExportJson:../../Config/Common\Avatar.xlsx
+2019-03-13 11:05:38.5356   (Program.cs:26) ExportJson:../../Config/Common\Global.xlsx
+2019-03-13 11:05:38.5430   (Program.cs:26) ExportJson:../../Config/Common\Item.xlsx
+2019-03-13 11:05:38.5685   (Program.cs:26) ExportJson:../../Config/Common\Mail.xlsx
+2019-03-13 11:05:38.5685   (Program.cs:26) ExportJson:../../Config/Common\Menu.xlsx
+2019-03-13 11:05:38.5685   (Program.cs:26) ExportJson:../../Config/Common\Msg.xlsx
+2019-03-13 11:05:38.5685   (Program.cs:26) ExportJson:../../Config/Common\Shop.xlsx
+2019-03-13 11:50:40.4198   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:50:40.6893   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:50:40.6893   (TableReader.cs:37) 读取配置表 Action
+2019-03-13 11:50:40.7003   (TableReader.cs:37) 读取配置表 Actor
+2019-03-13 11:50:40.7609   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 11:50:40.8472   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 11:50:40.8709   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 11:50:40.9414   (TableReader.cs:37) 读取配置表 Mail
+2019-03-13 11:50:40.9414   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 11:50:40.9600   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 11:50:41.0052   (TableReader.cs:37) 读取配置表 Shop
+2019-03-13 11:50:41.0180   (ExportClientTS.cs:25) ExportClientTS:3
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 11:50:41.0281   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 11:50:41.0421   (ExportClientTS.cs:25) ExportClientTS:Action
+2019-03-13 11:50:41.0597   (ExportClientTS.cs:25) ExportClientTS:Actor
+2019-03-13 11:50:41.0597   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 11:50:41.0597   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 11:50:41.0597   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 11:50:41.0739   (ExportClientTS.cs:25) ExportClientTS:Mail
+2019-03-13 11:50:41.0739   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 11:50:41.0739   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 11:50:41.0739   (ExportClientTS.cs:25) ExportClientTS:Shop
+2019-03-13 11:50:41.1872   (ExportJson.cs:13) ExportJson:../../Config/Common\Action.xlsx
+2019-03-13 11:50:41.2443   (ExportJson.cs:13) ExportJson:../../Config/Common\Actor.xlsx
+2019-03-13 11:50:41.2731   (ExportJson.cs:13) ExportJson:../../Config/Common\Avatar.xlsx
+2019-03-13 11:50:41.2917   (ExportJson.cs:13) ExportJson:../../Config/Common\Global.xlsx
+2019-03-13 11:50:41.2917   (ExportJson.cs:13) ExportJson:../../Config/Common\Item.xlsx
+2019-03-13 11:50:41.3258   (ExportJson.cs:13) ExportJson:../../Config/Common\Mail.xlsx
+2019-03-13 11:50:41.3258   (ExportJson.cs:13) ExportJson:../../Config/Common\Menu.xlsx
+2019-03-13 11:50:41.3258   (ExportJson.cs:13) ExportJson:../../Config/Common\Msg.xlsx
+2019-03-13 11:50:41.3258   (ExportJson.cs:13) ExportJson:../../Config/Common\Shop.xlsx
+2019-03-13 11:55:22.9346   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:55:23.2082   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:55:23.2082   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 11:55:23.2946   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 11:55:23.2946   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 11:55:23.3317   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 11:55:23.4110   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 11:55:23.4330   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 11:55:23.4449   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 11:55:23.4991   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 11:55:23.4991   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 11:55:23.5145   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 11:55:23.5145   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 11:55:23.5145   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 11:55:23.5145   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 11:55:23.5145   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 11:55:23.5297   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 11:55:23.5451   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 11:55:23.5676   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 11:55:23.5676   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 11:55:23.5676   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 11:55:23.5778   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 11:55:23.5778   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 11:55:23.5778   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 11:55:23.5778   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 11:55:23.5921   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 11:55:23.6921   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 11:55:23.7660   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 11:55:23.7660   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 11:55:23.7660   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 11:56:32.3870   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:56:32.6566   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 11:56:32.6566   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 11:56:32.7493   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 11:56:32.7493   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 11:56:32.7800   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 11:56:32.8568   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 11:56:32.8693   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 11:56:32.8833   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 11:56:32.9314   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 11:56:32.9314   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 11:56:32.9461   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 11:56:32.9551   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 11:56:32.9676   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 11:56:32.9841   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 11:56:32.9841   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 11:56:32.9841   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 11:56:32.9841   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 11:56:32.9841   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 11:56:33.0011   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 11:56:33.0011   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 11:56:33.0011   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 11:56:33.0011   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 11:56:33.0157   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 11:56:33.0157   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 11:56:33.0157   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 11:56:33.1221   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 11:56:33.2049   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 11:56:33.2049   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 11:56:33.2194   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 12:31:34.1222   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:32:02.9390   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:32:10.2494   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:32:10.3299   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:32:10.3395   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:32:10.3614   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:32:10.4368   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 12:32:10.4368   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 12:32:10.4557   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 12:32:10.5037   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 12:32:10.5037   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 12:32:10.5193   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 12:32:10.5274   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 12:32:10.5426   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 12:32:10.5589   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 12:32:10.5589   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 12:32:10.5589   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 12:32:10.5589   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 12:32:10.5730   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 12:32:10.5730   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 12:32:10.5730   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 12:32:10.5730   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 12:32:10.5730   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 12:32:10.5921   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 12:32:10.7051   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 12:32:10.7782   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 12:32:10.7782   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 12:32:10.7924   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 12:36:40.3467   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:36:40.6141   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:36:40.6141   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:36:40.7101   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:36:40.7101   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:36:40.7419   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:38:53.9239   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 12:38:53.9239   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 12:38:53.9426   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 12:38:53.9946   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 12:38:53.9946   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 12:38:54.0097   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 12:38:54.0173   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 12:38:54.0325   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 12:38:54.0492   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 12:38:54.0492   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 12:38:54.0492   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 12:38:54.0492   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 12:38:54.0635   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 12:38:54.0635   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 12:38:54.0635   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 12:38:54.0635   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 12:38:54.0635   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 12:38:54.0799   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 12:38:54.0799   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 12:38:54.2265   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 12:38:54.2929   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 12:38:54.2929   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 12:38:54.3061   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 12:43:08.9343   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:43:09.2059   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:43:09.2138   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:43:09.3080   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:43:09.3080   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:43:09.3405   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:44:15.5998   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:44:38.7814   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:45:01.2085   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:45:01.4678   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:45:01.4750   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:45:01.5594   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:45:01.5594   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:45:01.5892   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:47:28.0247   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:47:28.2688   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:47:28.2757   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:47:28.3561   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:47:28.3561   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:47:28.3917   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:47:33.1417   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 12:47:33.1552   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 12:47:33.1707   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 12:47:33.2141   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 12:47:33.2141   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 12:47:33.2356   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 12:47:33.2439   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 12:47:33.2574   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 12:47:33.2728   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 12:47:33.2728   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 12:47:33.2728   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 12:47:33.2728   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 12:47:33.2728   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 12:47:33.2887   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 12:47:33.2887   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 12:47:33.2887   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 12:47:33.2887   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 12:47:33.2887   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 12:47:33.4248   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 12:47:33.4906   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 12:47:33.4970   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 12:47:33.4970   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 12:47:33.5146   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-13 12:47:33.5146   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-13 12:47:33.5146   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-13 12:47:33.5276   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-13 12:47:33.5276   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-13 12:47:35.7652   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:47:36.0398   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 12:47:36.0398   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 12:47:36.1256   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 12:47:36.1256   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 12:47:36.1594   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 12:47:45.8441   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 12:47:45.8586   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 12:47:45.8801   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 12:47:45.9208   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 12:47:45.9208   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 12:47:45.9422   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 12:47:45.9505   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 12:47:45.9609   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 12:47:45.9758   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 12:47:45.9758   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 12:47:45.9758   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 12:47:45.9758   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 12:47:45.9758   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 12:47:45.9923   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 12:47:45.9923   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 12:47:45.9923   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 12:47:45.9923   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 12:47:45.9923   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 12:47:46.0430   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 12:47:46.1095   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 12:47:46.1095   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 12:47:46.1219   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 12:47:46.1219   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-13 12:47:46.1337   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-13 12:47:46.1337   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-13 12:47:46.1337   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-13 12:47:46.1337   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-13 14:19:39.3988   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:21:23.1908   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:21:23.1908   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 14:21:23.2753   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 14:21:23.2837   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 14:21:23.3046   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 14:21:23.3709   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 14:21:23.3842   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 14:21:23.3961   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 14:21:23.4429   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 14:21:23.4429   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 14:21:23.4567   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 14:21:23.4567   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 14:21:23.4567   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 14:21:23.4567   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 14:21:23.4567   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 14:21:23.4706   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 14:21:23.4863   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 14:21:23.5028   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 14:21:23.5028   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 14:21:23.5028   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 14:21:23.5028   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 14:21:23.5028   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 14:21:23.5196   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 14:21:23.5196   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 14:21:23.6433   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 14:21:23.7098   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 14:21:23.7098   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 14:21:23.7228   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 14:21:23.7228   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-13 14:21:23.7377   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-13 14:21:23.7377   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-13 14:21:23.7377   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-13 14:21:23.7377   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-13 14:23:26.6579   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:24:01.3732   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:24:01.3791   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 14:26:08.9115   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:26:09.1822   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-13 14:26:09.1822   (TableReader.cs:37) 读取配置表 Avatar
+2019-03-13 14:26:09.2746   (TableReader.cs:37) 读取配置表 Compound
+2019-03-13 14:26:09.2746   (TableReader.cs:37) 读取配置表 Global
+2019-03-13 14:26:09.3052   (TableReader.cs:37) 读取配置表 Item
+2019-03-13 14:26:09.3791   (TableReader.cs:37) 读取配置表 Loader
+2019-03-13 14:26:09.3824   (TableReader.cs:37) 读取配置表 Menu
+2019-03-13 14:26:09.3997   (TableReader.cs:37) 读取配置表 Msg
+2019-03-13 14:26:09.4384   (TableReader.cs:37) 读取配置表 Reward
+2019-03-13 14:26:09.4456   (TableReader.cs:37) 读取配置表 Unlock
+2019-03-13 14:26:09.4456   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-03-13 14:26:13.1932   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTlValue2
+2019-03-13 14:26:13.2108   (ExportClientTS.cs:25) ExportClientTS:DTlValue3
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-03-13 14:26:13.2248   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-03-13 14:26:13.2397   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-03-13 14:26:13.2397   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-03-13 14:26:13.2397   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-03-13 14:26:13.2397   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-03-13 14:26:13.2561   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-03-13 14:26:13.2561   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-03-13 14:26:13.2561   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-03-13 14:26:13.2561   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-03-13 14:26:13.2561   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-03-13 14:26:13.3635   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 14:26:13.4309   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 14:26:13.4309   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 14:26:13.4460   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 14:26:13.4460   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-13 14:26:13.4460   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-13 14:26:13.4594   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-13 14:26:13.4594   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-13 14:26:13.4594   (ExportJson.cs:13) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-13 14:26:57.2171   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-13 14:26:57.4861   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-13 14:26:57.4945   (Program.cs:23) 读取配置表 Avatar
+2019-03-13 14:26:57.5868   (Program.cs:23) 读取配置表 Compound
+2019-03-13 14:26:57.5868   (Program.cs:23) 读取配置表 Global
+2019-03-13 14:26:57.6163   (Program.cs:23) 读取配置表 Item
+2019-03-13 14:26:57.6937   (Program.cs:23) 读取配置表 Loader
+2019-03-13 14:26:57.6937   (Program.cs:23) 读取配置表 Menu
+2019-03-13 14:26:57.7196   (Program.cs:23) 读取配置表 Msg
+2019-03-13 14:26:57.7594   (Program.cs:23) 读取配置表 Reward
+2019-03-13 14:26:57.7594   (Program.cs:23) 读取配置表 Unlock
+2019-03-13 14:26:57.7798   (Program.cs:23) ExportClientTS:DTItemNum
+2019-03-13 14:26:57.7970   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-03-13 14:26:57.7970   (Program.cs:23) ExportClientTS:DTVector2
+2019-03-13 14:26:57.7970   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-03-13 14:26:57.7970   (Program.cs:23) ExportClientTS:DTActorStory
+2019-03-13 14:26:57.7970   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTShootType
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTlValue2
+2019-03-13 14:26:57.8049   (Program.cs:23) ExportClientTS:DTlValue3
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTDrop
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTParts
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTProficiency
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTDate
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTTime
+2019-03-13 14:26:57.8186   (Program.cs:23) ExportClientTS:DTDateTime
+2019-03-13 14:26:57.8340   (Program.cs:23) ExportClientTS:Avatar
+2019-03-13 14:26:57.8340   (Program.cs:23) ExportClientTS:Compound
+2019-03-13 14:26:57.8340   (Program.cs:23) ExportClientTS:Global
+2019-03-13 14:26:57.8340   (Program.cs:23) ExportClientTS:Item
+2019-03-13 14:26:57.8519   (Program.cs:23) ExportClientTS:Loader
+2019-03-13 14:26:57.8519   (Program.cs:23) ExportClientTS:Menu
+2019-03-13 14:26:57.8519   (Program.cs:23) ExportClientTS:Msg
+2019-03-13 14:26:57.8519   (Program.cs:23) ExportClientTS:Reward
+2019-03-13 14:26:57.8519   (Program.cs:23) ExportClientTS:Unlock
+2019-03-13 14:26:57.9663   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-13 14:26:58.0382   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-13 14:26:58.0382   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-13 14:26:58.0382   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-13 14:26:58.0652   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-13 14:26:58.0652   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-13 14:26:58.0711   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-13 14:26:58.0711   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-13 14:26:58.0711   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-21 19:29:43.3136   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-21 19:29:43.6894   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-21 19:29:43.7005   (Program.cs:23) 读取配置表 Avatar
+2019-03-21 19:29:43.8060   (Program.cs:23) 读取配置表 Compound
+2019-03-21 19:29:43.8295   (Program.cs:23) 读取配置表 Continue
+2019-03-21 19:29:43.8794   (Program.cs:23) 读取配置表 Global
+2019-03-21 19:29:43.9126   (Program.cs:23) 读取配置表 HeadPortrait
+2019-03-21 19:29:43.9325   (Program.cs:23) 读取配置表 Item
+2019-03-21 19:29:44.0213   (Program.cs:23) 读取配置表 Loader
+2019-03-21 19:29:44.0410   (Program.cs:23) 读取配置表 Mail
+2019-03-21 19:29:44.0618   (Program.cs:23) 读取配置表 Menu
+2019-03-21 19:29:44.0868   (Program.cs:23) 读取配置表 MenuIndex
+2019-03-21 19:29:44.1117   (Program.cs:23) 读取配置表 Msg
+2019-03-21 19:29:44.1455   (Program.cs:23) 读取配置表 PlayerLevel
+2019-03-21 19:29:44.4256   (Program.cs:23) 读取配置表 Property
+2019-03-21 19:29:44.4729   (Program.cs:23) 读取配置表 Reward
+2019-03-21 19:29:44.4927   (Program.cs:23) 读取配置表 Story
+2019-03-21 19:29:44.5482   (Program.cs:23) 读取配置表 StoryCharacters
+2019-03-21 19:29:44.6406   (Program.cs:23) 读取配置表 Unlock
+2019-03-21 19:29:44.6841   (Program.cs:23) ExportClientTS:DTItemNum
+2019-03-21 19:29:44.7401   (Program.cs:23) ExportClientTS:DTStoryNum
+2019-03-21 19:29:44.7401   (Program.cs:23) ExportClientTS:DTVector2
+2019-03-21 19:29:44.7401   (Program.cs:23) ExportClientTS:DTActorSkill
+2019-03-21 19:29:44.7401   (Program.cs:23) ExportClientTS:DTActorStory
+2019-03-21 19:29:44.7401   (Program.cs:23) ExportClientTS:DTActorFeature
+2019-03-21 19:29:44.7551   (Program.cs:23) ExportClientTS:DTActorCharacter
+2019-03-21 19:29:44.7551   (Program.cs:23) ExportClientTS:DTRandomInterval
+2019-03-21 19:29:44.7551   (Program.cs:23) ExportClientTS:DTShootType
+2019-03-21 19:29:44.7805   (Program.cs:23) ExportClientTS:DTStoryEffect
+2019-03-21 19:29:44.7805   (Program.cs:23) ExportClientTS:DTBuildingReq
+2019-03-21 19:29:44.7910   (Program.cs:23) ExportClientTS:DTlValue2
+2019-03-21 19:29:44.7910   (Program.cs:23) ExportClientTS:DTlValue3
+2019-03-21 19:29:44.7910   (Program.cs:23) ExportClientTS:DTDrop
+2019-03-21 19:29:44.8034   (Program.cs:23) ExportClientTS:DTPerformActoin
+2019-03-21 19:29:44.8034   (Program.cs:23) ExportClientTS:DTPerformSpeak
+2019-03-21 19:29:44.8034   (Program.cs:23) ExportClientTS:DTParts
+2019-03-21 19:29:44.8034   (Program.cs:23) ExportClientTS:DTProficiency
+2019-03-21 19:29:44.8181   (Program.cs:23) ExportClientTS:DTDate
+2019-03-21 19:29:44.8181   (Program.cs:23) ExportClientTS:DTTime
+2019-03-21 19:29:44.8181   (Program.cs:23) ExportClientTS:DTDateTime
+2019-03-21 19:29:44.8181   (Program.cs:23) ExportClientTS:Avatar
+2019-03-21 19:29:44.8536   (Program.cs:23) ExportClientTS:Compound
+2019-03-21 19:29:44.8781   (Program.cs:23) ExportClientTS:Continue
+2019-03-21 19:29:44.8838   (Program.cs:23) ExportClientTS:Global
+2019-03-21 19:29:44.8838   (Program.cs:23) ExportClientTS:HeadPortrait
+2019-03-21 19:29:44.8838   (Program.cs:23) ExportClientTS:Item
+2019-03-21 19:29:44.9001   (Program.cs:23) ExportClientTS:Loader
+2019-03-21 19:29:44.9001   (Program.cs:23) ExportClientTS:Mail
+2019-03-21 19:29:44.9001   (Program.cs:23) ExportClientTS:Menu
+2019-03-21 19:29:44.9152   (Program.cs:23) ExportClientTS:MenuIndex
+2019-03-21 19:29:44.9152   (Program.cs:23) ExportClientTS:Msg
+2019-03-21 19:29:44.9152   (Program.cs:23) ExportClientTS:PlayerLevel
+2019-03-21 19:29:44.9316   (Program.cs:23) ExportClientTS:Property
+2019-03-21 19:29:44.9316   (Program.cs:23) ExportClientTS:Reward
+2019-03-21 19:29:44.9710   (Program.cs:23) ExportClientTS:Story
+2019-03-21 19:29:44.9903   (Program.cs:23) ExportClientTS:StoryCharacters
+2019-03-21 19:29:44.9903   (Program.cs:23) ExportClientTS:Unlock
+2019-03-21 19:29:45.3388   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Avatar.xlsx
+2019-03-21 19:29:45.4209   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Compound.xlsx
+2019-03-21 19:29:45.4209   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Continue.xlsx
+2019-03-21 19:29:45.4303   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Global.xlsx
+2019-03-21 19:29:45.4303   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\HeadPortrait.xlsx
+2019-03-21 19:29:45.4303   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Item.xlsx
+2019-03-21 19:29:45.4568   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Loader.xlsx
+2019-03-21 19:29:45.4599   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Mail.xlsx
+2019-03-21 19:29:45.4599   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Menu.xlsx
+2019-03-21 19:29:45.4599   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\MenuIndex.xlsx
+2019-03-21 19:29:45.4599   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Msg.xlsx
+2019-03-21 19:29:45.4791   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\PlayerLevel.xlsx
+2019-03-21 19:29:45.5390   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Property.xlsx
+2019-03-21 19:29:45.5390   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Reward.xlsx
+2019-03-21 19:29:45.5390   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Story.xlsx
+2019-03-21 19:29:45.5644   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\StoryCharacters.xlsx
+2019-03-21 19:29:45.5943   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx

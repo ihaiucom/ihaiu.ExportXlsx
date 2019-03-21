@@ -6,6 +6,6 @@
 
 import StoryCharactersConfigReaderStruct from "../ReaderStructs/StoryCharactersConfigReaderStruct";
 
-export class StoryCharactersConfigReader extends StoryCharactersConfigReaderStruct
+export default class StoryCharactersConfigReader extends StoryCharactersConfigReaderStruct
 {
 }

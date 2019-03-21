@@ -6,6 +6,6 @@
 
 import HeadPortraitConfigReaderStruct from "../ReaderStructs/HeadPortraitConfigReaderStruct";
 
-export class HeadPortraitConfigReader extends HeadPortraitConfigReaderStruct
+export default class HeadPortraitConfigReader extends HeadPortraitConfigReaderStruct
 {
 }

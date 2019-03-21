@@ -1,0 +1,27 @@
+﻿{
+  "0": {
+    "id": 0,
+    "name": "没视图",
+    "isShowCircle": false
+  },
+  "1": {
+    "id": 1,
+    "name": "转圈",
+    "isShowCircle": false
+  },
+  "2": {
+    "id": 2,
+    "name": "启动游戏",
+    "isShowCircle": true
+  },
+  "3": {
+    "id": 3,
+    "name": "进入游戏加载界面",
+    "isShowCircle": true
+  },
+  "4": {
+    "id": 4,
+    "name": "加载模块界面",
+    "isShowCircle": true
+  }
+}

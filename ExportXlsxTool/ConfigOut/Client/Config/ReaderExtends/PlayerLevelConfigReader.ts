@@ -6,6 +6,6 @@
 
 import PlayerLevelConfigReaderStruct from "../ReaderStructs/PlayerLevelConfigReaderStruct";
 
-export class PlayerLevelConfigReader extends PlayerLevelConfigReaderStruct
+export default class PlayerLevelConfigReader extends PlayerLevelConfigReaderStruct
 {
 }

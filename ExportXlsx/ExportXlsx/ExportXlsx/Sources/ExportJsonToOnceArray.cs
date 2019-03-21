@@ -212,7 +212,7 @@ namespace ExportXlsx.Sources
 
             if (!string.IsNullOrEmpty(txt))
             {
-                string[] csv = txt.toStringArray(@"[;,:,；,：]");
+                string[] csv = txt.toStringArray(@"[;,:,；,：,&]");
                 for (int i = 0; i < dataStruct.fields.Count; i++)
                 {
                     if (i >= csv.Length)
@@ -233,7 +233,7 @@ namespace ExportXlsx.Sources
 
             if (!string.IsNullOrEmpty(txt))
             {
-                string[] csv = txt.toStringArray(@"[;,；]");
+                string[] csv = txt.toStringArray(@"[;,；,&]");
                 for (int i = 0; i < csv.Length; i++)
                 {
                     jd.Add(ParseStruct(csv[i], dataStruct, xlsxManager));

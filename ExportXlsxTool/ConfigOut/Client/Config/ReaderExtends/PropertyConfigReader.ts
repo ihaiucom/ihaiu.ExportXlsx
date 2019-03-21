@@ -6,6 +6,6 @@
 
 import PropertyConfigReaderStruct from "../ReaderStructs/PropertyConfigReaderStruct";
 
-export class PropertyConfigReader extends PropertyConfigReaderStruct
+export default class PropertyConfigReader extends PropertyConfigReaderStruct
 {
 }

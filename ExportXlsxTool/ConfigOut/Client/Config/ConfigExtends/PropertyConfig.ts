@@ -3,7 +3,7 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
-import PropertyConfigStruct from "../ConfigStructs/PropertyConfig";
+import PropertyConfigStruct from "../ConfigStructs/PropertyConfigStruct";
 
 export default class PropertyConfig extends PropertyConfigStruct
 {

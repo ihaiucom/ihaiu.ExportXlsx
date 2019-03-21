@@ -84,6 +84,7 @@ namespace ExportXlsx.Sources
                     dataField.field = fields[i].Trim();
                     dataField.typeName = i < types.Length ? types[i].Trim() : "string";
                     dataField.cn = i < cns.Length ? cns[i].Trim() : "";
+                    dataField.filterType = HeadFilterType.ALL;
                     dataStruct.fields.Add(dataField);
                 }
 

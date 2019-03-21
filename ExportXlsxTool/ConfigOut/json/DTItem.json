@@ -10,9 +10,7 @@
     "get_way": [
       22
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -33,9 +31,7 @@
       5,
       52
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -56,9 +52,7 @@
       3,
       53
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -78,9 +72,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -100,9 +92,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -124,9 +114,7 @@
       53,
       55
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -147,9 +135,7 @@
       3,
       21
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -169,9 +155,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -191,9 +175,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -213,9 +195,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -235,9 +215,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -258,9 +236,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -281,9 +257,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -304,9 +278,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -327,9 +299,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -350,9 +320,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -373,9 +341,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -396,9 +362,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -419,9 +383,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -442,9 +404,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -465,9 +425,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -488,9 +446,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -511,9 +467,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -534,9 +488,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -557,9 +509,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -580,9 +530,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -603,9 +551,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -626,9 +572,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -649,9 +593,7 @@
       51,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -672,9 +614,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6101,
@@ -695,9 +635,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6102,
@@ -718,9 +656,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6103,
@@ -741,9 +677,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6104,
@@ -764,9 +698,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6105,
@@ -787,9 +719,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6106,
@@ -810,9 +740,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6107,
@@ -833,9 +761,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6108,
@@ -856,9 +782,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6109,
@@ -879,9 +803,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6201,
@@ -902,9 +824,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6202,
@@ -925,9 +845,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6203,
@@ -948,9 +866,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6204,
@@ -971,9 +887,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6205,
@@ -994,9 +908,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6206,
@@ -1017,9 +929,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6207,
@@ -1040,9 +950,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6208,
@@ -1063,9 +971,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6209,
@@ -1086,9 +992,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6301,
@@ -1109,9 +1013,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6302,
@@ -1132,9 +1034,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6303,
@@ -1155,9 +1055,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6304,
@@ -1178,9 +1076,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6305,
@@ -1201,9 +1097,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6306,
@@ -1224,9 +1118,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6307,
@@ -1247,9 +1139,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6308,
@@ -1270,9 +1160,7 @@
       3,
       7
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 6309,
@@ -1294,9 +1182,7 @@
       54,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1318,9 +1204,7 @@
       54,
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1340,9 +1224,7 @@
     "get_way": [
       3
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1362,9 +1244,7 @@
     "get_way": [
       55
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1385,9 +1265,7 @@
       21,
       106
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1407,9 +1285,7 @@
     "get_way": [
       53
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1429,9 +1305,7 @@
     "get_way": [
       106
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1451,9 +1325,7 @@
     "get_way": [
       52
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1473,9 +1345,7 @@
     "get_way": [
       52
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1495,9 +1365,7 @@
     "get_way": [
       21
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": true,
     "price": 10,
     "syn_id": 0,
@@ -1518,9 +1386,7 @@
       21,
       106
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1540,9 +1406,7 @@
     "get_way": [
       21
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1562,9 +1426,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1584,14 +1446,7 @@
     "get_way": [
       21
     ],
-    "can_use": true,
-    "use_type": 3,
-    "reward": [
-      {
-        "itemId": 15,
-        "itemNum": 25
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1611,9 +1466,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1632,18 +1485,58 @@
     "max_num": 9999,
     "get_way": [
       21,
-      25
+      23
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
     "actor_num": 0,
-    "zh_cn_get_way_explain": "通过商店购买获得",
+    "zh_cn_get_way_explain": "通过日常或商店购买获得",
     "User_item_info": 1
+  },
+  "5013": {
+    "id": 5013,
+    "zh_cn_name": "小转盘币",
+    "zh_cn_item_des": "小转盘的消耗道具",
+    "icon": 2,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21,
+      23
+    ],
+    "rewardid": 0,
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过日常或商店购买获得",
+    "User_item_info": 0
+  },
+  "5014": {
+    "id": 5014,
+    "zh_cn_name": "大转盘币",
+    "zh_cn_item_des": "大转盘的消耗道具",
+    "icon": 2,
+    "star": 0,
+    "type": 5,
+    "max_num": 9999,
+    "get_way": [
+      21,
+      23
+    ],
+    "rewardid": 0,
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "通过日常或商店购买获得",
+    "User_item_info": 0
   },
   "8001": {
     "id": 8001,
@@ -1656,46 +1549,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 6101,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6102,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6103,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6104,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6105,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6106,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6107,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6108,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6109,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1715,46 +1569,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 6201,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6202,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6203,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6204,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6205,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6206,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6207,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6208,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6209,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1774,46 +1589,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 6301,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6302,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6303,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6304,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6305,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6306,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6307,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6308,
-        "itemNum": 1
-      },
-      {
-        "itemId": 6309,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1833,46 +1609,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 6101,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6102,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6103,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6104,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6105,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6106,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6107,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6108,
-        "itemNum": 100
-      },
-      {
-        "itemId": 6109,
-        "itemNum": 100
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1892,30 +1629,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 1000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 500000
-      },
-      {
-        "itemId": 6,
-        "itemNum": 10000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 100
-      },
-      {
-        "itemId": 5007,
-        "itemNum": 10
-      }
-    ],
+    "rewardid": 8005,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1935,30 +1649,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 1000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 500000
-      },
-      {
-        "itemId": 6,
-        "itemNum": 10000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 100
-      },
-      {
-        "itemId": 5007,
-        "itemNum": 10
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -1978,30 +1669,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 1000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 500000
-      },
-      {
-        "itemId": 6,
-        "itemNum": 10000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 200
-      },
-      {
-        "itemId": 5007,
-        "itemNum": 20
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2021,30 +1689,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 2000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 500000
-      },
-      {
-        "itemId": 6,
-        "itemNum": 20000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 100
-      },
-      {
-        "itemId": 5007,
-        "itemNum": 10
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2064,26 +1709,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 5000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 500000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 100
-      },
-      {
-        "itemId": 5004,
-        "itemNum": 200
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2103,26 +1729,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 5000000
-      },
-      {
-        "itemId": 6,
-        "itemNum": 20000
-      },
-      {
-        "itemId": 7,
-        "itemNum": 200
-      },
-      {
-        "itemId": 5004,
-        "itemNum": 200
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2142,18 +1749,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 1,
-    "reward": [
-      {
-        "itemId": 2,
-        "itemNum": 8000000
-      },
-      {
-        "itemId": 3,
-        "itemNum": 1000000
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2173,13 +1769,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2199,13 +1789,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2225,13 +1809,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2251,13 +1829,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2277,13 +1849,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2303,13 +1869,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2329,13 +1889,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2355,13 +1909,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2381,13 +1929,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2407,13 +1949,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2433,13 +1969,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2459,13 +1989,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2485,13 +2009,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2511,13 +2029,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2537,13 +2049,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2563,13 +2069,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2589,13 +2089,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2615,13 +2109,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2641,13 +2129,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2667,13 +2149,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2693,13 +2169,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2719,13 +2189,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2745,13 +2209,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2771,13 +2229,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2797,13 +2249,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2823,13 +2269,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2849,13 +2289,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2875,13 +2309,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2901,13 +2329,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2927,13 +2349,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2953,13 +2369,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -2979,13 +2389,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3005,13 +2409,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3031,13 +2429,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3057,13 +2449,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3083,13 +2469,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3109,13 +2489,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3135,13 +2509,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3161,13 +2529,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3187,13 +2549,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3213,13 +2569,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3239,13 +2589,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3265,13 +2609,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3291,13 +2629,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3317,13 +2649,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3343,13 +2669,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3369,13 +2689,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3395,13 +2709,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3421,13 +2729,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3447,13 +2749,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3473,13 +2769,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3499,13 +2789,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3525,13 +2809,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3551,13 +2829,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3577,13 +2849,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3603,13 +2869,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3629,13 +2889,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3655,13 +2909,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3681,13 +2929,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3707,13 +2949,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3733,13 +2969,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3759,13 +2989,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3785,13 +3009,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3811,13 +3029,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3837,13 +3049,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3863,13 +3069,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3889,13 +3089,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3915,13 +3109,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3941,13 +3129,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3967,13 +3149,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -3993,13 +3169,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4019,13 +3189,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4045,13 +3209,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4071,13 +3229,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4097,13 +3249,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4123,13 +3269,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4149,13 +3289,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4175,13 +3309,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4201,13 +3329,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4227,13 +3349,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4253,13 +3369,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4279,13 +3389,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4305,13 +3409,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4331,13 +3429,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4357,13 +3449,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4383,13 +3469,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4409,13 +3489,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4435,13 +3509,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4461,13 +3529,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4487,13 +3549,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4513,13 +3569,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4539,13 +3589,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4565,13 +3609,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4591,13 +3629,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4617,13 +3649,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4643,13 +3669,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4669,13 +3689,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4695,13 +3709,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4721,13 +3729,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4747,13 +3749,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4773,13 +3769,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4799,13 +3789,7 @@
     "get_way": [
       25
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4816,7 +3800,7 @@
   },
   "8901": {
     "id": 8901,
-    "zh_cn_name": "一星艺人随机合同礼包",
+    "zh_cn_name": "一星随机合同",
     "zh_cn_item_des": "打开会获得一份随机1星艺人合同",
     "icon": 2053,
     "star": 1301,
@@ -4825,34 +3809,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 7001,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7002,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7003,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7004,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7005,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7006,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4863,7 +3820,7 @@
   },
   "8902": {
     "id": 8902,
-    "zh_cn_name": "二星艺人随机合同礼包",
+    "zh_cn_name": "二星随机合同",
     "zh_cn_item_des": "打开会获得一份随机2星艺人合同",
     "icon": 2053,
     "star": 1302,
@@ -4872,70 +3829,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 7007,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7008,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7009,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7010,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7011,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7012,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7013,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7014,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7015,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7016,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7017,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7018,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7019,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7020,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7021,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -4946,7 +3840,7 @@
   },
   "8903": {
     "id": 8903,
-    "zh_cn_name": "三星艺人随机合同礼包",
+    "zh_cn_name": "三星随机合同",
     "zh_cn_item_des": "打开会获得一份随机3星艺人合同",
     "icon": 2053,
     "star": 1303,
@@ -4955,82 +3849,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 7022,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7023,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7024,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7025,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7026,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7027,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7028,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7029,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7030,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7031,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7032,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7033,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7034,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7035,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7036,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7037,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7038,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7039,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5041,7 +3860,7 @@
   },
   "8904": {
     "id": 8904,
-    "zh_cn_name": "四星艺人随机合同礼包",
+    "zh_cn_name": "四星随机合同",
     "zh_cn_item_des": "打开会获得一份随机4星艺人合同",
     "icon": 2053,
     "star": 1304,
@@ -5050,130 +3869,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 7040,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7041,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7042,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7043,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7044,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7045,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7046,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7047,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7048,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7049,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7050,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7051,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7052,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7053,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7054,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7055,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7056,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7057,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7058,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7059,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7060,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7061,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7062,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7063,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7064,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7065,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7066,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7067,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7068,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7069,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5184,7 +3880,7 @@
   },
   "8905": {
     "id": 8905,
-    "zh_cn_name": "五星艺人随机合同礼包",
+    "zh_cn_name": "五星随机合同",
     "zh_cn_item_des": "打开会获得一份随机5星艺人合同",
     "icon": 2053,
     "star": 1305,
@@ -5193,134 +3889,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 2,
-    "reward": [
-      {
-        "itemId": 7070,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7071,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7072,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7073,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7074,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7075,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7076,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7077,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7078,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7079,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7080,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7081,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7082,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7083,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7084,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7085,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7086,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7087,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7088,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7089,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7090,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7091,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7092,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7093,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7094,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7095,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7096,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7097,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7098,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7099,
-        "itemNum": 1
-      },
-      {
-        "itemId": 7100,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5331,8 +3900,8 @@
   },
   "7901": {
     "id": 7901,
-    "zh_cn_name": "随机五星欧美艺人合同",
-    "zh_cn_item_des": "收集50分可以签约随机一个欧美艺人",
+    "zh_cn_name": "五星随机艺人合同",
+    "zh_cn_item_des": "收集50份可以签约随机一个欧美艺人",
     "icon": 1999,
     "star": 1305,
     "type": 16,
@@ -5340,26 +3909,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 5031,
-        "itemNum": 1
-      },
-      {
-        "itemId": 5030,
-        "itemNum": 1
-      },
-      {
-        "itemId": 5025,
-        "itemNum": 1
-      },
-      {
-        "itemId": 5024,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5371,7 +3921,7 @@
   "18015": {
     "id": 18015,
     "zh_cn_name": "泰坦尼克号",
-    "zh_cn_item_des": "豪华客轮坦达尼克号开始了自己的处女航，富家少女罗莎（主角）与母亲及未婚夫坐上了头等舱；另一边，放荡不羁的少年画家乔治（主角）也在一场赌博中赢得了下等舱的船票。 罗莎厌倦了上流社会虚伪的生活，打算投海自尽，被乔治救起。很快，两人陷入爱河，乔治带罗莎参加下等舱的舞会、为她画像，但好景不长，坦达尼克号撞上了冰山，面临沉没的危险。生死关头，他们将何去何从？",
+    "zh_cn_item_des": "获得四星超强剧本泰坦尼克号",
     "icon": 8015,
     "star": 1304,
     "type": 18,
@@ -5379,14 +3929,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 1015,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5398,7 +3941,7 @@
   "18091": {
     "id": 18091,
     "zh_cn_name": "美国队长",
-    "zh_cn_item_des": "身体孱弱的斯蒂文（主角）经过一项由基因学博士爱德华（配角）主导的超级士兵研究计划改造，成为了强大的超级英雄，他在战场上的英勇表现让他成为传奇人物，也收获了特工卡拉（主角）的好感。但在一次任务中，他的队友，也是从小一起长大的挚友巴克（配角）发生意外不知所踪，而他自己也落入了深海…直到他醒来，发现自己身处病房，整个世界都变成了他不熟悉的样子。这时，一位神秘的特工史隆（配角）找到了他…",
+    "zh_cn_item_des": "获得五星超强剧本美国队长",
     "icon": 8091,
     "star": 1305,
     "type": 18,
@@ -5406,14 +3949,7 @@
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 1091,
-        "itemNum": 1
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5424,8 +3960,8 @@
   },
   "8906": {
     "id": 8906,
-    "zh_cn_name": "强森龙妈碎片选择礼包",
-    "zh_cn_item_des": "打开可以选择获得强森碎片*20或者龙妈碎片*20",
+    "zh_cn_name": "石通莉西碎片选择包",
+    "zh_cn_item_des": "选择获得石通碎片*20或者莉西碎片*20",
     "icon": 2053,
     "star": 1305,
     "type": 17,
@@ -5433,18 +3969,7 @@
     "get_way": [
       0
     ],
-    "can_use": true,
-    "use_type": 4,
-    "reward": [
-      {
-        "itemId": 7094,
-        "itemNum": 20
-      },
-      {
-        "itemId": 7102,
-        "itemNum": 20
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
@@ -5456,27 +3981,41 @@
   "8907": {
     "id": 8907,
     "zh_cn_name": "艺人试用礼包",
-    "zh_cn_item_des": "打开获得丹尼、奈拉、房龙其中一个的限时使用权三天",
+    "zh_cn_item_des": "获得限时艺人丹尼、奈拉、房龙其中一个",
     "icon": 2053,
     "star": 1305,
-    "type": 8,
+    "type": 19,
     "max_num": 9999,
     "get_way": [
       0
     ],
-    "can_use": false,
-    "use_type": 0,
-    "reward": [
-      {
-        "itemId": 0
-      }
-    ],
+    "rewardid": 0,
     "can_sell": false,
     "price": 0,
     "syn_id": 0,
     "actor_id": 0,
     "actor_num": 0,
     "zh_cn_get_way_explain": "可在部分活动中获得",
+    "User_item_info": 0
+  },
+  "19001": {
+    "id": 19001,
+    "zh_cn_name": "海克斯",
+    "zh_cn_item_des": "5星艺人海克斯",
+    "icon": 1057,
+    "star": 1305,
+    "type": 19,
+    "max_num": 1,
+    "get_way": [
+      0
+    ],
+    "rewardid": 0,
+    "can_sell": false,
+    "price": 0,
+    "syn_id": 0,
+    "actor_id": 0,
+    "actor_num": 0,
+    "zh_cn_get_way_explain": "5星艺人海克斯",
     "User_item_info": 0
   }
 }
