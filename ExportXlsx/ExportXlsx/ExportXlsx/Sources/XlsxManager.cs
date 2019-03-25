@@ -139,8 +139,11 @@ namespace ExportXlsx.Sources
 
         public void ExportTsAll()
         {
-            ExportTsClient();
-            ExportTsServer();
+            if (Setting.Options.isExportTSClient)
+                ExportTsClient();
+
+            if (Setting.Options.isExportTSServer)
+                ExportTsServer();
         }
 
         public void ExportTsClient()

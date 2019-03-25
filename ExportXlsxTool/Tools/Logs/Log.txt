@@ -6641,3 +6641,19 @@
 2019-03-21 19:29:45.5390   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Story.xlsx
 2019-03-21 19:29:45.5644   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\StoryCharacters.xlsx
 2019-03-21 19:29:45.5943   (Program.cs:26) ExportJson:E:/zengfeng/GameWP/xyx_wp/doc/Config/Common\Unlock.xlsx
+2019-03-25 10:43:11.4028   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-25 10:43:11.5795   (TableReader.cs:66) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
+2019-03-25 10:43:11.5860   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-03-25 10:43:11.5860   (TableReader.cs:66) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet
+2019-03-25 10:47:10.5418   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-25 10:47:10.7452   (Program.cs:21) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
+2019-03-25 10:47:10.7452   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-25 10:47:10.7525   (Program.cs:22) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet
+2019-03-25 10:48:34.6958   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-25 10:48:34.8331   (Program.cs:21) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
+2019-03-25 10:48:34.8331   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-25 10:48:34.8331   (Program.cs:22) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet
+2019-03-25 10:51:04.9949   (Program.cs:21) 读取配置表 ExportSetting
+2019-03-25 10:51:05.1383   (Program.cs:21) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
+2019-03-25 10:51:05.1430   (Program.cs:22) 读取配置表 ExportSetting
+2019-03-25 10:51:05.1430   (Program.cs:22) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet

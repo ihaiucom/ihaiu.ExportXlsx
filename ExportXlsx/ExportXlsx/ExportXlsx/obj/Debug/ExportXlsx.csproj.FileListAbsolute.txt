@@ -7,7 +7,5 @@ E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsxTool\Tools\ExportXlsx\ExportXlsx.
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.csproj.CoreCompileInputs.cache
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.AssemblyInfoInputs.cache
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.AssemblyInfo.cs
-E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.csproj.CopyComplete
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.dll
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.pdb
-E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.csprojAssemblyReference.cache

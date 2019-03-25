@@ -85,6 +85,27 @@ namespace ExportXlsx.Sources
         [Option("serverTsClassNameFormat", Required = false, Default = "DT{0}")]
         public string serverTsClassNameFormat { get; set; }
 
+        // 是否导出TS Client
+        [Option("isExportTSClient", Required = false, Default = true)]
+        public bool isExportTSClient { get; set; }
+
+        // 是否导出TS Server
+        [Option("isExportTSServer", Required = false, Default = true)]
+        public bool isExportTSServer { get; set; }
+
+
+        // 是否导出CSV
+        [Option("isExportCsv", Required = false, Default = true)]
+        public bool isExportCsv { get; set; }
+
+        // 是否导出Json
+        [Option("isExportJson", Required = false, Default = true)]
+        public bool isExportJson { get; set; }
+
+        // 是否导出Json一个文件
+        [Option("isExportJsonOnceFile", Required = false, Default = true)]
+        public bool isExportJsonOnceFile { get; set; }
+
 
         public void Save(string path = null)
         {

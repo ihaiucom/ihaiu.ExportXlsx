@@ -1,0 +1,21 @@
+{
+  "autoEnd": true,
+  "optionSetting": "./ExportXlsxSetting.json",
+  "xlsxDir": "../Config",
+  "outDir": "../ConfigOut",
+  "exportSettingXlsx": "../Config/ExportSetting.xlsx",
+  "settingStructSheet": "StructSheet",
+  "settingIgnoreSheet": "IgnoreSheet",
+  "templateDir": "./Template",
+  "csvSeparator": "\t",
+  "csvSeparatorReplace": "",
+  "csvLineSeparatorReplace": "|n|",
+  "xlsxHeadTypeLine": 1,
+  "xlsxHeadCnLine": 2,
+  "xlsxHeadFieldLine": 3,
+  "xlsxHeadFilterLine": 4,
+  "hasHeadFilterLine": true,
+  "exportHeadFilterType": 3,
+  "jsonNameFormat": "DT{0}.json",
+  "serverTsClassNameFormat": "DT{0}"
+}

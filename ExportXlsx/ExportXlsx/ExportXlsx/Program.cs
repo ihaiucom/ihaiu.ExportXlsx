@@ -21,9 +21,15 @@ namespace ExportXlsx.Sources
             xlsxManager.LoadIgnore();
             xlsxManager.LoadAllTable();
             xlsxManager.ExportTsAll();
-            xlsxManager.ExportCsvs();
-            xlsxManager.ExportJsons();
-            xlsxManager.ExportAllJsonsOnceObject();
+
+            if(Setting.Options.isExportCsv)
+                xlsxManager.ExportCsvs();
+
+            if (Setting.Options.isExportJson)
+                xlsxManager.ExportJsons();
+
+            if (Setting.Options.isExportJsonOnceFile)
+                xlsxManager.ExportAllJsonsOnceObject();
 
             Console.WriteLine("完成!");
 
