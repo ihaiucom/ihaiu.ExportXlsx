@@ -6,6 +6,6 @@
 
 import ActivitiesConfigReaderStruct from "../ReaderStructs/ActivitiesConfigReaderStruct";
 
-export class ActivitiesConfigReader extends ActivitiesConfigReaderStruct
+export default class ActivitiesConfigReader extends ActivitiesConfigReaderStruct
 {
 }

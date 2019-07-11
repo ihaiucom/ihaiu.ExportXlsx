@@ -1,0 +1,8 @@
+int	int	int	int	int	int	int	int	int	int	int	string	int	int
+ID	英雄id	等级	血量	冷却时间	暴击效果	暴击率	伤害	武器容量	减伤比	升级花费	图片	半个宽度	半个高度
+id	heroId	level	blood	reloadTime	critPower	critRate	hurt	weaponCap	reductionRate	upgradeCost	res	hw	hh
+10001	10000	1	530	1000	5000	255	180	2	1500	12	0	40	30
+10101	10100	1	530	1001	5001	255	181	2	1500	13	3	35	35
+10201	10200	1	530	1002	5002	67	182	2	1500	14	4	35	35
+10301	10300	1	531	1003	5003	255	183	2	1500	15	9	35	35
+10401	10400	1	532	1004	5004	255	184	2	1500	16	11	35	35

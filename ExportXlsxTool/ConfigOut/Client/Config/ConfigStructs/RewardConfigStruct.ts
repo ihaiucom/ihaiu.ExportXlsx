@@ -4,7 +4,8 @@
 /////////////////////////////////////
 
 import BaseConfig from "../BaseConfig";
-import DTItemNum from "../ConfigExtends/DTItemNum";
+import DTFixItemNum from "../ConfigExtends/DTFixItemNum";
+import DTRewardRandom from "../ConfigExtends/DTRewardRandom";
 
 
 
@@ -13,8 +14,10 @@ export default class RewardConfigStruct extends BaseConfig
 
 
 	id : number;
-	Use_type : number;
-	Item : DTItemNum[];
+	fixedItems : DTFixItemNum[];
+	multipleReward : number;
+	randomItems : DTRewardRandom[];
+	randomCount : number;
 
 
 

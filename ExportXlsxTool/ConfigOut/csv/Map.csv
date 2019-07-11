@@ -1,0 +1,6 @@
+int	int	int	int	int	int	int
+ID	重力	x速度	y速度	最大时间	最小时间	最大柱子
+id	g	vx	vy	maxt	mint	maxPillar
+100	1000	1560	1560	3000	0	100
+1000	1000	1560	1560	3000	0	100
+2000	1000	1560	1560	3000	0	100

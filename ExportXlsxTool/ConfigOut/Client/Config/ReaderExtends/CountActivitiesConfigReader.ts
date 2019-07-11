@@ -6,6 +6,6 @@
 
 import CountActivitiesConfigReaderStruct from "../ReaderStructs/CountActivitiesConfigReaderStruct";
 
-export class CountActivitiesConfigReader extends CountActivitiesConfigReaderStruct
+export default class CountActivitiesConfigReader extends CountActivitiesConfigReaderStruct
 {
 }

@@ -6,6 +6,6 @@
 
 import LoadingConfigReaderStruct from "../ReaderStructs/LoadingConfigReaderStruct";
 
-export class LoadingConfigReader extends LoadingConfigReaderStruct
+export default class LoadingConfigReader extends LoadingConfigReaderStruct
 {
 }

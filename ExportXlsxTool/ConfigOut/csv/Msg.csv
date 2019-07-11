@@ -358,3 +358,6 @@ id	key	module	name	zh_cn_notice	en_notice
 2194	purchase_delay_msg	商城	购买延时提示	这件商品要在创建账号{0}之后才可购买哟，请耐心等待！	
 2195	level_package_unlock	等级礼包	不可领取提示	提升等级至{}级即可获得奖励	
 2196	ambassador_unlock	形象大使	解锁第5位城市形象大使	解锁第5位形象大使，需要升到{0}	
+2197	story_lottery_do	剧本招募	说明	花费{0}金币进行剧本创作，是否创作？	
+2198	story_lottery_buy_num	剧本招募	说明	是否花费{0}钻石购买创作次数？|n|当前购买次数：{1}/{2}	
+2199	story_lottery_time_gold	剧本招募	说明	花费{0}金币可以清空CD，是否清空CD？	

@@ -6657,3 +6657,319 @@
 2019-03-25 10:51:05.1383   (Program.cs:21) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:StructSheet
 2019-03-25 10:51:05.1430   (Program.cs:22) 读取配置表 ExportSetting
 2019-03-25 10:51:05.1430   (Program.cs:22) 没有找到sheet path:../Config/ExportSetting.xlsx, sheetName:IgnoreSheet
+2019-07-11 21:43:02.7915   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:43:03.2657   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:43:03.2781   (TableReader.cs:37) 读取配置表 Activities
+2019-07-11 21:43:03.2938   (TableReader.cs:37) 读取配置表 Avatar
+2019-07-11 21:43:03.3778   (TableReader.cs:37) 读取配置表 Bag
+2019-07-11 21:43:03.4085   (TableReader.cs:37) 读取配置表 Compound
+2019-07-11 21:43:03.4219   (TableReader.cs:37) 读取配置表 CountActivities
+2019-07-11 21:43:03.4328   (TableReader.cs:37) 读取配置表 Gashapon
+2019-07-11 21:43:03.4477   (TableReader.cs:37) 读取配置表 Global
+2019-07-11 21:43:03.4477   (TableReader.cs:85)  path:E:/zengfeng/githubs/ihaiu_CocosH5GameFrame/design/Config/Common\Global.xlsx, sheetName:， 是空单元格 2行1列  
+2019-07-11 21:43:03.5160   (StringUtils.cs:255) 转换int32是非法字符 roleNameMinLength
+2019-07-11 21:43:03.5365   (StringUtils.cs:255) 转换int32是非法字符 int
+2019-07-11 21:43:03.5450   (TableReader.cs:85)  path:E:/zengfeng/githubs/ihaiu_CocosH5GameFrame/design/Config/Common\Global.xlsx, sheetName:， 是空单元格 2行4列  
+2019-07-11 21:43:03.5450   (TableReader.cs:37) 读取配置表 HeadPortrait
+2019-07-11 21:43:03.5671   (TableReader.cs:37) 读取配置表 Hero
+2019-07-11 21:43:03.5895   (TableReader.cs:37) 读取配置表 Item
+2019-07-11 21:43:03.6519   (TableReader.cs:37) 读取配置表 ItemType
+2019-07-11 21:43:03.6972   (TableReader.cs:37) 读取配置表 Loader
+2019-07-11 21:43:03.7130   (TableReader.cs:37) 读取配置表 Loading
+2019-07-11 21:43:03.7287   (TableReader.cs:37) 读取配置表 Mail
+2019-07-11 21:43:03.7287   (TableReader.cs:37) 读取配置表 Map
+2019-07-11 21:43:03.7608   (TableReader.cs:37) 读取配置表 Menu
+2019-07-11 21:43:03.7829   (TableReader.cs:37) 读取配置表 MenuIndex
+2019-07-11 21:43:03.7947   (TableReader.cs:37) 读取配置表 Msg
+2019-07-11 21:43:03.8518   (TableReader.cs:37) 读取配置表 PlayerLevel
+2019-07-11 21:43:03.9259   (TableReader.cs:37) 读取配置表 Property
+2019-07-11 21:43:03.9411   (TableReader.cs:37) 读取配置表 Pvp
+2019-07-11 21:43:03.9584   (TableReader.cs:37) 读取配置表 Reward
+2019-07-11 21:43:03.9749   (TableReader.cs:37) 读取配置表 Shop
+2019-07-11 21:43:03.9949   (TableReader.cs:37) 读取配置表 Unlock
+2019-07-11 21:43:04.0223   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-07-11 21:43:04.0396   (ExportClientTS.cs:25) ExportClientTS:DTRewardRandom
+2019-07-11 21:43:04.0471   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-07-11 21:43:04.0471   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-07-11 21:43:04.0574   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-07-11 21:43:04.0574   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-07-11 21:43:04.0574   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-07-11 21:43:04.0748   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-07-11 21:43:04.0748   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-07-11 21:43:04.0895   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-07-11 21:43:04.0895   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-07-11 21:43:04.0895   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-07-11 21:43:04.1100   (ExportClientTS.cs:25) ExportClientTS:DTValue2
+2019-07-11 21:43:04.1100   (ExportClientTS.cs:25) ExportClientTS:DTValue3
+2019-07-11 21:43:04.1310   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-07-11 21:43:04.1360   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-07-11 21:43:04.1519   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-07-11 21:43:04.1519   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-07-11 21:43:04.1519   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-07-11 21:43:04.1710   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-07-11 21:43:04.1710   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-07-11 21:43:04.1826   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-07-11 21:43:04.1826   (ExportClientTS.cs:25) ExportClientTS:DTFixItemNum
+2019-07-11 21:43:04.1826   (ExportClientTS.cs:25) ExportClientTS:DTGiftNum
+2019-07-11 21:43:04.2043   (ExportClientTS.cs:25) ExportClientTS:DTLabelProperty
+2019-07-11 21:43:04.2043   (ExportClientTS.cs:25) ExportClientTS:DTInitialLabel
+2019-07-11 21:43:04.2176   (ExportClientTS.cs:25) ExportClientTS:DTPerformanceCondition
+2019-07-11 21:43:04.2176   (ExportClientTS.cs:25) ExportClientTS:DTSkillTiggerCondition
+2019-07-11 21:43:04.2322   (ExportClientTS.cs:25) ExportClientTS:Activities
+2019-07-11 21:43:04.2322   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-07-11 21:43:04.2537   (ExportClientTS.cs:25) ExportClientTS:Bag
+2019-07-11 21:43:04.2624   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-07-11 21:43:04.2624   (ExportClientTS.cs:25) ExportClientTS:CountActivities
+2019-07-11 21:43:04.2773   (ExportClientTS.cs:25) ExportClientTS:Gashapon
+2019-07-11 21:43:04.2773   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-07-11 21:43:04.2951   (ExportClientTS.cs:25) ExportClientTS:HeadPortrait
+2019-07-11 21:43:04.2951   (ExportClientTS.cs:25) ExportClientTS:Hero
+2019-07-11 21:43:04.3160   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-07-11 21:43:04.3252   (ExportClientTS.cs:25) ExportClientTS:ItemType
+2019-07-11 21:43:04.3252   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-07-11 21:43:04.3474   (ExportClientTS.cs:25) ExportClientTS:Loading
+2019-07-11 21:43:04.3636   (ExportClientTS.cs:25) ExportClientTS:Mail
+2019-07-11 21:43:04.3780   (ExportClientTS.cs:25) ExportClientTS:Map
+2019-07-11 21:43:04.3886   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-07-11 21:43:04.3886   (ExportClientTS.cs:25) ExportClientTS:MenuIndex
+2019-07-11 21:43:04.4093   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-07-11 21:43:04.4184   (ExportClientTS.cs:25) ExportClientTS:PlayerLevel
+2019-07-11 21:43:04.4184   (ExportClientTS.cs:25) ExportClientTS:Property
+2019-07-11 21:43:04.4358   (ExportClientTS.cs:25) ExportClientTS:Pvp
+2019-07-11 21:43:04.4358   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-07-11 21:43:04.4522   (ExportClientTS.cs:25) ExportClientTS:Shop
+2019-07-11 21:43:04.4522   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-07-11 21:43:27.2591   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:43:27.7175   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:43:27.7326   (TableReader.cs:37) 读取配置表 Activities
+2019-07-11 21:43:27.7446   (TableReader.cs:37) 读取配置表 Avatar
+2019-07-11 21:43:27.8291   (TableReader.cs:37) 读取配置表 Bag
+2019-07-11 21:43:27.8291   (TableReader.cs:37) 读取配置表 Compound
+2019-07-11 21:43:27.8499   (TableReader.cs:37) 读取配置表 CountActivities
+2019-07-11 21:43:27.8554   (TableReader.cs:37) 读取配置表 Gashapon
+2019-07-11 21:43:27.8554   (TableReader.cs:37) 读取配置表 Global
+2019-07-11 21:43:27.8781   (TableReader.cs:85)  path:E:/zengfeng/githubs/ihaiu_CocosH5GameFrame/design/Config/Common\Global.xlsx, sheetName:， 是空单元格 2行1列  
+2019-07-11 21:43:27.9012   (StringUtils.cs:255) 转换int32是非法字符 roleNameMinLength
+2019-07-11 21:43:27.9248   (StringUtils.cs:255) 转换int32是非法字符 int
+2019-07-11 21:43:27.9248   (TableReader.cs:85)  path:E:/zengfeng/githubs/ihaiu_CocosH5GameFrame/design/Config/Common\Global.xlsx, sheetName:， 是空单元格 2行4列  
+2019-07-11 21:43:27.9407   (TableReader.cs:37) 读取配置表 HeadPortrait
+2019-07-11 21:43:27.9407   (TableReader.cs:37) 读取配置表 Hero
+2019-07-11 21:43:27.9603   (TableReader.cs:37) 读取配置表 Item
+2019-07-11 21:43:28.0164   (TableReader.cs:37) 读取配置表 ItemType
+2019-07-11 21:43:28.0445   (TableReader.cs:37) 读取配置表 Loader
+2019-07-11 21:43:28.0445   (TableReader.cs:37) 读取配置表 Loading
+2019-07-11 21:43:28.0596   (TableReader.cs:37) 读取配置表 Mail
+2019-07-11 21:43:28.0596   (TableReader.cs:37) 读取配置表 Map
+2019-07-11 21:43:28.0786   (TableReader.cs:37) 读取配置表 Menu
+2019-07-11 21:43:28.0953   (TableReader.cs:37) 读取配置表 MenuIndex
+2019-07-11 21:43:28.0953   (TableReader.cs:37) 读取配置表 Msg
+2019-07-11 21:43:28.1717   (TableReader.cs:37) 读取配置表 PlayerLevel
+2019-07-11 21:43:28.2088   (TableReader.cs:37) 读取配置表 Property
+2019-07-11 21:43:28.2172   (TableReader.cs:37) 读取配置表 Pvp
+2019-07-11 21:43:28.2300   (TableReader.cs:37) 读取配置表 Reward
+2019-07-11 21:43:28.2471   (TableReader.cs:37) 读取配置表 Shop
+2019-07-11 21:43:28.2471   (TableReader.cs:37) 读取配置表 Unlock
+2019-07-11 21:43:28.2733   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-07-11 21:43:28.2901   (ExportClientTS.cs:25) ExportClientTS:DTRewardRandom
+2019-07-11 21:43:28.2983   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-07-11 21:43:28.2983   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-07-11 21:43:28.3084   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-07-11 21:43:28.3084   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-07-11 21:43:28.3227   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-07-11 21:43:28.3227   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-07-11 21:43:28.3227   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-07-11 21:43:28.3418   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-07-11 21:43:28.3418   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-07-11 21:43:28.3418   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-07-11 21:43:28.3583   (ExportClientTS.cs:25) ExportClientTS:DTValue2
+2019-07-11 21:43:28.3583   (ExportClientTS.cs:25) ExportClientTS:DTValue3
+2019-07-11 21:43:28.3583   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-07-11 21:43:28.3745   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-07-11 21:43:28.3745   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-07-11 21:43:28.3745   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-07-11 21:43:28.3922   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-07-11 21:43:28.3922   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-07-11 21:43:28.4019   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-07-11 21:43:28.4019   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-07-11 21:43:28.4172   (ExportClientTS.cs:25) ExportClientTS:DTFixItemNum
+2019-07-11 21:43:28.4172   (ExportClientTS.cs:25) ExportClientTS:DTGiftNum
+2019-07-11 21:43:28.4172   (ExportClientTS.cs:25) ExportClientTS:DTLabelProperty
+2019-07-11 21:43:28.4323   (ExportClientTS.cs:25) ExportClientTS:DTInitialLabel
+2019-07-11 21:43:28.4323   (ExportClientTS.cs:25) ExportClientTS:DTPerformanceCondition
+2019-07-11 21:43:28.4323   (ExportClientTS.cs:25) ExportClientTS:DTSkillTiggerCondition
+2019-07-11 21:43:28.4488   (ExportClientTS.cs:25) ExportClientTS:Activities
+2019-07-11 21:43:28.4488   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-07-11 21:43:28.4679   (ExportClientTS.cs:25) ExportClientTS:Bag
+2019-07-11 21:43:28.4679   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-07-11 21:43:28.4848   (ExportClientTS.cs:25) ExportClientTS:CountActivities
+2019-07-11 21:43:28.4848   (ExportClientTS.cs:25) ExportClientTS:Gashapon
+2019-07-11 21:43:28.4998   (ExportClientTS.cs:25) ExportClientTS:Global
+2019-07-11 21:43:28.4998   (ExportClientTS.cs:25) ExportClientTS:HeadPortrait
+2019-07-11 21:43:28.5152   (ExportClientTS.cs:25) ExportClientTS:Hero
+2019-07-11 21:43:28.5152   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-07-11 21:43:28.5353   (ExportClientTS.cs:25) ExportClientTS:ItemType
+2019-07-11 21:43:28.5456   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-07-11 21:43:28.5456   (ExportClientTS.cs:25) ExportClientTS:Loading
+2019-07-11 21:43:28.5637   (ExportClientTS.cs:25) ExportClientTS:Mail
+2019-07-11 21:43:28.5637   (ExportClientTS.cs:25) ExportClientTS:Map
+2019-07-11 21:43:28.5802   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-07-11 21:43:28.5802   (ExportClientTS.cs:25) ExportClientTS:MenuIndex
+2019-07-11 21:43:28.5953   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-07-11 21:43:28.5953   (ExportClientTS.cs:25) ExportClientTS:PlayerLevel
+2019-07-11 21:43:28.6111   (ExportClientTS.cs:25) ExportClientTS:Property
+2019-07-11 21:43:28.6111   (ExportClientTS.cs:25) ExportClientTS:Pvp
+2019-07-11 21:43:28.6268   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-07-11 21:43:28.6268   (ExportClientTS.cs:25) ExportClientTS:Shop
+2019-07-11 21:43:28.6424   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-07-11 21:45:02.9100   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:45:03.4532   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:45:03.4666   (TableReader.cs:37) 读取配置表 Activities
+2019-07-11 21:45:03.4666   (TableReader.cs:37) 读取配置表 Avatar
+2019-07-11 21:45:03.5989   (TableReader.cs:37) 读取配置表 Bag
+2019-07-11 21:45:03.6088   (TableReader.cs:37) 读取配置表 Compound
+2019-07-11 21:45:03.6088   (TableReader.cs:37) 读取配置表 CountActivities
+2019-07-11 21:45:03.6279   (TableReader.cs:37) 读取配置表 Gashapon
+2019-07-11 21:45:03.6366   (TableReader.cs:37) 读取配置表 HeadPortrait
+2019-07-11 21:45:03.6366   (TableReader.cs:37) 读取配置表 Hero
+2019-07-11 21:45:03.6541   (TableReader.cs:37) 读取配置表 Item
+2019-07-11 21:45:03.7018   (TableReader.cs:37) 读取配置表 ItemType
+2019-07-11 21:45:03.7330   (TableReader.cs:37) 读取配置表 Loader
+2019-07-11 21:45:03.7330   (TableReader.cs:37) 读取配置表 Loading
+2019-07-11 21:45:03.7330   (TableReader.cs:37) 读取配置表 Mail
+2019-07-11 21:45:03.7492   (TableReader.cs:37) 读取配置表 Map
+2019-07-11 21:45:03.7492   (TableReader.cs:37) 读取配置表 Menu
+2019-07-11 21:45:03.7701   (TableReader.cs:37) 读取配置表 MenuIndex
+2019-07-11 21:45:03.7701   (TableReader.cs:37) 读取配置表 Msg
+2019-07-11 21:45:03.8354   (TableReader.cs:37) 读取配置表 PlayerLevel
+2019-07-11 21:45:03.8697   (TableReader.cs:37) 读取配置表 Property
+2019-07-11 21:45:03.8848   (TableReader.cs:37) 读取配置表 Pvp
+2019-07-11 21:45:03.8951   (TableReader.cs:37) 读取配置表 Reward
+2019-07-11 21:45:03.9133   (TableReader.cs:37) 读取配置表 Shop
+2019-07-11 21:45:03.9214   (TableReader.cs:37) 读取配置表 Unlock
+2019-07-11 21:45:03.9363   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-07-11 21:45:03.9529   (ExportClientTS.cs:25) ExportClientTS:DTRewardRandom
+2019-07-11 21:45:03.9529   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-07-11 21:45:03.9529   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-07-11 21:45:03.9658   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-07-11 21:45:03.9658   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-07-11 21:45:03.9658   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-07-11 21:45:03.9827   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-07-11 21:45:03.9827   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-07-11 21:45:03.9827   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-07-11 21:45:03.9984   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-07-11 21:45:03.9984   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-07-11 21:45:03.9984   (ExportClientTS.cs:25) ExportClientTS:DTValue2
+2019-07-11 21:45:04.0133   (ExportClientTS.cs:25) ExportClientTS:DTValue3
+2019-07-11 21:45:04.0133   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-07-11 21:45:04.0133   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-07-11 21:45:04.0324   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-07-11 21:45:04.0324   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-07-11 21:45:04.0324   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-07-11 21:45:04.0480   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-07-11 21:45:04.0480   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-07-11 21:45:04.0480   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-07-11 21:45:04.0648   (ExportClientTS.cs:25) ExportClientTS:DTFixItemNum
+2019-07-11 21:45:04.0648   (ExportClientTS.cs:25) ExportClientTS:DTGiftNum
+2019-07-11 21:45:04.0749   (ExportClientTS.cs:25) ExportClientTS:DTLabelProperty
+2019-07-11 21:45:04.0749   (ExportClientTS.cs:25) ExportClientTS:DTInitialLabel
+2019-07-11 21:45:04.0749   (ExportClientTS.cs:25) ExportClientTS:DTPerformanceCondition
+2019-07-11 21:45:04.0913   (ExportClientTS.cs:25) ExportClientTS:DTSkillTiggerCondition
+2019-07-11 21:45:04.0913   (ExportClientTS.cs:25) ExportClientTS:Activities
+2019-07-11 21:45:04.1090   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-07-11 21:45:04.1090   (ExportClientTS.cs:25) ExportClientTS:Bag
+2019-07-11 21:45:04.1325   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-07-11 21:45:04.1438   (ExportClientTS.cs:25) ExportClientTS:CountActivities
+2019-07-11 21:45:04.1438   (ExportClientTS.cs:25) ExportClientTS:Gashapon
+2019-07-11 21:45:04.1603   (ExportClientTS.cs:25) ExportClientTS:HeadPortrait
+2019-07-11 21:45:04.1677   (ExportClientTS.cs:25) ExportClientTS:Hero
+2019-07-11 21:45:04.1677   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-07-11 21:45:04.1854   (ExportClientTS.cs:25) ExportClientTS:ItemType
+2019-07-11 21:45:04.1854   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-07-11 21:45:04.2054   (ExportClientTS.cs:25) ExportClientTS:Loading
+2019-07-11 21:45:04.2054   (ExportClientTS.cs:25) ExportClientTS:Mail
+2019-07-11 21:45:04.2236   (ExportClientTS.cs:25) ExportClientTS:Map
+2019-07-11 21:45:04.2310   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-07-11 21:45:04.2310   (ExportClientTS.cs:25) ExportClientTS:MenuIndex
+2019-07-11 21:45:04.2494   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-07-11 21:45:04.2494   (ExportClientTS.cs:25) ExportClientTS:PlayerLevel
+2019-07-11 21:45:04.2683   (ExportClientTS.cs:25) ExportClientTS:Property
+2019-07-11 21:45:04.2683   (ExportClientTS.cs:25) ExportClientTS:Pvp
+2019-07-11 21:45:04.2833   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-07-11 21:45:04.2833   (ExportClientTS.cs:25) ExportClientTS:Shop
+2019-07-11 21:45:04.3010   (ExportClientTS.cs:25) ExportClientTS:Unlock
+2019-07-11 21:45:43.6016   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:45:43.9775   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-07-11 21:45:43.9904   (TableReader.cs:37) 读取配置表 Activities
+2019-07-11 21:45:44.0016   (TableReader.cs:37) 读取配置表 Avatar
+2019-07-11 21:45:44.0775   (TableReader.cs:37) 读取配置表 Bag
+2019-07-11 21:45:44.0775   (TableReader.cs:37) 读取配置表 Compound
+2019-07-11 21:45:44.1008   (TableReader.cs:37) 读取配置表 CountActivities
+2019-07-11 21:45:44.1063   (TableReader.cs:37) 读取配置表 Gashapon
+2019-07-11 21:45:44.1063   (TableReader.cs:37) 读取配置表 HeadPortrait
+2019-07-11 21:45:44.1230   (TableReader.cs:37) 读取配置表 Hero
+2019-07-11 21:45:44.1392   (TableReader.cs:37) 读取配置表 Item
+2019-07-11 21:45:44.1946   (TableReader.cs:37) 读取配置表 ItemType
+2019-07-11 21:45:44.2285   (TableReader.cs:37) 读取配置表 Loader
+2019-07-11 21:45:44.2360   (TableReader.cs:37) 读取配置表 Loading
+2019-07-11 21:45:44.2360   (TableReader.cs:37) 读取配置表 Mail
+2019-07-11 21:45:44.2469   (TableReader.cs:37) 读取配置表 Map
+2019-07-11 21:45:44.2469   (TableReader.cs:37) 读取配置表 Menu
+2019-07-11 21:45:44.2724   (TableReader.cs:37) 读取配置表 MenuIndex
+2019-07-11 21:45:44.2785   (TableReader.cs:37) 读取配置表 Msg
+2019-07-11 21:45:44.3428   (TableReader.cs:37) 读取配置表 PlayerLevel
+2019-07-11 21:45:44.3857   (TableReader.cs:37) 读取配置表 Property
+2019-07-11 21:45:44.4014   (TableReader.cs:37) 读取配置表 Pvp
+2019-07-11 21:45:44.4131   (TableReader.cs:37) 读取配置表 Reward
+2019-07-11 21:45:44.4291   (TableReader.cs:37) 读取配置表 Shop
+2019-07-11 21:45:44.4401   (TableReader.cs:37) 读取配置表 Unlock
+2019-07-11 21:45:44.4598   (ExportClientTS.cs:25) ExportClientTS:DTItemNum
+2019-07-11 21:45:44.4813   (ExportClientTS.cs:25) ExportClientTS:DTRewardRandom
+2019-07-11 21:45:44.4813   (ExportClientTS.cs:25) ExportClientTS:DTStoryNum
+2019-07-11 21:45:44.4813   (ExportClientTS.cs:25) ExportClientTS:DTVector2
+2019-07-11 21:45:44.4963   (ExportClientTS.cs:25) ExportClientTS:DTActorSkill
+2019-07-11 21:45:44.4963   (ExportClientTS.cs:25) ExportClientTS:DTActorStory
+2019-07-11 21:45:44.4963   (ExportClientTS.cs:25) ExportClientTS:DTActorFeature
+2019-07-11 21:45:44.5157   (ExportClientTS.cs:25) ExportClientTS:DTActorCharacter
+2019-07-11 21:45:44.5157   (ExportClientTS.cs:25) ExportClientTS:DTRandomInterval
+2019-07-11 21:45:44.5312   (ExportClientTS.cs:25) ExportClientTS:DTShootType
+2019-07-11 21:45:44.5312   (ExportClientTS.cs:25) ExportClientTS:DTStoryEffect
+2019-07-11 21:45:44.5312   (ExportClientTS.cs:25) ExportClientTS:DTBuildingReq
+2019-07-11 21:45:44.5493   (ExportClientTS.cs:25) ExportClientTS:DTValue2
+2019-07-11 21:45:44.5493   (ExportClientTS.cs:25) ExportClientTS:DTValue3
+2019-07-11 21:45:44.5647   (ExportClientTS.cs:25) ExportClientTS:DTDrop
+2019-07-11 21:45:44.5647   (ExportClientTS.cs:25) ExportClientTS:DTPerformActoin
+2019-07-11 21:45:44.5791   (ExportClientTS.cs:25) ExportClientTS:DTPerformSpeak
+2019-07-11 21:45:44.5791   (ExportClientTS.cs:25) ExportClientTS:DTParts
+2019-07-11 21:45:44.5933   (ExportClientTS.cs:25) ExportClientTS:DTProficiency
+2019-07-11 21:45:44.5933   (ExportClientTS.cs:25) ExportClientTS:DTDate
+2019-07-11 21:45:44.6060   (ExportClientTS.cs:25) ExportClientTS:DTTime
+2019-07-11 21:45:44.6060   (ExportClientTS.cs:25) ExportClientTS:DTDateTime
+2019-07-11 21:45:44.6060   (ExportClientTS.cs:25) ExportClientTS:DTFixItemNum
+2019-07-11 21:45:44.6271   (ExportClientTS.cs:25) ExportClientTS:DTGiftNum
+2019-07-11 21:45:44.6271   (ExportClientTS.cs:25) ExportClientTS:DTLabelProperty
+2019-07-11 21:45:44.6412   (ExportClientTS.cs:25) ExportClientTS:DTInitialLabel
+2019-07-11 21:45:44.6412   (ExportClientTS.cs:25) ExportClientTS:DTPerformanceCondition
+2019-07-11 21:45:44.6412   (ExportClientTS.cs:25) ExportClientTS:DTSkillTiggerCondition
+2019-07-11 21:45:44.6586   (ExportClientTS.cs:25) ExportClientTS:Activities
+2019-07-11 21:45:44.6741   (ExportClientTS.cs:25) ExportClientTS:Avatar
+2019-07-11 21:45:44.6839   (ExportClientTS.cs:25) ExportClientTS:Bag
+2019-07-11 21:45:44.6839   (ExportClientTS.cs:25) ExportClientTS:Compound
+2019-07-11 21:45:44.6998   (ExportClientTS.cs:25) ExportClientTS:CountActivities
+2019-07-11 21:45:44.6998   (ExportClientTS.cs:25) ExportClientTS:Gashapon
+2019-07-11 21:45:44.7161   (ExportClientTS.cs:25) ExportClientTS:HeadPortrait
+2019-07-11 21:45:44.7161   (ExportClientTS.cs:25) ExportClientTS:Hero
+2019-07-11 21:45:44.7328   (ExportClientTS.cs:25) ExportClientTS:Item
+2019-07-11 21:45:44.7328   (ExportClientTS.cs:25) ExportClientTS:ItemType
+2019-07-11 21:45:44.7484   (ExportClientTS.cs:25) ExportClientTS:Loader
+2019-07-11 21:45:44.7484   (ExportClientTS.cs:25) ExportClientTS:Loading
+2019-07-11 21:45:44.7632   (ExportClientTS.cs:25) ExportClientTS:Mail
+2019-07-11 21:45:44.7632   (ExportClientTS.cs:25) ExportClientTS:Map
+2019-07-11 21:45:44.7780   (ExportClientTS.cs:25) ExportClientTS:Menu
+2019-07-11 21:45:44.7780   (ExportClientTS.cs:25) ExportClientTS:MenuIndex
+2019-07-11 21:45:44.7976   (ExportClientTS.cs:25) ExportClientTS:Msg
+2019-07-11 21:45:44.7976   (ExportClientTS.cs:25) ExportClientTS:PlayerLevel
+2019-07-11 21:45:44.8153   (ExportClientTS.cs:25) ExportClientTS:Property
+2019-07-11 21:45:44.8153   (ExportClientTS.cs:25) ExportClientTS:Pvp
+2019-07-11 21:45:44.8324   (ExportClientTS.cs:25) ExportClientTS:Reward
+2019-07-11 21:45:44.8417   (ExportClientTS.cs:25) ExportClientTS:Shop
+2019-07-11 21:45:44.8417   (ExportClientTS.cs:25) ExportClientTS:Unlock

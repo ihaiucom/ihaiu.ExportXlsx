@@ -9,3 +9,5 @@ E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.AssemblyInfo.cs
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.dll
 E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.pdb
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.csprojAssemblyReference.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ExportXlsx\obj\Debug\ExportXlsx.csproj.CopyComplete

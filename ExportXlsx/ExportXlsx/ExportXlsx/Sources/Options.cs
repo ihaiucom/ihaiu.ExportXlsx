@@ -106,6 +106,10 @@ namespace ExportXlsx.Sources
         [Option("isExportJsonOnceFile", Required = false, Default = true)]
         public bool isExportJsonOnceFile { get; set; }
 
+        // 是否导出TS Json Client
+        [Option("isExportTSJsonClient", Required = false, Default = true)]
+        public bool isExportTSJsonClient { get; set; }
+
 
         public void Save(string path = null)
         {

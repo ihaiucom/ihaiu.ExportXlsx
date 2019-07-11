@@ -5,7 +5,8 @@
 
 import CsvConfigRender from "../CsvConfigRender";
 import RewardConfig from "../ConfigExtends/RewardConfig";
-import DTItemNum from "../ConfigExtends/DTItemNum";
+import DTFixItemNum from "../ConfigExtends/DTFixItemNum";
+import DTRewardRandom from "../ConfigExtends/DTRewardRandom";
 
 
 export default class RewardConfigReaderStruct extends CsvConfigRender<    RewardConfig      >
@@ -19,8 +20,10 @@ export default class RewardConfigReaderStruct extends CsvConfigRender<    Reward
 
 
 		config.id = csvGetInt(csv,  this.GetHeadIndex(  "id"  )   );
-		config.Use_type = csvGetInt(csv,  this.GetHeadIndex(  "Use_type"  )   );
-		config.Item =  DTItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "Item"  )   )   );
+		config.fixedItems =  DTFixItemNum.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "fixedItems"  )   )   );
+		config.multipleReward = csvGetInt(csv,  this.GetHeadIndex(  "multipleReward"  )   );
+		config.randomItems =  DTRewardRandom.parseArray(       csvGetString(csv,  this.GetHeadIndex(  "randomItems"  )   )   );
+		config.randomCount = csvGetInt(csv,  this.GetHeadIndex(  "randomCount"  )   );
 
 		
 

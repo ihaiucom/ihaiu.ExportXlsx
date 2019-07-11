@@ -1,0 +1,4 @@
+int	int	int	int	int
+ID	物品id	等级	出售价格	堆叠数量
+id	itemId	level	sellPrice	stackNumber
+10001	10000	1	530	1

@@ -1,0 +1,6 @@
+int	int	string	int	int	int	int	int	int	int	string
+id	活动类型	活动名称	起始类型（0：随开服时间；1：随配置时间；2：随玩家注册时间）	需求玩家等级	需求街区等级	开始时间（起始类型为1时读取）	活动时长（天）	默认图标	图标选中状态	活动说明
+id	type	name	startType	levelReq	blockReq	start	duration	icon	iconChosen	info
+40101001	1	七日礼包	2	0	0	0	0	5121	5125	活动期间每日登录均可领取相应奖励
+40101002	2	周积分	2	30	0	0	10	5121	5125	活动期间每日日常积分达到一定目标后可领取相应奖励
+40101003	3	抽奖	0	30	0	0	5	5121	5125	5星艺人抽奖活动

@@ -142,8 +142,18 @@ namespace ExportXlsx.Sources
             if (Setting.Options.isExportTSClient)
                 ExportTsClient();
 
+
+            if (Setting.Options.isExportTSJsonClient)
+                ExportTSJsonClient();
+
             if (Setting.Options.isExportTSServer)
                 ExportTsServer();
+
+        }
+
+        public void ExportTSJsonClient()
+        {
+
         }
 
         public void ExportTsClient()
