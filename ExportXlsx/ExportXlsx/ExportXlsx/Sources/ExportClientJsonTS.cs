@@ -55,7 +55,7 @@ namespace ExportXlsx.Sources
 
             if (!isExtend)
             {
-                ExportConfigReaderStruct();
+                //ExportConfigReaderStruct();
                 ExportConfigReader();
             }
 
@@ -68,7 +68,7 @@ namespace ExportXlsx.Sources
             List<object[]> imports = new List<object[]>();
             Dictionary<string, bool> importDict = new Dictionary<string, bool>();
 
-            string path = string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfigStruct);
+            string path = string.Format(OutPaths.ClientImportJsonTS.ConfigStructTeamplate, classNameConfigStruct);
 
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
@@ -139,7 +139,7 @@ namespace ExportXlsx.Sources
             if (isExtend)
             {
 
-                imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigTemplate, classNameConfig)) });
+                imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.ClientImportJsonTS.ConfigTemplate, classNameConfig)) });
 
                 StringWriter sw = new StringWriter();
                 sw.WriteLine($"  static parse(txt: string): {classNameConfig} ");
@@ -182,7 +182,7 @@ namespace ExportXlsx.Sources
 
 
 
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigStructTemplates));
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigStructTemplates));
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
             template.AddVariable("imports", imports.ToArray());
             template.AddVariable("fields", fields.ToArray());
@@ -205,7 +205,7 @@ namespace ExportXlsx.Sources
 
             List<object[]> imports = new List<object[]>();
             Dictionary<string, bool> importDict = new Dictionary<string, bool>();
-            string path = string.Format(OutPaths.Client.ConfigTemplate, classNameConfig);
+            string path = string.Format(OutPaths.ClientImportJsonTS.ConfigTemplate, classNameConfig);
 
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
@@ -224,10 +224,12 @@ namespace ExportXlsx.Sources
                 }
             }
 
-            imports.Add(new object[] { classNameConfigStruct, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigStructTeamplate, classNameConfigStruct)) });
+            //imports.Add(new object[] { classNameConfigStruct, PathHelper.GetImportPath(path, string.Format(OutPaths.ClientImportJsonTS.ConfigStructTeamplate, classNameConfigStruct)) });
+
+            imports.Add(new object[] { classNameConfigStruct});
 
 
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigTemplate));
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigTemplate));
             template.AddVariable("classNameConfig", classNameConfig);
             template.AddVariable("classNameConfigStruct", classNameConfigStruct);
             template.AddVariable("langs", langs.ToArray());
@@ -242,7 +244,7 @@ namespace ExportXlsx.Sources
 
         public void ExportConfigReaderStruct()
         {
-            string path = string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct);
+            string path = string.Format(OutPaths.ClientImportJsonTS.ConfigReaderStructTemplate, classNameConfigReaderStruct);
 
             List<object[]> dicts = new List<object[]>();
             List<object[]> fields = new List<object[]>();
@@ -250,7 +252,7 @@ namespace ExportXlsx.Sources
             List<object[]> imports = new List<object[]>();
             Dictionary<string, bool> importDict = new Dictionary<string, bool>();
 
-            imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigTemplate, classNameConfig)) });
+            imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.ClientImportJsonTS.ConfigTemplate, classNameConfig)) });
 
             for (int i = 0; i < dataStruct.fields.Count; i++)
             {
@@ -277,16 +279,15 @@ namespace ExportXlsx.Sources
                     if (!importDict.ContainsKey(importType))
                     {
                         importDict.Add(importType, true);
-                        object[] lines = new object[] { importType, PathHelper.GetImportPath(path, dataField.GetTsTypeImportPath(importType)) };
+                        object[] lines = new object[] { importType, PathHelper.GetImportPath(path, dataField.GetTsTypeImportPath(importType, OutPaths.ClientImportJsonTS.ConfigTemplate)) };
                         imports.Add(lines);
                     }
-
                 }
 
             }
 
 
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigReaderStructTemplate));
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigReaderStructTemplate));
             template.AddVariable("classNameConfig", classNameConfig);
             template.AddVariable("classNameConfigReaderStruct", classNameConfigReaderStruct);
             template.AddVariable("tableName", tableName);
@@ -303,14 +304,50 @@ namespace ExportXlsx.Sources
         public void ExportConfigReader()
         {
 
-            string path = string.Format(OutPaths.Client.ConfigReaderTemplate, classNameConfigReader);
+            string path = string.Format(OutPaths.ClientImportJsonTS.ConfigReaderTemplate, classNameConfigReader);
 
             List<object[]> imports = new List<object[]>();
             Dictionary<string, bool> importDict = new Dictionary<string, bool>();
 
-            imports.Add(new object[] { classNameConfigReaderStruct, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigReaderStructTemplate, classNameConfigReaderStruct)) });
+            imports.Add(new object[] { classNameConfig, PathHelper.GetImportPath(path, string.Format(OutPaths.ClientImportJsonTS.ConfigTemplate, classNameConfig)) });
 
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigReaderTemplate));
+
+            for (int i = 0; i < dataStruct.fields.Count; i++)
+            {
+                DataField dataField = dataStruct.fields[i];
+
+                if (!dataField.isExport)
+                    continue;
+
+                //if (dataField.fieldNameIsEnable)
+                //{
+                //    object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
+                //    fields.Add(lines);
+                //}
+                //else
+                //{
+                //    object[] lines = new object[] { dataField.field, GetParseTxt(dataField) };
+                //    dicts.Add(lines);
+                //}
+
+
+                //string importType = dataField.GetTsTypeImport();
+                //if (!string.IsNullOrEmpty(importType))
+                //{
+                //    if (!importDict.ContainsKey(importType))
+                //    {
+                //        importDict.Add(importType, true);
+                //        object[] lines = new object[] { importType, PathHelper.GetImportPath(path, dataField.GetTsTypeImportPath(importType, OutPaths.ClientImportJsonTS.ConfigTemplate)) };
+                //        imports.Add(lines);
+                //    }
+                //}
+
+            }
+
+
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigReaderTemplate));
+            template.AddVariable("classNameConfig", classNameConfig);
+            template.AddVariable("tableName", tableName);
             template.AddVariable("classNameConfigReader", classNameConfigReader);
             template.AddVariable("classNameConfigReaderStruct", classNameConfigReaderStruct);
             template.AddVariable("imports", imports.ToArray());
@@ -330,35 +367,39 @@ namespace ExportXlsx.Sources
             {
                 lines.Add(new object[] { item.classNameConfig });
             }
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigIncludesTemplate));
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigIncludesTemplate));
             template.AddVariable("list", lines.ToArray());
             string content = template.Parse();
-            string path = OutPaths.Client.ConfigIncludesTemplate;
+            string path = OutPaths.ClientImportJsonTS.ConfigIncludesTemplate;
 
 
             PathHelper.CheckPath(path);
             File.WriteAllText(path, content);
         }
 
-        public static void ExportConfigManagerList(List<ExportClientTS> list)
+        public static void ExportConfigManagerList(List<ExportClientJsonTS> list)
         {
 
-            string path = OutPaths.Client.ConfigManagerListTemplate;
+            string path = OutPaths.ClientImportJsonTS.ConfigManagerListTemplate;
 
             List<object[]> imports = new List<object[]>();
             Dictionary<string, bool> importDict = new Dictionary<string, bool>();
 
 
             List<object[]> lines = new List<object[]>();
-            foreach (ExportClientTS item in list)
+            List<object[]> configStructList = new List<object[]>();
+            foreach (ExportClientJsonTS item in list)
             {
                 if (item.isExtend)
                     continue;
 
+                configStructList.Add(new object[] { item.tsConfigStructInfo.clsCode} );
                 lines.Add(new object[] { item.fieldName, item.classNameConfigReader });
-                imports.Add(new object[] { item.classNameConfigReader, PathHelper.GetImportPath(path, string.Format(OutPaths.Client.ConfigReaderTemplate, item.classNameConfigReader)) });
+                imports.Add(new object[] { item.classNameConfigReader, PathHelper.GetImportPath(path, string.Format(OutPaths.ClientImportJsonTS.ConfigReaderTemplate, item.classNameConfigReader)) });
             }
-            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.Client.ConfigManagerListTemplate));
+
+            TemplateSystem template = new TemplateSystem(File.ReadAllText(TemplatingFiles.ClientImportJsonTS.ConfigManagerListTemplate));
+            template.AddVariable("configStructList", configStructList.ToArray());
             template.AddVariable("tables", lines.ToArray());
             template.AddVariable("imports", imports.ToArray());
             string content = template.Parse();

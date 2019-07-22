@@ -153,10 +153,10 @@ namespace ExportXlsx.Sources
 
         public void ExportTSJsonClient()
         {
-            List<ExportClientTS> list = new List<ExportClientTS>();
+            List<ExportClientJsonTS> list = new List<ExportClientJsonTS>();
             foreach (var kvp in dataStructs)
             {
-                ExportClientTS item = new ExportClientTS();
+                ExportClientJsonTS item = new ExportClientJsonTS();
                 item.dataStruct = kvp.Value;
                 item.Export();
 
@@ -164,7 +164,7 @@ namespace ExportXlsx.Sources
             }
 
             //ExportClientTS.ExportConfigIncludes(list);
-            ExportClientTS.ExportConfigManagerList(list);
+            ExportClientJsonTS.ExportConfigManagerList(list);
         }
 
         public void ExportTsClient()

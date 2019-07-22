@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Copy", "Copy\Copy.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove", "Remove\Remove.csproj", "{D0672954-E535-4BFC-877B-DDA4BE75865C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExportKey", "ExportKey\ExportKey.csproj", "{53EA7864-A70B-4119-88B0-F1570AAA0D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExportKey", "ExportKey\ExportKey.csproj", "{53EA7864-A70B-4119-88B0-F1570AAA0D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceFileExtensions", "ReplaceFileExtensions\ReplaceFileExtensions.csproj", "{88FDD5D3-E558-4A53-9EBB-D4B793FCCE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS3-To-TS", "AS3-To-TS\AS3-To-TS.csproj", "{EFAF3555-39B2-462C-82C5-54BF0E3B69F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{53EA7864-A70B-4119-88B0-F1570AAA0D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53EA7864-A70B-4119-88B0-F1570AAA0D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53EA7864-A70B-4119-88B0-F1570AAA0D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FDD5D3-E558-4A53-9EBB-D4B793FCCE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FDD5D3-E558-4A53-9EBB-D4B793FCCE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FDD5D3-E558-4A53-9EBB-D4B793FCCE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FDD5D3-E558-4A53-9EBB-D4B793FCCE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAF3555-39B2-462C-82C5-54BF0E3B69F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAF3555-39B2-462C-82C5-54BF0E3B69F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAF3555-39B2-462C-82C5-54BF0E3B69F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAF3555-39B2-462C-82C5-54BF0E3B69F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

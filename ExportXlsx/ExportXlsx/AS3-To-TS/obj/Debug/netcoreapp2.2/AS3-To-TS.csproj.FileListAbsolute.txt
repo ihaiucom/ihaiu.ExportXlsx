@@ -1,0 +1,11 @@
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\bin\Debug\netcoreapp2.2\AS3-To-TS.deps.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\bin\Debug\netcoreapp2.2\AS3-To-TS.runtimeconfig.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\bin\Debug\netcoreapp2.2\AS3-To-TS.runtimeconfig.dev.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\bin\Debug\netcoreapp2.2\AS3-To-TS.dll
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\bin\Debug\netcoreapp2.2\AS3-To-TS.pdb
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.csprojAssemblyReference.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.csproj.CoreCompileInputs.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.AssemblyInfoInputs.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.AssemblyInfo.cs
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.dll
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\AS3-To-TS\obj\Debug\netcoreapp2.2\AS3-To-TS.pdb

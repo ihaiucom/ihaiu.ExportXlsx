@@ -1,18 +1,6 @@
-/////////////////////////////////////
-// ExportXlsx生成
-// http://blog.ihaiu.com/tool-ExportXlsx
-/////////////////////////////////////
 
-import BaseConfig from "../BaseConfig";
->:FOREACH imports:<
-import >:[0]:< from ">:[1]:<";
->:ENDFOREACH:<
-
-
-
-export default class >:classNameConfigStruct:< extends BaseConfig
+export class >:classNameConfigStruct:< extends BaseConfig
 {
-
 	>:FOREACH dicts:<
 	// >:[0]:< : >:[1]:<;
 	static KEY_>:[2]:< = ">:[0]:<";
@@ -23,7 +11,7 @@ export default class >:classNameConfigStruct:< extends BaseConfig
 	>:[0]:< : >:[1]:<;
 	>:ENDFOREACH:<
 
-
+	
 	>:parse:< 
 
 

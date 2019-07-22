@@ -3,9 +3,14 @@
 // http://blog.ihaiu.com/tool-ExportXlsx
 /////////////////////////////////////
 
+import BaseConfig from "./BaseConfig";
 import ConfigRenderInterface from "./Interfaces/ConfigRenderInterface";
 >:FOREACH imports:<
 import >:[0]:< from ">:[1]:<";
+>:ENDFOREACH:<
+
+>:FOREACH configStructList:<
+>:[0]:<
 >:ENDFOREACH:<
 
 /// 配置读取器列表

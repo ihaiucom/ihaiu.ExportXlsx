@@ -4,10 +4,16 @@
 /////////////////////////////////////
 
 
+
+import JsonConfigRender from "../JsonConfigRender";
 >:FOREACH imports:<
 import >:[0]:< from ">:[1]:<";
 >:ENDFOREACH:<
 
-export default class >:classNameConfigReader:< extends >:classNameConfigReaderStruct:<
+
+export default class >:classNameConfigReader:< extends JsonConfigRender<    >:classNameConfig:<      >
 {
+	tableName = ">:tableName:<";
+	configCls = >:classNameConfig:<;
+
 }

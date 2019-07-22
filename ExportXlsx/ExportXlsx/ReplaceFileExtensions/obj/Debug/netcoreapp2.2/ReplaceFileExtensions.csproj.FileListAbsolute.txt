@@ -1,0 +1,11 @@
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\bin\Debug\netcoreapp2.2\ReplaceFileExtensions.deps.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\bin\Debug\netcoreapp2.2\ReplaceFileExtensions.runtimeconfig.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\bin\Debug\netcoreapp2.2\ReplaceFileExtensions.runtimeconfig.dev.json
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\bin\Debug\netcoreapp2.2\ReplaceFileExtensions.dll
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\bin\Debug\netcoreapp2.2\ReplaceFileExtensions.pdb
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.csprojAssemblyReference.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.csproj.CoreCompileInputs.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.AssemblyInfoInputs.cache
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.AssemblyInfo.cs
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.dll
+E:\zengfeng\githubs\ihaiu.ExportXlsx\ExportXlsx\ExportXlsx\ReplaceFileExtensions\obj\Debug\netcoreapp2.2\ReplaceFileExtensions.pdb

@@ -52,15 +52,19 @@ namespace ExportXlsx.Sources
             return name;
         }
 
-        public string GetTsTypeImportPath(string name = null)
+        public string GetTsTypeImportPath(string name = null, string configPath = null)
         {
             if(string.IsNullOrEmpty(name))
             {
                 name = GetTsTypeImport();
             }
 
+            if (string.IsNullOrEmpty(configPath))
+            {
+                configPath = OutPaths.Client.ConfigTemplate;
+            }
 
-            string path = string.Format(OutPaths.Client.ConfigTemplate, name);
+            string path = string.Format(configPath, name);
 
             return path;
         }
@@ -82,9 +86,12 @@ namespace ExportXlsx.Sources
             {
                 case "string":
                     return "string";
+                case "int32":
                 case "int64":
                 case "int":
                 case "float":
+                case "float32":
+                case "float64":
                 case "double":
                     return "number";
                 case "boolean":

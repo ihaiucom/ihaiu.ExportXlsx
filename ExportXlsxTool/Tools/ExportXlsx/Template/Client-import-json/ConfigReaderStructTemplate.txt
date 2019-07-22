@@ -9,7 +9,7 @@ import >:[0]:< from ">:[1]:<";
 >:ENDFOREACH:<
 
 
-export default class >:classNameConfigReaderStruct:< extends CsvConfigRender<    >:classNameConfig:<      >
+export default class >:classNameConfigReaderStruct:< extends JsonConfigRender<    >:classNameConfig:<      >
 {
 	tableName = ">:tableName:<";
 

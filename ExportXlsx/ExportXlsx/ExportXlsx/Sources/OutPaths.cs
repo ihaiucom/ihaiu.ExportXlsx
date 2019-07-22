@@ -57,6 +57,66 @@ namespace ExportXlsx.Sources
             }
         }
 
+        public class ClientImportJsonTS
+        {
+
+            public static string Root
+            {
+                get
+                {
+                    return Setting.Options.outDir + "/ClientImportJsonTS/Config/";
+                }
+            }
+
+            public static string ConfigStructTeamplate
+            {
+                get
+                {
+                    return Root + "ConfigStructs/{0}.ts";
+                }
+            }
+
+            public static string ConfigTemplate
+            {
+                get
+                {
+                    return Root + "ConfigExtends/{0}.ts";
+                }
+            }
+
+            public static string ConfigReaderStructTemplate
+            {
+                get
+                {
+                    return Root + "ReaderStructs/{0}.ts";
+                }
+            }
+
+            public static string ConfigReaderTemplate
+            {
+                get
+                {
+                    return Root + "ReaderExtends/{0}.ts";
+                }
+            }
+
+            public static string ConfigManagerListTemplate
+            {
+                get
+                {
+                    return Root + "ConfigManagerList.ts";
+                }
+            }
+
+            public static string ConfigIncludesTemplate
+            {
+                get
+                {
+                    return Root + "ConfigIncludes.ts";
+                }
+            }
+        }
+
         public class Server
         {
             public static string ConfigTemplate
