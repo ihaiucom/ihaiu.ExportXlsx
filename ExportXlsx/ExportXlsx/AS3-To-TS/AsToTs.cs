@@ -92,6 +92,7 @@ public class AsToTs
         code = Regex.Replace(code, pattern, replacement);
 
 
+
         pattern = @":String\s*;";
         replacement = ":string;";
         code = Regex.Replace(code, pattern, replacement);
@@ -110,6 +111,9 @@ public class AsToTs
         replacement = ":number$1";
         code = Regex.Replace(code, pattern, replacement);
 
+        pattern = @":\s*Boolean\s*";
+        replacement = ":boolean";
+        code = Regex.Replace(code, pattern, replacement);
 
 
         pattern = @"<Boolean>";
