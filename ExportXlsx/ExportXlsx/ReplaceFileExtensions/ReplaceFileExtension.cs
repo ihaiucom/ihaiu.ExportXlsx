@@ -6,11 +6,11 @@ using System.Text;
 
 public static class ReplaceFileExtension
 {
-    public static void Do(string src, string dest, bool overwrite = true, string srcExt=".as", string destExt=".ts")
+    public static void Do(string src, string dest, bool overwrite = true, string srcExt=".as", string destExt=".ts", bool isRemoveSrcFile = false)
     {
         if (Directory.Exists(src))
         {
-            DoDirectory(src, dest, overwrite, srcExt, destExt);
+            DoDirectory(src, dest, overwrite, srcExt, destExt, isRemoveSrcFile);
         }
         else if (File.Exists(src))
         {
@@ -19,14 +19,14 @@ public static class ReplaceFileExtension
             if (srcFileExt.ToLower() == srcExt.ToLower())
             {
                 dest = PathHelper.ChangeExtension(dest, destExt);
-                DoFile(src, dest, overwrite);
+                DoFile(src, dest, overwrite, isRemoveSrcFile);
             }
 
         }
     }
 
 
-    private static void DoFile(string src, string dest, bool overwrite = true)
+    private static void DoFile(string src, string dest, bool overwrite = true, bool isRemoveSrcFile = false)
     {
         if (File.Exists(src))
         {
@@ -46,10 +46,15 @@ public static class ReplaceFileExtension
             }
             PathHelper.CheckPath(dest);
             File.Copy(src, dest, overwrite);
+
+            if(isRemoveSrcFile)
+            {
+                File.Delete(src);
+            }
         }
     }
 
-    public static void DoDirectory(string srcPath, string destPath, bool overwrite = true, string srcExt = ".as", string destExt = ".ts")
+    public static void DoDirectory(string srcPath, string destPath, bool overwrite = true, string srcExt = ".as", string destExt = ".ts", bool isRemoveSrcFile = false)
     {
         try
         {
@@ -63,7 +68,7 @@ public static class ReplaceFileExtension
                     {
                         Directory.CreateDirectory(destPath + "/" + i.Name);   //目标目录下不存在此文件夹即创建子文件夹
                     }
-                    DoDirectory(i.FullName, destPath + "/" + i.Name, overwrite, srcExt, destExt);    //递归调用复制子文件夹
+                    DoDirectory(i.FullName, destPath + "/" + i.Name, overwrite, srcExt, destExt, isRemoveSrcFile);    //递归调用复制子文件夹
                 }
                 else
                 {
@@ -72,7 +77,7 @@ public static class ReplaceFileExtension
                     if(srcFileExt.ToLower() == srcExt.ToLower())
                     {
                         dest = PathHelper.ChangeExtension(dest, destExt);
-                        DoFile(i.FullName, dest, overwrite); //不是文件夹即复制文件，true表示可以覆盖同名文件
+                        DoFile(i.FullName, dest, overwrite, isRemoveSrcFile); //不是文件夹即复制文件，true表示可以覆盖同名文件
                     }
                 }
             }

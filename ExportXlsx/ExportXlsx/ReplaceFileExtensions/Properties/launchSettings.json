@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReplaceFileExtensions": {
+      "commandName": "Project",
+      "commandLineArgs": "./a ./a .as .ts"
+    }
+  }
+}
