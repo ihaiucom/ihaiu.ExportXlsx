@@ -370,9 +370,23 @@ namespace ExportXlsx.Sources
                     return $"csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
                 case "int":
                 case "int64":
+                case "int32":
+
+                case "int8":
+                case "int16":
+                case "uint8":
+                case "uint16":
+                case "uint32":
+                case "uint64":
+                case "bit":
+                case "bytes":
+                case "byte":
                     return $"csvGetInt(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
                 case "float":
                 case "double":
+
+                case "float32":
+                case "float64":
                     return $"csvGetFloat(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )";
                 case "boolean":
                 case "bool":
@@ -388,9 +402,23 @@ namespace ExportXlsx.Sources
                     return $" toStringArray(       csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )   )";
                 case "int[]":
                 case "int64[]":
+
+
+                case "int8[]":
+                case "int16[]":
+                case "uint8[]":
+                case "uint16[]":
+                case "uint32[]":
+                case "uint64[]":
+                case "bit[]":
+                case "bytes[]":
+                case "byte[]":
                     return $" toIntArray(       csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )   )";
                 case "float[]":
                 case "double[]":
+
+                case "float32[]":
+                case "float64[]":
                     return $" toFloatArray(       csvGetString(csv,  this.GetHeadIndex(  \"{dataField.field}\"  )   )   )";
                 case "boolean[]":
                 case "bool[]":
@@ -426,9 +454,23 @@ namespace ExportXlsx.Sources
                     return $"csvGetString(csv,  {i}   )";
                 case "int":
                 case "int64":
+
+
+                case "int8[]":
+                case "int16[]":
+                case "uint8[]":
+                case "uint16[]":
+                case "uint32[]":
+                case "uint64[]":
+                case "bit[]":
+                case "bytes[]":
+                case "byte[]":
                     return $"csvGetInt(csv,  {i} )";
                 case "float":
                 case "double":
+
+                case "float32[]":
+                case "float64[]":
                     return $"csvGetFloat(csv,  {i}  )";
                 case "boolean":
                 case "bool":
@@ -445,9 +487,22 @@ namespace ExportXlsx.Sources
                     return $" toStringArray(       csvGetString(csv, {i}   )   )";
                 case "int[]":
                 case "int64[]":
+
+                case "int8[]":
+                case "int16[]":
+                case "uint8[]":
+                case "uint16[]":
+                case "uint32[]":
+                case "uint64[]":
+                case "bit[]":
+                case "bytes[]":
+                case "byte[]":
                     return $" toIntArray(       csvGetString(csv,  {i}   )   )";
                 case "float[]":
                 case "double[]":
+
+                case "float32[]":
+                case "float64[]":
                     return $" toFloatArray(       csvGetString(csv,  {i}   )   )";
                 case "boolean[]":
                 case "bool[]":

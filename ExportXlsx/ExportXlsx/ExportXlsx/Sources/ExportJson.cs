@@ -57,15 +57,26 @@ namespace ExportXlsx.Sources
                     //lineJD[field] = string.Format("\"{0}\"", txt.Replace("\"", "\\\""));
                     return;
                 case "int64":
+                case "uint64":
                     lineJD[field] = txt.ToInt64();
                     return;
                 case "int":
+                case "int8":
+                case "int16":
+                case "uint8":
+                case "uint16":
+                case "uint32":
+                case "bit":
+                case "bytes":
+                case "byte":
                     lineJD[field] = txt.ToInt32();
                     return;
                 case "double":
+                case "float64":
                     lineJD[field] = txt.ToDouble();
                     return;
                 case "float":
+                case "float32":
                     lineJD[field] = txt.ToSingle();
                     return;
                 case "boolean":
@@ -92,6 +103,15 @@ namespace ExportXlsx.Sources
                         return;
 
                     case "int64[]":
+                    case "int8[]":
+                    case "int16[]":
+                    case "uint8[]":
+                    case "uint16[]":
+                    case "uint32[]":
+                    case "uint64[]":
+                    case "bit[]":
+                    case "bytes[]":
+                    case "byte[]":
                         for (int i = 0; i < csv.Length; i++)
                         {
                             jd.Add(csv[i].ToInt64());
@@ -104,12 +124,14 @@ namespace ExportXlsx.Sources
                         }
                         return;
                     case "double[]":
+                    case "float64[]":
                         for (int i = 0; i < csv.Length; i++)
                         {
                             jd.Add(csv[i].ToDouble());
                         }
                         return;
                     case "float[]":
+                    case "float32[]":
                         for (int i = 0; i < csv.Length; i++)
                         {
                             jd.Add(csv[i].ToSingle());

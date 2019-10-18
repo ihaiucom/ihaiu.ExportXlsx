@@ -45,6 +45,15 @@ namespace ExportXlsx.Sources
                 case "double":
                 case "boolean":
                 case "bool":
+
+                case "bit":
+                case "byte":
+                case "int8":
+                case "int32":
+                case "uint32":
+                case "uint64":
+                case "float32":
+                case "float64":
                     return null;
             }
 
@@ -86,8 +95,13 @@ namespace ExportXlsx.Sources
             {
                 case "string":
                     return "string";
+                case "bit":
+                case "byte":
+                case "int8":
                 case "int32":
                 case "int64":
+                case "uint32":
+                case "uint64":
                 case "int":
                 case "float":
                 case "float32":

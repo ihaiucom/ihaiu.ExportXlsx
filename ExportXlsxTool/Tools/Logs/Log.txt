@@ -8519,3 +8519,74 @@
 2019-07-12 10:21:37.9212   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Reward
 2019-07-12 10:21:37.9316   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Shop
 2019-07-12 10:21:37.9316   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Unlock
+2019-10-18 11:00:20.3446   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-10-18 11:00:20.8277   (TableReader.cs:37) 读取配置表 ExportSetting
+2019-10-18 11:00:20.8481   (TableReader.cs:37) 读取配置表 Activities
+2019-10-18 11:00:20.8682   (TableReader.cs:37) 读取配置表 Avatar
+2019-10-18 11:00:20.9428   (TableReader.cs:37) 读取配置表 Bag
+2019-10-18 11:00:20.9658   (TableReader.cs:37) 读取配置表 Compound
+2019-10-18 11:00:20.9823   (TableReader.cs:37) 读取配置表 CountActivities
+2019-10-18 11:00:20.9823   (TableReader.cs:37) 读取配置表 Gashapon
+2019-10-18 11:00:21.0043   (TableReader.cs:37) 读取配置表 HeadPortrait
+2019-10-18 11:00:21.0168   (TableReader.cs:37) 读取配置表 Hero
+2019-10-18 11:00:21.0317   (TableReader.cs:37) 读取配置表 Item
+2019-10-18 11:00:21.0829   (TableReader.cs:37) 读取配置表 ItemType
+2019-10-18 11:00:21.1296   (TableReader.cs:37) 读取配置表 Loader
+2019-10-18 11:00:21.1419   (TableReader.cs:37) 读取配置表 Loading
+2019-10-18 11:00:21.1614   (TableReader.cs:37) 读取配置表 Mail
+2019-10-18 11:00:21.1834   (TableReader.cs:37) 读取配置表 Map
+2019-10-18 11:00:21.2009   (TableReader.cs:37) 读取配置表 Menu
+2019-10-18 11:00:21.2228   (TableReader.cs:37) 读取配置表 MenuIndex
+2019-10-18 11:00:21.2334   (TableReader.cs:37) 读取配置表 Msg
+2019-10-18 11:00:21.3011   (TableReader.cs:37) 读取配置表 PlayerLevel
+2019-10-18 11:00:21.3604   (TableReader.cs:37) 读取配置表 Property
+2019-10-18 11:00:21.3799   (TableReader.cs:37) 读取配置表 Pvp
+2019-10-18 11:00:21.3938   (TableReader.cs:37) 读取配置表 Reward
+2019-10-18 11:00:21.4203   (TableReader.cs:37) 读取配置表 Shop
+2019-10-18 11:00:21.4323   (TableReader.cs:37) 读取配置表 Unlock
+2019-10-18 11:00:21.4551   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTItemNum
+2019-10-18 11:00:21.4958   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTRewardRandom
+2019-10-18 11:00:21.5132   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTStoryNum
+2019-10-18 11:00:21.5132   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTVector2
+2019-10-18 11:00:21.5132   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTActorSkill
+2019-10-18 11:00:21.5294   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTActorStory
+2019-10-18 11:00:21.5294   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTActorFeature
+2019-10-18 11:00:21.5294   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTActorCharacter
+2019-10-18 11:00:21.5402   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTRandomInterval
+2019-10-18 11:00:21.5402   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTShootType
+2019-10-18 11:00:21.5402   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTStoryEffect
+2019-10-18 11:00:21.5402   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTBuildingReq
+2019-10-18 11:00:21.5562   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTValue2
+2019-10-18 11:00:21.5562   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTValue3
+2019-10-18 11:00:21.5562   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTDrop
+2019-10-18 11:00:21.5562   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTPerformActoin
+2019-10-18 11:00:21.5736   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTPerformSpeak
+2019-10-18 11:00:21.5736   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTParts
+2019-10-18 11:00:21.5736   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTProficiency
+2019-10-18 11:00:21.5862   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTDate
+2019-10-18 11:00:21.5862   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTTime
+2019-10-18 11:00:21.5862   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTDateTime
+2019-10-18 11:00:21.5862   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTFixItemNum
+2019-10-18 11:00:21.5862   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTGiftNum
+2019-10-18 11:00:21.6046   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTLabelProperty
+2019-10-18 11:00:21.6046   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTInitialLabel
+2019-10-18 11:00:21.6046   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTPerformanceCondition
+2019-10-18 11:00:21.6046   (ExportClientJsonTS.cs:34) ExportClientJsonTS:DTSkillTiggerCondition
+2019-10-18 11:00:21.6197   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Activities
+2019-10-18 11:00:21.6330   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Avatar
+2019-10-18 11:00:21.6330   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Bag
+2019-10-18 11:00:21.6330   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Compound
+2019-10-18 11:00:21.6489   (ExportClientJsonTS.cs:34) ExportClientJsonTS:CountActivities
+2019-10-18 11:00:21.6489   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Gashapon
+2019-10-18 11:00:21.6489   (ExportClientJsonTS.cs:34) ExportClientJsonTS:HeadPortrait
+2019-10-18 11:00:21.6489   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Hero
+2019-10-18 11:00:21.6678   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Item
+2019-10-18 11:00:21.6678   (ExportClientJsonTS.cs:34) ExportClientJsonTS:ItemType
+2019-10-18 11:00:21.6678   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Loader
+2019-10-18 11:00:21.6808   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Loading
+2019-10-18 11:00:21.6808   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Mail
+2019-10-18 11:00:21.6808   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Map
+2019-10-18 11:00:21.6976   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Menu
+2019-10-18 11:00:21.6976   (ExportClientJsonTS.cs:34) ExportClientJsonTS:MenuIndex
+2019-10-18 11:00:21.6976   (ExportClientJsonTS.cs:34) ExportClientJsonTS:Msg
+2019-10-18 11:00:21.7123   (ExportClientJsonTS.cs:34) ExportClientJsonTS:PlayerLevel
